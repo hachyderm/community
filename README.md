@@ -59,7 +59,8 @@ This diagram has been making rounds on Twitter, Mastdon, et al. It is from a Git
 
 FIXME - Testing Flowchart
 
-```classDiagram
+```mermaid
+classDiagram
 public toot by hello --|> Are you following hello?
 Are you following hello? --|> Toot shows in Home timeline : yes
 Are you folllowing hello? --|> Is hello on your instance?
