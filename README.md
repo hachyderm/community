@@ -1,10 +1,11 @@
 # Community
 
-Hachyderm Community Resources, including
+Hachyderm Community Resources, including:
 
-* How to get help when you need it (at the top)
-* Mastodon 101
-* Hachyderm 101 - Things to know about the Hachyderm instance in particular
+* Troubleshooting, Support, and Issues<br />
+a.k.a. How to get help when you need it
+* [Mastodon 101](#mastodon-101)<br />General new-to-Mastodon tips and tricks.
+* [Hachyderm 101](hachyderm-101)<br />Things to know about the Hachyderm instance in particular.
 
 # Troubleshooting, Support, and Issues
 
