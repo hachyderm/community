@@ -61,10 +61,10 @@ FIXME - Testing Flowchart
 
 ```mermaid
 classDiagram
-public toot by hello --|> Are you following hello?
-Are you following hello? --|> Toot shows in Home timeline : yes
-Are you folllowing hello? --|> Is hello on your instance?
-Is hello on your instance? --|> Toot shows on local timeline : yes
+public toot by hello --|> Are you following hello
+Are you following hello --|> Toot shows in Home timeline : yes
+Are you folllowing hello --|> Is hello on your instance
+Is hello on your instance --|> Toot shows on local timeline : yes
 ```
 
 This is the case of _public_ toots only. When you are a private account, the people you allow to follow you are the people who can see your toots.
