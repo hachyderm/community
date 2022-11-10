@@ -125,3 +125,16 @@ Ok, so different instances have different emoji. Which emoji can you and other s
 The emoji that are provided via your instance of Mastodon are the emoji set you can use. You can use the Emojos app to see what emoji are available for you to use. For example, the Hachyderm set is visible via [emojos.in/hachyderm.io](https://emojos.in/hachyderm.io).
 
 Mastodon will render emojis in use on other instances in your feed correctly. Likewise users on other instances will see the special emoji you use here on Hachyderm correctly, even if they do not have them on their own, separate, instance.
+
+
+## Who's Who?
+
+Let's say you formerly interacted with only a few people but found yourself recently, ah, interacting with let's say many. Sometimes people's usernames reflect the names you know them as and sometimes they do not. Sometimes you follow new colleagues or people you've meet on or off line. If you would like, youc can add notes that only you see to a users profile. It can look something like this:
+
+![](assets/hachyderm-founder-kris-nova.png)
+
+Not all mobile apps support editing this field at this time, so that is something to check if that interests you.
+
+## Where to learn more stuff?
+
+There is always the Mastodon documentation, as well as the [Fedi.Tips](https://mstdn.social/@feditips) account that posts updated tips on the regular.
