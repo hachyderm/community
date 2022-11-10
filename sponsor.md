@@ -40,6 +40,8 @@ We suggest no more than 3 promotional posts a day, and we suggest no more than 3
 
 ### What can I not do with it?
 
+You cannot violate our rules. Period
+
 This is not a free-ride to say whatever you want or spam our audience. You should feel proud of your brand, and it should be tastefully done. 
 
 Only you and our moderators can determine where "spam" starts and stops, but we believe everyone knows when it occurs.
