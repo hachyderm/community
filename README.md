@@ -2,6 +2,9 @@
 
 Hachyderm Community Resources
 
+ - [How we determine spam](https://github.com/hachyderm/community/blob/main/spam.md#spam)
+ - [Become a paid sponsor](https://github.com/hachyderm/community/blob/main/sponsor.md)
+
 # Troubleshooting, Support, and Issues
 
 The most critical thing you can do to help us help you (even more so than a donation) is to **reduce noise**. 
