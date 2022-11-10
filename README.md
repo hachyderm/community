@@ -59,30 +59,30 @@ This is the case of _public_ toots only. When you are a private account, the peo
 
 ### Who can see DMs? It depends.
 
-Direct messages are similar (in intention) the way that you are able to communicate directly with one or more other users. This is similar to what you've likely experienced on many other platform, with a notable exception:
+Direct messages allow you to communicate with one or more other users. This is similar to what you've likely seen on other platforms like Slack/Discord and Twitter with a notable exception:
 
 * ⚠️ **_When you bring someone into a DM conversation they are able to see the whole DM history._**
 
-On the one hand this solves the problem of Slack, Twitter, etc. where when you look to add someone to a conversation you need to summarize everything relevant to that point to bring the new person / people up to speed. That said, if you aren't expecting it, it can expose conversations to third parties that needed to be private.
+On the one hand this solves the problem of Slack and similar where when you add someone to a conversation you need to summarize everything relevant to that point to bring the new person / people up to speed. That said, if you aren't expecting it, it can expose conversations to third parties that needed to be private.
 
 The other person / people who can see DMs are mods. 
 
-* **_Note: Yes, mods_ can _see your DMs._**
+* **_Yes, mods_ can _see your DMs._**
 
 Similar to the above, this is a double edged sword. On the one hand it makes it easy for mods to read DMs when they receive a report of harassing behavior. On the other hand it might also make private conversations visible that you wished were kept private even in those circumstances.
 
-As a transparent statement: Hachyderm mods do _not_ casually read user DMs. We would only look at a specific DM in the event of a report from a user (e.g. due to harassment, platform errors, etc.).
+<u>As a transparent statement</u>: Hachyderm mods do _not_ casually read user DMs. We would only look at a specific DM in the event of a report from a user (e.g. due to harassment, platform errors, etc.). We spend all of our cycles running production, so :) 
 
 
 #### DM user experience in the various interfaces
 
-The UI experience of DMs is not as clearly separated as other apps like Twitter, Slack/Discord, et al. In the web UI, for example, DMs do not look significantly different than a private account tooting. Some of the mobile apps, like Toot!, have a better visual separation. Basically: depending on where you prefer to toot, you'll have vastly different experiences (for now).
+The UI experience of DMs is not as clearly separated as other apps like Twitter, Slack/Discord, et al. In the web UI, for example, DMs do not look significantly different than a private account tooting in your feed. Some of the mobile apps, like Toot!, have a better visual separation. Basically: depending on where you prefer to toot, you'll have vastly different experiences (for now).
 
 ### Content Warnings
 
 Content Warnings are implemented differently in Mastodon than Twitter. CW'ed toots look like this:
 
-![](assets/mastodon-content-warning.png)
+![Screenshot of a toot with content warning "Politics (CO)" and the blurred out content labeled "Sensitive Content"](assets/mastodon-content-warning.png)
 
 In this case the toot has both text and associated graphic. You would need to click to display each separately in each case. When a toot has a CW, all toots in the conversation carry that same CW.
 
@@ -93,4 +93,18 @@ Content Warnings have a few uses:
 
 **_Because of how well CWs are implemented on the platform, we recommend that people make use of them._** It is far easier on the mental health of other users to opt into a discussion about Whatever than to skim past it.
 
-Also! Make sure that your CWs are _specific_ so users know whether they want to opt in or not. e.g. are you hiding a toot / image that depicts violence or hints at it? Are you hiding the season finale to a show? How users socialize their use of CWs is what makes them useful. Making heavy, unclear, use of CWs adds confusion.s
+Also! Make sure that your CWs are _specific_ so users know whether they want to opt in or not. e.g. are you hiding a toot / image that depicts violence or hints at it? Are you hiding the season finale to a show? How users socialize their use of CWs is what makes them useful. Making heavy, unclear, use of CWs adds confusion.
+
+### How to help people see your toots
+
+If you've tried to use the search function, you've likely noticed that you cannot use it _quite_ the same way as Twitter. You cannot search for a term and find everyone writing about that word on your own or federated servers. What _does_ show up are people and hashtags. You can take this information and do with it what you will :) We would not recommend adding so many hashtags to your toots that they are unreadable though.
+
+As a point for accessibility: when you camel case your hashtags (CamelCase) then screenreaders can successfully read the text, but when you use all same case (likethis or LIKETHIS) then they cannot. So if you're going to use hashtags, please remember to \#UseCamelCase.
+
+### Emojis
+
+Ok, so different instances have different emoji. Which emoji can you and other see? Which can you use?
+
+The emoji that are provided via your instance of Mastodon are the emoji set you can use. You can use the Emojos app to see what emoji are available for you to use. For example, the Hachyderm set is visible via [emojos.in/hachyderm.io](https://emojos.in/hachyderm.io).
+
+Mastodon will render emojis in use on other instances in your feed correctly. So users on other instances will see all these emoji correctly, even if they do not have them on their own instance to use themselves.
