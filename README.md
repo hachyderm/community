@@ -60,11 +60,16 @@ This diagram has been making rounds on Twitter, Mastdon, et al. It is from a Git
 FIXME - Testing Flowchart
 
 ```mermaid
-classDiagram
-public toot by hello --|> Are you following hello
-Are you following hello --|> Toot shows in Home timeline : yes
-Are you folllowing hello --|> Is hello on your instance
-Is hello on your instance --|> Toot shows on local timeline : yes
+graph TD
+    A(public toot by hello) --> B(Are you following hello?)
+    B --> |yes| C(Toot shows in Home timeline)
+    B --> |no| D(Is hello on your instance?)
+    D --> |yes| E(Toot shows on your Local timeline)
+    D --> |no| F(Does someone on your instance follow hello?)
+    F --> |yes| G(Toot shows on your Federated timeline)
+    F --> |no| H(Did someone on your instance boost the toot?)
+    H --> |yes| G
+    H --> |no| I(You do not see the toot)
 ```
 
 This is the case of _public_ toots only. When you are a private account, the people you allow to follow you are the people who can see your toots.
