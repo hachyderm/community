@@ -30,7 +30,7 @@ Hello Hachydermians! Some of you are new to Mastodon, so here are some notes to 
 
 ## How do I sign up?
 
-If you're looking to sign up with us here at Hachyderm, you can sign up on [hachyderm.io](https://hachyderm.io). The only criteria for signing up is abiding by our [Hachyderm Terms of Service](https://hachyderm.io/about/more), a copy of which is in our repo. If you're looking at other Mastodon instances, then the sign up process is likely similar but with their own domain.
+If you're looking to sign up with us here at Hachyderm, you can sign up on [hachyderm.io](https://hachyderm.io). The only criteria for signing up is abiding by our [Hachyderm Terms of Service](https://hachyderm.io/about/more). If you're looking at other Mastodon instances, then the sign up process is likely similar but with their own domain and Terms of Service.
 
 ## How do I access (public) toots?
 
@@ -98,9 +98,9 @@ Also! Make sure that your CWs are _specific_ so users know whether they want to 
 
 ### How to help people see your toots
 
-If you've tried to use the search function, you've likely noticed that you cannot use it _quite_ the same way as Twitter. You cannot search for a term and find everyone writing about that word on your own or federated servers. What _does_ show up are people and hashtags. You can take this information and do with it what you will :) We would not recommend adding so many hashtags to your toots that they are unreadable though.
+If you've tried to use the search function you've likely noticed that you cannot use it _quite_ the same way as Twitter. You cannot search for a term and find everyone writing about that word on your own or federated servers. What _does_ show up are people and hashtags. You can take this information and do with it what you will :) We do not recommend adding so many hashtags to your toots that they are unreadable though.
 
-As a point for accessibility: when you camel case your hashtags (CamelCase) then screenreaders can successfully read the text, but when you use all same case (likethis or LIKETHIS) then they cannot. So if you're going to use hashtags, please remember to \#UseCamelCase.
+<u>Accessibility Awareness</u>: when you camel case your hashtags (CamelCase) then screenreaders can successfully read the text, but when you use all same case (likethis or LIKETHIS) then they cannot. So if you're going to use hashtags, please remember to \#UseCamelCase.
 
 ### Emojis
 
@@ -108,4 +108,4 @@ Ok, so different instances have different emoji. Which emoji can you and other s
 
 The emoji that are provided via your instance of Mastodon are the emoji set you can use. You can use the Emojos app to see what emoji are available for you to use. For example, the Hachyderm set is visible via [emojos.in/hachyderm.io](https://emojos.in/hachyderm.io).
 
-Mastodon will render emojis in use on other instances in your feed correctly. So users on other instances will see all these emoji correctly, even if they do not have them on their own instance to use themselves.
+Mastodon will render emojis in use on other instances in your feed correctly. Likewise users on other instances will see the special emoji you use here on Hachyderm correctly, even if they do not have them on their own, separate, instance.
