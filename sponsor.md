@@ -54,7 +54,7 @@ While a sponsorship will not allow you to send repeated messages, it will allow 
 
 ### How do I apply?
 
-Open up a [GitHub issue](https://github.com/hachyderm/sponsorships/issues/new) and include the following. 
+Open up a [GitHub issue](https://github.com/hachyderm/community/issues/new) and include the following. 
  
  1. Name of the brand or services you intend on promoting.
  2. Links to other promotions or product marketing you have done in the past.
