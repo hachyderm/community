@@ -56,6 +56,16 @@ This diagram has been making rounds on Twitter, Mastdon, et al. It is from a Git
 
 ![Flow chart showing that a public toot by USER is visible only if you are: following that user, the user is on the same instance as you, or someone on your instanced follows and interacted with the toot](assets/mastodon-toot-visibility-flowchart.jpg)
 
+
+FIXME - Testing Flowchart
+
+```classDiagram
+public toot by hello --|> Are you following hello?
+Are you following hello? --|> Toot shows in Home timeline : yes
+Are you folllowing hello? --|> Is hello on your instance?
+Is hello on your instance? --|> Toot shows on local timeline : yes
+```
+
 This is the case of _public_ toots only. When you are a private account, the people you allow to follow you are the people who can see your toots.
 
 ### Who can see DMs? It depends.
