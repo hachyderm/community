@@ -30,6 +30,12 @@ The best way for you to help reduce noise is to leverage our issue tracker inste
  
   - File an issue in this repository
 
+### Is it Hachyderm or Just Me?
+
+One way to check if there's a Hachyderm outage is by looking at [our public Grafana dashboard](https://grafana.hachyderm.io/public-dashboards/bc9e340202c1495888d8fd849112a813?orgId=0&refresh=30s):
+
+![](assets/hachyderm-grafana-example-11-Nov-2022.png)
+
 # Respectful Tooting
 
 ## How do I access (public) toots?
