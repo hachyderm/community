@@ -34,7 +34,8 @@ The best way for you to help reduce noise is to leverage our issue tracker inste
 
 One way to check if there's a Hachyderm outage is by looking at [our public Grafana dashboard](https://grafana.hachyderm.io/public-dashboards/bc9e340202c1495888d8fd849112a813?orgId=0&refresh=30s):
 
-![](assets/hachyderm-grafana-example-11-Nov-2022.png)
+![](assets/hachyderm-grafana-example-11-Nov-2022.png)<br />
+<small>Screenshot of Hachyderm Grafana Dashboard on 11 Nov 2022</small>
 
 # Respectful Tooting
 
@@ -117,7 +118,7 @@ Mastodon will render emojis in use on other instances in your feed correctly. Li
 
 ## Who's Who? 
 
-Let's say you formerly interacted with only a few people but found yourself recently, ah, interacting with let's say many. Sometimes people's usernames reflect the names you know them as and sometimes they do not. Sometimes you follow new colleagues or people you've meet on or off line. If you would like, youc can add notes that only you see to a users profile. It can look something like this:
+Let's say you formerly interacted with only a few people but found yourself recently, ah, interacting with let's say many. Sometimes people's usernames reflect the names you know them as and sometimes they do not. Sometimes you follow new colleagues or people you've meet on or off line. If you would like, you can add notes that only you see to a users profile. For example:
 
 ![](assets/hachyderm-founder-kris-nova.png)
 
