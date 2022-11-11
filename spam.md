@@ -16,7 +16,8 @@ This is 99% of the posts on Mastodon. This is just somebody using the service as
 
 ### Sponsorship Post
 
-All posts containing the `#HachydermSponsor` hashtag are considered to be paid and curated sponsors. These posts come from [official sponsors](https://github.com/hachyderm/sponsorships/blob/main/README.md#sponsorships).
+
+All posts containing the `#HachydermSponsor` hashtag are considered to be paid and curated sponsors. These posts come from [official sponsors](https://github.com/hachyderm/community/blob/main/sponsor.md#sponsorships).
 
 ### Spam Post 
 
@@ -51,5 +52,5 @@ For example if a profit-driven corporation shares about their latest web service
 
 ### What do we do with spam?
 
-We will moderate spam, however we believe that all spam is an opportunity for a [sponsorship](https://github.com/hachyderm/sponsorships/blob/main/README.md#what-is-considered-product-and-marketing).
+We will moderate spam, however we believe that all spam is an opportunity for a [sponsorship](https://github.com/hachyderm/community/blob/main/sponsor.md#what-is-considered-product-and-marketing).
 If you are found to be spamming will ask you to review our sponsorship materials and apply for a sponsorship instead of spamming. 
