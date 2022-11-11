@@ -2,9 +2,9 @@
 
 Hachyderm Community Resources, including:
 
-* Troubleshooting, Support, and Issues<br />
-a.k.a. How to get help when you need it
-* [Mastodon 101](#mastodon-101)<br />General new-to-Mastodon tips and tricks.
+ - [How we determine spam](https://github.com/hachyderm/community/blob/main/spam.md#spam)
+ - [Become a paid sponsor](https://github.com/hachyderm/community/blob/main/sponsor.md)
+ - Mastodon 101 (this README)
 
 # Mastodon 101
 
