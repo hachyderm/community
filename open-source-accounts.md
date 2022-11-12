@@ -15,7 +15,7 @@ r
 
 Unfortunately we are unable to support projects that already have a formal financial funding model that can reasonably afford their own Mastodon infrastructure. 
 
-This includes projects with a structured financial model in place or projects which are active participants in financially biased vendor markets. These would be projects that are funded beyond normal volunteer donations such as [LetsEncrypt](https://letsencrypt.org/sponsors/) which has tiered sponsorship and offers a service which can only be unlocked with a donation. We encourage these projects to leverage their current funding models for Mastodon support.
+This includes projects with a structured financial model in place or projects which are active participants in financially biased vendor markets. These would be projects that are funded beyond normal ad-hoc volunteer donations. We encourage these projects to leverage their current funding models for Mastodon support.
 
  - :heavy_multiplication_x: Financialy biased trade organizations such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud Foundry](https://www.cloudfoundry.org/membership/) or their subsequent projects such as [Istio](https://www.cncf.io/projects/istio/) or [Helm](https://www.cncf.io/projects/helm/).
  - :heavy_multiplication_x: Funded open source projects with a single corporate sponsor/owners such as Google's [Go Programming language](https://go.dev/) and Hashicorp's [Terraform](https://www.terraform.io/).
