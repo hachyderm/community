@@ -92,3 +92,7 @@ There is a good chance that expectations have not been set or a policy has not b
 We will work with you to find a happy path, however if it becomes a pattern we will ask you to leave Hachyderm.
 
  - [Moderator Documentation](/mods/README.md)
+
+# Understanding Infrastructure and Data
+
+- [Infrastructure Documentation](infra/README.md) has the most relevant information on our systems and your data.
