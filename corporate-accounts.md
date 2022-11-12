@@ -12,7 +12,7 @@
 > If you have been asked to remove your corporate account we ask you to be patient with us as we are currently trying to balance our community as we introduce trust with corporations.
 
 A part of getting an invitation will be having a strong track record and getting it on Kris Nóva's radar.
-By sharing your existing social media accounts, personas, and content we can get a feel for if we believe you will be a strong addition to the carefully guarded hachyderm community.
+By sharing your existing social media accounts, personas, and content we can get a feel for if we believe you will be a strong addition to the carefully guarded Hachyderm community.
 
 ## Covenant Guiding Principles 
 
