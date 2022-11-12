@@ -4,7 +4,7 @@ Welcome to the Hachyderm community.
 
 Here you will find information and resources on how we manage things at Hachyderm.
 
-### Mission 
+## Mission 
 
 > Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.
 
@@ -12,7 +12,7 @@ Here you will find information and resources on how we manage things at Hachyder
 
 > Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Security. LGTBQIA+. Pets. Hobbies.
 
-## Getting Started / Signing Up
+# Getting Started / Signing Up
 
  - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
 
@@ -22,7 +22,7 @@ We identify a few types of accounts that are useful for understanding the minuti
 
  - [General Account Detail](/accounts/README.md)
 
-## Rules
+# Rules
 
 See our [official rules](https://hachyderm.io/about/more#rules).
 
@@ -61,7 +61,7 @@ We believe that any time clout, attention, credibility, fortune, or fame is gain
 
 You can shitpost, just not at the expense of others.
 
-## Moderation 
+# Moderation 
 
 Our moderators are not the fediverse police.
 
