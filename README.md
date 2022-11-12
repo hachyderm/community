@@ -27,3 +27,20 @@ This is your first and final warning to take our rules seriously.
 We identify a few types of accounts that are useful for understanding the minutia for things such as corporate accounts, bot accounts, event accounts, and open source project accounts. 
 
  - [General Account Detail](/accounts/README.md)
+
+## Moderation 
+
+Our moderators are not the fediverse police.
+
+We expect everyone to understand that our moderators are volunteers who work tirelessly around the clock to keep deliberate bad-actors away from our community.
+
+We don't expect our moderators to also have to chase around our community members who are violating rules or need to be reminded of our policy. 
+
+As a community member if you get on our moderators radar you are likely doing something very offensive.
+
+We believe in patience and understanding. 
+There is a good chance that expectations have not been set or a policy has not been made clear.
+
+We will work with you to find a happy path, however if it becomes a pattern we will ask you to leave Hachyderm.
+
+ - [Moderator Documentation](/mods/README.md)
