@@ -21,6 +21,10 @@ If you are interested in joining Hachyderm, or have recently joined please see t
  - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
  - [Unofficial Nivenly Discord](https://discord.gg/YnWdbchSwA) is used for real-time communications.
 
+## Donations
+
+Donations can be made directly to Kris Nóva on [ko-fi.com/krisnovalive](https://ko-fi.com/krisnovalive).
+
 ## Understanding Account Types
 
 We identify a few types of accounts that are useful for understanding the minutia for things such as corporate accounts, bot accounts, event accounts, and open source project accounts. 

@@ -43,7 +43,7 @@ For a complete comparison of 8 iOS apps: Fedi, Mast, Mastodon (official), Mercur
 
 ### Who can see my content / Whose content can I see?
 
-This diagram has been making rounds on Twitter, Mastdon, et al. It is from a GitHub issue on the Mastodon project:
+This diagram has been making rounds on Twitter, Mastodon, et al. It is from a GitHub issue on the Mastodon project:
 
 <img src="assets/mastodon-toot-visibility-flowchart.jpg" alt="Flow chart showing that a public toot by USER is visible only if you are: following that user, the user is on the same instance as you, or someone on your instanced follows and interacted with the toot" width="200"/>
 
