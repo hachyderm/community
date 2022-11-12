@@ -1,7 +1,7 @@
 # Hachyderm Corporate Covenant
 
  - Corporate Hachyderm accounts **are by invitation only.**
- - All corporate accounts must self identify by placing their full legal corporation name as their display name.
+ - All corporate accounts must self-identify by placing their full legal corporation name as their display name.
 
 #### How do I get an invite?
 
@@ -26,7 +26,7 @@ The Hachyderm community is a diverse community comprised of many people with man
 
 We expect you to have a mature understanding of various economic structures around the world, and find a strong balance in your position as a corporation.
 
-In the Hachyderm community you will find strong capitalists and even anticapitalists.
+In the Hachyderm community you will find strong capitalists and even anti-capitalists.
 We expect you to consider these different perspectives while creating content on Hachyderm. 
 
 As a corporate Hachydermian [our rules](https://Hachyderm.io/about/more#rules) apply more to you than to the average user.
@@ -34,7 +34,7 @@ Which means the consequences of a rule violation applies more to you than others
 In other words your fines will be doubled if you end up violating our rules.
 We will warn you first that you have violated a guiding principle, and if it continues we will ask you to leave.
 
-Ultimatley you are setting the bar both for Hachyderm users, as well as the exclusive corporate accounts.
+Ultimately you are setting the bar both for Hachyderm users, as well as the exclusive corporate accounts.
 
 ### 2. Be The Corporation You Want To Work With
 
@@ -65,7 +65,7 @@ We understand that while technically not repeating the exact same words you can 
 We expect you to say your message once, and not repeat the same message time and time again.
 
 We are explicitly trying to avoid the "cron job" effect that we see on Twitter with promotional accounts.
-When in doubt, craft new words and form a new opinion. Otherwise it likely is repetive content.
+When in doubt, craft new words and form a new opinion. Otherwise it likely is repetitive content.
 
 In short we hold you to a high bar to be "the first of your kind", otherwise we expect you to be contributing to the existing resource when applicable. 
 
