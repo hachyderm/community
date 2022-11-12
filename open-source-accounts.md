@@ -5,7 +5,6 @@ We welcome open source and collaborate projects, with a few exceptions for proje
 ### Types of Projects
 
 The following are the types of projects that are welcome to come and go from Hachyderm as they please.
-r
 
  - :heavy_check_mark: Open source software projects with MIT, Apache 2.0, GPL, Creative Commons or similiar licenses such as [rust](https://github.com/rust-lang/rust).
  - :heavy_check_mark: Open collaborative projects such as [The Gutenberg Project](https://www.gutenberg.org/) or collaborative wiki style projects like [Wikipedia](https://wikipedia.org) and [Wikimedia](https://wikimedia.org). 
