@@ -12,24 +12,6 @@ Here you will find information and resources on how we manage things at Hachyder
 
 > Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Security. LGTBQIA+. Pets. Hobbies.
 
-## Rules
-
-See our [official rules](https://hachyderm.io/about/more#rules). 
-
-This is your first and final warning to take our rules seriously.
-
-### "Don't Be A Dick" Policy
-
-Hachyderm and its surrounding community have found safety and value in a primary guiding principle, that is often hard to interpret.
-
-> Don't be a dick.
-
-We believe that everyone knows when they are "being a dick", and we do not tolerate this level of aggression towards our community. In short, we believe that you know if you are being a dick, and therefore you should be able to stop. If you do not stop, you will no longer be welcome on Hachyderm.
-
-Being a dick is the opposite of respect. While we allow all opinions to be voiced on Hachyderm, we believe that any opinion can be offered with respect.
-
-We expect all members to be respectful and thus, not be a dick.
-
 ## Getting Started / Signing Up
 
  - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
@@ -39,6 +21,45 @@ We expect all members to be respectful and thus, not be a dick.
 We identify a few types of accounts that are useful for understanding the minutia for things such as corporate accounts, bot accounts, event accounts, and open source project accounts. 
 
  - [General Account Detail](/accounts/README.md)
+
+## Rules
+
+See our [official rules](https://hachyderm.io/about/more#rules).
+
+This is your first and final warning to take our rules seriously.
+
+### "Don't Be A Dick" Policy
+
+Hachyderm and its surrounding community have found safety and value in a primary guiding principle, that is often hard to interpret.
+
+> Don't be a dick.
+
+We believe that everyone knows when they are "being a dick", and we do not tolerate this level of aggression towards our community. 
+
+In short, we believe that you know if you are being a dick, and therefore you should be able to stop. If you do not stop, you will no longer be welcome on Hachyderm.
+
+Being a dick is about intent. If your intentions are to hurt, brandish, slander, diminish, insult, or offend someone instead of voicing your opinion you are likely being a dick. We believe our community can do better than that.
+
+Being a dick is the opposite of respect. We believe all "bad takes" on a topic can be voiced with respect.
+We hold each member of the community accountable for managing themselves and finding a respectful way of communicating their contrarian views.
+
+We expect all members to be respectful and thus, not be a dick.
+
+### What about "shitposting"?
+
+Oxford dictionary defines shitposting as:
+
+> the activity of posting deliberately provocative or off-topic comments on social media, typically in order to upset others or distract from the main conversation.
+
+In short shitposting is allowed on Hachyderm. 
+
+However, shitposting can easily violate our "don't be a dick policy" if it turns into offensive trolling at the expense of others.
+
+The key factor in distinguishing between shitposting and being a dick is "at the expense of others".
+
+We believe that any time clout, attention, credibility, fortune, or fame is gained "at the expense of others" it is likely close to a violation of our "no colonialism" rule or a violation of our "don't be a dick" policy.
+
+You can shitpost, just not at the expense of others.
 
 ## Moderation 
 
