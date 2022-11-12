@@ -12,7 +12,7 @@
 > If you have been asked to remove your corporate account we ask you to be patient with us as we are currently trying to balance our community as we introduce trust with corporations.
 
 A part of getting an invitation will be having a strong track record and getting it on Kris Nóva's radar.
-By sharing your existing social media accounts, personas, and content we can get a feel for if we believe you will be a strong addition to the carefully guarded Hachyderm community.
+By sharing your existing social media accounts, personas, and content we can get a feel for if we believe you will be a strong addition to the carefully guarded hachyderm community.
 
 ## Covenant Guiding Principles 
 
@@ -38,7 +38,7 @@ Ultimatley you are setting the bar both for Hachyderm users, as well as the excl
 
 ### 2. Be The Corporation You Want To Work With
 
-We expect you to do onto the community that you would want done unto you.
+We expect you to do unto the community as you would have done unto you.
 
 "Create the market you would want to shop at".
 
@@ -73,7 +73,7 @@ We don't want Hachyderm to turn into a promotional recycling center. You are eit
 
 ### 4. "We Know It When We See It" Policy
 
-Ultimately the community comes first and the community's response to your corporate content will be our guiding light. 
+Ultimately the community comes first and the communities response to your corporate content will be our guiding light. 
 
 If your content becomes "invasive" or "unwanted" or seems to be causing problems we will ask you to move your corporate account to another server.
 
