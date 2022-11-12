@@ -23,7 +23,7 @@ For a complete comparison of 8 iOS apps: Fedi, Mast, Mastodon (official), Mercur
 
 This diagram has been making rounds on Twitter, Mastodon, et al. It is from a GitHub issue on the Mastodon project:
 
-<img src="assets/mastodon-toot-visibility-flowchart.jpg" alt="Flow chart showing that a public toot by USER is visible only if you are: following that user, the user is on the same instance as you, or someone on your instanced follows and interacted with the toot" width="200"/>
+<img src="../assets/mastodon-toot-visibility-flowchart.jpg" alt="Flow chart showing that a public toot by USER is visible only if you are: following that user, the user is on the same instance as you, or someone on your instanced follows and interacted with the toot" width="200"/>
 
 This is the case of _public_ toots only. When you are a private account, the people you allow to follow you are the people who can see your toots.
 
