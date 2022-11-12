@@ -5,7 +5,7 @@
 
 #### How do I get an invite?
 
-> If you are interested in a corporate account on Hachyderm you will need to reach out directly to Kris Nóva. You can email her directly at `nova@Hachyderm.io`.
+> If you are interested in a corporate account on Hachyderm you will need to reach out directly to Kris Nóva. You can email her directly at `nova@hachyderm.io`.
 
 > Managing expectations, we intend to have a very small amount of corporate accounts. There is no guarantee your account will be accepted.
 
