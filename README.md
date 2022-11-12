@@ -14,9 +14,12 @@ Here you will find information and resources on how we manage things at Hachyder
 
 # Getting Started / Signing Up
 
- - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
+If you are interested in joining Hachyderm, or have recently joined please see the following:
 
-## Accounts
+ - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
+ - [Unofficial Nivenly Discord](https://discord.gg/YnWdbchSwA) is used for real-time communications.
+
+## Understanding Account Types
 
 We identify a few types of accounts that are useful for understanding the minutia for things such as corporate accounts, bot accounts, event accounts, and open source project accounts. 
 
@@ -64,6 +67,8 @@ You can shitpost, just not at the expense of others.
 # Moderation 
 
 Our moderators are not the fediverse police.
+Your presence on Hachyderm should not become a burden to our moderators.
+We expect all community members to make our moderators jobs easier.
 
 We expect everyone to understand that our moderators are volunteers who work tirelessly around the clock to keep deliberate bad-actors away from our community.
 

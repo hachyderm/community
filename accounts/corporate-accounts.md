@@ -3,7 +3,7 @@
  - Corporate Hachyderm accounts **are by invitation only.**
  - All corporate accounts must self-identify by placing their full legal corporation name as their display name.
 
-#### How do I get an invite?
+#### How do I get my company invited?
 
 > If you are interested in a corporate account on Hachyderm you will need to reach out directly to Kris Nóva. You can email her directly at `nova@hachyderm.io`.
 
@@ -21,6 +21,8 @@ If you have been invited to have a Hachyderm corporate account we ask that you u
 ### 1. Be a Hachydermian: Fines Doubled In Work Zone
 
 We expect you to set the bar for what it means to be a Hachydermian, and the rules apply extra to you.
+
+> I agree to be a steward and role model in the Hachyderm community. I understand that my presence as a corporation implies the rules will be more strictly applied to me than normal accounts.
 
 The Hachyderm community is a diverse community comprised of many people with many economic beliefs and situations.
 
@@ -42,6 +44,8 @@ We expect you to do unto the community as you would have done unto you.
 
 "Create the market you would want to shop at".
 
+> I agree to build a market that I would want to shop at. I agree to set the bar for having world-class corporate engagement in Hachyderm.
+
 We find value in drawing the analogy to forced advertising at the gas station.
 
 As a gas station owner, forced messaging makes sense because of the higher return on advertising.
@@ -54,6 +58,8 @@ We have high expectations for our community filling their cars with your metapho
 ### 3. Say It Once: "The Wikipedia" policy
 
 Measuring spam is hard. We expect you to stay away from repetitive content.
+
+> I agree to share new content and do my best to prevent repetitive content. I understand that words can be changed but messaging can remain consistent. I agree to only share my message once.
 
 We don't have time to chase you around.
 
@@ -75,6 +81,8 @@ We don't want Hachyderm to turn into a promotional recycling center. You are eit
 
 Ultimately the community comes first and the communities response to your corporate content will be our guiding light. 
 
+> I understand that policies are difficult to enforce. If it is made obvious to me that Hachyderm is no longer benefiting from my presence I will politely step down as a corporate account and move to another server.
+
 If your content becomes "invasive" or "unwanted" or seems to be causing problems we will ask you to move your corporate account to another server.
 
 Basically we look at "bad actors" like we look at pornography. We know it when we see it. We reserve the right to ask you to leave at any time.
@@ -82,6 +90,8 @@ Basically we look at "bad actors" like we look at pornography. We know it when w
 ### 5. Mods are Volunteers, Not Product Marketing Police
 
 The corporate account needs to be a win for everyone involved, including our moderators. 
+
+> I understand that it is my job to self-moderate. If moderation from Hachyderm is involved we have failed twice. First in self-moderation, and 2nd in violating a specific policy.
 
 Ideally a corporate account should be helping to keep bad actors out while also setting an extremely high bar of what it means to be a good community member. 
 
