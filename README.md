@@ -18,6 +18,18 @@ See our [official rules](https://hachyderm.io/about/more#rules).
 
 This is your first and final warning to take our rules seriously.
 
+### "Don't Be A Dick" Policy
+
+Hachyderm and its surrounding community have found safety and value in a primary guiding principle, that is often hard to interpret.
+
+> Don't be a dick.
+
+We believe that everyone knows when they are "being a dick", and we do not tolerate this level of aggression towards our community. In short, we believe that you know if you are being a dick, and therefore you should be able to stop. If you do not stop, you will no longer be welcome on Hachyderm.
+
+Being a dick is the opposite of respect. While we allow all opinions to be voiced on Hachyderm, we believe that any opinion can be offered with respect.
+
+We expect all members to be respectful and thus, not be a dick.
+
 ## Getting Started / Signing Up
 
  - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
