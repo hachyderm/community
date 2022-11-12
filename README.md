@@ -23,7 +23,11 @@ If you are interested in joining Hachyderm, or have recently joined please see t
 
 We identify a few types of accounts that are useful for understanding the minutia for things such as corporate accounts, bot accounts, event accounts, and open source project accounts. 
 
- - [General Account Detail](/accounts/README.md)
+ - [General Account Detail](accounts/README.md)
+   - [General Accounts](accounts/general-accounts.md)
+   - [Open Source Accounts](accounts/open-source-accounts.md)
+   - [Influencer Accounts](accounts/influencer-accounts.md)
+   - [Corporate Accounts](accounts/corporate-accounts.md)
 
 # Rules
 
