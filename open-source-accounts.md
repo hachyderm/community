@@ -5,9 +5,9 @@ We welcome open source and collaborate projects, with a few exceptions for proje
 ### Types of Projects
 
 The following are the types of projects that are welcome to come and go from Hachyderm as they please.
+r
 
-
- - :heavy_check_mark: Open source software projects with MIT, Apache 2.0, GPL, Creative Commons or similiar licenses such as [rustls](https://github.com/rustls/rustls).
+ - :heavy_check_mark: Open source software projects with MIT, Apache 2.0, GPL, Creative Commons or similiar licenses such as [rust](https://github.com/rust-lang/rust).
  - :heavy_check_mark: Open collaborative projects such as [The Gutenberg Project](https://www.gutenberg.org/) or collaborative wiki style projects like [Wikipedia](https://wikipedia.org) and [Wikimedia](https://wikimedia.org). 
  - :heavy_check_mark: Community driven events, open organizations, and volunteer driven events like [FOSDEM](https://fosdem.org/).
  - :heavy_check_mark: Open source organizations such as [Matrix](https://matrix.org).
@@ -18,8 +18,8 @@ Unfortunately we are unable to support projects that already have a formal finan
 This includes projects with a structured financial model in place or projects which are active participants in financially biased vendor markets. These would be projects that are funded beyond normal volunteer donations such as [LetsEncrypt](https://letsencrypt.org/sponsors/) which has tiered sponsorship and offers a service which can only be unlocked with a donation. We encourage these projects to leverage their current funding models for Mastodon support.
 
  - :heavy_multiplication_x: Financialy biased trade organizations such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud Foundry](https://www.cloudfoundry.org/membership/) or their subsequent projects such as [Istio](https://www.cncf.io/projects/istio/) or [Helm](https://www.cncf.io/projects/helm/).
- - :heavy_multiplication_x: Funded open source projects with a single corporate sponsor/owners such as Google's [Go Programming language](https://go.dev/).
- - :heavy_multiplication_x: Funded open source project with structured sponsorship models or services which can only be unlocked via donation such as [LetsEncrypt](https://letsencrypt.org/sponsors/).
+ - :heavy_multiplication_x: Funded open source projects with a single corporate sponsor/owners such as Google's [Go Programming language](https://go.dev/) and Hashicorp's [Terraform](https://www.terraform.io/).
+ - :heavy_multiplication_x: Funded open source project with structured sponsorship models. Paid services which can only be unlocked via donation such as [LetsEncrypt](https://letsencrypt.org/sponsors/)'s quota limit which can only be raised via donation.
  - :heavy_multiplication_x: Community edition projects, or "up-sell" projects that resemble a paid service such as [pfSense Community Edition](https://www.pfsense.org/download/).
 
 
@@ -53,7 +53,3 @@ No. We want to have one account for each project. We do not want to have "Wikipe
 ### Can I create a bot account for our open source project? 
 
 No. We know its fun to automate pull requests, build status, and more. However we try to keep our content based around real words written by real people.
-
-### Can I create an account for my open source project if its owned by my company?
-
-Maybe. We believe projects such as [Terraform](https://www.terraform.io/) which are dominated by a single corporation and the only path to maintainership is employment at the corporation are allowed on Hachyderm. However similar to [corporate accounts](https://github.com/hachyderm/community/blob/main/corporate-accounts.md) these projects are by invitation only.
