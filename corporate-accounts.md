@@ -73,7 +73,7 @@ We don't want Hachyderm to turn into a promotional recycling center. You are eit
 
 ### 4. "We Know It When We See It" Policy
 
-Ultimately the community comes first and the communities response to your corporate content will be our guiding light. 
+Ultimately the community comes first and the community's response to your corporate content will be our guiding light. 
 
 If your content becomes "invasive" or "unwanted" or seems to be causing problems we will ask you to move your corporate account to another server.
 
