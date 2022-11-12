@@ -1,0 +1,50 @@
+# Open Source Project Accounts
+
+We welcome open source and collaborate projects, with a few exceptions for projects that operate in a financially biased market or projects that already have financial sponsorship.
+
+### Types of Projects
+
+The following are the types of projects that are welcome to come and go from Hachyderm as they please.
+
+
+ - :heavy_check_mark: Open source software projects with MIT, Apache 2.0, GPL, Creative Commons or similiar licenses such as [rustls](https://github.com/rustls/rustls).
+ - :heavy_check_mark: Open collaborative projects such as [The Gutenberg Project](https://www.gutenberg.org/) or collaborative wiki style projects like [Wikipedia](https://wikipedia.org) and [Wikimedia](https://wikimedia.org). 
+ - :heavy_check_mark: Community driven events, open organizations, and volunteer driven events like [FOSDEM](https://fosdem.org/).
+ - :heavy_check_mark: Open source organizations such as [Matrix](https://matrix.org).
+ 
+
+Unfortunately we are unable to support projects that already have financial backing or are active participants in financial biased vendor markets. We encourage these projects to leverage their current funding models for Mastodon support.
+
+ - :heavy_multiplication_x: Financialy biased trade organizations such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud Foundry](https://www.cloudfoundry.org/membership/) or their subsequent projects such as [Istio](https://www.cncf.io/projects/istio/) or [Helm](https://www.cncf.io/projects/helm/).
+ - :heavy_multiplication_x: Funded open source projects with corporate sponsors/owners such as Google's [Go Programming language](https://go.dev/).
+
+
+### What Is Financial Bias?
+
+Our community calls out the concept of financial bias which we define as "the ability for a specific vendor, project, or organiation to pay for a competitive advantage". 
+
+We believe that expensive sponsorship models that promise a higher return of investment with regard to product marketing create an unfair advantage for small businesses. We believe in a level playing field for small businesses and cannot condone this model in our community.
+
+--- 
+
+# Frequently Asked Questions
+
+### Can I create an account for my event? Like DevOps Days?
+
+Yes. As long as your event is not a profit focused event you are welcome to create an account. If your event is profit seeking, you must follow our [corporate policy](https://github.com/hachyderm/community/blob/main/corporate-accounts.md).
+
+### Can I create a support/help/fan/paradoy account?
+
+No. Accounts like "Linux Tips" or "Kubernetes Memes" are not in alignment with our mission to create a curated group of professionals. We aim to have accounts that represent real people.
+
+### Can I create an account if a similar one already exists?
+
+No. We want to have one account for each project. We do not want to have "Wikipedia tips" and "Wikipedia facts" as separate accounts. We think that collaboration of the same account should be shared at the project level. You should join the project and ask for access to the Mastodon account.
+
+### Can I create a bot account for our open source project? 
+
+No. We know its fun to automate pull requests, build status, and more. However we try to keep our content based around real words written by real people.
+
+### Can I create an account for my open source project if its owned by my company?
+
+Maybe. We believe projects such as [Terraform](https://www.terraform.io/) which are dominated by a single corporation and the only path to maintainership is employment at the corporation are allowed on Hachyderm. However similar to [corporate accounts](https://github.com/hachyderm/community/blob/main/corporate-accounts.md) these projects are by invitation only.
