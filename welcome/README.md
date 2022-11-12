@@ -26,7 +26,7 @@ The best way for you to help reduce noise is to leverage our issue tracker inste
 
 Check the status page: [status.hachyderm.io](https://status.hachyderm.io)
 
-Additionally check [our public Grafana dashboard](https://grafana.hachyderm.io/public-dashboards/bc9e340202c1495888d8fd849112a813?orgId=0&refresh=30s):
+Additionally check: [our public Grafana dashboard](https://grafana.hachyderm.io/public-dashboards/bc9e340202c1495888d8fd849112a813?orgId=0&refresh=30s)
 
 ## Respectful Tooting
 

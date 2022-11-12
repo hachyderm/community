@@ -2,6 +2,8 @@
 
 Welcome to the Hachyderm community.
 
+Make sure to check our status page: [status.hachyderm.io](https://status.hachyderm.io)
+
 Here you will find information and resources on how we manage things at Hachyderm.
 
 ## Mission 
