@@ -1,6 +1,6 @@
 # Open Source Project Accounts
 
-We welcome open source and collaborate projects, with a few exceptions for projects that operate in a financially biased market or projects that already have financial sponsorship.
+We welcome open source and collaborate projects, with a few exceptions for projects that operate in a financially biased market or projects that are extensions of, or resemble corporations.
 
 ### Types of Projects
 
