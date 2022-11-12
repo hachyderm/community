@@ -1,8 +1,9 @@
 # Hachyderm Corporate Covenant
 
-Corporate Hachyderm accounts **are by invitation only.**
+ - Corporate Hachyderm accounts **are by invitation only.**
+ - All corporate accounts must self identify by placing the `:coin_animal_crossing:` emoji to the right of their display name.
 
-All corporate accounts must self identify with: TODO?
+Note: the `:coin_animal_crossing:` emoji in the display name is reserved for corporate accounts only. Others will be asked to remove the emoji from their display name.
 
 #### How do I get an invite?
 
