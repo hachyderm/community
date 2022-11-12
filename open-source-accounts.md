@@ -16,7 +16,7 @@ Unfortunately we are unable to support projects that are active participants in 
  - :heavy_multiplication_x: Financialy biased trade organizations and governing bodies such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud Foundry](https://www.cloudfoundry.org/membership/) or their subsequent projects such as [Istio](https://www.cncf.io/projects/istio/) or [Helm](https://www.cncf.io/projects/helm/).
  - :heavy_multiplication_x: Open source projects with a single corporate sponsor/owners such as Google's [Go Programming language](https://go.dev/) and Hashicorp's [Terraform](https://www.terraform.io/).
  - :heavy_multiplication_x: Open source projects with structured sponsorship models that resemble paid services. For example features that are unlocked via donation such as [LetsEncrypt](https://letsencrypt.org/sponsors/)'s quota limit which can only be raised via donation.
- - :heavy_multiplication_x: Community edition projects, or "up-sell" or "upgrade to pro" model projects that resemble a paid service such as [pfSense Community Edition](https://www.pfsense.org/download/) or [Wolfram Alpha](https://www.wolfram.com/open-materials/).
+ - :heavy_multiplication_x: "up-sell" or "upgrade to pro" model projects that resemble a paid service such as [pfSense Community Edition](https://www.pfsense.org/download/) or [Wolfram Alpha](https://www.wolfram.com/open-materials/).
 
 ### What Is Financial Bias?
 
