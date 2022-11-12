@@ -20,7 +20,7 @@ Unfortunately we are unable to support projects that are active participants in 
 
 ### What Is Financial Bias?
 
-Our community calls out the concept of financial bias which we define as "the ability for a specific vendor, project, or organiation to pay for a competitive advantage" or sometimes referred to as "pay-to-play" vendor spaces.
+Finacial bias is defined as "the ability for a specific vendor, project, or organiation to pay for a competitive advantage" or sometimes referred to as "pay-to-play" vendor spaces.
 Many vendor markets exist today which allow for wealthier vendors to pay for higher and more attractive sponsorship models that other vendors cannot afford. 
 
 We believe that expensive sponsorship models that promise a higher return of investment with regard to product marketing create an unfair disadvantage for small businesses. We believe a level playing field for small businesses is critical for the sustainability of future generations in tech. We cannot condone this model in our community.
