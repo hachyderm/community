@@ -33,7 +33,7 @@ We believe that expensive sponsorship models that promise a higher return of inv
 
 # Frequently Asked Questions
 
-### Can I create an account for my event? Like DevOps Days?
+### Can I create an account for my event? Like Devopsdays?
 
 Yes. As long as your event is not a profit focused event you are welcome to create an account. If your event is profit seeking, you must follow our [corporate policy](https://github.com/hachyderm/community/blob/main/corporate-accounts.md).
 
