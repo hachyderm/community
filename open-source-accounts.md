@@ -38,6 +38,10 @@ We believe that expensive sponsorship models that promise a higher return of inv
 
 Yes. As long as your event is not a profit focused event you are welcome to create an account. If your event is profit seeking, you must follow our [corporate policy](https://github.com/hachyderm/community/blob/main/corporate-accounts.md).
 
+#### What about Devopsdays for my specific city? 
+
+Yes. As long as your subsidary account isn't repeating the same content as the parent account. We expect each account to have relatively independent content.
+
 ### Can I create a support/help/fan/paradoy account?
 
 No. Accounts like "Linux Tips" or "Kubernetes Memes" are not in alignment with our mission to create a curated group of professionals. We aim to have accounts that represent real people.
