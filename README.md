@@ -2,8 +2,7 @@
 
 Hachyderm Community Resources, including:
 
- - [How we determine spam](https://github.com/hachyderm/community/blob/main/spam.md#spam)
- - [Become a paid sponsor](https://github.com/hachyderm/community/blob/main/sponsor.md)
+ - [Corporate Covenant for Coporate Accounts](https://github.com/hachyderm/community/blob/main/corporate-accounts.md)
  - Mastodon 101 (this README)
 
 # Mastodon 101
