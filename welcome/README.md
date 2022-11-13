@@ -1,6 +1,6 @@
-# Welcome to Hachyderm 
+# Welcome to Hachyderm
 
-Hello Hachydermians! Some of you are new to Mastodon, so here are some notes to help you get started. Since a fair few of you are coming from Twitter, there will be comparisions to the Twitter model for social media.
+Hello Hachydermians! Some of you are new to Mastodon, so here are some notes to help you get started. Since a fair few of you are coming from Twitter, there will be comparisons to the Twitter model for social media.
 
 ## How do I sign up?
 
@@ -12,10 +12,10 @@ If you're looking to sign up with us here at Hachyderm, you can sign up on [hach
 
 There are a few different ways:
 
-* The web browser, so in our case [hachyderm.io](https://hachyderm.io)
-* A client app, usually for mobile devices:
-    * iOS: [Toot!](https://apps.apple.com/us/app/toot/id1229021451) (cost: $4 USD)
-    * Android: [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&hl=en_US&gl=US&pli=1) (cost: free)
+- The web browser, so in our case [hachyderm.io](https://hachyderm.io)
+- A client app, usually for mobile devices:
+  - iOS: [Toot!](https://apps.apple.com/us/app/toot/id1229021451) (cost: $4 USD)
+  - Android: [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&hl=en_US&gl=US&pli=1) (cost: free)
 
 For a complete comparison of 8 iOS apps: Fedi, Mast, Mastodon (official), Mercury, Metatext, tooot, Toot!, and Tootle, please take a look at [Transpondering's Blog](https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone/) on the topic. The deep dive is very deep, going into various UI features, commenting about how intuitive the different apps are or aren't, which are more or less compatible with screenreaders and VoiceOver, and so on.
 
@@ -31,24 +31,23 @@ This is the case of _public_ toots only. When you are a private account, the peo
 
 Direct messages allow you to communicate with one or more other users. This is similar to what you've likely seen on other platforms like Slack/Discord and Twitter with a notable exception:
 
-* ⚠️ **_When you bring someone into a DM conversation they are able to see the whole DM history._**
+- ⚠️ **_When you bring someone into a DM conversation they are able to see the whole DM history._**
 
 On the one hand this solves the problem of Slack and similar where when you add someone to a conversation you need to summarize everything relevant to that point to bring the new person / people up to speed. That said, if you aren't expecting it, it can expose conversations to third parties that needed to be private.
 
 The other person / people who can see DMs are mods.
 
-* **_Yes, mods_ can _see your DMs._**
+- **_Yes, mods_ can _see your DMs._**
 
 Similar to the above, this is a double edged sword. On the one hand it makes it easy for mods to read DMs when they receive a report of harassing behavior. On the other hand it might also make private conversations visible that you wished were kept private even in those circumstances.
 
-<u>As a transparent statement</u>: Hachyderm mods and instance operators agree to never read direct messages under circumstanc. Ever. A violation of this agreement will result in a permanent ban from moderator and operator privileges.
+<u>As a transparent statement</u>: Hachyderm mods and instance operators agree to never read direct messages under any circumstances. Ever. A violation of this agreement will result in a permanent ban from moderator and operator privileges.
 
 Proactively:
 
-⚠️ DMs should be considered public data. ⚠️
-⚠️ DMs are transparent and accessible by instance owners. ⚠️
+⚠️ DMs should be considered public data. ⚠️  
+⚠️ DMs are transparent and accessible by instance owners. ⚠️  
 ⚠️ DMs can be queried directly from the database on the instance. ⚠️
-
 
 ### DM user experience in the various interfaces
 
@@ -66,8 +65,8 @@ In this case the toot has both text and associated graphic. You would need to cl
 
 Content Warnings have a few uses:
 
-* If discussing topics that can cause distress or trigger PTSD, like a great many political situations
-* Discussing topics that will spoil a book / movie / show
+- If discussing topics that can cause distress or trigger PTSD, like a great many political situations
+- Discussing topics that will spoil a book / movie / show
 
 **_Because of how well CWs are implemented on the platform, we recommend that people make use of them._**
 

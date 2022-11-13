@@ -6,14 +6,14 @@ Based on the type of account, we have various policies and best practices.
 
 If you are unsure what type of account you are, start with [general](general-accounts.md).
 
- - [General Accounts](general-accounts.md)
- - [Open Source Accounts](open-source-accounts.md)
- - [Influencer Accounts](influencer-accounts.md)
- - [Corporate Accounts](corporate-accounts.md)
+- [General Accounts](general-accounts.md)
+- [Open Source Accounts](open-source-accounts.md)
+- [Influencer Accounts](influencer-accounts.md)
+- [Corporate Accounts](corporate-accounts.md)
 
 # Frequently Asked Questions
 
-Below are the FAQ for all Hachyderm accounts. 
+Below are the FAQ for all Hachyderm accounts.
 
 ### Can I post about my company?
 
@@ -27,7 +27,7 @@ Yes. Posting about your project is different from an open source account. Feel f
 
 Not without working directly with the moderators.
 
-### Can I create an anonymous account? 
+### Can I create an anonymous account?
 
 Yes. However, we do not want a single person to operate a high number of accounts.
 
