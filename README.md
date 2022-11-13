@@ -74,6 +74,20 @@ We believe that any time clout, attention, credibility, fortune, or fame is gain
 
 You can shitpost, just not at the expense of others.
 
+### Dealing with Trolls, being targeted, and doxxing.
+
+We understand there are nasty people on the internet, and we will do everything we can to protect our community from them.
+
+We ask that all community members respect our mission to remain peaceful, and deescalate in times of conflict.
+
+If ever there clearly is a targeted attack, doxxing attempt, troll, or otherwise aggressive situation on Hachyderm our advice is to report it and deescalate the situation. Do not engage. Do not respond.
+
+Our experience dealing with bad-actors, trolls, and aggressive accounts is that engagement is what they are looking for. Our primary weapon against them is a silent block (our mods are very responsive!) and moving on as if nothing happened.
+
+In the event this is not possible, we ask that you host your own infrastructure to forge such a counter maneuver against a group. Keep it off Hachyderm. 
+
+We will remove any account who gains a reputation for "stirring the pot" or "engaging with conflict" on our site, despite how virtuous or noble the effort may be. Hachyderm is not the place for this.
+
 # Moderation 
 
 Our moderators are not the fediverse police.
