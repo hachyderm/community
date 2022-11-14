@@ -1,3 +1,3 @@
-# 301 
+# 301
 
-This has moved [/accounts/corporate-accounts.md](/accounts/corporate-accounts.md)
+This has moved to [/accounts/corporate-accounts.md](/accounts/corporate-accounts.md)
