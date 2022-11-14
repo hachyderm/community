@@ -43,7 +43,7 @@ GitHub issue on the Mastodon project:
      alt="Flow chart showing that a public toot by USER is visible only if you
           are: following that user, the user is on the same instance as you, or
           someone on your instanced follows and interacted with the toot"
-     width="200"/>
+     width="400" />
 
 This is the case of _public_ toots only. When you are a private account, the
 people you allow to follow you are the people who can see your toots.
@@ -100,10 +100,10 @@ please. However we do offer some best practices for you to consider.
 Content Warnings are implemented differently in Mastodon than Twitter. CW'ed
 toots look like this:
 
-<img src="assets/mastodon-content-warning.png"
+<img src="../assets/mastodon-content-warning.png"
      alt="Screenshot of a toot with content warning 'Politics (CO)' and the
           blurred out content labeled 'Sensitive Content'"
-     width="200"/>
+     width="400"/>
 
 In this case the toot has both text and associated graphic. You would need to
 click to display each separately in each case. When a toot has a CW, all toots
@@ -169,9 +169,9 @@ reflect the names you know them as and sometimes they do not. Sometimes you
 follow new colleagues or people you've meet on or off line. If you would like,
 you can add notes that only you see to a users profile. For example:
 
-<img src="assets/hachyderm-founder-kris-nova.png"
+<img src="../assets/hachyderm-founder-kris-nova.png"
      alt="nova"
-     width="200"/>
+     width="400"/>
 
 Not all mobile apps support editing this field at this time, so that is
 something to check if that interests you.
