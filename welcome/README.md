@@ -176,7 +176,43 @@ you can add notes that only you see to a users profile. For example:
 Not all mobile apps support editing this field at this time, so that is
 something to check if that interests you.
 
-## Where to learn more stuff?
+# What to toot?
+
+So now that you've learned all of that, what _do_ you toot? Well, you
+might want to start by making an \#introduction post (tag intentional),
+as it is very common to do across instances. The tag helps your post be
+discoverable by others who are also new and looking for those who are
+introducing themselves. Make sure to include anything you might want to
+discuss with others as an interest, job, etc. You might want to avoid including
+any non-discoverable PII (personally identifying information) / use your
+normal internet security posture for responsible disclosure 😊
+
+## Beyond the Introduction
+
+After you've introduced yourself, we definitely recommend interacting
+with other users and posting your own thoughts, opinions, opines, and more.
+
+If you are making your own content / etc. you might want to promote that
+too. If you are a corporate account or influencer account, please make
+sure to read our information on those account types as well. The goal
+here is to give people a space to promote original ideas, collaborate,
+and more but to avoid repetitive content. We spell out what that means
+for those account types.
+
+# How to find Twitter people
+
+On the Twitter model everyone you followed / were followed by were Twitter
+users. As some have migrated over to Mastodon, they may all choose different
+instances. So how do you try and find people? There are a few web apps that
+try and find people from Twitter in the Fediverse. Note that for most (if not
+all) you need to auth with your Twitter as it is trying to find your follows
+specifically. A common tool is:
+
+* [FediFinder](https://fedifinder.glitch.me/)
+
+There are other tools beyond this and we will add more as we find them.
+
+# Where to learn more stuff?
 
 There is always the Mastodon documentation, as well as the
 [Fedi.Tips](https://mstdn.social/@feditips) account that posts updated tips on
