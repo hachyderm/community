@@ -59,6 +59,21 @@ verification:
           mattstratton.com and the other is his Keyoxide account. Both are
           highlighted in green with green checkmarks next to the URL to show
           they are verified." />
+          
+## How long does verification persist?
+
+Verification persists only as long as the check link is there. This is
+important to note as for some services, like the GitHub example above,
+you cannot have multiple URLs as your "website". This means if you remove
+your Hachyderm / Mastodon URL from the relevant field that the verification
+check will break and the green "verified" next to that URL will disappear.
+
+## Alternatives
+
+If you would like to verify your identity with more services than the
+metadata allows, you might want to consider using a service like
+Keyoxide or Keybase for the majority of your identity verification, and
+then verify Hachyderm / Mastodon with that identity management service.
 
 # Who should verify
 
