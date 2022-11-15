@@ -95,7 +95,26 @@ We believe that any time clout, attention, credibility, fortune, or fame is
 gained "at the expense of others" it is likely close to a violation of our "no
 colonialism" rule or a violation of our "don't be a dick" policy.
 
-You can shitpost, just not at the expense of others.
+We don't want to be the "shitpost" police. 
+We encourage you to shitpost, just not at the expense of others.
+
+## Changing or Modifying a Rule.
+
+In general we try not to change our rules. If we do, we need to give the community time to understand the impact of the change and move away from our server if they chose. 
+
+#### Creating a New Rule
+
+ 1. Draft the new rule. Write the "headline" and then write a few sentences to elaborate on the rule.
+ 2. Publish the draft (GitHub, HackMD, etc).
+ 3. Advertise the draft (This is similar to publishing an obituary or a name change in a newspaper).
+    a. Our admins, mods, and leadership should all be encouraged to share the new change.
+ 4. Gain feedback, make adjustments, work with the community, hear concerns, give space for alternative opinions. Pause. Reflect. 
+ 5. Make the decision to institute the new rule, and publish a "goes in effect" date.
+ 6. Institute the new rule.
+
+#### Removing a Rule.
+
+ Only Kris Nóva can remove a rule at this time.
 
 ### Dealing with Trolls, being targeted, and doxxing.
 
