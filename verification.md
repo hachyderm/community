@@ -50,7 +50,7 @@ Similar to above, on Mastodon / Hachyderm:
    destination you are verifying
 3. Save changes
 
-Here is an example profile with two separate sources of identiy
+Here is an example profile with two separate sources of identity
 verification:
 
 <img src="assets/mastodon-verification-profile-matt-stratton.png"
@@ -63,6 +63,6 @@ verification:
 # Who should verify
 
 We do not have a policy for regular users to verify or not - that is up to
-you! If you have a special account type, for example a coporate or open
+you! If you have a special account type, for example a corporate or open
 source project account, please see the instructions for those accounts
 for what verification we'd need.
