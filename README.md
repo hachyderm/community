@@ -98,7 +98,7 @@ colonialism" rule or a violation of our "don't be a dick" policy.
 We don't want to be the "shitpost" police. 
 We encourage you to shitpost, just not at the expense of others.
 
-## Changing or Modifying a Rule.
+### Changing or Modifying a Rule.
 
 In general we try not to change our rules. If we do, we need to give the community time to understand the impact of the change and move away from our server if they chose. 
 
