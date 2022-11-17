@@ -72,6 +72,9 @@ The verification should appear almost instantaneously.
 
 Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. Unfortunately you will not be able to post another URL in the location.
 
+Please note that this only applies to _personal_ GitHub profiles. Currently, there is no way to verify _organizational_ GitHub profiles as the `rel=me`
+tag is not added here.
+
 ### Your GitHub.io Page
 
 If you do not want to sacrifice your web page field on your GitHub profile,
