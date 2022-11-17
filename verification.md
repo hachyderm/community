@@ -101,11 +101,11 @@ blog post.
           
 ## How long does verification persist?
 
-Verification persists only as long as the check link is there. This is
-important to note as for some services, like the GitHub example above,
-you cannot have multiple URLs as your "website". This means if you remove
-your Hachyderm / Mastodon URL from the relevant field that the verification
-check will break and the green "verified" next to that URL will disappear.
+Verification is checked upon saving your profile. Thus, as long as you
+don't change anything, your verified identities will persist and you're
+free to change back the website on your GitHub profile[^JWildeboer]. 
+Please keep in mind to change the website on your GitHub profile if
+you intend to do any changes to your Mastodon profile.
 
 ## Alternatives
 
@@ -120,3 +120,6 @@ We do not have a policy for regular users to verify or not - that is up to
 you! If you have a special account type, for example a corporate or open
 source project account, please see the instructions for those accounts
 for what verification we'd need.
+
+---
+[^JWildeboer]: See <https://jan.wildeboer.net/2022/06/Quick-Fix-Verified-Mastodon-Github/#the-solution>
