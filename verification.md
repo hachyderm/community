@@ -23,7 +23,7 @@ including username / handle.
 
 1. Add your Hachyderm / Mastodon URL to the website field of your GitHub
    profile, e.g. [https://hachyderm.io/@username](https://hachyderm.io/@username)
-   * Note: You do not need to include "rel=me" for GitHub verification
+   * Note: You should not include "rel=me" for GitHub verification / use raw HTML
 2. Save changes.
 3. Then on Hachyderm / your Mastodon account, go to Edit Profile
 4. In one of the four fields of Profile Metadata, add the URL to your
