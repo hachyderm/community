@@ -32,6 +32,8 @@ including username / handle.
 
 The verification should appear almost instantaneously.
 
+Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. Unfortunately you will not be able to post another URL in the location.
+
 ## Other sources
 
 GitHub has separated instructions because, as far as we know, they're one of
