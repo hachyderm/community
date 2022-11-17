@@ -176,6 +176,7 @@ already exists.
 
 ### Do Not
 
+- Please do not DM on Mastodon.
 - Please do not reach out on Twitter.
 - Please do not join the Discord just to report an issue, bug, or feature request.
 - Please do not send us emails (we get too many emails).
