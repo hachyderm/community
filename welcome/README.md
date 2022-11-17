@@ -30,9 +30,9 @@ There are a few different ways:
 For a complete comparison of 8 iOS apps: Fedi, Mast, Mastodon (official),
 Mercury, Metatext, tooot, Toot!, and Tootle, please take a look at
 [Transpondering's Blog]( https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone/)
-on the topic. The deep dive is very deep, going into various UI features,
-commenting about how intuitive the different apps are or aren't, which are more
-or less compatible with screenreaders and VoiceOver, and so on.
+on the topic. ([A Google Sheets of the same data](https://docs.google.com/spreadsheets/d/1De5KRwqMIdwEryfoeBLARgxF7QgKkeOQBCilKuIdAXE/edit#gid=0), 
+made by GameDev Mastodon user [runevision](https://hachyderm.io/web/@runevision@mastodon.gamedev.place).) The deep dive is very deep, going into various UI features, commenting about how intuitive the different apps are or aren't, which are
+more or less compatible with screenreaders and VoiceOver, and so on.
 
 ### Who can see my content / Whose content can I see?
 
