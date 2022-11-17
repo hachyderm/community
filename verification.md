@@ -86,7 +86,8 @@ The result is this:
 <img src="assets/mastodon-verification-profile-simon-willison.png"
      alt="Screenshot of profile for user Simon Willison, showing that
           he has verified his Blog and GitHub.io pages. Note he is a
-          Mastodon, but not a Hachyderm, user." />
+          Mastodon, but not a Hachyderm, user." 
+     width="400" />
 
 Note: 
 
