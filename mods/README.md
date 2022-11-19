@@ -53,6 +53,7 @@ for the next person to add themself.
 | untitaker        | [untitaker](https://hachyderm.io/@untitaker/)               | untitaker        | German           |
 | Jake             | [jakesmolka](https://hachyderm.io/@jakesmolka/)             | jakesmolka#0183  | German           |
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
+| slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
 |                  |                                                             |                  |                  |
 |                  |                                                             |                  |                  |
 
@@ -66,3 +67,4 @@ This is the team that maintains the Hachyderm infrastructure.
 | dma            | [dma](https://hachyderm.io/@dma)                     | dma         |
 | Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk         |
 | Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani        |
+
