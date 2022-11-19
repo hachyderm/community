@@ -52,6 +52,7 @@ for the next person to add themself.
 | missingcharacter | [missingcharacter](https://hachyderm.io/@missingcharacter/) | missingcharacter | Spanish (Mexico) |
 | untitaker        | [untitaker](https://hachyderm.io/@untitaker/)               | untitaker        | German           |
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
+| slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
 |                  |                                                             |                  |                  |
 |                  |                                                             |                  |                  |
 
@@ -65,3 +66,4 @@ This is the team that maintains the Hachyderm infrastructure.
 | dma            | [dma](https://hachyderm.io/@dma)                     | dma         |
 | Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk         |
 | Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani        |
+
