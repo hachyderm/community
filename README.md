@@ -64,9 +64,13 @@ In short, we believe that you know if you are being a dick, and therefore you
 should be able to stop. If you do not stop, you will no longer be welcome on
 Hachyderm.
 
-Being a dick is about intent. If your intentions are to hurt, brandish,
-slander, diminish, insult, or offend someone instead of voicing your opinion
-you are likely being a dick. We believe our community can do better than that.
+Being a dick is measured by "self control" and "intent". 
+
+> Are you able to restrain yourself? What are your intentions?
+
+If your intentions are to hurt, brandish, slander, diminish, insult, or offend someone you are likely being a dick. 
+We believe you should be able to restrain yourself in these situations.
+If you do not, are likely being a dick.
 
 Being a dick is the opposite of respect. We believe all "bad takes" on a topic
 can be voiced with respect.
