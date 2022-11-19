@@ -70,7 +70,7 @@ Being a dick is measured by "self control" and "intent".
 
 If your intentions are to hurt, brandish, slander, diminish, insult, or offend someone you are likely being a dick. 
 We believe you should be able to restrain yourself in these situations.
-If you do not, are likely being a dick.
+If you do not restrain yourself, we believe that you are likely being a dick.
 
 Being a dick is the opposite of respect. We believe all "bad takes" on a topic
 can be voiced with respect.
