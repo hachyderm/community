@@ -66,3 +66,4 @@ This is the team that maintains the Hachyderm infrastructure.
 | dma            | [dma](https://hachyderm.io/@dma)                     | dma         |
 | Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk         |
 | Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani        |
+
