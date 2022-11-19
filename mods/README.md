@@ -52,6 +52,7 @@ for the next person to add themself.
 | missingcharacter | [missingcharacter](https://hachyderm.io/@missingcharacter/) | missingcharacter | Spanish (Mexico) |
 | untitaker        | [untitaker](https://hachyderm.io/@untitaker/)               | untitaker        | German           |
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
+| slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
 |                  |                                                             |                  |                  |
 |                  |                                                             |                  |                  |
 
