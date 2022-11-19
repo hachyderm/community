@@ -53,8 +53,7 @@ for the next person to add themself.
 | untitaker        | [untitaker](https://hachyderm.io/@untitaker/)               | untitaker        | German           |
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
 | slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
-|                  |                                                             |                  |                  |
-|                  |                                                             |                  |                  |
+| mnl              | [mnl](https://hachyderm.io/@mnl/)                           | slono            | French, German   |
 
 ## Hachyderm Infrastructure
 
