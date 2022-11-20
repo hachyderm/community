@@ -65,6 +65,10 @@ the regular verification instructions above.
 
 **First Option: Profile Bio Field**
 
+Note that this method will not work if your Hachyderm username matches
+your, or anyone's, Github username, beause Github will turn the username
+into a link, breaking the verification process.
+
 1. Add your full Hachyderm / Mastodon username to your GitHub bio.
    * Note: your full username includes the server, e.g. `@username@hachyderm.io`
 2. Save changes.
@@ -90,7 +94,9 @@ It looks like this:
      https://hachyderm.io/@username in the website field"
      width="250" />
 
-Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. Unfortunately you will not be able to post another URL in the website location.
+Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. 
+
+Once you are verified on Hachyderm, you can replace the website field on Github with another value. 
 
 **On Hachyderm / Mastodon**
 
