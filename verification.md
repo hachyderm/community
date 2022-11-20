@@ -94,10 +94,15 @@ It looks like this:
      https://hachyderm.io/@username in the website field"
      width="250" />
 
-Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. 
+Note: In order for this to work this MUST be sit in the profile web link
+under your profile picture. This field will automatically add the required
+`rel=me` tag to your URL, whereas the other locations will strip the tags
+automatically. You cannot embed the URL in a README on your profile page.
 
-Unfortunately you will not be able to post another URL in the website location; even though hachyderm.io will continue to show you as verified, other instances will do their own verification check when users on those instances view your profile.
-
+Unfortunately you will not be able to post another URL in the website
+location; even though hachyderm.io will continue to show you as verified,
+other instances will do their own verification check when users on those
+instances view your profile.
 
 **On Hachyderm / Mastodon**
 
@@ -111,8 +116,9 @@ to your Hachyderm / Mastodon account and:
 
 Verification should appear almost instantaneously.
 
-Please note that this only applies to _personal_ GitHub profiles. Currently, there is no way to verify _organizational_ GitHub profiles as the `rel=me`
-tag is not added here.
+Please note that this only applies to _personal_ GitHub profiles.
+Currently, there is no way to verify _organizational_ GitHub profiles as
+the `rel=me` tag is not added here.
 
 ### Your GitHub.io Page
 
@@ -128,21 +134,20 @@ The result is this:
 <img src="assets/mastodon-verification-profile-simon-willison.png"
      alt="Screenshot of profile for user Simon Willison, showing that
           he has verified his Blog and GitHub.io pages. Note he is a
-          Mastodon, but not a Hachyderm, user." 
+          Mastodon, but not a Hachyderm, user."
      width="400" />
 
-Note: 
+Note:
 
 * This image is only the metadata information that he also included in his
 blog post.
 * He is running his own self-hosted Mastodon instance.
 
-          
 ## How long does verification persist?
 
 Verification is checked upon saving your profile. Thus, as long as you
 don't change anything, your verified identities will persist and you're
-free to change back the website on your GitHub profile[^JWildeboer]. 
+free to change back the website on your GitHub profile[^JWildeboer].
 
 ## Alternatives
 
