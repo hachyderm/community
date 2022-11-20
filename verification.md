@@ -96,7 +96,8 @@ It looks like this:
 
 Note: In order for this to work this MUST be sit in the profile web link under your profile picture. This field will automatically add the required `rel=me` tag to your URL, whereas the other locations will strip the tags automatically. You cannot embed the URL in a README on your profile page. 
 
-Once you are verified on Hachyderm, you can replace the website field on Github with another value. 
+Unfortunately you will not be able to post another URL in the website location; even though hachyderm.io will continue to show you as verified, other instances will do their own verification check when users on those instances view your profile.
+
 
 **On Hachyderm / Mastodon**
 
