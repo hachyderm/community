@@ -65,9 +65,9 @@ the regular verification instructions above.
 
 **First Option: Profile Bio Field**
 
-Note that this method will not work if your Hachyderm username matches
-your, or anyone's, Github username, beause Github will turn the username
-into a link, breaking the verification process.
+Note: This method will not work if your Hachyderm username matches your, or
+anyone's, GitHub username, because GitHub will turn the username into a link,
+breaking the verification process.
 
 1. Add your full Hachyderm / Mastodon username to your GitHub bio.
    * Note: your full username includes the server, e.g. `@username@hachyderm.io`
