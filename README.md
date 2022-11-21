@@ -43,6 +43,25 @@ and open source project accounts.
   - [Open Source Accounts](accounts/open-source-accounts.md)
   - [Influencer Accounts](accounts/influencer-accounts.md)
   - [Corporate Accounts](accounts/corporate-accounts.md)
+  - [Bot Accounts](accounts/bots.md)
+
+### Disallowed Account Types
+
+The primary purpose of Hachyderm is to provide a place where IT
+(and adjacent) professionals to network. To be clear: this is not
+a "LinkedIn" type of instance. With that in mind we have a few
+account types that we explicitly do not allow:
+
+- Fundraising Accounts
+- Ad / Marketing Accounts
+  - This includes promos, discount codes, etc.
+- 18+ / NSFW Accounts
+
+To be clear: our users may engage with the above types of content
+if they wish, we just aren't geared for supporting the above
+account types. An account will be considered one of the above if
+all / mostly all of their posts and re-toots are in the above
+categories.
 
 ## Rules
 
