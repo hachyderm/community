@@ -25,14 +25,14 @@ usual, more on that in a moment.)
 In general, when you verify you will do so by using the following HTML on the
 page you are editing, like a personal site or blog:
 
-```
+```html
 <a rel="me" href="https://hachyderm.io/@username">Hachyderm</a>
 ```
 
 If you would like to avoid using a visible link, like the above, you can
 also put the following in the page headers:
 
-```
+```html
 <link rel="me" href="https://hachyderm.io/@username">
 ```
 
