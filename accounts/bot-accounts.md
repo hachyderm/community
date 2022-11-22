@@ -33,9 +33,7 @@ If you would like the longer descriptions of the above,
 please take a look at our [Corporate Accounts](corporate-accounts.md)
 which spells these out in more detail.
 
-## Limited Accounts
-
-Although not a watertight rule, for bots in general:
+## Bot Account Posting Rules
 
 - All bots must select the bot checkbox in their profile settings
   <br /> <img src="../assets/mastodon-bot-account.png" width="350px"
