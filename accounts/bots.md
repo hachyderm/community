@@ -37,9 +37,12 @@ which spells these out in more detail.
 
 Although not a watertight rule, for bots in general:
 
+- All bots must select the bot checkbox in their profile settings
+  <br /> ![](../assets/mastodon-bot-account.png)
 - Most bots that are on topic, that is to say IT relevant,
   will typically be Limited. This means people can follow you, but
   your content will not be on Local / Federated timelines.
-- Bots that violate rules about spam, 18+, corporate, etc. account
-  types will be suspended.
+- To help with Discovery, we'll keep a list of Approved Bots in our docs
+- Bots that violate rules about spam, fundraising, 18+, corporate, etc.
+  account types will be suspended.
 
