@@ -43,6 +43,8 @@ which spells these out in more detail.
 - Bots are required to put the `#hachybots` hashtag in _all_ posts so
   users can opt into, or out of, bot posts.
 - Bot accounts are limited to **_5 posts per day_**.
+- Reactionary bots are not permitted - e.g. bots that respond to user
+  posts based on keywords and similar.
 - **_Bots that violate rules about spam, fundraising, 18+, corporate, etc.
   account types will be suspended._**
 
