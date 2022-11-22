@@ -43,7 +43,7 @@ and open source project accounts.
   - [Open Source Accounts](accounts/open-source-accounts.md)
   - [Influencer Accounts](accounts/influencer-accounts.md)
   - [Corporate Accounts](accounts/corporate-accounts.md)
-  - [Bot Accounts](accounts/bots.md)
+  - [Bot Accounts](accounts/bot-accounts.md)
 
 ### Disallowed Account Types
 

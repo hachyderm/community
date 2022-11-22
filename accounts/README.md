@@ -12,6 +12,7 @@ general-accounts.md).
 - [Open Source Accounts](open-source-accounts.md)
 - [Influencer Accounts](influencer-accounts.md)
 - [Corporate Accounts](corporate-accounts.md)
+- [Bot Accounts](bot-accounts.md)
 
 ## Frequently Asked Questions
 
