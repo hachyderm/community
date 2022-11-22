@@ -42,10 +42,9 @@ Although not a watertight rule, for bots in general:
   alt="Screenshot of four check boxes in account settings: require follow
   requests, this is a bot account, suggest account to others, and hide
   your social graph" />
-- Most bots that are on topic, that is to say IT relevant,
-  will typically be Limited. This means people can follow you, but
-  your content will not be on Local / Federated timelines.
-- To help with Discovery, we'll keep a list of Approved Bots in our docs
-- Bots that violate rules about spam, fundraising, 18+, corporate, etc.
-  account types will be suspended.
+- Bots are required to put the `#hachybots` hashtag in _all_ posts so
+  users can opt into, or out of, bot posts.
+- Bot accounts are limited to **_5 posts per day_**.
+- **_Bots that violate rules about spam, fundraising, 18+, corporate, etc.
+  account types will be suspended._**
 
