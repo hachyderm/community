@@ -38,7 +38,10 @@ which spells these out in more detail.
 Although not a watertight rule, for bots in general:
 
 - All bots must select the bot checkbox in their profile settings
-  <br /> ![](../assets/mastodon-bot-account.png)
+  <br /> <img src="../assets/mastodon-bot-account.png" width="350px"
+  alt="Screenshot of four check boxes in account settings: require follow
+  requests, this is a bot account, suggest account to others, and hide
+  your social graph" />
 - Most bots that are on topic, that is to say IT relevant,
   will typically be Limited. This means people can follow you, but
   your content will not be on Local / Federated timelines.
