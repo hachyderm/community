@@ -1,27 +1,22 @@
 # Hachyderm Corporate Covenant
 
+### What is a Corporate Account? Do I need one? Am I one?
+
+The simplest way to determine if an account is a corporate account or not is to ask yourself if the entity that the account represents is trying to make a profit or not.
+Chances are, if the entity is seeking profit, we are dealing with a corporate account. 
+In other words if you intend to create an account for a business, you should read this document because this document is exclusively for people like you.
+
+### Overview
+
 - Corporate Hachyderm accounts **are by invitation only.**
 - All corporate accounts must self-identify by placing their full legal
   corporation name as their display name.
 
 #### How do I get my company invited?
 
-> If you are interested in a corporate account on Hachyderm you will need to
-> reach out directly to Kris Nóva. You can email her directly at
-> `nova@hachyderm.io`.
+At this time Hachyderm is not accepting any more corporate accounts for 2022.
 
-> Managing expectations, we intend to have a very small amount of corporate
-> accounts. There is no guarantee your account will be accepted.
-
-> If you have been asked to remove your corporate account we ask you to be
-> patient with us as we are currently trying to balance our community as we
-> introduce trust with corporations.
-
-A part of getting an invitation will be having a strong track record and
-getting it on Kris Nóva's radar.
-By sharing your existing social media accounts, personas, and content we can
-get a feel for if we believe you will be a strong addition to the carefully
-guarded hachyderm community.
+Check back again in early January 2023 for more detail on the next wave of accounts.
 
 ## Covenant Guiding Principles
 
