@@ -186,7 +186,7 @@ the more "socially acceptable/practiced" (note: not here) and
      width="600"
      alt="Pyramid of covert and overt racism, lists many supporting forms
           at the bottom including colorblind racism and moving to acts of
-          violence at the top. Pyrmaid fully described in linked text below." FIXME
+          violence at the top. Pyrmaid fully described in linked text below." />
 
 This image is borrowed from [the Religion and Race hub article on Overt and Covert Racism](https://www.r2hub.org/library/overt-and-covert-racism).
 The article fully describes each of the terms and concepts listed on the
