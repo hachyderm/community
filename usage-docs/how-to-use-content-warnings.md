@@ -28,7 +28,7 @@ this:
 ## When to Use Content Warnings
 
 Since the content warning feature is a bit different than Twitter, there
-can be confusion about when to use the content warning feature. To help,
+can be confusion about when to use them. To help,
 here are some general guidelines.
 
 * A content warning should be used to protect the psychological safety of
@@ -42,14 +42,14 @@ The latter is quickst to explain, so let's start there.
 (Quote attributed to River Song of Doctor Who fame.)
 
 Preventing the spread of spoilers is an excellent "off label" use of the
-content warning feature. This is most common to prevent spoilers in books,
+content warning feature. Spoilers most commonly refers to current books,
 television, and movies. One quick, easy example would be using a content
 warning when discussing Game of Thrones when it was actively airing.
 Another would be discussing the results of a football / soccer match that
 people maybe haven't been able to catch up on yet. Different fandoms have
 different expectations for how long information is new enough to be
-"spoiler" worthy, so this is more an "at user discretion" and not something
-we would try to enforce as mods. Just treat other fans the way you would
+"spoiler" worthy, so this is "at user discretion" and not something
+we try to enforce as mods. Just treat other fans the way you would
 want to be treated.
 
 ### Protecting Psychological Safety
@@ -113,7 +113,7 @@ For the latter: this means we will handle reports that violate the
 psychological safety of others equally whether they occurred on our
 instance or by one of our users interacting with users on other instances.
 To rephrase with a concrete example, we'll treat a report about posting violent images the same whether someone is posting it on their timeline or
-posting it to another user regardless of whether or not that user is a
+posting it to another user regardless of whether or not that other user is a
 Hachydermian.
 
 ### What to Include in a Report
@@ -125,7 +125,7 @@ content warnings when they should, please make sure to help us help you
 by:
 
 * Including the toot(s) in the report, so we don't need to search for them
-* Including information for why the content is probelmatic, even if it
+* Including information for why the content is problematic, even if it
   seems obvious.
   
 There are far more of you than us, and these two things will help us
