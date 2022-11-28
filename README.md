@@ -100,7 +100,7 @@ finding a respectful way of communicating their contrarian views.
 
 We expect all members to be respectful and thus, not be a dick.
 
-### What about "shitposting"?
+### What about "shitposting" / "pooptooting"?
 
 Oxford dictionary defines shitposting as:
 
