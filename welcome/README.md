@@ -15,7 +15,7 @@ and Terms of Service.
 
 ## Respectful Tooting
 
-### How do I access (public) toots?
+### How do I access (public) posts?
 
 There are a few different ways:
 
@@ -39,14 +39,14 @@ more or less compatible with screenreaders and VoiceOver, and so on.
 This diagram has been making rounds on Twitter, Mastodon, et al. It is from a
 GitHub issue on the Mastodon project:
 
-<img src="../assets/mastodon-toot-visibility-flowchart.jpg"
-     alt="Flow chart showing that a public toot by USER is visible only if you
+<img src="../assets/mastodon-post-visibility-flowchart.jpg"
+     alt="Flow chart showing that a public post by USER is visible only if you
           are: following that user, the user is on the same instance as you, or
-          someone on your instanced follows and interacted with the toot"
+          someone on your instanced follows and interacted with the post"
      width="400" />
 
-This is the case of _public_ toots only. When you are a private account, the
-people you allow to follow you are the people who can see your toots.
+This is the case of _public_ posts only. When you are a private account, the
+people you allow to follow you are the people who can see your posts.
 
 ### Who can see DMs? It depends.
 
@@ -87,9 +87,9 @@ Proactively:
 
 The UI experience of DMs is not as clearly separated as other apps like
 Twitter, Slack/Discord, et al. In the web UI, for example, DMs do not look
-significantly different than a private account tooting in your feed. Some of
+significantly different than a private account posting in your feed. Some of
 the mobile apps, like Toot!, have a better visual separation. Basically:
-depending on where you prefer to toot, you'll have vastly different experiences
+depending on where you prefer to post, you'll have vastly different experiences
 (for now).
 
 ## Content Warnings ⛔️
@@ -98,15 +98,15 @@ Hachyderm does not have a firm rule on content warnings. Use them as you
 please. However we do offer some best practices for you to consider.
 
 Content Warnings are implemented differently in Mastodon than Twitter. CW'ed
-toots look like this:
+posts look like this:
 
 <img src="../assets/mastodon-content-warning.png"
-     alt="Screenshot of a toot with content warning 'Politics (CO)' and the
+     alt="Screenshot of a post with content warning 'Politics (CO)' and the
           blurred out content labeled 'Sensitive Content'"
      width="400"/>
 
-In this case the toot has both text and associated graphic. You would need to
-click to display each separately in each case. When a toot has a CW, all toots
+In this case the post has both text and associated graphic. You would need to
+click to display each separately in each case. When a post has a CW, all posts
 in the conversation carry that same CW.
 
 Content Warnings have a few uses:
@@ -122,19 +122,19 @@ It is far easier on the mental health of other users to opt into a discussion
 about Whatever than to skim past it.
 
 Also! Make sure that your CWs are _specific_ so users know whether they want to
-opt in or not. e.g. are you hiding a toot / image that depicts violence or
+opt in or not. e.g. are you hiding a post / image that depicts violence or
 hints at it? Are you hiding the season finale to a show? How users socialize
 their use of CWs is what makes them useful. Making heavy, unclear, use of CWs
 adds confusion.
 
-## Hashtags will help others see your toots
+## Hashtags will help others see your posts
 
 If you've tried to use the search function you've likely noticed that you
 cannot use it _quite_ the same way as Twitter. You cannot search for a term and
 find everyone writing about that word on your own or federated servers. What
 _does_ show up are people and hashtags. You can take this information and do
 with it what you will :) We do not recommend adding so many hashtags to your
-toots that they are unreadable though.
+posts that they are unreadable though.
 
 <u>Accessibility Awareness</u>: when you camel case your hashtags (CamelCase)
 then screenreaders can successfully read the text, but when you use all same
@@ -143,7 +143,7 @@ hashtags, please remember to \#UseCamelCase.
 
 ## Tooting Videos
 
-Although you can upload videos to toot, we recommend linking to a third party
+Although you can upload videos to post, we recommend linking to a third party
 service like Vimeo, TikTok, et al.
 
 ## Emojis 👍
@@ -176,9 +176,9 @@ you can add notes that only you see to a users profile. For example:
 Not all mobile apps support editing this field at this time, so that is
 something to check if that interests you.
 
-# What to toot?
+# What to post?
 
-So now that you've learned all of that, what _do_ you toot? Well, you
+So now that you've learned all of that, what _do_ you post? Well, you
 might want to start by making an \#introduction post (tag intentional),
 as it is very common to do across instances. The tag helps your post be
 discoverable by others who are also new and looking for those who are

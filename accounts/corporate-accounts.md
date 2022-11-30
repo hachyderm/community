@@ -14,8 +14,8 @@ In other words if you intend to create an account for a business, you should rea
   
 #### Current Corporate Accounts
 
-* Oxide Computer Company ([Oxide Computer Company's toot](https://hachyderm.io/@oxidecomputer/109328522372516771), [Oxide Computer Company's web page](https://oxide.computer/))
-* Tailscale ([Tailscale's toot](https://hachyderm.io/@tailscale/109354733547660732), [Tailscale's web site](https://tailscale.com/))
+* Oxide Computer Company ([Oxide Computer Company's post](https://hachyderm.io/@oxidecomputer/109328522372516771), [Oxide Computer Company's web page](https://oxide.computer/))
+* Tailscale ([Tailscale's post](https://hachyderm.io/@tailscale/109354733547660732), [Tailscale's web site](https://tailscale.com/))
 
 #### How do I get my company invited?
 

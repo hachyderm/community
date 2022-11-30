@@ -68,7 +68,7 @@ finding a respectful way of communicating their contrarian views.
 
 We expect all members to be respectful and thus, not be a dick.
 
-#### What about "shitposting" / "pooptooting"?
+#### What about "shitposting"?
 
 Oxford dictionary defines shitposting as:
 
@@ -123,7 +123,7 @@ err on the side of caution with these reports and handle from that posture.
 #### What you should do if reporting this type of activity
 
 Make sure to include as much information as possible in the report, 
-including any and all toots or links to other relevant information
+including any and all posts or links to other relevant information
 so we are able to quickly and easily see the severity
 and scope of the issue being reported.
 

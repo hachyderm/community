@@ -4,24 +4,24 @@ The short version: content warnings are a feature that allows you to
 obscure your content in such a way that it is hidden by default in other
 users' timelines. Instead, only the text of the content warning is
 displayed. To put it another way, if you were to put a content warning on
-one of your toots that read "descriptions of war violence" while discussing
+one of your posts that read "descriptions of war violence" while discussing
 current or past wars, users would only see that description and could then
 choose to click through the content warning to view the content (or not).
 
 ## How to Apply a Content Warning
 
-In order to apply a content warning use the "CW" in the toot field:
+In order to apply a content warning use the "CW" in the post field:
 
 <img src="../assets/mastodon-content-warning-button.png" 
      width="400"
-     alt="Screenshot of the toot field with the CW circled and with
+     alt="Screenshot of the post field with the CW circled and with
           an arrow pointing to it" />
 
-An example toot with a content warning on the text and image looks like
+An example post with a content warning on the text and image looks like
 this:
 
 <img src="../assets/mastodon-content-warning.png"
-     alt="Screenshot of a toot with content warning 'Politics (CO)' and the
+     alt="Screenshot of a post with content warning 'Politics (CO)' and the
           blurred out content labeled 'Sensitive Content'"
      width="400"/>
 
@@ -124,7 +124,7 @@ position where you need to file a report against a user for not using
 content warnings when they should, please make sure to help us help you
 by:
 
-* Including the toot(s) in the report, so we don't need to search for them
+* Including the post(s) in the report, so we don't need to search for them
 * Including information for why the content is problematic, even if it
   seems obvious.
   

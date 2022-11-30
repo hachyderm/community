@@ -60,7 +60,7 @@ account types that we explicitly do not allow:
 To be clear: our users may engage with the above types of content
 if they wish, we just aren't geared for supporting the above
 account types. An account will be considered one of the above if
-all / mostly all of their posts and re-toots are in the above
+all / mostly all of their posts and re-posts are in the above
 categories.
 
 ## Rules
@@ -100,7 +100,7 @@ finding a respectful way of communicating their contrarian views.
 
 We expect all members to be respectful and thus, not be a dick.
 
-### What about "shitposting" / "pooptooting"?
+### What about "shitposting"?
 
 Oxford dictionary defines shitposting as:
 
