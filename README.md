@@ -18,6 +18,12 @@ Here you will find information and resources on how we manage things at Hachyder
 > Safe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae.
 > Kubernetes. Go. C. Infrastructure. Security. LGTBQIA+. Pets. Hobbies.
 
+## Latest Communications 🗞️
+
+Wednesday, November 30, 2022 
+
+[Hachyderm Infrastructure and Availability Update](https://hackmd.io/@RpWN2RtRQBORY9LlhuVz2A/HkFSsHrPo)
+
 ## Getting Started / Signing Up
 
 If you are interested in joining Hachyderm, or have recently joined please see
