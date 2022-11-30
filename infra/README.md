@@ -16,7 +16,9 @@ we do not run any of our infrastructure in any large cloud provider such as
 AWS, or Google Cloud.
 
 All of your data is stored on flash storage arrays that our operators can
-physically touch.
+physically touch, except for media files (images, videos, avatars, etc.) which
+are now uploaded and proxied to [DigitalOcean
+Spaces](https://www.digitalocean.com/products/spaces).
 
 All of our network traffic is managed through a gateway that is connected to a
 fiber optic cable that Kris Nóva installed and terminated herself.
