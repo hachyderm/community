@@ -62,13 +62,13 @@ manage effectively. The short version is:
 option is to opt into a conversation rather than to default into that
 conversation.**
 
-I'm going to start with a hopefully clear example. Let's say that you're
-focusing on human rights abuses around the world. You are in a position
-to also directly share, or share news stores that display, images of the
-abuses that are happening to show others the reality of that situation.
+Let's start with a hopefully clear example. If you want to focus on
+sharing news about human rights abuses around the world, you wil likely
+be sharing links and media that shows the reality of those situations.
 This could include a lot of violent and traumatic video and images. Due to
-the nature of the situation(s), you may want to make sure that people can
+the need to raise awareness, you may want to make sure that people can
 see the content to avoid turning a blind eye.
+
 
 That said: you cannot control the reach of your information.
 This means that by not using a content warning, not only will the people
@@ -78,20 +78,27 @@ of that same violence to content that triggers their trauma. So what's the
 psychologically safest option? To protect the most vulnerable, in this case
 the people with trauma, and that means use a content warning. The post will
 still have the same reach, but it allows people to opt into that conversation.
+In these cases it is to your benefit to use clear content warnings,
+e.g. "article about the war in Ukraine, includes
+images of physical violence in the war zone". A content warning that is clear
+like this serves the dual purpose of labeling the topic of the post
+while also explaining why it is behind a content warning.
 
 Similar cases to the above would be any posts that includes text
 descriptions of, or images and video of, violent actions including but not
 limited to physical or sexual violence. To be clear: our definition of
 violence is not limited to being between humans, but includes animal
-abuse as well.
+abuse as well. (For more clarification on the various rules, like
+"No violence", please see [our Rule Explainer](README.md).)
 
 Areas that might take more learning and growth to understand and adopt
 are normally those that involve understanding intersectionality of users
-on the platform. For example, you may see people post content warning on
+on the platform. For example, you may see people use content warnings on
 images with faces (especially with eye contact) or over food. With these
 specific examples using a content warning for faces and eye contact is to
 help neurodiverse users on the platform who struggle with these and have
-strong adverse reactions to it, and for the latter it can be to help those with eating disorders or who are recovering. (Or similar for images of
+strong adverse reactions to it, and for the latter it can be to help those
+with eating disorders or who are recovering. (Or similar for images of
 alcohol for users who struggle / are recovering from alcohol addiction.)
 
 For taking an active part in keeping Hachyderm a psychologically safe
@@ -108,25 +115,14 @@ Succinctly:
   it really is in poor form to openly share spoilers.
 * Moderators will protect the psychological safety of users and prioritize
   the most vulnerable.
-  
-For the latter: this means we will handle reports that violate the
-psychological safety of others equally whether they occurred on our
-instance or by one of our users interacting with users on other instances.
-To rephrase with a concrete example, we'll treat a report about posting violent images the same whether someone is posting it on their timeline or
-posting it to another user regardless of whether or not that other user is a
-Hachydermian.
+* Using a content warning as a workaround is not actually a workaround
 
-### What to Include in a Report
+For the last one, that means that if a post is in violation of our
+rules, then the content warning doesn't make the infraction "better"
+or evade the potential for moderation action like warning, limiting,
+or suspending the account (situationally and rule dependent).
 
-Remember our moderators are human and will be doing our best to
-ensure that all users feel safe on our platform. If you are ever in a
-position where you need to file a report against a user for not using
-content warnings when they should, please make sure to help us help you
-by:
-
-* Including the post(s) in the report, so we don't need to search for them
-* Including information for why the content is problematic, even if it
-  seems obvious.
-  
-There are far more of you than us, and these two things will help us
-handle your reports effectively and efficiently.
+As a matter of scope, it is also important to understand it doesn't
+matter if the infraction occurs one of our user's posts on their
+own timeline or as a response to a fellow Hachydermian here or
+user on another Mastodon instance.
