@@ -115,6 +115,8 @@ Succinctly:
   it really is in poor form to openly share spoilers.
 * Moderators will protect the psychological safety of users and prioritize
   the most vulnerable.
+* Moderators will not, in general, enforce content warnings.
+  Exceptions to this are noted specifically in [the Rule Explainer](README.md).
 * Using a content warning as a workaround is not actually a workaround
 
 For the last one, that means that if a post is in violation of our
