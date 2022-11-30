@@ -123,6 +123,6 @@ or evade the potential for moderation action like warning, limiting,
 or suspending the account (situationally and rule dependent).
 
 As a matter of scope, it is also important to understand it doesn't
-matter if the infraction occurs one of our user's posts on their
-own timeline or as a response to a fellow Hachydermian here or
-user on another Mastodon instance.
+if the infraction is a post on someone's own timeline, 
+as a response to a fellow Hachydermian here, or when interacting
+with a user on another Mastodon instance.
