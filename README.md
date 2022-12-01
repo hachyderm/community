@@ -28,7 +28,7 @@ We are closing signups and plan to re-open in the new year.
 
 ## New to Hachyderm and Mastodon?
 
-If you are interested in joining Hachyderm, or have recently joined please see
+If you have recently joined Hachyderm and/or Mastodon, please see
 the following:
 
 - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
