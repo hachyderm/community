@@ -6,6 +6,12 @@ Make sure to check our status page: [status.hachyderm.io](https://status.hachyde
 
 Here you will find information and resources on how we manage things at Hachyderm.
 
+## Status: Is Hachyderm down or is it just me?
+
+Check the status page: [status.hachyderm.io](https://status.hachyderm.io)
+
+Additionally check: [our public Grafana dashboard](https://grafana.hachyderm.io/d/Yd1veAvVz/hachyderm?orgId=1&refresh=30s&from=1669786565620&to=1669872965620)
+
 ## Mission
 
 > Here we are trying to build a curated network of respectful professionals in
@@ -217,10 +223,3 @@ already exists.
 ### Do
 
 - File an issue in this repository
-
-## Status: Is Hachyderm down or is it just me?
-
-Check the status page: [status.hachyderm.io](https://status.hachyderm.io)
-
-Additionally check: [our public Grafana dashboard](
-https://grafana.hachyderm.io/public-dashboards/bc9e340202c1495888d8fd849112a813?orgId=0&refresh=30s)
