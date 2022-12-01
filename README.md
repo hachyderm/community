@@ -24,7 +24,9 @@ Wednesday, November 30, 2022
 
 [Hachyderm Infrastructure and Availability Update](https://hackmd.io/@RpWN2RtRQBORY9LlhuVz2A/HkFSsHrPo)
 
-## Getting Started / Signing Up
+We are closing signups and plan to re-open in the new year.
+
+## New to Hachyderm and Mastodon?
 
 If you are interested in joining Hachyderm, or have recently joined please see
 the following:
