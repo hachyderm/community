@@ -10,7 +10,7 @@ Here you will find information and resources on how we manage things at Hachyder
 
 Check the status page: [status.hachyderm.io](https://status.hachyderm.io)
 
-Additionally check: [our public Grafana dashboard](https://grafana.hachyderm.io/d/Yd1veAvVz/hachyderm?orgId=1&refresh=30s&from=1669786565620&to=1669872965620)
+Additionally check: [our public Grafana dashboard](https://grafana.hachyderm.io/public-dashboards/445bbb0e169f4e86b1d1eeee7e50c92a)
 
 ## Mission
 
