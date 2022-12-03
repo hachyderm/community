@@ -93,7 +93,7 @@ Being a dick is measured by "self control" and "intent".
 
 > Are you able to restrain yourself? What are your intentions?
 
-If your intentions are to hurt, brandish, slander, diminish, insult, or offend 
+If your intentions are to hurt, brandish, intimidate, slander, diminish, insult, or offend 
 someone you are likely being a dick. If you are commenting on anyone's "tone",
 whether or not they are "having a civilized" discussion, or offering apologetics
 in response to one or more of the various forms of extremism, you are _also_ likely
