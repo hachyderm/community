@@ -36,11 +36,12 @@ We will be looking into donation and subscription models such as Patreon at that
 
 From now until the end of the year, Hachyderm will continue to operate using the proceeds of Kris Nóva's Twitch streams, and our donations through the [ko-fi](https://ko-fi.com/krisnovalive) donation page.
 
-### Legal Entity 
+### Governing Body
 
-In order for us to roll out a new financial model, we will be forming a legal entity to control Hachyderm.
+We are considering forming a legal entity to control Hachyderm in January 2023.
 
 At this time we are not considering a for-profit corporation for Hachyderm.
+
 The exact details of what our decision is, will be announced as we come to conviction and seek legal advice.
 
 ### User Registration 
