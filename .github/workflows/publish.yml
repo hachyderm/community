@@ -26,7 +26,7 @@ jobs:
           hugo-version: "latest"
           extended: true
       - name: Pre-build
-        run: cd community.hachyder.io && make hugo
+        run: cd community.hachyderm.io && make hugo
       - name: Build
         run: cd community.hachyderm.io && hugo --minify
       - name: Upload artifact
