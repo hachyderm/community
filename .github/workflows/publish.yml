@@ -20,7 +20,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true || github.event_name == "push" || github.event_name == "workflow_dispatch"
+    if: github.event.pull_request.merged == true || contains(fromJson('["push", "workflow_dispatch"]'), github.event_name)
     steps:
       - name: Checkout
         uses: actions/checkout@v3
