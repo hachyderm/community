@@ -25,8 +25,10 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
+      - name: Pre-build
+        run: npm install postcss-cli
       - name: Build
-        run: cd community.hachyderm.io && npm install postcss-cli && hugo --minify
+        run: cd community.hachyderm.io && hugo --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
