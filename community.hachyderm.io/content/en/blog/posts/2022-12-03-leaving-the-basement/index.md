@@ -135,11 +135,20 @@ Every beautiful system, has never seen spontaneous adoption.
 
 ## Finding Root Causes
 
-By the 3rd day we had roughly 20 changelogs filed. 
+By the 3rd day we had roughly 20 changelogs filed.
+
 Each changelog capturing the story of a highly motivated and extremely hopeful member of the team believing they had once and for all identified the bottleneck.
 Each, ultimately failing to stop the flapping of Hachyderm.
 
-We had narrowed down our problem two 2 disks on Alice. 
+I cannot say enough good things about the team who worked around the clock on Hachyderm. In many cases we were sleeping for 4 hours a night, and bringing our laptops to bed with us.
+
+ - [@Quintessence](https://hachyderm.io/@Quintessence) wins the "Universe's best incident commander" award.
+ - [@Taniwha](https://hachyderm.io/@Taniwha)  wins the "Best late night hacker and cyber detective" award.
+ - [@hazelweakly](https://hachyderm.io/@hazelweakly) wins the "Extreme research and googling cyberhacker" award.
+ - [@malte](https://hachyderm.io/@malte) wins the "Best architect and most likely to remain calm in a crisis" award.
+ - [@dma](https://hachyderm.io/@dma) wins the "Best scientist and graph enthusiast" award.
+
+After all of our research, science, and detection work we had narrowed down our problem two 2 disks on Alice. 
 
 ```
 /dev/sdg # 2Tb "new" drive
@@ -208,7 +217,7 @@ Thank you to Gabe Monroy, Ado Kukic, and Daniel Hix for helping us with this pat
 
 There was one concern, how were we going to transfer over 1Tb of data to Digital Ocean on already failing disks?
 
-One of our infrastructure volunteers [@MalteJ](https://github.com/MalteJ) had helped us come up with an extremely clever solution to the problem.
+One of our infrastructure volunteers [@malte](https://hachyderm.io/@malte) had helped us come up with an extremely clever solution to the problem.
 
 We could leverage Hachyderm's users to help us perform the most meaningful work first.
 
@@ -303,10 +312,10 @@ Our main operational problems stemmed from scaling humans, and not our knowledge
 We have observability, security, and infrastructure experts from across Silicon Valley working on Hachyderm and we were still SSHing into production and sharing passwords.
 
 In other words, our main limitations to scale were managing people, processes, and organizational challenges.
-Even determining who was responsible for what, seemed to be the biggest challenge our group faced.
+Even determining who was responsible for what, was a problem within itself.
 
 We had a team of experts without any formal precedent working together, and no legal structure or corporate organization to glue us together.
-We defaulted back to some bad habits in a pinch, and also uncovered some exciting new patterns that are only possible in the fediverse.
+We defaulted back to some bad habits in a pinch, and also uncovered some exciting new patterns that were only made possible because of the constraints of the fediverse.
 
 Ultimately I believe that myself, and the entire team is convinced that the future of the internet and social is going to be in large collaborative operational systems that operate in a decentralized network.
 
