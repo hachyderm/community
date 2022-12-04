@@ -308,7 +308,7 @@ On our list of items to cover moving forward:
 ## Conclusion 
 
 We suffered from pretty common pitfalls in our system. 
-Our main operational problems stemmed from scaling humans, and not our knowledge of how to build effective distirbuted systems.
+Our main operational problems stemmed from scaling humans, and not our knowledge of how to build effective distributed systems.
 We have observability, security, and infrastructure experts from across Silicon Valley working on Hachyderm and we were still SSHing into production and sharing passwords.
 
 In other words, our main limitations to scale were managing people, processes, and organizational challenges.
