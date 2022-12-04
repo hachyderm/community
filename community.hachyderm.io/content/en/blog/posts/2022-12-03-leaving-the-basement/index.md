@@ -3,7 +3,7 @@ date: 2022-12-03
 title: "Leaving the Basement"
 linkTitle: "Leaving the Basement"
 description: "Hachyderm has reached 30,000 users. A 'small sized' service in regard to scale. However, in the process we have hit very familiar 'medium sized' scale problems which caused us to migrate our services out of my basement. This is the outage report, post mortem, and high level overview of the process of migrating to Hetzner in Germany. From observation to production fixes. This is the story."
-author: Kris Nóva ([@krisnova](https://github.com/krisnova))
+author: Kris Nóva ([@krisnova](https://hachyderm.io/@nova))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
