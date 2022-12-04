@@ -23,7 +23,7 @@ I will end with an accurate depiction of how hachyderm exists today.
 Alice, our main on-premise server with her 8 SSDs. A 48 port Unifi Gigabit switch.
 {{< /imgproc >}}
 
-# State of Hachyderm: Before
+## State of Hachyderm: Before
 
 Hachyderm obtained roughly 30,000 users in 30 days; or roughly 1 new user every 1.5 minutes for the duration of the month of November.
 
@@ -59,7 +59,7 @@ The server service layout is detailed below.
 
 ![Hachyderm Before Fanout](before-diagram.png)
 
-# Problems in Production
+## Problems in Production
 
 For the vast majority of November, Hachyderm had been stable. 
 Most users reported excellent experience, and our systems remained relatively healthy.
@@ -305,7 +305,7 @@ On our list of items to cover moving forward:
  - [ ] Migrate to NixOS or Kubernetes depending on the needs of the system.
  - [ ] Get back to working on Aurae, now with a lot more product requirements than we had before.
 
-# Conclusion 
+## Conclusion 
 
 We suffered from pretty common pitfalls in our system. 
 Our main operational problems stemmed from scaling humans, and not our knowledge of how to build effective distirbuted systems.
