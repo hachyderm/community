@@ -2,7 +2,7 @@
 date: 2022-12-03
 title: "Leaving the Basement"
 linkTitle: "Leaving the Basement"
-description: "Hachyderm has reached 30,000 users. In the process we have hit substantial scale problems, and had to migrate our services out of the basement. This is the outage report, post mortem, and high level overview of the process of migrating to Hetzner in Germany. From observation to production fixes. This is the story."
+description: "Hachyderm has reached 30,000 users. A very small number in regard to scale. However, in the process we have hit familiar "medium sized" scale problems, and had to migrate our services out of the basement. This is the outage report, post mortem, and high level overview of the process of migrating to Hetzner in Germany. From observation to production fixes. This is the story."
 author: Kris Nóva ([@krisnova](https://github.com/krisnova))
 resources:
 - src: "**.{png,jpg}"
@@ -245,12 +245,14 @@ The more they used Hachyderm, the more we migrated off Alice's bad disks.
 By the time the change had been in production for a few hours, we all had noticed a substantial increase in our performance.
 We were able to remove NFS from the system, and shuffle around our Puma servers, and sidekiq queues to reduce load on Postgres. 
 
-Alice was serving files from the bad disks, however once the file had left Alice she would never have to serve it again.
+Alice was serving files from the bad disks, however all of our writes were now going to Digital Ocean.
 
 While our systems performance did "improve" it was still far from perfect. 
 HTTP(s) requests were still very slowly, and in cases would timeout and flap. 
 
 At this point it was easy to determine that Postgres (and it's relationship to the bad disks) was the next bottleneck in the system.
+
+**Note**: _We still have an outstanding theory that ZFS, specifically the unbalanced mirrors, is also a contributing factor. We will not be able to validate this theory until the service is completely off Alice._
 
 It would be slightly more challenging coming up with a clever solution to get Postgres off Alice.
 
