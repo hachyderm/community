@@ -16,6 +16,10 @@
 
 default: help
 
+hugo: ## Build the hugo site for CI
+	npm install postcss-cli
+	hugo --minify
+
 submodule: ## Build the git submodule
 	git submodule update --init --recursive
 
