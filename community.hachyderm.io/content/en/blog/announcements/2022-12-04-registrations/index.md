@@ -30,4 +30,4 @@ In my opinion, I believe that we will see substantially less adoption in Decembe
 
 We will be watching closely to validate this hypothesis, and will leverage this announcement page as an official source of truth if our posture changes.
 
-For now we have addressed some more detail on growth, registrations, and sustainability in our [Growth and Sustainability])(https://community.hachyderm.io/blog/2022/12/04/growth-and-sustainability/) blog.
+For now we have addressed some more detail on growth, registrations, and sustainability in our [Growth and Sustainability](https://community.hachyderm.io/blog/2022/12/04/growth-and-sustainability/) blog.
