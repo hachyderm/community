@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://community.hachyderm.io/"
 title = "Hachyderm Community"
 
 # Language settings
