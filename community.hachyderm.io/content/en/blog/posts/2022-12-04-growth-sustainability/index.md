@@ -64,7 +64,9 @@ We will reevaluating this decision continuously. If at any point the growth patt
 
 ### Call for Volunteers
 
-We will be onboarding new moderators and operators in January to help with our service. 
+We will be onboarding new moderators and operators in January to help with our service. To help with that, we have created a short Typeform to consolidate all the volunteer offers so it is easier for us to reach back out to you when we're ready:
+
+[Hachyderm Interest Form](https://5ye40vg1ub3.typeform.com/to/HS1puq1o)
 
 The existing teams will be spending the rest of December cleaning up documentation, and building out this community resource in a way that is easy for newcomers to be self sufficent with our services.
 
