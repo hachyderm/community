@@ -1,4 +1,8 @@
-# Open Source Project Accounts
+---
+title: "Open Source Project Accounts"
+linkTitle: "Open Source Project Accounts"
+weight: 20
+---
 
 This section is for anyone who is interested in creating an account
 specifically for an open source project.
@@ -41,7 +45,7 @@ financially biased markets, or products that are extension of a single
 corporation.
 
 We will treat all corporation-specific projects as the parent corporation
-itself which is bound to the [corporate accounts](corporate-accounts.md)
+itself which is bound to the [corporate accounts](/docs/account-types/corporate-accounts/)
 documentation.
 
 - :heavy_multiplication_x: Financially biased trade organizations and governing
