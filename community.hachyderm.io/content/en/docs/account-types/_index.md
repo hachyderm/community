@@ -4,8 +4,6 @@ linkTitle: "Account Types"
 weight: 20
 ---
 
-**Test for merge**
-
 We distinguish between 2 main types of accounts that we use to measure and
 moderate here on Hachyderm: specialized accounts and user
 accounts. (Specialized accounts are sometimes also referred to as
