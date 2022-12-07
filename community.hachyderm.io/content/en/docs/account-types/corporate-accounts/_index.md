@@ -1,4 +1,10 @@
-# Hachyderm Corporate Covenant
+---
+title: "Corporate Accounts"
+linkTitle: "Corporate Accounts"
+weight: 20
+---
+
+## Corporate Covenant
 
 ### What is a Corporate Account? Do I need one? Am I one?
 

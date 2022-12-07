@@ -1,4 +1,8 @@
-# Influencer Accounts
+---
+title: "Influencer Accounts"
+linkTitle: "Influencer Accounts"
+weight: 20
+---
 
 In short, we welcome all influencers and have an open door policy to any large
 influencer account who would like to make Hachyderm a home.

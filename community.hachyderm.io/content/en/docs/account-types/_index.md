@@ -1,4 +1,8 @@
-# Types of Hachyderm Accounts
+---
+title: "Account Types"
+linkTitle: "Account Types"
+weight: 20
+---
 
 We distinguish between 2 main types of accounts that we use to measure and
 moderate here on Hachyderm: specialized accounts and user
@@ -30,7 +34,7 @@ invite only, you must first reach out to us at
 ## User Accounts
 
 User accounts are also referred to as General Accounts, which are
-briefly described on our [General Accounts Page](general-accounts.md).
+briefly described on our [General Accounts Page](/docs/account-types/general-accounts/).
 In general:
 
 - Follow server rules
@@ -46,8 +50,7 @@ type based on name or About page and be bound by those rules.
 **Influencer Accounts = Large Userbase Accounts**
 
 Anyone who has more than 25k followers on an existing platform is
-what we refer to as an [Influencer
-Account](influencer-accounts.md). The only special rule here is
+what we refer to as an [Influencer Account](/docs/account-types/influencer-accounts/). The only special rule here is
 that we request that you reach out to us in advance at
 [admin@hachyderm.io](mailto:admin@hachyderm.io) before migrating
 as we will likely need to assist with the migration to prevent
@@ -68,8 +71,8 @@ that web page must be verified on your profile.
 
 **Company and Project Account Types**
 
-- [Corporate Accounts](corporate-accounts.md)
-- [Open Source Accounts](open-source-accounts.md)
+- [Corporate Accounts](/docs/account-types/corporate-accounts/)
+- [Open Source Accounts](/docs/account-types/open-source-accounts/)
 
 
 **Special / Focused Content Account Types**
@@ -83,7 +86,7 @@ These will have their own separate pages soon, but include:
 
 **Automated Posting / Bot Account Types**
 
-- [Bot Accounts](bot-accounts.md)
+- [Bot Accounts](/docs/account-types/bot-accounts/)
 
 ## Frequently Asked Questions
 

@@ -1,11 +1,14 @@
-# Bots on Hachyderm
+---
+title: "Bot Accounts"
+linkTitle: "Bot Accounts"
+weight: 20
+---
 
 Bots come in a wide variety of frequencies and topic spaces. To
 limit which bot accounts are posting on our server, bot accounts
 must be approved to join. Although bot accounts are not
 necessarily corporate accounts, and those that are would fall
-under the rules described in [Corporate
-Accounts](corporate-accounts.md), there are a few common threads
+under the rules described in [Corporate Accounts](/docs/account-types/corporate-accounts/), there are a few common threads
 between them copied in below:
 
 ### 1. Be a Hachydermian: Fines Doubled In Work Zone
@@ -30,13 +33,12 @@ We will be moderating the bot accounts in a way that does not
 create undue burnden on our volunteer mod team.
 
 If you would like the longer descriptions of the above,
-please take a look at our [Corporate Accounts](corporate-accounts.md)
+please take a look at our [Corporate Accounts](/docs/account-types/corporate-accounts/)
 which spells these out in more detail.
 
 ## Bot Account Posting Rules
 
-- All bots must select the bot checkbox in their profile settings
-  <br /> <img src="../assets/mastodon-bot-account.png" width="350px"
+- All bots must select the bot checkbox in their profile settings ![Bot profile settings](mastodon-bot-account.png)
   alt="Screenshot of four check boxes in account settings: require follow
   requests, this is a bot account, suggest account to others, and hide
   your social graph" />
