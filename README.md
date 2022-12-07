@@ -1,6 +1,6 @@
 # The Hachyderm Community
 
-Welcome to the Hachyderm community.
+Welcome to the Hachyderm community. We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
 
 Make sure to check our status page: [status.hachyderm.io](https://status.hachyderm.io)
 
@@ -186,13 +186,6 @@ We will work with you to find a happy path, however if it becomes a pattern we
 will ask you to leave Hachyderm.
 
 - [Moderator Documentation](/mods/README.md)
-
-## Understanding Infrastructure and Data
-
-We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
-
-- [Infrastructure Documentation](infra/README.md) has the most relevant
-  information on our systems and your data.
 
 ## Troubleshooting, Support, and Issues
 
