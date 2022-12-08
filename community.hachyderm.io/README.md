@@ -4,7 +4,8 @@ Here is the static website that is hosted at [community.hachyderm.io](https://co
 
 ### Building The Website
 
-Clone the repository and build the submodule.
+Clone the repository and build the submodule. Note that you must have
+Go installed to build the site. [Go Installation Instructions are here](https://go.dev/doc/install). (Note: if you are using macOS you can install Go with `brew`.)
 
 ```
 git clone git@github.com:hachyderm/community.git
@@ -14,7 +15,9 @@ make submodule
 
 ### Running The Website
 
-The site is built with [Hugo](https://gohugo.io/). You'll need it in order to work on the site. [Installation instructions are here](https://gohugo.io/installation/)
+The site is built with [Hugo](https://gohugo.io/) and also requires Go, as indicated above. [Hugo Installation instructions are
+here](https://gohugo.io/installation/) (Note: if you
+are using macOS you can install Hugo with `brew`.)
 
 Once you have hugo, run the following command in the `community/community.hachyderm.io` directory to start the development server.
 
