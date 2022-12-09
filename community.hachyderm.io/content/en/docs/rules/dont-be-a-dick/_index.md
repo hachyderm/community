@@ -1,10 +1,8 @@
 ---
 title: "Don't be a dick"
 linkTitle: "Don't be a dick"
-weight: 10
+weight: 11
 ---
-
-We cover this pretty heavily in [our main README](../README.md) as follows:
 
 Hachyderm and its surrounding community have found safety and value in a
 primary guiding principle, that is often hard to interpret.
