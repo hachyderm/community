@@ -27,6 +27,10 @@ make dev
 
 The first time you run the command will take a little bit while it downloads some necessities. Once it's running, the dev site is available at [localhost:1313](http://localhost:1313/).
 
+⚠️ Note that Hugo v0.101.0+extended has worked in development but
+v0.107.x+extended and higher do not. Please use v0.101.0+extended
+for local development. ⚠️
+
 You should not use Docker to locally work on the Community Docs,
 only Hugo.
 
