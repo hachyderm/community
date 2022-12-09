@@ -1,4 +1,8 @@
-# All About Content Warnings
+---
+title: 'All About Content Warnings'
+linkTitle: 'All About Content Warnings'
+weight: 4
+---
 
 The short version: content warnings are a feature that allows you to
 obscure your content in such a way that it is hidden by default in other
