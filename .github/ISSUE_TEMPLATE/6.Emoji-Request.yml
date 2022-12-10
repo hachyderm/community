@@ -1,4 +1,4 @@
-name: Emoji Request
+name: 💕 Emoji Request 🐘
 description: |
   If you're looking to add or remove an emoji, here is the right place!
 labels: ["Emoji Request"]
@@ -15,7 +15,8 @@ body:
 
         Please note that you can see emoji render on statuses of other Mastodon users that are
         *not* on Hachyderm, so those emojis are not locally hosted by Hachyderm. We cannot
-        moderate the emoji on other servers.
+        moderate the emoji on other servers. If you are unsure if the emoji is on our server
+        or not, please take a look at [our server emoji list](https://emojos.in/hachyderm.io).
   - type: textarea
     attributes:
       label: |
