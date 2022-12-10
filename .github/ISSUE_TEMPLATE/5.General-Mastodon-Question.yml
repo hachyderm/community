@@ -1,0 +1,24 @@
+name: General Mastodon Questions 
+description: |
+  Whether new or experienced with the Fediverse, this is where you
+  ask questions about how to use features and participate.
+labels: ["General Mastodon Questions"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please note: although we can do Q&A about Mastodon and how
+        to interact with both Hachyderm and the Fediverse, we are
+        not maintainers of the Mastodon project. If you want to
+        submit a feature or bug report directly to Mastodon,
+        please reach out to them on [the Mastodon GitHub
+        repo](https://github.com/mastodon/mastodon/issues).
+  - type: textarea
+    attributes:
+      label: |
+        What is your question?
+      description: |
+        Use as much detail as possible.
+    validations:
+      required: true
+

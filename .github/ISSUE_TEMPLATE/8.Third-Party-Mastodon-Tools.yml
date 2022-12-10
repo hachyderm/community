@@ -1,0 +1,24 @@
+name: Third Party Mastodon Tools
+description: |
+  This issue type is specifically for suggesting third party tools to use with Mastodon
+  as deployed and run on Hachyderm.
+labels: ["Suggestions"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reaching out to us! Please make sure this is a new suggestion
+        before proceeding.
+
+        Please also note that we are not going to make changes that require us to fork
+        from the main Mastodon project at this time, so we will not accept those tooling
+        suggestions at this time.
+  - type: textarea
+    attributes:
+      label: |
+        What is your suggestion?
+      description: |
+        Use as much detail and context about the tool(s) as possible.
+    validations:
+      required: true
+

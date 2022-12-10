@@ -1,0 +1,22 @@
+name: General Suggestions
+description: |
+  This issue type is for suggestions that are not captured by the other
+  issue types.
+labels: ["Suggestions"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reaching out to us with your suggestions! Please make sure
+        to verify that another thread hasn't been created with the same suggestion.
+
+        If this is a new suggestion, please succinctly describe it in the Title.
+  - type: textarea
+    attributes:
+      label: |
+        What is your suggestion?
+      description: |
+        Use as much detail as possible.
+    validations:
+      required: true
+

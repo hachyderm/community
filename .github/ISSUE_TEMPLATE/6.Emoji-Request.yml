@@ -1,0 +1,27 @@
+name: Emoji Request
+description: |
+  If you're looking to add or remove an emoji, here is the right place!
+labels: ["Emoji Request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        What emoji would you like us to add or change? If you are looking for us to add an emoji
+        you must include the emoji file(s) or links to the files in this request.
+
+        If there is an emoji that needs to be removed from the emoji set for whatever reason,
+        please include the full shortcode to the emoji, e.g. :blobfoxcomfy:, and let us know
+        how it violates our server rules.
+
+        Please note that you can see emoji render on statuses of other Mastodon users that are
+        *not* on Hachyderm, so those emojis are not locally hosted by Hachyderm. We cannot
+        moderate the emoji on other servers.
+  - type: textarea
+    attributes:
+      label: |
+        So what emoji are you looking for?
+      description: |
+        Remember to link / upload the file!
+    validations:
+      required: true
+

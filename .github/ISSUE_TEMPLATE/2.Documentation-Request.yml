@@ -1,0 +1,29 @@
+name: Documentation Request 
+description: |
+  There is something that needs to be added or fixed on the
+  Hachyderm documentation.
+labels: ["Documentation Request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reaching out to us to request an update or
+        change to the documentation. Please make sure there are
+        not other, identical, requests prior to proceeding.
+
+        If this is a new request, please briefly describe what you are seeing in the title.
+  - type: textarea
+    attributes:
+      label: |
+        Please let us know what you would like to add or change?
+      description: |
+        Use as much detail as possible.
+      value: |
+        To help you get started:
+        1. Are you requesting documentation that doesn't exist yet
+        and what questions need to be addressed?
+        2. Are you requesting to update or delete sections of
+        existing documentation? If so, please provide the URL as
+        part of your description.
+    validations:
+      required: true

@@ -1,0 +1,23 @@
+name: Questions about Federation
+description: |
+  Questions about the Federation process
+labels: ["Questions around Federation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue type is only if you have questions about the
+        federation process with Mastodon. If you are experiencing
+        issues please submit as Reporting Service Issue type. If
+        you are requesting to have a domain added or removed from
+        the Blocklist, please use the Domain Block Request type or
+        file a report through the Mastodon UI.
+  - type: textarea
+    attributes:
+      label: |
+        What is your question?
+      description: |
+        Use as much detail as possible.
+    validations:
+      required: true
+

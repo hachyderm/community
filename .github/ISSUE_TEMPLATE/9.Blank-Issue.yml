@@ -1,0 +1,15 @@
+name: All other issues
+description: |
+  If none of the other issue types fit your needs, please use this one to reach out to us.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reaching out to us!
+  - type: textarea
+    attributes:
+      label: |
+        What would you like to discuss with us or let us know?
+    validations:
+      required: true
+
