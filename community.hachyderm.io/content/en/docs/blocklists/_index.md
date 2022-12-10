@@ -1,5 +1,5 @@
 ---
-title: "Blocklists and Blocklist FAQ"
+title: "Blocklists"
 linkTitle: "Blocklists"
 weight: 4
 description: >
@@ -33,7 +33,7 @@ Users can _also_ take individual action to prevent themselves from seeing
 unwanted content by blocking or limiting other accounts on the user level.
 This is recommended for cases where the content is perhaps unwanted by
 an individual user, but that content does not violate the home server's
-or ethos.
+ethos.
 
 Mastodon has additional documentation about actions that individual
 users can take on their [Dealing with unwanted content documentation page](https://docs.joinmastodon.org/user/moderating/).
@@ -136,7 +136,6 @@ This means:
 
 ## Requesting Moderation Changes for a Server
 
-
 ### What to do there is a domain on the Blocklist in error
 
 We are all human and are prone to mistakes. If there is a domain that is
@@ -147,16 +146,22 @@ as much relevant context as you can to help us make our decision.
 Note that depending on the circumstances, and as outlined above, we may
 not be able to be fully transparent with our decision - but we commit
 to erring on the side of transparency with these reports as often as possible.
+For more information about how to file a report in our community
+repo, please take a look at our [Reporting
+Documentation](/docs/reporting).
 
 ### What to do if you would like us to moderate a server
 
 If there is a server that is not currently moderated, i.e. either
-limited/silenced or banned/suspended, then please _also_ open a
-[GitHub Issue in our Community repo](https://github.com/hachyderm/community/issues)
+limited/silenced or banned/suspended, then please file a report
+via the Hachyderm (Mastodon) UI or [GitHub Issue in our Community repo](https://github.com/hachyderm/community/issues)
 for us to take a look at that domain or domains. As before, please
 include as much context as possible. If there is a concern around the
 domain(s) you would like to report that would be risky to report in our
 GitHub Issue tracker, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+For more information about filing reports and how to choose
+between the Mastodon UI and the GitHub Issue tracker, please look
+at our [Reporting Documentation](/docs/reporting).
 
 ### What not to do in either of these cases
 
