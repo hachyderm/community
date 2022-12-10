@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ⚠️  **Please Read Before Proceeding** ⚠️
+        ## ⚠️  Please Read Before Proceeding ⚠️
         Before filing this report, please review our [Blocklist Documentation Page](https://community.hachyderm.io/docs/blocklists/).
         This doc page includes expectation setting for how servers are added/removed and how much transparency to expect.
 

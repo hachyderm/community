@@ -7,12 +7,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please note: although we can do Q&A about Mastodon and how
-        to interact with both Hachyderm and the Fediverse, we are
-        not maintainers of the Mastodon project. If you want to
-        submit a feature or bug report directly to Mastodon,
-        please reach out to them on [the Mastodon GitHub
-        repo](https://github.com/mastodon/mastodon/issues).
+        Please note: although we can do Q&A about Mastodon and how to interact with both Hachyderm and the Fediverse, we are
+        not maintainers of the Mastodon project. If you want to submit a feature or bug report directly to Mastodon,
+        please reach out to them on [the Mastodon GitHub repo](https://github.com/mastodon/mastodon/issues).
   - type: textarea
     attributes:
       label: |

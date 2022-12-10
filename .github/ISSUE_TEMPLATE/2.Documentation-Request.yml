@@ -20,10 +20,8 @@ body:
         Use as much detail as possible.
       value: |
         To help you get started:
-        1. Are you requesting documentation that doesn't exist yet
-        and what questions need to be addressed?
-        2. Are you requesting to update or delete sections of
-        existing documentation? If so, please provide the URL as
-        part of your description.
+        1. Are you requesting documentation that doesn't exist yet and what questions need to be addressed?
+        2. Are you requesting to update or delete sections of existing documentation? If so, please provide
+           the URL as part of your description.
     validations:
       required: true
