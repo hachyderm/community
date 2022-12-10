@@ -10,9 +10,8 @@ body:
         Thank you for reaching out to us! Please make sure this is a new suggestion
         before proceeding.
 
-        Please also note that we are not going to make changes that require us to fork
-        from the main Mastodon project at this time, so we will not accept those tooling
-        suggestions at this time.
+        Please note that we cannot currently accept tooling suggestions that require
+        us to fork from the main Mastodon project.
   - type: textarea
     attributes:
       label: |
