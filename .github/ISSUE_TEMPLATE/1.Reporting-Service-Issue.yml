@@ -46,7 +46,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Is there anything else that we should know that we should know that we haven't asked already?
+      label: Is there anything else that we should know?
     validations:
       required: false
 
