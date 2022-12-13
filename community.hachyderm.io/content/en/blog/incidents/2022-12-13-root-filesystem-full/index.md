@@ -54,6 +54,26 @@ Monitor is DOWN: hachyderm streaming
 
 Full root filesystem on primary database server resulted in a cascading failure that first impacted Redis's ability to persist to disk which later resulted in 5XX responses on the edge.
 
+## Things that went well
+
+We had a place to organize, and folks on standby to respond to the incident.
+We were able to respond and recover in less than 10 minutes.
+We were able to document and more forward in less than 60 minutes.
+
+## Things that went poorly
+
+There was confusion about who had access to update `status.hachyderm.io` and this is still unclear.
+
+There was confusion about where redis lived, and which systems where interdependent upon redis in the stack. 
+
+## Opportunities 
+
+We need to harden our credential management process, and account management. We need to have access to our systems.
+
+We need global architecture, ideally observed from the systems themselves and not in a diagram.
+
+When an announcement is resolved, it removes the status entirely from UptimeRobot. We can likely improve this.
+
 ## Resulting Action
 
 #### @malte_j Cron cleanup scheduled
@@ -72,6 +92,8 @@ find * -type f -mtime 5 -print0 | sort -z | tail -z -n 1 | xargs -r0 pg_archivec
 
 Alerts scheduled for `>90%` filesystem storage on database nodes.
 
+[Postmortem template](https://hackmd.io/9WtCp6MgQ_al1eKGvqAWkg) created for future incidents.
+
 #### @nova Postmortem documented
 
-This blog post :)
+This blog post as well as a small discussion in Discord.
