@@ -50,23 +50,27 @@ Monitor is DOWN: hachyderm streaming
 - **19:07** `@nova` Begin drafting postmortem notes
 - **19:16** `@nova` Official announcement posted to Hachyderm
 
-## Root Cause
+# Root Cause
 
 Full root filesystem on primary database server resulted in a cascading failure that first impacted Redis's ability to persist to disk which later resulted in 5XX responses on the edge.
 
-## Things that went well
+### Things that went well
 
 We had a place to organize, and folks on standby to respond to the incident.
+
 We were able to respond and recover in less than 10 minutes.
+
 We were able to document and more forward in less than 60 minutes.
 
-## Things that went poorly
+### Things that went poorly
 
 There was confusion about who had access to update `status.hachyderm.io` and this is still unclear.
 
 There was confusion about where redis lived, and which systems where interdependent upon redis in the stack. 
 
-## Opportunities 
+The Novix installer is still our largest problem and is responsible for a lot of confusion. We do not have a better way forward to manage packages and configs in production. We need to decide on `Nix` and our path forward as soon as possible.
+
+### Opportunities 
 
 We need to harden our credential management process, and account management. We need to have access to our systems.
 
@@ -74,9 +78,9 @@ We need global architecture, ideally observed from the systems themselves and no
 
 When an announcement is resolved, it removes the status entirely from UptimeRobot. We can likely improve this.
 
-## Resulting Action
+# Resulting Action
 
-#### @malte_j Cron cleanup scheduled
+#### 1) Cron cleanup scheduled `@malte_j`
 
 Cron scheduled to remove postgres archive greater than 5 days.
 
@@ -88,12 +92,12 @@ cd /var/lib/postgres/data/archive
 find * -type f -mtime 5 -print0 | sort -z | tail -z -n 1 | xargs -r0 pg_archivecleanup /var/lib/postgres/data/archive
 ```
 
-#### @dma Alerts configured
+#### 2) Alerts configured `@dma`
 
 Alerts scheduled for `>90%` filesystem storage on database nodes.
 
 [Postmortem template](https://hackmd.io/9WtCp6MgQ_al1eKGvqAWkg) created for future incidents.
 
-#### @nova Postmortem documented
+#### 3) Postmortem documented `@nova`
 
 This blog post as well as a small discussion in Discord.
