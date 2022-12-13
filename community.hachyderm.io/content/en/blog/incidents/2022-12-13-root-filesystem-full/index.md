@@ -60,7 +60,7 @@ We had a place to organize, and folks on standby to respond to the incident.
 
 We were able to respond and recover in less than 10 minutes.
 
-We were able to document and more forward in less than 60 minutes.
+We were able to document and move forward in less than 60 minutes.
 
 ### Things that went poorly
 
