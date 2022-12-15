@@ -1,9 +1,6 @@
 name: Deploy Hugo site to Pages
 
 on:
-  pull_request:
-    types:
-      - closed
   push:
     branches: [$default-branch]
   workflow_dispatch:
@@ -20,7 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: ${{ github.event.pull_request.merged == true || contains(fromJson('["push", "workflow_dispatch"]'), github.event_name) }}
+    if: github.event.pull_request.merged == true || contains(fromJson('["push", "workflow_dispatch"]'), github.event_name)
     steps:
       - name: Checkout
         uses: actions/checkout@v3
