@@ -13,7 +13,7 @@ Welcome all Twitch streamers!
 
 ### Large Following Accounts
 
-Earlier this year, [Ian Coldwater](https://hachyderm.io/web/@ian) joined our
+Earlier this year, [Ian Coldwater](https://hachyderm.io/@ian) joined our
 community and with them brought roughly 600 new users in less than an hour.
 This unexpected rise in traffic took our team of volunteers off guard and ended
 up slowing our service down for the evening.
