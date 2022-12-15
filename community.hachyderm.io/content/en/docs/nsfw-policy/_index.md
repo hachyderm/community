@@ -9,7 +9,7 @@ description: >
 Sex is everywhere, and we have a pragmatic and mature relationship with sex and sexual content at Hachyderm.
 We want Hachyderm to be a home for science, technology, and collaboration while also embracing the beauty and depth of all walks of sexual life. 
 
-Modern society functions with deep-rooted and historical sexual norms that are exploitative, unfair, harmful towards marginalized people, where there danger is often overlooked.
+Modern society functions with deep-rooted and historical sexual norms that are exploitative, unfair, harmful towards marginalized people, where the danger for these individuals is often overlooked.
 Product marketing, sales tactics, and even corporate policies are often structured and allow for harmful culture to thrive, often in the name of hetero-normative traditions and expectations.
 
 Many parts of the industry operate with a bias towards keeping traditional and hetero-normative sexual culture protected while demonizing sex work, kink culture, queer culture, polyamory, ethical non-monogamy, furry, lesbian, gay, bisexual, pansexual, transgender, or any other sexual area of what we refer to as "The Alphabet".
