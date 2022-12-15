@@ -12,6 +12,7 @@ enableRobotsTXT = true
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
+enableEmoji = true
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
