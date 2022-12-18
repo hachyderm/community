@@ -4,8 +4,12 @@ Here is the static website that is hosted at [community.hachyderm.io](https://co
 
 ### Building The Website
 
-Clone the repository and build the submodule. Note that you must have
-Go installed to build the site. [Go Installation Instructions are here](https://go.dev/doc/install). (Note: if you are using macOS you can install Go with `brew`.)
+Clone the repository and build the submodule, with the following notes.
+-   You must clone the repository using SSH (not HTTPS) in order for the submodule to authenticate.
+    See [Switching remote URLs from HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh).
+-   You must have Go installed to build the site. 
+    [Go Installation Instructions are here](https://go.dev/doc/install). 
+    -   If you are using macOS you can install Go with `brew`.
 
 ```
 git clone git@github.com:hachyderm/community.git
