@@ -30,7 +30,7 @@ If you have recently joined Hachyderm and/or Mastodon, please see
 the following:
 
 - [Welcome Guide](/welcome/README.md) for Mastodon 101 and getting started.
-- [Unofficial Nivenly Discord](https://discord.gg/YnWdbchSwA) is used for
+- [Unofficial Nivenly Discord](https://discord.gg/yqpEM494RP) is used for
   real-time communications.
 
 ## Donations
