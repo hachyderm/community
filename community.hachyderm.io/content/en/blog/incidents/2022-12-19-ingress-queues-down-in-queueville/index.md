@@ -277,3 +277,34 @@ All events are documented in [UTC](https://en.wikipedia.org/wiki/Coordinated_Uni
 John Mastodon took the queue hash, and up the chimney he stuck it.
 The Hachyderm crew was too tired to fill out the report and said "fuck it".
 
+
+```
+Nietzsche:
+- 4 default queues (unchanged)
+- 32 default ingress (changed)
+
+Franz:
+- 6 default queues (unchanged)
+- 1 ingress queue (changed)
+- 5 pull queues (unchanged)
+- 5 push queues (unchanged)
+
+Freud:
+- 3 default queues (unchanged)
+- 2 ingress queues (changed)
+- 2 pull queue (changed)
+- 2 push queue (changed)
+
+Changes:
+
+Because the database connection count per ingress queue process changed, when necessary, I will clarify queue amounts in terms of database connections.
+
+- Moved 2 ingress queues (40 DB connections) from franz to nietzsche
+- Moved 2 ingress queues (40 DB connections) from freud to nietzsche
+- Changed DB_POOL on ingress queues from 20 to 5 as they're heavily CPU bound.
+- Changed -c 20 on ingress queues from 20 to 5 as they're heavily CPU bound.
+- Scaled Nietzsche up from 8 ingress queues to 32 to keep the amount of total database connections the same.
+- Restarted the one ingress queue remaining on franz (this lowered ingress DB connections from 20 to 5).
+- Restarted the two ingress queues remaining on freud (this lowered ingress DB connections from 40 to 10).
+- Removed a "pushpull" systemd service on Freud and replaced it with independent push and pull sidekiq processes (neutral db connection change).
+```
