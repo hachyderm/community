@@ -182,7 +182,6 @@ All events are documented in [UTC](https://en.wikipedia.org/wiki/Coordinated_Uni
 - 17:58 `@dma` Notices we are no longer bottlenecked on Ingress after `@hazelweakly` makes changes
 - 18:03 `@dma` Provides update on priority of systemd flags
 - 18:10 `@dma` Provides spreadsheet for us to calculate connections to database
-- 
 
 # ActivityMorn
 
@@ -265,3 +264,16 @@ Just as long as we have we.
 
 Welcome ActivityPub while we stand
 Heart to heart and hand in hand.
+
+# Timeline
+
+All events are documented in [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) time.
+
+- 18:10 `@hazelweakly` Provides update that queues are now balancing and load is coming down
+- 18:18 `@nova` Confirms queues are draining and systems are stabilizing 
+
+# Root Cause 
+
+John Mastodon took the queue hash, and up the chimney he stuck it.
+The Hachyderm crew was too tired to fill out the report and said "fuck it".
+
