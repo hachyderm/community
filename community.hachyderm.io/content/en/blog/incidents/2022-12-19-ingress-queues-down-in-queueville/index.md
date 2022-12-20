@@ -1,5 +1,5 @@
 ---
-date: 2022-12-18
+date: 2022-12-20
 title: "The Queues ☃️ down in Queueville"
 linkTitle: "The Queues ☃️ down in Queueville"
 description: "Hachyderm has experienced a minor unplanned degradation in our service. Here is the postmortem, analysis, and writeup on the incident."
