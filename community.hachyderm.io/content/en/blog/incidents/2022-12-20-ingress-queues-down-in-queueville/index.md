@@ -136,7 +136,7 @@ Then he slunk to the default queues. He took the queues' feast!
 He took the queue pudding! He took the roast beast!
 
 He cleaned out that `/inbox` as quick as a flash.
-Why, that Grinch even took the last can of queue hash! 
+Why, John Mastodon even took the last can of queue hash! 
 
 Then he stuffed all the queues up the chimney with glee.
 "Now," grinned John Mastodon, "I will stuff up the whole process tree!"
