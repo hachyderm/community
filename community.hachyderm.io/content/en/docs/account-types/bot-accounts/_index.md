@@ -38,10 +38,9 @@ which spells these out in more detail.
 
 ## Bot Account Posting Rules
 
-- All bots must select the bot checkbox in their profile settings ![Bot profile settings](mastodon-bot-account.png)
-  alt="Screenshot of four check boxes in account settings: require follow
+- All bots must select the bot checkbox in their profile settings ![Screenshot of four check boxes in account settings: require follow
   requests, this is a bot account, suggest account to others, and hide
-  your social graph" />
+  your social graph](mastodon-bot-account.png)
 - Bots are required to put the `#hachybots` hashtag in _all_ posts so
   users can opt into, or out of, bot posts.
 - Bot accounts are limited to **_5 automated/curated posts per day_**. Bots may respond directly to toots that they have been tagged in.
