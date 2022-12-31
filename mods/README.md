@@ -21,6 +21,7 @@ accompanying Nivenly Discord.
 | Zoe            | [Zoehammer](https://hachyderm.io/@Zoehammer)         | Foehammer   |
 | zunderscore    | [zunderscore](https://hachyderm.io/@zunderscore)     | zunderscore |
 | freiheit       | [freiheit](https://hachyderm.io/@freiheit)           | [freiheit#1337](https://discordapp.com/users/910380721699438592) |
+| arbdev         | [arbdev](https://hachyderm.io/@arbdev)               | [arbdev#0001](https://discord.com/users/634505213948067863) |
 
 Note that for "Name / Goes By" it is either the name of that particular moderator
 or their online handle, if that's how they prefer to be addressed / are recognized.
