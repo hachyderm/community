@@ -83,8 +83,9 @@ To elaborate, depending on whether an incident is a user's first
 incident and the severity of the incident itself will determine
 the course and reversibility of moderator action. We also consider
 that the potential for learning and growth are happening at the
-expense of one more people, either the user being reported, others
-involved, or both. The types of actions that
+expense of one more people, including but not limited to other
+user(s) that the reported user is interacting with, the reported
+user themself, or both. The types of actions that
 moderators can take are based on the tools provided by Mastodon.
 These are covered in [our Reporting
 document](../reporting) as well as [Mastodon's
@@ -147,7 +148,7 @@ as: tolerance without limit necessarily includes tolerance of intolerance.
 Discussion of this usually goes a bit further to cover the
 consequences, historical and modern, of tolerating intolerance.
 (Full discussion of this exceeds the scope of this article, but for additional
-reading start with [The Paradise of
+reading start with [The Paradox of
 Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
 Wikipedia page.)
 
@@ -157,6 +158,11 @@ however, we will put limits on openness to protect Hachydermians,
 full stop.
 
 ## Over- vs Under- representation
+
+Why this section is included will become appearant, please read
+the scenario and clarifier that ties it all in.
+
+---
 
 This section will start with a familiar scenario: the senior
 engineer at a tech company. To keep the scenario simple, we'll say
@@ -205,7 +211,7 @@ best by each other and that we will do our due dilligence to learn
 and grow by pursuing our own research and not disproportionately
 place the burden of education on others. Succintly: we will
 "google" both to develop a broader awareness of our world as well
-as "what the _heck_ is Java throwing Exceptions over now???" **We
+as "what the _heck_ is this Java Exception???" **We
 will also always show appreciation for, but not expectation of, the time that those who
 choose to educate give as education is a gift and time is a
 gift.** (Especially since, relevantly, it is likely that person's 50th time
@@ -282,9 +288,9 @@ is that we will ask you to remedy the situation in some way. If,
 for example, you posted something that was reported we will likely
 ask you to remove it rather than us removing it. This is because
 Hachydermians are ultimately responsible for their own
-actions. So if something happened that created a need for
+actions. So **_if something happened that created a need for
 moderator involvement, then something needs to happen to remove
-that involvement. We will do our best to ensure that our requests
+that involvement._** We will do our best to ensure that our requests
 are time bounded. For example, instead of "please delete this post" you will
 likely receive "please delete this post within two days". The goal of
 this is to find balance between giving you a reasonable time to
@@ -338,8 +344,7 @@ situation involving (usually) multiple people that we (also
 usually) don't know. So realistically when we're making our best
 judgements about if a situation will continue to escalate and what
 needs to happen to prevent that, we are doing so from a blank
-slate. So rather than using what we know of the specific
-individuals involved, we use what we know of people in general.
+slate. Since we do not know the individuals involved, we use what we know of people in general.
 e.g. "Would someone try to 'follow up' with other users based on
 this information?" "Would someone know that even if they didn't
 mean it to be a problem or cause upset, that someone would likely
