@@ -260,7 +260,7 @@ that we also have a responsibility to ensure that:
 
 - We do not cause a repeat of the behavior that caused a report to
   be filed in the first place.
-- We do not create a situation wher other users in the thread /
+- We do not create a situation where other users in the thread /
   interaction, and/or the user who reported the situation, are
   open to later harassment. This includes from other users or from
   the same / reported user using alternate accounts.
