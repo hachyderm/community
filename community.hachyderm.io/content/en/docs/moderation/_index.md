@@ -3,22 +3,28 @@ title: "Moderation Guiding Principles"
 linkTitle: "Moderation Guiding Principles"
 weight: 4
 description: >
-  Hachyderm Moderation: Shared Ownership
+  Hachyderm Moderation: Process and Responsibilities
 ---
 
-This page is about how we moderate Hachyderm, including the
-responsibilities of members (Hachydermians) and moderators (the
-we/us of this document).
+This page includes:
+
+* Information about how we moderate Hachyderm.
+* The responsibilities of members (Hachydermians) and moderators
+(the "we/us" of this document).
+* Other supporting context relevant to the moderation process.
 
 We appreciate that this is probably not the page that you are
 coming to for light reading. Most likely you are here because you
 have been moderated and are trying to figure out what to do
-or because you are looking to see what protections or recourse
-this instance offers you.
+or you are a prospective user and you are trying to figure out if
+this instance is a safe home for you. We are here for you and have
+tried to build as comprehensive and clear a document as possible.
 
-We, the Hachyderm moderators, promise to treat all users with
-respect at all times, including during the moderation process. We ask all
-users to treat our moderators with respect as well.
+For full transparency: we are currently designing our
+documentation architecture, so it is likely
+that this singular document will be split onto different pages for
+clarity. Please keep this in mind if you are bookmarking this
+page.
 
 (Skip to the [Help, I was moderated!](#help-i-was-moderated)
 section.)
