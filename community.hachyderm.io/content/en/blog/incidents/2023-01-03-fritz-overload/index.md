@@ -1,7 +1,7 @@
 ---
 date: 2023-01-03
-title: "Fritz overload"
-linkTitle: "Fritz overload"
+title: "Fritz on the fritz"
+linkTitle: "Fritz on the fritz"
 description: "Hachyderm experienced some flakiness.  Here is the postmortem on the incident."
 author: Dominic Hamon ([@dma](https://hachyderm.io/@dma))
 resources:
