@@ -24,7 +24,7 @@ submodule: ## Build the git submodule
 	git submodule update --init --recursive
 
 dev: submodule ## Run the local server
-	hugo serve .
+	hugo serve . --bind=0.0.0.0
 
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
