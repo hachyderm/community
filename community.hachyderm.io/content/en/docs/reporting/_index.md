@@ -49,7 +49,7 @@ posts. This typically is used for:
 
 ### How to report
 
-1. Click on the hamburger menu below the post and select
+1. Click on the meatballs(⋯) menu below the post and select
 "report"<br /> 
 <img src="report-post-drop-down-menu.png"
      alt="Example post with the text This is a blob fox
