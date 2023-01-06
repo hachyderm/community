@@ -1,7 +1,7 @@
 ---
 title: "Account Types"
 linkTitle: "Account Types"
-weight: 20
+weight: 4
 ---
 
 We distinguish between 2 main types of accounts that we use to measure and

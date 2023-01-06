@@ -1,4 +1,8 @@
-# Filing Reports and Interacting with the Moderation Team
+---
+title: 'Filing Reports and Interacting with the Moderation Team'
+linkTitle: 'Filing Reports and Interacting with the Moderation Team'
+weight: 4
+---
 
 Here is our quick "how to" guide for if you need to talk to the
 mods about a question, issue, or problem with another user. There
