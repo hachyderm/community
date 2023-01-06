@@ -19,7 +19,9 @@ another document. A quick recap of the rules:
 1. Don't be a dick
 1. No hacking
 1. No violence
+1. No hate speech
 1. No fascism
+1. No fake news
 1. No colonialism
 1. No white supremacy
 1. No religious extremism
@@ -27,6 +29,7 @@ another document. A quick recap of the rules:
 1. No racism
 1. No homophobia
 1. No transphobia
+1. No trolling
 1. Safe space: LGBTQIA+
 1. Safe space: neurodivergent (ADHD, Autism, etc.)
 
