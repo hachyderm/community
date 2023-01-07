@@ -1,0 +1,179 @@
+// Nivenly Brand Fonts
+@font-face {
+    font-family: GothamBold;
+    src: url('/fonts/GothamBold.ttf');
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+  }
+  @font-face {
+    font-family: GothamBook;
+    src: url('/fonts/GothamBook.ttf');
+    font-style: normal;
+    font-weight: 500;
+    font-display: fallback;
+  }
+  
+  h1,h2,h3,h4,h5
+  {
+    font-family: "GothamBold" !important;
+  }
+  
+  p,ul,ol {
+    font-family: "GothamBook" !important;
+  }
+  
+  // --------------------------------------------------
+  // remove whitespace after footer
+  // --------------------------------------------------
+  footer {
+      min-height: auto;
+    }
+    
+    // --------------------------------------------------
+    // prevent overflow of long names in sidebar
+    // --------------------------------------------------
+    .td-sidebar-nav__section > ul {
+      overflow-wrap: break-word;
+    }
+    
+    // --------------------------------------------------
+    // custom navbar with larger logo, dropdown on mobile
+    // --------------------------------------------------
+    .td-navbar {
+      min-height: auto;
+    
+      .navbar-brand {
+        margin: 0;
+        padding: 0;
+    
+        .text-uppercase {
+          display: none;
+        }
+    
+        .navbar-logo {
+          svg {
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            z-index: 33;
+            padding: 10px;
+            border-top: none;
+            width: 65px;
+            height: 65px;
+    
+            @include media-breakpoint-down(md) {
+              width: 70px;
+              height: auto;
+              padding: 6px;
+            }
+          }
+        }
+      }
+    
+      .navbar-nav {
+        @include media-breakpoint-down(md) {
+          font-size: .875rem;
+          .dropdown {
+            min-width: inherit;
+          }
+        }
+      }
+    }
+    
+    .td-sidebar {
+      padding-bottom: 0.5rem;
+    
+      .td-sidebar__inner {
+        padding-top: 30px;
+    
+        @include media-breakpoint-down(md) {
+          padding-top: 10px;
+        }
+      }
+    }
+    
+    
+    // --------------------------------------------------
+    // 404 page
+    // --------------------------------------------------
+    .error-page {
+      margin-top: 120px;
+    
+      ul {
+        margin-bottom: 50px;
+        list-style-type: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        padding-left: 0;
+      }
+    
+      li {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+    
+      h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+    
+      @media (min-width: 768px) and (max-width: 991px) {
+        margin-top: 100px;
+      }
+    
+      @media (max-width: 767px) {
+        margin-top: 50px;
+      }
+    }
+    
+    // --------------------------------------------------
+    // for tabbed code blocks
+    // https://github.com/kubeflow/website/pull/2779
+    // --------------------------------------------------
+    .nav-tabs {
+      border-bottom: none !important;
+    }
+    
+    .td-content > ul li,
+    .td-content > ol li.nav-item {
+      margin-bottom: 0px;
+    }
+    
+    .td-content .tab-content .highlight {
+      margin: 0;
+    }
+    
+    .tab-pane {
+      border-radius: 0.25rem;
+      padding: 0 16px 16px;
+    
+      border: 1px solid #dee2e6;
+    
+      &:first-of-type.active {
+        border-top-left-radius: 0;
+      }
+    }
+    
+    nav.foldable-nav .ul-1 .with-child>label:hover:before {
+      transform: none;
+    }
+    
+    nav.foldable-nav .ul-1 .with-child>input:checked~label:hover:before {
+      transform: rotate(90deg) !important;
+    }
+  
+    .navbar-brand__name
+    {
+      display: none;
+    }
+
+    .nivenly-footer {
+        svg {
+          
+          width: 40px;
+          height: auto;
+        }
+      }
