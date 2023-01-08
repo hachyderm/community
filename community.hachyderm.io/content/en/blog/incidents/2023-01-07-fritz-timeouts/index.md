@@ -37,7 +37,7 @@ These CDN servers depend on the `mastodon-streaming` service to offer websocket 
 
 # Background
 
-We received some valuable insight from one of the Mastodon developers [@ThisIsMissEm](https://github.com/ThisIsMissEm) which can be read [here in HackMD](https://hackmd.io/8bhI7IWcTvSJvRhu9M45nQ).
+We received some valuable insight from [@ThisIsMissEm](https://github.com/ThisIsMissEm) who has experience with both node.js websocket servers and the mastodon codebase, which can be read [here in HackMD](https://hackmd.io/8bhI7IWcTvSJvRhu9M45nQ).
 
 An important takeaway from this knowledge is that the `mastodon-streaming` service and the `mastodon-web` service will not rate limit if they are communicating over `localhost`. 
 
