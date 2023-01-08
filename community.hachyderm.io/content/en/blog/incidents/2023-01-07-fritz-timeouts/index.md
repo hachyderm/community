@@ -1,5 +1,5 @@
 ---
-date: 2023-01-03
+date: 2023-01-07
 title: "Fritz Timeouts"
 linkTitle: "Fritz Timeouts"
 description: "Hachyderm experienced some more flakiness.  Here is the postmortem on the incident."

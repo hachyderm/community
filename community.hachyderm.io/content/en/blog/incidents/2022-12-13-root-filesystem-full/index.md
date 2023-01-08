@@ -1,5 +1,5 @@
 ---
-date: 2023-01-07
+date: 2022-12-13
 title: "Global Outage: 504 Timeouts"
 linkTitle: "Global Outage: 504 Timeouts"
 description: "Hachyderm has experienced our first unplanned outage since our migration to Hetzner cloud. Here is the postmortem, analysis, and writeup on the incident."
