@@ -31,9 +31,10 @@ make dev
 
 The first time you run the command will take a little bit while it downloads some necessities. Once it's running, the dev site is available at [localhost:1313](http://localhost:1313/).
 
-⚠️ Note that Hugo v0.101.0+extended has worked in development but
-v0.107.x+extended and higher do not. Please use v0.101.0+extended
-for local development. ⚠️
+Note that previously there was an issue where docsy v0.5.1 did not
+seem to work with all releases of Hugo extended. The site has been
+updated as of 19 Jan to docsy v0.6.0 and now works with current
+releases of Hugo.
 
 You should not use Docker to locally work on the Community Docs,
 only Hugo.
