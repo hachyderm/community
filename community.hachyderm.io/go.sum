@@ -2,8 +2,11 @@ github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f h1:bvkUpt
 github.com/FortAwesome/Font-Awesome v0.0.0-20220831210243-d3a7818c253f/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/google/docsy v0.5.1 h1:D/ZdFKiE29xM/gwPwQzmkyXhcbQGkReRS6aGrF7lnYk=
 github.com/google/docsy v0.5.1/go.mod h1:maoUAQU5H/d+FrZIB4xg1EVWAx7RyFMGSDJyWghm31E=
+github.com/google/docsy v0.6.0 h1:43bVF18t2JihAamelQjjGzx1vO2ljCilVrBgetCA8oI=
+github.com/google/docsy v0.6.0/go.mod h1:VKKLqD8PQ7AglJc98yBorATfW7GrNVsn0kGXVYF6G+M=
 github.com/google/docsy/dependencies v0.5.1 h1:JVVLjnjC5i7GN2ZXKJ0QDa8UY71JMoqkeKK8CS6R/C4=
 github.com/google/docsy/dependencies v0.5.1/go.mod h1:EDGc2znMbGUw0RW5kWwy2oGgLt0iVXBmoq4UOqstuNE=
+github.com/google/docsy/dependencies v0.6.0/go.mod h1:EDGc2znMbGUw0RW5kWwy2oGgLt0iVXBmoq4UOqstuNE=
 github.com/hachyderm/blog v0.0.0-20221201052202-4e8a7b8a2899 h1:fj6HU7NueGiY4qnBvFKw/9jbAo2n3vb4W9Jt+DrEByQ=
 github.com/hachyderm/blog v0.0.0-20221201052202-4e8a7b8a2899/go.mod h1:LXFrp7Gtl6srpLtqqXUfvpo00kG2A3kexyhz9GJrpPA=
 github.com/twbs/bootstrap v4.6.2+incompatible h1:TDa+R51BTiy1wEHSYjmqDb8LxNl/zaEjAOpRE9Hwh/o=
