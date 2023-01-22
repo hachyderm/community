@@ -19,8 +19,7 @@ account types below, then it is not a type permitted on this
 server. This is to prevent automated / single post / corporate
 account (etc.) posts from overtaking regular users. If you would
 like to create a specialized account type that is not on this
-list, please reach out to the moderators first at
-[admin@hachyderm.io](mailto:admin@hachyderm.io). Unrecognized
+list, please create a suggestion on [our Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose) for a new type of specialized account. Unrecognized
 specialized account types will be removed. Recognized account
 types that do not follow the rules of their account types will be
 moderated as needed.
@@ -30,6 +29,8 @@ specialized accounts that are invite only will be suspended. If
 you are interested in creating a specialized account that is
 invite only, you must first reach out to us at
 [admin@hachyderm.io](mailto:admin@hachyderm.io).
+
+For all other specialize accounts, please use the [account approval](#account-approvals) steps below to get formal approval for your account.
 
 ## User Accounts
 
@@ -87,6 +88,43 @@ These will have their own separate pages soon, but include:
 **Automated Posting / Bot Account Types**
 
 - [Bot Accounts](/docs/account-types/bot-accounts/)
+
+### Account Approvals
+
+All specialized accounts that have been approved by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved".
+
+<img src="approved.png" alt="Screenshot of the approved links section of a profiles. There are two verified links. One link is pointing to the companies website. The other link is pointing to https://community.hachyderm.io/approved"/>
+
+**Steps to getting approved**
+
+This is only for the specialized accounts.
+We are not accepting request for individual users at this time.
+
+_Part 1: Get Pre-Approved_
+
+To get started, we will create an issue to track the full process from creation of your account to completion of the approval process.
+
+1. Open a "Specialized Account Approval" issue from our [Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose)
+1. Be patient (We are group of volunteer mods and will reach out as soon as we can)
+1. We make a decision
+  - If you are not approved, we will provide a reason and close and the PR
+  - If you are approved, you can now create your account and then move on to _Part 2_ below
+
+_Part 2: Finishing account setup_
+
+1. Ensure you're already [verified with your official domain](https://github.com/hachyderm/community/blob/main/verification.md)
+    - Do not remove the reference link. Moderators will be using this during their validation process.
+1. Fork this branch
+1. Add your verification tag under the appropriate header in the [approved](https://github.com/hachyderm/community/blob/main/community.hachyderm.io/content/en/approved/_index.md) file.
+1. Create a pull request using the [specialize account]() template.
+1. Complete all tasks in the tasks list
+1. Submit the pull request
+1. Be patient (We are group of volunteer mods and will reach out as soon as well can)
+1. Validate your code has been merged, and your account is now visible on [https://community.hachyderm.io/approved](https://community.hachyderm.io/approved)
+1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md) add the following to your profile metadata
+    - Label: APPROVED
+    - Content: https://community.hachyderm.io/approved
+
 
 ## Frequently Asked Questions
 
