@@ -4,7 +4,7 @@
 
 Quintessence Anx, or [quintessence on both Hachyderm](https://hachyderm.io/@quintessence) and Discord.
 
-## Active Moderators 
+## Active Moderators
 
 The following moderators assist with moderation activity for Hachyderm itself,
 including responding to open issues here on the GitHub, and are also in the
@@ -59,6 +59,7 @@ for the next person to add themself.
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
 | slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
 | mnl              | [mnl](https://hachyderm.io/@mnl/)                           | slono            | French, German   |
+| Issy             | [issyl0](https://hachyderm.io/@issyl0/)                     | issyl0           | French           |
 
 ## Hachyderm Infrastructure
 
@@ -70,4 +71,3 @@ This is the team that maintains the Hachyderm infrastructure.
 | dma            | [dma](https://hachyderm.io/@dma)                     | dma         |
 | Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk         |
 | Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani        |
-
