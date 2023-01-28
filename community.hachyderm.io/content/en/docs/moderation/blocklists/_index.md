@@ -1,7 +1,7 @@
 ---
 title: "Blocklists"
 linkTitle: "Blocklists"
-weight: 4
+weight: 20
 description: >
   Community information about Blocklists and how Blocklists are built.
 ---
