@@ -91,20 +91,20 @@ If you are looking to create a doc in a new category, you should
 enter the following where `NEW_CATEGORY` is the name of the category:
 
 ```
-hugo new en/docs/NEW_CATEGORY/_index.md
+hugo new NEW_CATEGORY/_index.md
 ```
 
 If you are loooking to create a new doc in an _existing_ category:
 
 ```
-hugo new en/docs/EXISTING_CATEGORY/filename.md
+hugo new EXISTING_CATEGORY/filename.md
 ```
 
 If you are looking to create a new subcategory of a category (you must create
 the parent category if it doesn't yet exist):
 
 ```
-hugo new en/docs/EXISTING_CATEGORY/NEW_SUBCATEOGRY/_index.md
+hugo new EXISTING_CATEGORY/NEW_SUBCATEOGRY/_index.md
 ```
 
 The above commands put everything in the parent directory: `content/en/docs`
