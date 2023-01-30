@@ -1,4 +1,4 @@
-# The Hachyderm Community
+# The Hachyderm Community Test
 
 Welcome to the Hachyderm community. We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
 
