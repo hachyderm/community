@@ -14,7 +14,7 @@ not on behalf of a company (Company Inc.) or project (OSS project,
 podcasts, etc.) and/or not posting with a singular purpose or
 topic and/or bot accounts.
 
-For specialty acounts: we recognize and have rules around some. If
+For specialty accounts: we recognize and have rules around some. If
 an account is not a user account and not one of the recognized
 account types below, then it is not a type permitted on this
 server. This is to prevent automated / single post / corporate

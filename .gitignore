@@ -1,3 +1,6 @@
 .idea
 .DS_Store
 .smbdelete*
+
+# Emacs grot
+*\.tmp

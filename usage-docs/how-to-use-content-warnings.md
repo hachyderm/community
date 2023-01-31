@@ -35,7 +35,7 @@ here are some general guidelines.
   others in a responsible way
 * Spoilers
 
-The latter is quickst to explain, so let's start there.
+The latter is quickest to explain, so let's start there.
 
 ### "Spoilers, Sweetie"
 
@@ -63,7 +63,7 @@ option is to opt into a conversation rather than to default into that
 conversation.**
 
 Let's start with a hopefully clear example. If you want to focus on
-sharing news about human rights abuses around the world, you wil likely
+sharing news about human rights abuses around the world, you will likely
 be sharing links and media that shows the reality of those situations.
 This could include a lot of violent and traumatic video and images. Due to
 the need to raise awareness, you may want to make sure that people can

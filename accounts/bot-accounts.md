@@ -31,7 +31,7 @@ best judgement.
 ### 4. Moderators are volunteers
 
 We will be moderating the bot accounts in a way that does not
-create undue burnden on our volunteer mod team.
+create undue burden on our volunteer mod team.
 
 If you would like the longer descriptions of the above,
 please take a look at our [Corporate Accounts](corporate-accounts.md)

@@ -151,7 +151,7 @@ humans abusing children, or humans of any age abusing animals.
 Specifically the following are not tolerated:
 
 * Causing intentional injury or threatening to do so
-* Any form of harrassment 
+* Any form of harassment
 * Any form of stalking
 * Behaviors that result in emotional distress or fear
 * Encouraging violent behavior
@@ -162,19 +162,19 @@ Specifically the following are not tolerated:
 
 ### No fascism
 
-Toots in favor of fascism either abstactly or concretely are not allowed.
+Toots in favor of fascism either abstractly or concretely are not allowed.
 This includes sharing material and media that is in favor of fascism.
 
 ### No colonialism
 
-The history of colonialism worldwide is a layers on layers of suffering.
+The history of colonialism worldwide is layers on layers of suffering.
 Discussions that whitewash or otherwise diminish or deny this history
 will not be tolerated.
 
 ### No white supremacy
 
 White supremacy and anti-Blackness are not welcome on this server. Not all
-forms of white supremecy are easily filtered out by the No Violence rule,
+forms of white supremacy are easily filtered out by the No Violence rule,
 although there are obvious overlaps. Systems of oppression rely on multiple
 layers of support, starting with more covert and escalating to more overt.
 
@@ -186,7 +186,7 @@ the more "socially acceptable/practiced" (note: not here) and
      width="600"
      alt="Pyramid of covert and overt racism, lists many supporting forms
           at the bottom including colorblind racism and moving to acts of
-          violence at the top. Pyrmaid fully described in linked text below." />
+          violence at the top. Pyramid fully described in linked text below." />
 
 This image is borrowed from [the Religion and Race hub article on Overt and Covert Racism](https://www.r2hub.org/library/overt-and-covert-racism).
 The article fully describes each of the terms and concepts listed on the
@@ -206,8 +206,8 @@ is:
 * Attacking / demeaning others' religion is not tolerated
 * Supporting violence towards the participants of a religion is not tolerated
 * Spreading hateful speech regarding religion is not tolerated
-* To clarify potential grey areas: atheism, as the abscence of religion, as
-  well as agnosticism is covered by the above. Other philosphies that could
+* To clarify potential grey areas: atheism, as the absence of religion, as
+  well as agnosticism is covered by the above. Other philosophies that could
   be considered "religion adjacent", like secular humanism, are also protected
   by this rule.
 * Spreading support for a subset of one religion spreading hate, violence,
@@ -234,9 +234,9 @@ the "extremism" aspect that is disallowed on this server.
 ### No racism
 
 A lot of this rule overlaps with No White Supremacy; however as an
-extension and clarification from that rule: discrimation on the basis
+extension and clarification from that rule: discrimination on the basis
 of race or ethnicity is not tolerated on this server. Neither will
-hate speech or propogating hateful ideas on the basis of race or
+hate speech or propagating hateful ideas on the basis of race or
 ethnicity be tolerated.
 
 * Attacking / demeaning others' race or ethnicity is not tolerated

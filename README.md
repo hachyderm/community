@@ -139,7 +139,7 @@ In general we try not to change our rules. If we do, we need to give the communi
  1. Draft the new rule. Write the "headline" and then write a few sentences to elaborate on the rule.
  2. Publish the draft (GitHub, HackMD, etc).
  3. Advertise the draft (This is similar to publishing an obituary or a name change in a newspaper).
-    a. Our admins, mods, and leadership should all be encouraged to share the new change.
+    - Our admins, mods, and leadership should all be encouraged to share the new change.
  4. Gain feedback, make adjustments, work with the community, hear concerns, give space for alternative opinions. Pause. Reflect. 
  5. Make the decision to institute the new rule, and publish a "goes in effect" date.
  6. Institute the new rule.
@@ -175,7 +175,7 @@ community.
 We don't expect our moderators to also have to chase around our community
 members who are violating rules or need to be reminded of our policy.
 
-As a community member if you get on our moderators radar you are likely doing
+As a community member if you get on our moderators' radar you are likely doing
 something very offensive.
 
 We believe in patience and understanding.

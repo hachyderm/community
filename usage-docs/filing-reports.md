@@ -83,7 +83,7 @@ short issues are closed first, and the latter two "long
 conversation" issues are allowed to remain open for continued
 discussion.
 
-### How to be an A+ Hachydermain on the Issue tracker
+### How to be an A+ Hachydermian on the Issue tracker
 
 When you are reporting issues make sure that you:
 
@@ -103,7 +103,7 @@ outage threads we ask that you just make the one.
 #FIXME
 - Add info about labels / review label list
 - ... should really just make GitHub templates at this point
-- ... should point out diretly that users are expected to be
+- ... should point out directly that users are expected to be
   respectful and follow the same rules that they do on the
   platform on the Issue tracker as well
 - Note that users who are negatively impacting our ability to
