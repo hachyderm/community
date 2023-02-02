@@ -8,6 +8,13 @@ Here is the static website that is hosted at [community.hachyderm.io](https://co
   parent directory of this repository.
 - We updated the site theme from Docsy v0.5.1 to v0.6.0 on **19 Jan 2023**. If you have
   pending edits from before that time please make sure they work with the theme update.
+- In order to submit PRs / make changes to this repo, you must sign the Nivenly Foundation Contributor License Agreement:<br />
+  https://cla.nivenly.org/
+
+For the Contributor License Agreement:
+* The Nivenly Foundation is the non-profit we're spinning up to house Hachyderm, Aurae, and other OSS Projects.
+* Hachyderm and Aurae inherit their CLAs from Nivenly
+* The CLA-bot will auto-reject PRs made by those who haven't signed the CLA
 
 ## Installation Requirements for Building The Website
 
