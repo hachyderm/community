@@ -1,9 +1,9 @@
 ---
-title: "Specialized Account Verification"
-linkTitle: "Verification"
+title: "Specialized Account Verification with Hachyderm"
+linkTitle: "Verify with Hachyderm"
 weight: 20
 description: >
-  How to be a verified, specialized account.
+  How to become a verified, specialized, account with Hachyderm.
 ---
 
 ## Who should verify?

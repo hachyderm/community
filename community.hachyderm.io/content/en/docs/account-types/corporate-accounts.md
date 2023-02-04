@@ -4,6 +4,8 @@ linkTitle: "Corporate Accounts"
 weight: 40
 ---
 
+FIXME - Write out more detail and add new corporate member
+
 ## What is a Corporate Account? Do I need one? Am I one?
 
 Corporate accounts are specialized accounts that apply to those running accounts for businesses

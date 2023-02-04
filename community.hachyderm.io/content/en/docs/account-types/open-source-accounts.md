@@ -32,7 +32,7 @@ same rules and restrictions.
 If you are unsure if your project and/or event would be considered corporate,
 please reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-### Understanding Open Source Projects
+### Understanding Open Source Projects and Community Events
 
 The following are the types of projects that are welcome to come and go from
 Hachyderm as they please.
@@ -91,14 +91,13 @@ condone a financially biased governance model in our community.
 
 ## Frequently Asked Questions
 
-### Can I create an account for my event? Like Devopsdays?
+### Can I create an account for my event? Like DevopsDays?
 
 Yes. As long as your event is not a profit focused event you are welcome to
 create an account. If your event is profit seeking, you must follow our
-[corporate policy](
-https://github.com/hachyderm/community/blob/main/corporate-accounts.md).
+[corporate policy](../corporate-accounts/).
 
-#### What about Devopsdays for my specific city?
+#### What about DevopsDays for my specific city?
 
 Yes. As long as your subsidiary account isn't repeating the same content as the
 parent account. We expect each account to have relatively independent content.

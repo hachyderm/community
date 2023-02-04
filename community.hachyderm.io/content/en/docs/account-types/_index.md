@@ -112,7 +112,7 @@ become verified.
    * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agee to the [covenant](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - for community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - for Open Source Projects.
-* Curated - these can be accounts that are re-posting / hosting other content, for example a curated
+* [Curated](FIXME) - these can be accounts that are re-posting / hosting other content, for example a curated
   newsletter, or for individuals that are creating and hosting their own content. Examples of curated
   content can include, but aren't limited to: newsletters, podcasts, and streamers.
 * [Automated](bot-accounts/) - most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
@@ -138,34 +138,6 @@ also disallowed as a dedicated account type.
 * Unrecognized specialized account - essentially if you are not a regular user, and not one of the
   explicitly allowed types, you should reach out to [admin@hachyderm.io](mailto:admin@hachyderm.io)
   prior to making an account.
-
-
-### Corporate Accounts
-
-An account is considered a "corporate" account if it is a business,
-or business-like, entity. This can mean that the account is a business
-directly, or that the account is an event -
-
-### Company and Project Account Types
-
-- [Corporate Accounts](/docs/account-types/corporate-accounts/)
-- [Open Source Accounts](/docs/account-types/open-source-accounts/)
-
-
-**Special / Focused Content Account Types**
-
-These will have their own separate pages soon, but include:
-
-- Newsletters
-- Podcasts
-- Streamers
-- Curated Posting Accounts
-
-**Automated Posting / Bot Account Types**
-
-- [Bot Accounts](/docs/account-types/bot-accounts/)
-
-
 
 ## Frequently Asked Questions
 
