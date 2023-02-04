@@ -1,7 +1,7 @@
 ---
 title: "Influencer Accounts"
 linkTitle: "Influencer Accounts"
-weight: 20
+weight: 40
 ---
 
 In short, we welcome all influencers and have an open door policy to any large

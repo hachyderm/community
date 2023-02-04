@@ -1,7 +1,7 @@
 ---
 title: "General Accounts"
 linkTitle: "General Accounts"
-weight: 20
+weight: 40
 ---
 
 For the vast majority of Hachyderm users:

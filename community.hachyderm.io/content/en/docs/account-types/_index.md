@@ -4,6 +4,11 @@ linkTitle: "Account Types"
 weight: 20
 ---
 
+FIXME - In the same way that all the rules are calling out commont "whataboutisms"
+for our primary rule "don't be a dick", the around specliazed accounts are to
+prevent an on server shouting match.
+
+
 We distinguish between 2 main types of accounts that we use to measure and
 moderate here on Hachyderm: specialized accounts and user
 accounts. (Specialized accounts are sometimes also referred to as
@@ -19,18 +24,27 @@ account types below, then it is not a type permitted on this
 server. This is to prevent automated / single post / corporate
 account (etc.) posts from overtaking regular users. If you would
 like to create a specialized account type that is not on this
-list, please create a suggestion on [our Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose) for a new type of specialized account. Unrecognized
+list, please create a suggestion on [our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose) for a new type of specialized account. Unrecognized
 specialized account types will be removed. Recognized account
 types that do not follow the rules of their account types will be
 moderated as needed.
 
-Some specialized account types are invite only. Unapproved
-specialized accounts that are invite only will be suspended. If
+Some specialized account types are invite only. Unrecognized
+specialized accounts that are will be suspended. If
 you are interested in creating a specialized account that is
-invite only, you must first reach out to us at
+invite only, or not clearly outlined in our docs, you must first reach out to us at
 [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
 For all other specialize accounts, please use the [account approval](#account-approvals) steps below to get formal approval for your account.
+
+#### Note from the Moderation Team
+
+Hachyderm moderators do _not_ proactively attempt to determine your account type. For account types
+that are not invite-only, this means that we normally first encounter your account when a user files a report for
+a rules violation (either server rules or rules for your perceived account type) unless you have reached out to us first.
+
+We recommend that all specialized accounts reach out to the moderation team at [admin@hachyderm.io](mailto:admin@hachyderm.io),
+even if your account type is not invite-only, to assist with expectations setting. 
 
 ## User Accounts
 
@@ -48,7 +62,7 @@ specific example, if you have an account name like MyUserCompany
 or MyPodcast then you will be considered that specialized account
 type based on name or About page and be bound by those rules.
 
-**Influencer Accounts = Large Userbase Accounts**
+### Influencer Accounts = Large Userbase Accounts
 
 Anyone who has more than 25k followers on an existing platform is
 what we refer to as an [Influencer Account](/docs/account-types/influencer-accounts/). The only special rule here is
@@ -61,16 +75,66 @@ follows getting "stuck", etc.
 
 The common rules for all specialized account types are:
 
-- Your username and display name must clearly indicate what you are<br />
+- Your username and display name must clearly indicate what you are.
 This means for companies, OSS projects, podcasts, newsletters, etc.
 then the username must match the company / project name. For most
 other account types this means "describe what you are" via username,
 e.g. "CuratedTechJobPosts".
-- You must be verified with your company, project, etc. page<br />
+- You must be verified with your company, project, etc. page
 If your company, project, newsletter, etc. has a web page then
 that web page must be verified on your profile.
+- Corporate accounts are restricted on this server.
+   - As of 1 Mar 2023, corporate accounts will be restricted to Nivenly Corporate Members
+   - Prior to 1 Mar 2023, corporate acccounts were invite only
+   - All corporate accounts must agree to [the covenant](covenant/)
+- All specialized accounts are welcome to [become verified](application/)
 
-**Company and Project Account Types**
+### Recognized Specialized Account Categories
+
+* [Corporate](corporate-accounts/) - for businesses, companies, and similar.
+* [Events](open-source-accounts/) - for community events, including conferences and meetups.
+* [Projects](open-source-accounts/) - for Open Source Projects.
+* Curated - these can be accounts that are re-posting / hosting other content, for example a curated
+  newsletter, or for individuals that are creating and hosting their own content. Examples of curated
+  content can include, but aren't limited to: newsletters, podcasts, and streamers.
+* [Automated](bot-accounts/) - most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
+  scheduled in nature.
+* Hybrid - This is when an account falls under more than one category, typically companies, events, projects, etc.
+  making use of automated posts. (But not limited to this.) In this case, the account must adhere to all
+  the rules for the different types they house.
+
+Of the above, only the [Corporate accounts](corporate-accounts/) are invite-only / require approval. That said,
+we do recommend that all specialized accounts reach out to us prior to creating an account so we may assist with
+the expectation setting for your account type.
+
+### Disallowed Specialized Account Categories
+
+The following are disallowed as general content on the server, thus are
+also disallowed as a dedicated account type.
+
+* NSFW / 18+ - this is mostly due to our need to be able to comply with 18+, which
+  isn't in the Mastodon tooling at this time. (See our [Sexual Content Policy](nsfw-policy/) for more information.)
+* Fundraising - no accounts can fundraise on Hachyderm.
+* Unofficial company / corporate accounts - as this account type is invite only, unapproved
+  accounts will be banned.
+* Unrecognized specialized account - essentially if you are not a regular user, and not one of the
+  explicitly allowed types, you should reach out to [admin@hachyderm.io](mailto:admin@hachyderm.io)
+  prior to making an account.
+
+### Moderation Note
+
+Note that Hachyderm moderators do _not_ proactively attempt to determine your account type. For account types
+that are not invite-only, this means that we normally first encounter your account when a user files a report for
+a rules violation (either server rules or rules for your perceived account type). We recommend that all
+specialized accounts reach out to the moderation team at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+
+### Corporate Accounts
+
+An account is considered a "corporate" account if it is a business,
+or business-like, entity. This can mean that the account is a business
+directly, or that the account is an event -
+
+### Company and Project Account Types
 
 - [Corporate Accounts](/docs/account-types/corporate-accounts/)
 - [Open Source Accounts](/docs/account-types/open-source-accounts/)
@@ -89,41 +153,6 @@ These will have their own separate pages soon, but include:
 
 - [Bot Accounts](/docs/account-types/bot-accounts/)
 
-### Account Approvals
-
-All specialized accounts that have been approved by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved".
-
-<img src="approved.png" alt="Screenshot of the approved links section of a profiles. There are two verified links. One link is pointing to the companies website. The other link is pointing to https://community.hachyderm.io/approved"/>
-
-**Steps to getting approved**
-
-This is only for the specialized accounts.
-We are not accepting request for individual users at this time.
-
-_Part 1: Get Pre-Approved_
-
-To get started, we will create an issue to track the full process from creation of your account to completion of the approval process.
-
-1. Open a "Specialized Account Approval" issue from our [Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose)
-1. Be patient (We are group of volunteer mods and will reach out as soon as we can)
-1. We make a decision
-  - If you are not approved, we will provide a reason and close and the PR
-  - If you are approved, you can now create your account and then move on to _Part 2_ below
-
-_Part 2: Finishing account setup_
-
-1. Ensure you're already [verified with your official domain](https://github.com/hachyderm/community/blob/main/verification.md)
-    - Do not remove the reference link. Moderators will be using this during their validation process.
-1. Fork this branch
-1. Add your verification tag under the appropriate header in the [approved](https://github.com/hachyderm/community/blob/main/community.hachyderm.io/content/en/approved/_index.md) file.
-1. Create a pull request using the [specialize account]() template.
-1. Complete all tasks in the tasks list
-1. Submit the pull request
-1. Be patient (We are group of volunteer mods and will reach out as soon as well can)
-1. Validate your code has been merged, and your account is now visible on [https://community.hachyderm.io/approved](https://community.hachyderm.io/approved)
-1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md) add the following to your profile metadata
-    - Label: APPROVED
-    - Content: https://community.hachyderm.io/approved
 
 
 ## Frequently Asked Questions

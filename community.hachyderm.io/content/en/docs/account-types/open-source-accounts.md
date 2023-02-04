@@ -1,28 +1,36 @@
 ---
-title: "Open Source Project Accounts"
-linkTitle: "Open Source Project Accounts"
-weight: 20
+title: "Open Source Project and Community Event Accounts"
+linkTitle: "OSS Projects and Events"
+weight: 40
 ---
 
 This section is for anyone who is interested in creating an account
-specifically for an open source project.
-If you are a maintainer of a project, or are representing yourself this page
-does not apply to you.
+specifically for an open source project and/or community driven event.
 
-For example, I, Kris Nóva, am a maintainer of Aurae.
+If you are a maintainer of a project or event organizer and are
+representing yourself this page does not apply to you. For example:
+
+> I, Kris Nóva, am a maintainer of Aurae.
+
 This documentation only applies to me if I were attempting to create a 2nd
 account in addition to my primary personal account that would be specifically
 for "Aurae".
+
 This documentation does not apply to my personal account where I would be free
 to talk about Aurae as I wish.
 
-## Open Source Projects
+## Open Source Projects and Community Events
 
-We welcome open source and collaborate projects to create accounts on
-Hachyderm.
+We welcome open source and collaborative projects to create accounts on
+Hachyderm. We also welcome community events to create accounts on Hachyderm.
 
-We have a few exceptions for projects that operate in a financially biased
-market or projects that are extensions of, or resemble corporations.
+If your project is is an extension of, or resembles, a corporate account it
+is bound by the [Corporate Account](../corporate-accounts/) rules and restrictions.
+If your event is a corporate event and/or meetup, it is _also_ bound by those
+same rules and restrictions.
+
+If you are unsure if your project and/or event would be considered corporate,
+please reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
 ### Understanding Open Source Projects
 
