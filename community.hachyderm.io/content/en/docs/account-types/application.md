@@ -1,7 +1,7 @@
 ---
 title: "Specialized Account Verification"
 linkTitle: "Verification"
-weight: 10
+weight: 20
 description: >
   How to be a verified, specialized account.
 ---

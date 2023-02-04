@@ -4,67 +4,53 @@ linkTitle: "Account Types"
 weight: 20
 ---
 
-FIXME - In the same way that all the rules are calling out commont "whataboutisms"
-for our primary rule "don't be a dick", the around specliazed accounts are to
-prevent an on server shouting match.
+Hachyderm generalizes accounts into one of two account types for moderation:
 
+- User accounts, also referred to as general accounts ([Skip to User Accounts](#user-accounts))
+- Specialized accounts ([Skip to Specialized Accounts](#specialized-accounts))
 
-We distinguish between 2 main types of accounts that we use to measure and
-moderate here on Hachyderm: specialized accounts and user
-accounts. (Specialized accounts are sometimes also referred to as
-"novelty" accounts on other platforms.) User accounts are when
-a single user is interacting with the platform as themselves and
-not on behalf of a company (Company Inc.) or project (OSS project,
-podcasts, etc.) and/or not posting with a singular purpose or
-topic and/or bot accounts.
+Specialized accounts are, broadly, any account where the account is not
+for the purpose of an individual user who represents themselves on the platform.
+Some examples of specialized accounts include, but aren't limited to: novelty
+accounts, bot accounts, corporate accounts, event accounts, project accounts, and so on.
 
-For specialty acounts: we recognize and have rules around some. If
-an account is not a user account and not one of the recognized
+For specialty acounts: we recognize and have rules around some. **If
+an account is not a user account and not one of the recognized specialized
 account types below, then it is not a type permitted on this
-server. This is to prevent automated / single post / corporate
-account (etc.) posts from overtaking regular users. If you would
-like to create a specialized account type that is not on this
-list, please create a suggestion on [our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose) for a new type of specialized account. Unrecognized
-specialized account types will be removed. Recognized account
-types that do not follow the rules of their account types will be
+server.** If you are interested in creating an account that is not either
+a user account or a recognized specialized account type, you need to
+reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+
+Unrecognized specialized accounts will be removed and recognized account
+types that do not follow the rules of their account type will be
 moderated as needed.
 
-Some specialized account types are invite only. Unrecognized
-specialized accounts that are will be suspended. If
-you are interested in creating a specialized account that is
-invite only, or not clearly outlined in our docs, you must first reach out to us at
-[admin@hachyderm.io](mailto:admin@hachyderm.io).
+**Note: The Hachyderm Moderation Team does not try to proactively determine your account type.**
 
-For all other specialize accounts, please use the [account approval](#account-approvals) steps below to get formal approval for your account.
-
-#### Note from the Moderation Team
-
-Hachyderm moderators do _not_ proactively attempt to determine your account type. For account types
-that are not invite-only, this means that we normally first encounter your account when a user files a report for
-a rules violation (either server rules or rules for your perceived account type) unless you have reached out to us first.
-
-We recommend that all specialized accounts reach out to the moderation team at [admin@hachyderm.io](mailto:admin@hachyderm.io),
-even if your account type is not invite-only, to assist with expectations setting. 
+In most cases, unless you've reached out to us via [admin@hachyderm.io](mailto:admin@hachyderm.io),
+then the first time we encounter your account is when it's been reported for a rules violation
+based on your perceived account type. In general, unless we see a descrepancy that indicates otherwise,
+we will moderate based on that perceived type.
 
 ## User Accounts
 
 User accounts are also referred to as General Accounts, which are
-briefly described on our [General Accounts Page](/docs/account-types/general-accounts/).
+briefly described on our [General Accounts page](../general-accounts/).
 In general:
 
 - Follow server rules
 - Don't create type confusion with a specialized account type
 
 For the latter, if you are an individual user then you shouldn't
-have a username or About page that might indicate that you are a
+have a username or about page that might indicate that you are a
 company, project, or other form of specialized account. As a
 specific example, if you have an account name like MyUserCompany
 or MyPodcast then you will be considered that specialized account
-type based on name or About page and be bound by those rules.
+type based on name or about page and be bound by those rules.
 
 ### Influencer Accounts = Large Userbase Accounts
 
-Anyone who has more than 25k followers on an existing platform is
+Anyone who has more than 10k followers on an existing platform is
 what we refer to as an [Influencer Account](/docs/account-types/influencer-accounts/). The only special rule here is
 that we request that you reach out to us in advance at
 [admin@hachyderm.io](mailto:admin@hachyderm.io) before migrating
@@ -75,23 +61,55 @@ follows getting "stuck", etc.
 
 The common rules for all specialized account types are:
 
-- Your username and display name must clearly indicate what you are.
-This means for companies, OSS projects, podcasts, newsletters, etc.
+- Your username and display name must clearly indicate what you are.<br />
+This means for companies, OSS projects, community events, podcasts, newsletters, etc.
 then the username must match the company / project name. For most
 other account types this means "describe what you are" via username,
 e.g. "CuratedTechJobPosts".
-- You must be verified with your company, project, etc. page
+- You must be verified with your company, project, etc. page.<br />
 If your company, project, newsletter, etc. has a web page then
 that web page must be verified on your profile.
-- Corporate accounts are restricted on this server.
-   - As of 1 Mar 2023, corporate accounts will be restricted to Nivenly Corporate Members
-   - Prior to 1 Mar 2023, corporate acccounts were invite only
-   - All corporate accounts must agree to [the covenant](covenant/)
 - All specialized accounts are welcome to [become verified](application/)
+
+### Guiding Principles for All Specialized Accounts
+
+Similar to the way that Don't Be A Dick is the guiding principle for the user
+accounts, with other rules calling out common "Whataboutisms" for that rule,
+specialized accounts also have two main guiding principles. First:
+
+> We don't want a digital shouting match on Hachyderm.
+
+What does this mean? Essentially, it means we recognize that some of the motivation
+behind creating highly repetitive posts is because Entity A posts N times,
+so Entity B posts M times to be visible over Entity A. And so on. The result is a posting
+race so that an entity's posts can be "heard" above the "cacophony" of other posts.
+
+The goal of some of the rules and restrictions we impose on specialized account types is to curtail
+a discordant symphony of competition that drowns out collaboration and connection.
+
+Secondly:
+
+> We don't want to host an ad server.
+
+The goal of the remaining rules and restrictions that we impose on specialized account
+types is to prevent hosting an abudnance of ad and marketing focused content.
+The world is plastered in ads, but we believe what is needed and craved is connection
+and collaboration. With Hachyderm, we seek to nuture a space where these can thrive.
+
+This doesn't mean that you can't post about what is relevant to your account type.
+This does mean we ask you do so in a way that engages with humans the way you'd wish
+to be interacted with.
+
+These principles are outlined in our [covenant](covenant/). Some specialized accounts
+need to agree to the covenant as part of account creation; others, only if they
+become verified.
 
 ### Recognized Specialized Account Categories
 
 * [Corporate](corporate-accounts/) - for businesses, companies, and similar.
+   * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
+   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Corporate Members who agree to the [covenant](covenant/).
+   * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agee to the [covenant](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - for community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - for Open Source Projects.
 * Curated - these can be accounts that are re-posting / hosting other content, for example a curated
@@ -121,12 +139,6 @@ also disallowed as a dedicated account type.
   explicitly allowed types, you should reach out to [admin@hachyderm.io](mailto:admin@hachyderm.io)
   prior to making an account.
 
-### Moderation Note
-
-Note that Hachyderm moderators do _not_ proactively attempt to determine your account type. For account types
-that are not invite-only, this means that we normally first encounter your account when a user files a report for
-a rules violation (either server rules or rules for your perceived account type). We recommend that all
-specialized accounts reach out to the moderation team at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
 ### Corporate Accounts
 

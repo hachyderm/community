@@ -12,7 +12,7 @@ FIXME - add detail, require covenant
 
 ## Bot Account Posting Rules
 
-- All bots must select the bot checkbox in their profile settings <img src="mastodon-bot-account.png" alt="Screenshot of four check boxes in account settings: require follow
+- All bots must select the bot checkbox in their profile settings <img src="../mastodon-bot-account.png" alt="Screenshot of four check boxes in account settings: require follow
   requests, this is a bot account, suggest account to others, and hide
   your social graph"/>
 - Bots are required to put the `#hachybots` hashtag in _all_ posts so
