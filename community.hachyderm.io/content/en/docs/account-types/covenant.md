@@ -11,11 +11,16 @@ description: >
 The following account types should adhere to the expectations as part of signing up
 for Hachyderm:
 
+<<<<<<< HEAD
 * All specialized accounts that fall under the definition of a:
   * [Bot Account](../bot-accounts/)
   * [Curated Content Account](../curated-accounts/)
 * All specialized accounts that wish to be [Verified](../verification/)
 * All [Corporate Accounts](../corporate-accounts) for Nivenly Trade Members
+=======
+* All specialized accounts that fall under the definition of a [Corporate Account](../corporate-accounts/)
+* All specialized accounts that wish to be [Verified](../application/)
+>>>>>>> 3b0c21f (Fixed typos, grammar errors, etc.)
 
 ## Expectations for Specialized Accounts
 
@@ -50,7 +55,11 @@ In other words, your "fines will be doubled" if you end up violating our rules.
 We will warn you first that you have violated a guiding principle, and if it
 continues, then we will ask you to leave.
 
+<<<<<<< HEAD
 Ultimately, you are setting the bar for Hachyderm users, the exclusive corporate
+=======
+Ultimately, you are setting the bar both for Hachyderm users, the exclusive corporate
+>>>>>>> 3b0c21f (Fixed typos, grammar errors, etc.)
 accounts, as well as other specialized accounts. 
 
 ### 2. Be Who You Want To Work With
@@ -67,7 +76,11 @@ We find value in drawing the analogy to forced advertising at the gas station.
 As a gas station owner, forced messaging makes sense because of the higher
 return on advertising.
 
+<<<<<<< HEAD
 As a gas station customer, there is nothing more annoying than being forced to
+=======
+As a gas station customer, there is nothing more annoying that being forced to
+>>>>>>> 3b0c21f (Fixed typos, grammar errors, etc.)
 listen to an ad while pumping gas.
 
 We want people to want to shop at your gas station, which means you need to
@@ -114,7 +127,11 @@ either sharing new content, or mentioning the original source and adding to it.
 
 ### 4. "We Know It When We See It" Policy
 
+<<<<<<< HEAD
 Ultimately, the community comes first and the community's response to your
+=======
+Ultimately, the community comes first and the communities response to your
+>>>>>>> 3b0c21f (Fixed typos, grammar errors, etc.)
 content will be our guiding light.
 
 > I understand that policies are difficult to enforce. If it is made obvious to

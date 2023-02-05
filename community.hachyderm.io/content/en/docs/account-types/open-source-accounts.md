@@ -48,7 +48,7 @@ Hachyderm as they please.
 - :heavy_check_mark: Open source organizations such as
   [Matrix](https://matrix.org).
 
-Unfortunately we are unable to support projects that are active participants in
+Unfortunately, we are unable to support projects that are active participants in
 financially biased markets, or products that are extension of a single
 corporation.
 
@@ -65,7 +65,7 @@ documentation.
   sponsor/owners such as Google's [Go Programming language](https://go.dev/)
   and HashiCorp's [Terraform](https://www.terraform.io/).
 - :heavy_multiplication_x: Open source projects with structured sponsorship
-  models that resemble paid services. For example features that are unlocked
+  models that resemble paid services. For example, features that are unlocked
   via donation such as [LetsEncrypt](https://letsencrypt.org/sponsors/)'s quota
   limit which can only be raised via donation.
 - :heavy_multiplication_x: "up-sell" or "upgrade to pro" or "free trial" model
@@ -83,9 +83,9 @@ other vendors cannot afford.
 
 We believe that expensive sponsorship models that promise a higher return of
 investment with regard to product marketing create an unfair disadvantage for
-small businesses. We believe a level playing field for small businesses is
-critical for the sustainability of future generations in tech. We cannot
-condone a financially biased governance model in our community.
+small businesses. We believe that a level playing field for small businesses is
+necessary for the sustainability of future generations in tech. We do not
+support a financially biased governance model in our community.
 
 ---
 
@@ -93,7 +93,7 @@ condone a financially biased governance model in our community.
 
 ### Can I create an account for my event? Like DevopsDays?
 
-Yes. As long as your event is not a profit focused event you are welcome to
+Yes. As long as your event is not a profit focused event, then you are welcome to
 create an account. If your event is profit seeking, you must follow our
 [corporate policy](../corporate-accounts/).
 
@@ -117,5 +117,5 @@ should join the project and ask for access to the Mastodon account.
 
 ### Can I create a bot account for our open source project?
 
-No. We know its fun to automate pull requests, build status, and more. However
+No. We know it is fun to automate pull requests, build status, and more. However,
 we try to keep our content based around real words written by real people.

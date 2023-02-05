@@ -48,7 +48,7 @@ All accounts that make use of automated and/or scheduled posts must adhere to th
     are bound to all sets of rules for their combined, hybrid, account type.
   - Posts cannot violate the [covenant](../covenant/)
 - There is one exception: automated posts _can_ skirt the "say it once" policy, unless it
-  becomes spam-worthy (**_community descretion_**). So if you need to post about your event,
+  becomes spam-worthy (**_community descretion_**). So, if you need to post about your event,
   blog, etc. and stay within the total number of posts per day, this is fine.
 
 Accounts that violate the above may be limited or suspended.
@@ -77,7 +77,6 @@ All bot accounts, and bot-like posts, must respect consent (i.e. opt-in). This m
     a thread, because they were tagged once, and thus auto-tagged in all subsequent responses.
 - Bots _cannot_ respond to hashtags, keywords, etc. without being tagged - e.g. bots that respond to user posts based on keywords and similar.
 - Bots designed to consume, use, store, or otherwise handle data (even public data) can only do so with consent (opt-in).
-- Bots designed for fun _can_ skirt the "say it once" policy, unless it becomes spam-worthy (**_commmunity descretion_**). So if your
-  bot only responds with "honk", and only when summoned, this is fine.
+- Bots designed for fun _can_ skirt the "say it once" policy, unless it becomes spam-worthy (**_commmunity descretion_**). So, if your bot only responds with "honk", and only when summoned, this is fine.
 
 Bot accounts that violate any of the above may be limited or banned.

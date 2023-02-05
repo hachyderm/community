@@ -4,13 +4,13 @@ linkTitle: "Influencer Accounts"
 weight: 40
 ---
 
-In short, we welcome all influencers and have an open door policy to any large
+In short, we welcome all influencers and have an open door policy for any large
 influencer account who would like to make Hachyderm a home.
 
 ## Overview
 
 - We welcome influencer accounts
-- If you have a following of more than 10k on any platform, please reach
+- If you have a following of more than 10K on any platform, please reach
   out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io) before
   announcing your account to your followers.
 - You may want to [verify with Hachyderm](../application/), depending on your content.
@@ -24,7 +24,7 @@ marketing.
 We draw the line between "personal brand" and "corporate account". The latter
 would need to adhere to our [corporate account](../corporate-accounts/) policy.
 
-In short if you are representing yourself you should be fine to self promote on
+In short, if you are representing yourself, then you should be fine to self promote on
 Hachyderm. If your content is close to one of our other account types, and potentially
 not only your own personal brand and/or there's high overlap between your personal brand
 being a "brand-brand", please reach out to
@@ -61,7 +61,7 @@ so we are prepared if we need to do anything for backend processes or potentiall
 re-prompt remote servers (i.e. neither Hachyderm nor your original Mastodon home server)
 to migrate followers if they become stuck during your migration.
 
-As a rule if you have more than 10k followers on an existing platform we ask
+As a rule, if you have more than 10K followers on an existing platform, we ask
 that you reach out to us directly at [admin@hachyderm.io](mailto:admin@hachyderm.io)
 or via the Nivenly Discord (if you're already in there) before announcing your arrival
 to your followers so we can prepare to assist as needed.

@@ -46,12 +46,12 @@ We are not accepting request for individual users at this time.
 
 _Part 1: Get Pre-Approved_
 
-To get started, we will create an issue to track the full process from creation of your account to completion of the approval process.
+To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
 1. Read [the Covenant](../covenant/)
 1. Open a "Specialized Account Approval" issue from our [Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose)
 1. Include your agreement to the covenant in the GitHub issue 
-1. Be patient (We are group of volunteer mods and will reach out as soon as we can)
+1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
   - If you are not approved, we will provide a reason and close and the PR
   - If you are approved, you can now create your account and then move on to _Part 2_ below
@@ -65,9 +65,9 @@ _Part 2: Finishing account setup_
 1. Create a pull request using the [specialized account](FIXME) template.
 1. Complete all tasks in the tasks list
 1. Submit the pull request
-1. Be patient (We are group of volunteer mods and will reach out as soon as well can)
+1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. Validate your code has been merged, and your account is now visible on [https://community.hachyderm.io/approved](https://community.hachyderm.io/approved)
-1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md) add the following to your profile metadata
+1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
 1. Make sure to share that you're an approved account, and include that that means you've agreed to [the covenant](../covenant/)!

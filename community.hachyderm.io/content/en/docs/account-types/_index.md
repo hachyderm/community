@@ -16,9 +16,9 @@ accounts, bot accounts, corporate accounts, event accounts, project accounts, an
 
 For specialty acounts: we recognize and have rules around some. **If
 an account is not a user account and not one of the recognized specialized
-account types below, then it is not a type permitted on this
-server.** If you are interested in creating an account that is not either
-a user account or a recognized specialized account type, you need to
+account types below, then it is not an account type permitted on this
+server.** If you are interested in creating an account that is not
+a user account or a recognized specialized account type, then you need to
 reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
 Unrecognized specialized accounts will be removed and recognized account
@@ -28,7 +28,7 @@ moderated as needed.
 **Note: The Hachyderm Moderation Team does not try to proactively determine your account type.**
 
 In most cases, unless you've reached out to us via [admin@hachyderm.io](mailto:admin@hachyderm.io),
-then the first time we encounter your account is when it's been reported for a rules violation
+then the first time we encounter your account is when it has been reported for a rules violation
 based on your perceived account type. In general, unless we see a descrepancy that indicates otherwise,
 we will moderate based on that perceived type.
 
@@ -39,18 +39,18 @@ briefly described on our [General Accounts page](../general-accounts/).
 In general:
 
 - Follow server rules
-- Don't create type confusion with a specialized account type
+- Don't create an account type confusion with a specialized account type
 
 For the latter, if you are an individual user then you shouldn't
-have a username or about page that might indicate that you are a
+have a username or an about page that might indicate that you are a
 company, project, or other form of specialized account. As a
 specific example, if you have an account name like MyUserCompany
-or MyPodcast then you will be considered that specialized account
+or MyPodcast, then you will be considered that specialized account
 type based on name or about page and be bound by those rules.
 
 ### Influencer Accounts = Large Userbase Accounts
 
-Anyone who has more than 10k followers on an existing platform is
+Anyone who has more than 10K followers on an existing platform is
 what we refer to as an [Influencer Account](/docs/account-types/influencer-accounts/). The only special rule here is
 that we request that you reach out to us in advance at
 [admin@hachyderm.io](mailto:admin@hachyderm.io) before migrating
@@ -75,7 +75,7 @@ that web page must be verified on your profile.
 
 Similar to the way that Don't Be A Dick is the guiding principle for the user
 accounts, with other rules calling out common "Whataboutisms" for that rule,
-specialized accounts also have two main guiding principles. First:
+specialized accounts also have two main guiding principles. Firstly:
 
 > We don't want a digital shouting match on Hachyderm.
 
@@ -106,16 +106,16 @@ become verified.
 
 ### Recognized Specialized Account Categories
 
-* [Corporate](corporate-accounts/) - for businesses, companies, and similar.
+* [Corporate](corporate-accounts/) - For businesses, companies, and similar.
    * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
    * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Corporate Members who agree to the [covenant](covenant/).
-   * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agee to the [covenant](covenant/) (then referred to as the Corporate Covenant).
-* [Events](open-source-accounts/) - for community events, including conferences and meetups.
-* [Projects](open-source-accounts/) - for Open Source Projects.
-* [Curated](FIXME) - these can be accounts that are re-posting / hosting other content, for example a curated
+   * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
+* [Events](open-source-accounts/) - For community events, including conferences and meetups.
+* [Projects](open-source-accounts/) - For Open Source Projects.
+* [Curated](FIXME) - These can be accounts that are re-posting / hosting other content, for example a curated
   newsletter, or for individuals that are creating and hosting their own content. Examples of curated
   content can include, but aren't limited to: newsletters, podcasts, and streamers.
-* [Automated](bot-accounts/) - most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
+* [Automated](bot-accounts/) - Most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
   scheduled in nature.
 * Hybrid - This is when an account falls under more than one category, typically companies, events, projects, etc.
   making use of automated posts. (But not limited to this.) In this case, the account must adhere to all
@@ -130,12 +130,12 @@ the expectation setting for your account type.
 The following are disallowed as general content on the server, thus are
 also disallowed as a dedicated account type.
 
-* NSFW / 18+ - this is mostly due to our need to be able to comply with 18+, which
+* NSFW / 18+ - This is mostly due to our need to be able to comply with 18+, which
   isn't in the Mastodon tooling at this time. (See our [Sexual Content Policy](nsfw-policy/) for more information.)
-* Fundraising - no accounts can fundraise on Hachyderm.
-* Unofficial company / corporate accounts - as this account type is invite only, unapproved
+* Fundraising - No accounts can fundraise on Hachyderm.
+* Unofficial company / corporate accounts - As this account type is invite only, unapproved
   accounts will be banned.
-* Unrecognized specialized account - essentially if you are not a regular user, and not one of the
+* Unrecognized specialized account - Essentially if you are not a regular user, and not one of the
   explicitly allowed types, you should reach out to [admin@hachyderm.io](mailto:admin@hachyderm.io)
   prior to making an account.
 

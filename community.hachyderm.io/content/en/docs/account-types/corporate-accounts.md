@@ -9,11 +9,11 @@ description: >
 
 ## Overview
 
-- What is a corporate account
+- What is a corporate account?
 - Current corporate accounts
 - Rules and restrictions for corporate accounts
-- Who can make a corporate account
-- What are the rules for corporate accounts
+- Who can make a corporate account?
+- What are the rules for corporate accounts?
 
 ## What is a Corporate Account
 
@@ -31,8 +31,8 @@ create corporate accounts on Hachyderm will still need to agree to  [the covenan
 ## Rules and restrictions
 
 - Corporate Account creation is restricted
-  - After 1 Mar 2023 corporate accounts will be restricted to Nivenly Corporate Members
-  - Prior to 1 Mar 2023 corporate accounts are invite only
+  - After 1 Mar 2023, corporate accounts will be restricted to Nivenly Corporate Members
+  - Prior to 1 Mar 2023, corporate accounts are invite only
   - Unofficial corporate accounts will be suspended
 - Account rules
   - Corporate accounts must agree to [the covenant](../covenant/) (formerly referred to as Corporate Covenant)
