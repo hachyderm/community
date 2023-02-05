@@ -43,11 +43,11 @@ All accounts that make use of automated and/or scheduled posts must adhere to th
 
 - **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
 - Posts cannot violate other rules
-  - This includes server rules disallowing spam, fundrasing, NSFW/18+, corporate, et al content
+  - This includes server rules disallowing spam, fundrasing, NSFW/18+ content (et al)
   - Hybrid accounts, those that make use of scheudled posts and are also another specialized type,
     are bound to all sets of rules for their combined, hybrid, account type.
   - Posts cannot violate the [covenant](../covenant/)
-- There is one exception: automated posts _can_ skirt the "say it once" policy, unles it
+- There is one exception: automated posts _can_ skirt the "say it once" policy, unless it
   becomes spam-worthy (**_community descretion_**). So if you need to post about your event,
   blog, etc. and stay within the total number of posts per day, this is fine.
 
@@ -58,7 +58,7 @@ Accounts that violate the above may be limited or suspended.
 #### Account Configuration
 
 - All bot accounts must [be verified](../application/), which means they agree to [the covenant](../covenant/).
-- All bots must select the bot checkbox in their profile settings. (Open in new window to enlarge.)<br />
+- All bots must select the bot checkbox in their profile settings. (Open image in new window to enlarge.)<br />
   <img src="../mastodon-bot-account.png"
        alt="Screenshot of four check boxes in account settings: require follow
        requests, this is a bot account, suggest account to others, and hide
