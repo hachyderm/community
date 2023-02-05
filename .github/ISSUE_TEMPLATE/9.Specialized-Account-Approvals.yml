@@ -7,18 +7,21 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reaching out to us to request an for a specialized account.
+        Thank you for reaching out to us to verify your specialized account.
         Use the below form fields to provides some information.
 
         Note: This form along with the rest of the process will remain publicly visible.
   - type: dropdown
     attributes:
       label: |
-        Which type of specialize account are creating?
+        Which type of specialized account are creating? Select all that apply.
       options:
-        - Company and Project Account
-        - Special / Focused Content Account
-        - Automated Posting / Bot Account
+        - Corporate Account (must have already gone through email invite process)
+        - Open Source Project
+        - Community Event
+        - Curated Content Account
+        - Bot Account
+        - Account with some, or all, automated and/or scheduled posts
     validations:
       required: true
   - type: textarea
