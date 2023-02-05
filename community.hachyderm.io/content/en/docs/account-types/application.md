@@ -24,7 +24,12 @@ consider being verified:
 * [Open Source Projects](../open-source-accounts/)
 * [Bots](../bot-accounts/)
 
-### What Does an Approved Account look like?
+## When to verify?
+
+This process was launched in February of 2023. We ask existing accounts that need to be verified to
+do so by the end of March 2023.
+
+## What Does an Approved Account look like?
 All specialized accounts that have been approved by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved".
 
 <img src="../approved.png" alt="Screenshot of the approved links section of a profiles.
