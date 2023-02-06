@@ -58,6 +58,8 @@ verification:
 
 *Update 2023-02-02: GitHub now allows to add up to four arbitrary social accounts, which drasticaly simplifies to verify GitHub profiles. See <https://github.blog/changelog/2023-02-02-add-more-social-links-to-your-user-profile/> for reference.*
 
+**On GitHub**
+
 Open the [settings of your GitHub account](https://github.com/settings/profile) you want to verify and:
 
 1. Add the full URL of your Hachyderm / Mastodon profile to one of the four social accounts fields.
