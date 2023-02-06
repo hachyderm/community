@@ -54,60 +54,19 @@ verification:
           highlighted in green with green checkmarks next to the URL to show
           they are verified." />
 
-## GitHub - Workarounds
+## GitHub
 
-### Your GitHub Profile
+*Update 2023-02-02: GitHub now allows to add up to four arbitrary social accounts, which drasticaly simplifies to verify GitHub profiles. See <https://github.blog/changelog/2023-02-02-add-more-social-links-to-your-user-profile/> for reference.*
 
-#### Updated with new information
+Open the [settings of your GitHub account](https://github.com/settings/profile) you want to verify and:
 
-There are **_two_** ways to verify your GitHub. Both of these differ from
-the regular verification instructions above.
-
-**First Option: Profile Bio Field**
-
-Note: This method will not work if your Hachyderm username matches your, or
-anyone's, GitHub username, because GitHub will turn the username into a link,
-breaking the verification process.
-
-1. Add your full Hachyderm / Mastodon username to your GitHub bio.
-   * Note: your full username includes the server, e.g. `@username@hachyderm.io`
+1. Add the full URL of your Hachyderm / Mastodon profile to one of the four social accounts fields.
+     - Note: your full username includes the server, e.g. @username@hachyderm.io
 2. Save changes.
-
-It looks like this:
-
-<img src="assets/mastodon-github-verify-bio-field.png"
-     alt="Screenshot GitHub profile edit page with @username@hachyderm.io in
-     in the bio field"
-     width="250" />
-
-**Second Option: Website in Profile[^SimonWillison]**
-
-1. Add your Hachyderm / Mastodon URL to the website field of your GitHub
-   profile, e.g. [https://hachyderm.io/@username](https://hachyderm.io/@username)
-   * Note: You should not include "rel=me" for GitHub verification / use raw HTML
-2. Save changes.
-
-It looks like this:
-
-<img src="assets/mastodon-github-verify-website-field.png"
-     alt="Screenshot GitHub profile edit page with
-     https://hachyderm.io/@username in the website field"
-     width="250" />
-
-Note: In order for this to work this MUST be sit in the profile web link
-under your profile picture. This field will automatically add the required
-`rel=me` tag to your URL, whereas the other locations will strip the tags
-automatically. You cannot embed the URL in a README on your profile page.
-
-Unfortunately you will not be able to post another URL in the website
-location; even though hachyderm.io will continue to show you as verified,
-other instances will do their own verification check when users on those
-instances view your profile.
 
 **On Hachyderm / Mastodon**
 
-Whichever of the above you choose, after you have saved your changes go
-to your Hachyderm / Mastodon account and:
+After you have saved your changes go to your Hachyderm / Mastodon account and:
 
 1. Go to Edit Profile
 2. In one of the four fields of Profile Metadata, add the URL to your
@@ -115,39 +74,6 @@ to your Hachyderm / Mastodon account and:
 3. Save changes.
 
 Verification should appear almost instantaneously.
-
-Please note that this only applies to _personal_ GitHub profiles.
-Currently, there is no way to verify _organizational_ GitHub profiles as
-the `rel=me` tag is not added here.
-
-### Your GitHub.io Page
-
-If you do not want to sacrifice your web page field on your GitHub profile,
-then another way to verify is to verify your username.github.io page.
-This is a workaround [documented by Simon Willison on his blog](https://til.simonwillison.net/mastodon/verifying-github-on-mastodon).[^SimonWillison]
-In this case, you supply the regular link with the `rel="me"` attribute,
-again either using a regular link or placing it in the header information.
-As an example, [Simon Willison's code for his GitHub.io page is here](https://github.com/simonw/simonw.github.com/blob/main/index.html).
-
-The result is this:
-
-<img src="assets/mastodon-verification-profile-simon-willison.png"
-     alt="Screenshot of profile for user Simon Willison, showing that
-          he has verified his Blog and GitHub.io pages. Note he is a
-          Mastodon, but not a Hachyderm, user."
-     width="400" />
-
-Note:
-
-* This image is only the metadata information that he also included in his
-blog post.
-* He is running his own self-hosted Mastodon instance.
-
-## How long does verification persist?
-
-Verification is checked upon saving your profile. Thus, as long as you
-don't change anything, your verified identities will persist and you're
-free to change back the website on your GitHub profile[^JWildeboer].
 
 ## Alternatives
 
@@ -164,7 +90,3 @@ source project account, please see the instructions for those accounts
 for what verification we'd need.
 
 ---
-
-[^JWildeboer]: Source for verifying GitHub <https://jan.wildeboer.net/2022/06/Quick-Fix-Verified-Mastodon-Github/#the-solution>
-
-[^SimonWillison]: Second example, GitHub as well as GitHub.io <https://til.simonwillison.net/mastodon/verifying-github-on-mastodon>
