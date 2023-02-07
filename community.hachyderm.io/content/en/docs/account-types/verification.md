@@ -8,29 +8,37 @@ description: >
 
 ## Who should verify?
 
-Currently, the only specialized account type that is _required_ to verify is the
-[corporate account](../corporate-account/). That said, we recommend that all of our specialized accounts
-go through the verification process so that Hachyderm users know that your account
-is officially recognized and that you've agreed to [the Covenant](../covenant/).
+Currently only a subset of our specialized accounts are _required_ to verify. That said we recommend
+that all specialized accounts (including some, but not all, influencer accounts) go through the verification
+process so that Hachyderm users know that your account is officially recognized and that you've
+agreed to [the covenant](../covenant/).
 
-## Which Accounts Should Apply
 
-We recommend all accounts that are not user accounts apply to be verified with us, although only
-invite-only account types are _required_ to be veriifed. Account types that will likely want to
-consider being verified:
+### Required and optional verification
 
-* [Corporate Accounts](../corporate-accounts/)
+We recommend all accounts that are not user accounts apply to be verified with us, only the following
+are required to be verified:
+
+* [Corporate accounts](../corporate-accounts/)
+* [Bot accounts](../bot-accounts/)
+* [Curated accounts](FIXME)
+
+Accounts that will likely want to consider being verified:
+
 * [Events](../open-source-accounts/)
 * [Open Source Projects](../open-source-accounts/)
-* [Bots](../bot-accounts/)
+* Any account that may appear similar to a corporate account (but is not). This may include:
+  * Some of the non-profits we've welcomed on our instance
+  * Some of our [Influencer Accounts](../influencer-accounts/) (though not all)
+    * Note that verification is not open to general users at this time.
 
 ## When to verify?
 
 This process was launched in February of 2023. We ask existing accounts that need to be verified to
 do so by the end of March 2023.
 
-## What Does an Approved Account look like?
-All specialized accounts that have been approved by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved".
+## What does a verified account look like?
+All specialized accounts that have been verified by the Hachyderm moderation team will have a verified link pointing to [community.hachyderm.io/approved](https://community.hachyderm.io/approved) in their profile links. This link should be titled "Approved" on the account bio:
 
 <img src="../approved.png" alt="Screenshot of the approved links section of a profiles.
       There are two verified links. One link is pointing to the companies website.

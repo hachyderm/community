@@ -14,7 +14,7 @@ article is for you!
 - Automated posts and bot accounts
 - Posting rules for automated content
 - Posting rules and behavior restrictions for bots
-- All bots must be [verified](../application/)
+- All bots must be [verified](../verification/)
 
 ## A bit about post automation
 
@@ -57,7 +57,7 @@ Accounts that violate the above may be limited or suspended.
 
 #### Account Configuration
 
-- All bot accounts must [be verified](../application/), which means they agree to [the covenant](../covenant/).
+- All bot accounts must [be verified](../verification/), which means they agree to [the covenant](../covenant/).
 - All bots must select the bot checkbox in their profile settings. (Open image in new window to enlarge.)<br />
   <img src="../mastodon-bot-account.png"
        alt="Screenshot of four check boxes in account settings: require follow

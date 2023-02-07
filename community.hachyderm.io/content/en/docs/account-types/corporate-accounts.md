@@ -37,7 +37,7 @@ create corporate accounts on Hachyderm will still need to agree to  [the covenan
 - Account rules
   - Corporate accounts must agree to [the covenant](../covenant/) (formerly referred to as Corporate Covenant)
   - Corporate accounts must be verified with their company page
-  - Corporate accounts must be [verified with Hachyderm](../application/)
+  - Corporate accounts must be [verified with Hachyderm](../verification/)
     - This last process is a new process in 2023, to help Hachyderm users quickly see if
       an account is a registered / official account or not.
 

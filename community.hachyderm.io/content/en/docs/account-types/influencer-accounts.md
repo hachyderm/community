@@ -13,7 +13,7 @@ influencer account who would like to make Hachyderm a home.
 - If you have a following of more than 10K on any platform, please reach
   out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io) before
   announcing your account to your followers.
-- You may want to [verify with Hachyderm](../application/), depending on your content.
+- You may want to [verify with Hachyderm](../verification/), depending on your content.
 
 ## Self Promotion
 
