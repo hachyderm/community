@@ -27,7 +27,7 @@ dev: submodule ## Run the local server
 	hugo serve . --bind=0.0.0.0
 
 issues: ## Find all the FIXMEs
-	grep -ri "FIXME" .
+	grep -ri "FIXME" content/en
 
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
