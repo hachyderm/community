@@ -21,7 +21,7 @@ are required to be verified:
 
 * [Corporate accounts](../corporate-accounts/)
 * [Bot accounts](../bot-accounts/)
-* [Curated accounts](FIXME)
+* [Curated accounts](../curated-accounts/)
 
 Accounts that will likely want to consider being verified:
 

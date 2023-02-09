@@ -112,7 +112,7 @@ become verified.
    * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - For community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - For Open Source Projects.
-* [Curated](FIXME) - These can be accounts that are re-posting / hosting other content, for example a curated
+* [Curated](curated-accounts/) - These can be accounts that are re-posting / hosting other content, for example a curated
   newsletter, or for individuals that are creating and hosting their own content. Examples of curated
   content can include, but aren't limited to: newsletters, podcasts, and streamers.
 * [Automated](bot-accounts/) - Most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
