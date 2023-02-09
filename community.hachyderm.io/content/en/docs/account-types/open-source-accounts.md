@@ -48,19 +48,32 @@ Hachyderm as they please.
 - :heavy_check_mark: Open source organizations such as
   [Matrix](https://matrix.org).
 
-Unfortunately, we are unable to support projects that are active participants in
-financially biased markets, or products that are an extension of a single
-corporation.
+OSS projects and industry events that are company-like or business-like in their
+implementation will be considered "corporate" (in the account sense) and require
+a [corporate account](../corporate-accounts/). They will also be bound by the
+account rules and restrictions for that account type, including the requirement
+that they be backed by a Nivenly Trade Member. Criteria that would meet this type:
 
-We will treat all corporation-specific projects as the parent corporation
-itself, which is bound to the [corporate accounts'](/docs/account-types/corporate-accounts/)
-documentation.
+- Projects that are a product / service of a parent entity that would meet the
+  criteria for a corporate account **_or_**<br />
+  events that are for a specific company or company-like organization **_or_**<br />
+  events for a specific product / service of that company or company-like organization.
+- Projects with either a single sponsor or owner that is a company or is company-like / business-like **_or_**<br />
+  events that meet this definition.
+- Projects that resemble paid services for a company or company-like / business-like entity **_or_**<br />
+  events that meet this defniition.
+- Projects that have "free tier" and "paid tier" models that resemble company-like
+  or business-like implementation.
 
-- :heavy_multiplication_x: Financially biased trade organizations and governing
+Some specific examples that would would not fall under the OSS project / event
+definition (in terms of account type) and would require a [corporate account](../corporate-accounts/):
+
+- :heavy_multiplication_x: Large trade organizations and governing
   bodies such as the [CNCF](https://www.cncf.io/about/join/) or [Cloud
   Foundry](https://www.cloudfoundry.org/membership/) or their subsequent
   projects such as [Istio](https://www.cncf.io/projects/istio/) or
   [Helm](https://www.cncf.io/projects/helm/).
+- :heavy_multiplication_x: Product ecosystem event like [AWS re:Invent](https://reinvent.awsevents.com/)
 - :heavy_multiplication_x: Open source projects with a single corporate
   sponsor/owner such as Google's [Go Programming language](https://go.dev/)
   and HashiCorp's [Terraform](https://www.terraform.io/).
@@ -73,19 +86,26 @@ documentation.
   Edition](https://www.pfsense.org/download/) or [Wolfram
   Alpha](https://www.wolfram.com/open-materials/).
 
-### What Is Financial Bias?
+### What is financial bias?
 
 Financial bias is defined as "the ability for a specific vendor, project, or
 organization to pay for a competitive advantage" or sometimes referred to as
-"pay-to-play" vendor spaces.  Many vendor markets exist today which allow for
-wealthier vendors to pay for higher and more attractive sponsorship models that
-other vendors cannot afford.
+"pay-to-play" vendor spaces. 
 
-We believe that expensive sponsorship models that promise a higher return of
-investment with regard to product marketing create an unfair disadvantage for
-small businesses. We believe that a level playing field for small businesses is
-necessary for the sustainability of future generations in tech. We do not
-support a financially biased governance model in our community.
+### Why do we care about financial bias?
+
+We acknowledge the system that we're in: projects and events need money to run
+and continue to have great work and results. What we are specifically concerned
+with is when financial bias can create unhealthy releationships. In particular,
+financial bias can taint the relationship between a project and/or event and its
+intended goals. As that grows and spreads, this in turn drives unhealthy
+relationships between the people building/running the project and/or event
+and the very people they want to bond, collaborate, and share with.
+
+Our goal with the guidance, rules, and restrictions that we have in place
+for these and other account types is to protect our community by promoting
+and nurturing the conditions that allow healthy relationships to thrive by
+default.
 
 ---
 
