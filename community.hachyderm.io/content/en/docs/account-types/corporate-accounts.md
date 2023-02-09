@@ -9,6 +9,8 @@ description: >
 
 ## Overview
 
+All Hachyderm corporate accounts must be controlled by a Nivenly Trade Member which is accountability for each corporate account associated with the Trade membership.
+
 - What is a corporate account?
 - Current corporate accounts
 - Rules and restrictions for corporate accounts
@@ -50,12 +52,9 @@ be patient with us as we iron out our processes as part of the Nivenly Foundatio
 
 #### The Nivenly Foundation
 
-[The Nivenly Foundation](https://nivenly.org) is a non-profit co-op that we are creating to
-house Hachyderm and Open Source Projects. One of the main aspects of Nivenly is governance:
-we are building a multichamber model that will have members from the community, 
-project maintainers, and the companies who choose to be Nivenly Corporate Members. For more
-information about Nivenly itself, please refer to [Nivenly's website](https://nivenly.org)
-over the course of 2023 as we go through our launch.
+[The Nivenly Foundation](https://nivenly.org) will facilitate Hachyderm's governance as well as other open source projects.
+The governance model will be democratic in nature, and all Nivenly Trade members will be given a vote in member level elections.
+For more information see [nivenly.org](https://nivenly.org).
 
 #### How to become a Nivenly Corporate Member / make a corporate account
 
