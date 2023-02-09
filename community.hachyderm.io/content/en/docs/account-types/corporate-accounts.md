@@ -20,8 +20,8 @@ All Hachyderm corporate accounts must be controlled by a Nivenly Trade Member wh
 ## What is a Corporate Account
 
 Corporate accounts are specialized accounts that apply to those running accounts for businesses
-and business-like entities. Corporate accounts are invite only and, as of 1 Mar 2023, corporate
-accounts will be restricted to Nivenly Corporate Members. Nivenly Corporate Members who wish to
+and business-like entities. Corporate accounts are invite-only and, as of 1 Mar 2023, corporate
+accounts will be restricted to Nivenly Trade Members. Nivenly Trade Members who wish to
 create corporate accounts on Hachyderm will still need to agree to  [the covenant](../covenant/).
 
 ## Current corporate accounts
@@ -33,8 +33,8 @@ create corporate accounts on Hachyderm will still need to agree to  [the covenan
 ## Rules and restrictions
 
 - Corporate Account creation is restricted
-  - After 1 Mar 2023, corporate accounts will be restricted to Nivenly Corporate Members
-  - Prior to 1 Mar 2023, corporate accounts are invite only
+  - After 1 Mar 2023, corporate accounts will be restricted to Nivenly Trade Members
+  - Prior to 1 Mar 2023, corporate accounts were invite-only
   - Unofficial corporate accounts will be suspended
 - Account rules
   - Corporate accounts must agree to [the covenant](../covenant/) (formerly referred to as Corporate Covenant)
@@ -45,7 +45,7 @@ create corporate accounts on Hachyderm will still need to agree to  [the covenan
 
 ## Corporate account application information
 
-Starting 1 Mar 2023, corporate accounts will be restricted to Nivenly Corporate Members. We are
+Starting 1 Mar 2023, corporate accounts will be restricted to Nivenly Trade Members. We are
 handling corporate membership requests individually prior to that date, to set expectations of
 what will be needed moving forward. We ask for our new and upcoming corporate accounts to please
 be patient with us as we iron out our processes as part of the Nivenly Foundation's launch.
@@ -56,11 +56,7 @@ be patient with us as we iron out our processes as part of the Nivenly Foundatio
 The governance model will be democratic in nature, and all Nivenly Trade members will be given a vote in member level elections.
 For more information see [nivenly.org](https://nivenly.org).
 
-#### How to become a Nivenly Corporate Member / make a corporate account
+#### How to become a Nivenly Trade Member / make a corporate account
 
-If you are interested in starting the conversation around corporate accounts, Nivenly Corporate
+If you are interested in starting the conversation around corporate accounts, Nivenly Trade 
 Membership, etc.: please email us at [info@nivenly.org](mailto:info@nivenly.org).
-
-
-  
-

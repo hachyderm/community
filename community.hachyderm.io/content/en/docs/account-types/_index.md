@@ -94,6 +94,12 @@ types is to prevent hosting an abundance of ad and marketing focused content.
 The world is plastered in ads, but we believe what is needed and craved is connection
 and collaboration. With Hachyderm, we seek to nurture a space where these can thrive.
 
+The goal of rules related to this principle is not to make it so our accounts that
+have services and ideas they may also be selling unable to interact on our platform.
+Instead, it is our hope and design that accounts this is relevant to reimagine how
+they can interact with our community in a way that will foster connection and
+collaboration with Hachydermians.
+
 > We want community consent to be the default.
 
 There is a lot of content on the internet that can be either harmful or fun, depending on
@@ -101,8 +107,8 @@ its frequency and presentation. Bots, newsletters, and so on are execellent exam
 of this: having a bot respond with "honk" when summoned can get a laugh. A bot that
 auto-responds with gas prices when you mention certain keywords is not. When we are
 moderating specialized accounts, and drafting policies around them, the goal is to
-put that account type in alignment with user consent so that the community can
-effortlessly opt into and out of the content as often as is needed.
+put that account type in alignment with user consent so that people in our community can
+effortlessly opt into and out of the content as often as each person requires.
 
 This doesn't mean that you can't post about what is relevant to your account type.
 This does mean we ask you do so in a way that engages with humans the way you'd wish
@@ -116,7 +122,7 @@ become verified.
 
 * [Corporate](corporate-accounts/) - For businesses, companies, and similar.
    * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
-   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Corporate Members who agree to the [covenant](covenant/).
+   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Trade Members who agree to the [covenant](covenant/).
    * Prior to 1 Mar 2023, corporate accounts were invite-only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - For community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - For Open Source Projects.
@@ -129,7 +135,7 @@ become verified.
   making use of automated posts. (But not limited to this.) In this case, the account must adhere to all
   the rules for the different types they house.
 
-Of the above, only the [Corporate accounts](corporate-accounts/) are invite-only / require approval. That said,
+Of the above, only the [corporate accounts](corporate-accounts/) are invite-only / require approval. That said,
 we do recommend that all specialized accounts reach out to us prior to creating an account so we may assist with
 the expectation setting for your account type.
 
