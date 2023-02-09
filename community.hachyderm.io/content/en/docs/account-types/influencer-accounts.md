@@ -47,7 +47,7 @@ migration, [Ian Coldwater](https://hachyderm.io/@ian) joined our
 community and with them brought roughly 600 new users in less than an hour.
 This unexpected rise in traffic took our team of volunteers off guard and ended
 up slowing our service down for the evening. (With our infrastructure migrated
-off The Watertowner and into more resilient architecture, this should no longer
+off The Watertower and into more resilient architecture, this should no longer
 be a concern.)
 
 The other main instance is when [Scott Hanselman](https://hachyderm.io/@shanselman)

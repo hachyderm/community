@@ -23,9 +23,9 @@ them prominently, have restrictions on this server.
   Notably this includes:
     * **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
     * Posts cannot violate other rules
-      * This includes server rules disallowing spam, fundrasing, NSFW/18+ content (et al)
+      * This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
       * Hybrid accounts, those that make use of curated content and are also another specialized type,
         are bound to all sets of rules for their combined, hybrid, account type.
       * Posts cannot violate the [covenant](../covenant/)
-    * Similar to bots, curated accounts must use the `#hachygrator` hashtag ("Hachyderm" + "Aggregator") with their posts so users can opt-in or opt-out.
+    * Similar to bots, curated accounts must use the `#hachygrator` hashtag ("Hachyderm" + "Aggregator") in their posts to allow users to opt-in or opt-out.
 * Curated accounts must be [verified](../verification/)

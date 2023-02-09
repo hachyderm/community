@@ -59,7 +59,7 @@ over the course of 2023 as we go through our launch.
 
 #### How to become a Nivenly Corporate Member / make a corporate account
 
-If you are intereted in starting the coversation around corporate accounts, Nivenly Corporate
+If you are interested in starting the conversation around corporate accounts, Nivenly Corporate
 Membership, etc.: please email us at [info@nivenly.org](mailto:info@nivenly.org).
 
 

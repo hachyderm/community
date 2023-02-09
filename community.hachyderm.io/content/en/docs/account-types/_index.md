@@ -14,14 +14,14 @@ for the purpose of an individual user who represents themselves on the platform.
 Some examples of specialized accounts include, but aren't limited to: novelty
 accounts, bot accounts, corporate accounts, event accounts, project accounts, and so on.
 
-For specialty acounts: we recognize and have rules around some. **If
+For specialty accounts: we recognize and have rules around some. **If
 an account is not a user account and not one of the recognized specialized
 account types below, then it is not an account type permitted on this
 server.** If you are interested in creating an account that is not
 a user account or a recognized specialized account type, then you need to
 reach out to us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
-Unrecognized specialized accounts will be removed and recognized account
+Unrecognized specialized accounts will be removed. Recognized account
 types that do not follow the rules of their account type will be
 moderated as needed.
 
@@ -29,7 +29,7 @@ moderated as needed.
 
 In most cases, unless you've reached out to us via [admin@hachyderm.io](mailto:admin@hachyderm.io),
 then the first time we encounter your account is when it has been reported for a rules violation
-based on your perceived account type. In general, unless we see a descrepancy that indicates otherwise,
+based on your perceived account type. In general, unless we see a discrepancy that indicates otherwise,
 we will moderate based on that perceived type.
 
 ## User Accounts
@@ -92,9 +92,9 @@ Secondly:
 > We don't want to host an ad server.
 
 The goal of the remaining rules and restrictions that we impose on specialized account
-types is to prevent hosting an abudnance of ad and marketing focused content.
+types is to prevent hosting an abundance of ad and marketing focused content.
 The world is plastered in ads, but we believe what is needed and craved is connection
-and collaboration. With Hachyderm, we seek to nuture a space where these can thrive.
+and collaboration. With Hachyderm, we seek to nurture a space where these can thrive.
 
 This doesn't mean that you can't post about what is relevant to your account type.
 This does mean we ask you do so in a way that engages with humans the way you'd wish
@@ -109,7 +109,7 @@ become verified.
 * [Corporate](corporate-accounts/) - For businesses, companies, and similar.
    * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
    * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Corporate Members who agree to the [covenant](covenant/).
-   * Prior to 1 Mar 2023, corporate accounts were invite only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
+   * Prior to 1 Mar 2023, corporate accounts were invite-only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - For community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - For Open Source Projects.
 * [Curated](curated-accounts/) - These can be accounts that are re-posting / hosting other content, for example a curated

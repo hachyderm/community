@@ -8,7 +8,7 @@ description: >
 
 ## Who should verify?
 
-Currently only a subset of our specialized accounts are _required_ to verify. That said we recommend
+Currently, only a subset of our specialized accounts are _required_ to verify. That said, we recommend
 that all specialized accounts (including some, but not all, influencer accounts) go through the verification
 process so that Hachyderm users know that your account is officially recognized and that you've
 agreed to [the covenant](../covenant/).
@@ -34,7 +34,7 @@ Accounts that will likely want to consider being verified:
 
 ## When to verify?
 
-This process was launched in February of 2023. We ask existing accounts that need to be verified to
+This process was launched in February 2023. We ask existing accounts that need to be verified to
 do so by the end of March 2023.
 
 ## What does a verified account look like?
@@ -57,7 +57,7 @@ _Part 1: Get Pre-Approved_
 To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
 1. Read [the Covenant](../covenant/)
-1. Open a "Specialized Account Approval" issue from our [Community Docs Github Repo](https://github.com/hachyderm/community/issues/new/choose)
+1. Open a "Specialized Account Approval" issue from our [Community Docs GitHub Repo](https://github.com/hachyderm/community/issues/new/choose)
 1. Include your agreement to the covenant in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision

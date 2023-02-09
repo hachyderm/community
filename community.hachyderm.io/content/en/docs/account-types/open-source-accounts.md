@@ -8,7 +8,7 @@ This section is for anyone who is interested in creating an account
 specifically for an open source project and/or community driven event.
 
 If you are a maintainer of a project or event organizer and are
-representing yourself this page does not apply to you. For example:
+representing yourself, this page does not apply to you. For example:
 
 > I, Kris Nóva, am a maintainer of Aurae.
 
@@ -16,7 +16,7 @@ This documentation only applies to me if I were attempting to create a 2nd
 account in addition to my primary personal account that would be specifically
 for "Aurae".
 
-This documentation does not apply to my personal account where I would be free
+This documentation does not apply to my personal account, where I would be free
 to talk about Aurae as I wish.
 
 ## Open Source Projects and Community Events
@@ -24,7 +24,7 @@ to talk about Aurae as I wish.
 We welcome open source and collaborative projects to create accounts on
 Hachyderm. We also welcome community events to create accounts on Hachyderm.
 
-If your project is is an extension of, or resembles, a corporate account it
+If your project is an extension of, or resembles, a corporate account, it
 is bound by the [Corporate Account](../corporate-accounts/) rules and restrictions.
 If your event is a corporate event and/or meetup, it is _also_ bound by those
 same rules and restrictions.
@@ -49,11 +49,11 @@ Hachyderm as they please.
   [Matrix](https://matrix.org).
 
 Unfortunately, we are unable to support projects that are active participants in
-financially biased markets, or products that are extension of a single
+financially biased markets, or products that are an extension of a single
 corporation.
 
 We will treat all corporation-specific projects as the parent corporation
-itself which is bound to the [corporate accounts](/docs/account-types/corporate-accounts/)
+itself, which is bound to the [corporate accounts'](/docs/account-types/corporate-accounts/)
 documentation.
 
 - :heavy_multiplication_x: Financially biased trade organizations and governing
@@ -62,7 +62,7 @@ documentation.
   projects such as [Istio](https://www.cncf.io/projects/istio/) or
   [Helm](https://www.cncf.io/projects/helm/).
 - :heavy_multiplication_x: Open source projects with a single corporate
-  sponsor/owners such as Google's [Go Programming language](https://go.dev/)
+  sponsor/owner such as Google's [Go Programming language](https://go.dev/)
   and HashiCorp's [Terraform](https://www.terraform.io/).
 - :heavy_multiplication_x: Open source projects with structured sponsorship
   models that resemble paid services. For example, features that are unlocked
