@@ -57,7 +57,7 @@ _Part 1: Get Pre-Approved_
 To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
 1. Read the [Specialized Account Expectations](../covenant/)
-1. Open a "Specialized Account Approval" issue from our [Community Docs GitHub Repo](https://github.com/hachyderm/community/issues/new/choose)
+1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=%5BSpecialize+Accounts%5D%3A+)
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
