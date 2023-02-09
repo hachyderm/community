@@ -26,6 +26,9 @@ submodule: ## Build the git submodule
 dev: submodule ## Run the local server
 	hugo serve . --bind=0.0.0.0
 
+issues: ## Find all the FIXMEs
+	grep -ri "FIXME" content/en
+
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[32m%-30s\033[0m %s\n", $$1, $$2}'
