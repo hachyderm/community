@@ -22,7 +22,7 @@ All Hachyderm corporate accounts must be controlled by a Nivenly Trade Member wh
 Corporate accounts are specialized accounts that apply to those running accounts for businesses
 and business-like entities. Corporate accounts are invite-only and, as of 1 Mar 2023, corporate
 accounts will be restricted to Nivenly Trade Members. Nivenly Trade Members who wish to
-create corporate accounts on Hachyderm will still need to agree to  [the covenant](../covenant/).
+create corporate accounts on Hachyderm will still need to agree to the [Specialized Account Expectations](../covenant/).
 
 ## Current corporate accounts
 
@@ -37,7 +37,7 @@ create corporate accounts on Hachyderm will still need to agree to  [the covenan
   - Prior to 1 Mar 2023, corporate accounts were invite-only
   - Unofficial corporate accounts will be suspended
 - Account rules
-  - Corporate accounts must agree to [the covenant](../covenant/) (formerly referred to as Corporate Covenant)
+  - Corporate accounts must agree to the [Specialized Account Expectations](../covenant/) (formerly referred to as Corporate Covenant)
   - Corporate accounts must be verified with their company page
   - Corporate accounts must be [verified with Hachyderm](../verification/)
     - This last process is a new process in 2023, to help Hachyderm users quickly see if

@@ -25,7 +25,7 @@ be done in a specific time frame, automated posts when a blog is updated, and so
 
 The line between automated posts and bot posts is a thin one, and mostly dependent on
 whether a human composed a post (whether it is scheduled for now or later) and whether or not
-that post is intended to repeat (the "say it once" policy on the [covenant](../covenant/)).
+that post is intended to repeat (the "say it once" policy on the [Specialized Account Expectations](../covenant/)).
 
 As with many of our rules on Hachyderm, the rules and regulations for bot and automated posting
 is about their impact on the server. We want that impact to be positive and non-invasive. It is
@@ -46,9 +46,9 @@ All accounts that make use of automated and/or scheduled posts must adhere to th
   - This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
   - Hybrid accounts, those that make use of scheduled posts and are also another specialized type,
     are bound to all sets of rules for their combined, hybrid, account type.
-  - Posts cannot violate the [covenant](../covenant/)
+  - Posts cannot violate the [Specialized Account Expectations](../covenant/)
 - There is one exception: automated posts _can_ skirt the "say it once" policy, unless it
-  becomes spam-worthy (**_community discretion**). So, if you need to post about your event,
+  becomes spam-worthy (**_community discretion_**). So, if you need to post about your event,
   blog, etc. and stay within the total number of posts per day, this is fine.
 
 Accounts that violate the above may be limited or suspended.
@@ -57,7 +57,7 @@ Accounts that violate the above may be limited or suspended.
 
 #### Account Configuration
 
-- All bot accounts must [be verified](../verification/), which means they agree to [the covenant](../covenant/).
+- All bot accounts must [be verified](../verification/), which means they agree to the [Specialized Account Expectations](../covenant/).
 - All bots must select the bot checkbox in their profile settings. (Open image in new window to enlarge.)<br />
   <img src="../mastodon-bot-account.png"
        alt="Screenshot of four check boxes in account settings: require follow
@@ -77,6 +77,6 @@ All bot accounts, and bot-like posts, must respect consent (i.e. opt-in). This m
     a thread, because they were tagged once, and thus auto-tagged in all subsequent responses.
 - Bots _cannot_ respond to hashtags, keywords, etc. without being tagged - e.g. bots that respond to user posts based on keywords and similar.
 - Bots designed to consume, use, store, or otherwise handle data (even public data) can only do so with consent (opt-in).
-- Bots designed for fun _can_ skirt the "say it once" policy, unless it becomes spam-worthy (**_community discretion**). So, if your bot only responds with "honk", and only when summoned, this is fine.
+- Bots designed for fun _can_ skirt the "say it once" policy, unless it becomes spam-worthy (**_community discretion_**). So, if your bot only responds with "honk", and only when summoned, this is fine.
 
 Bot accounts that violate any of the above may be limited or banned.

@@ -11,7 +11,7 @@ description: >
 Currently, only a subset of our specialized accounts are _required_ to verify. That said, we recommend
 that all specialized accounts (including some, but not all, influencer accounts) go through the verification
 process so that Hachyderm users know that your account is officially recognized and that you've
-agreed to [the covenant](../covenant/).
+agreed to the [Specialized Account Expectations](../covenant/).
 
 
 ### Required and optional verification
@@ -56,9 +56,9 @@ _Part 1: Get Pre-Approved_
 
 To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
-1. Read [the Covenant](../covenant/)
+1. Read the [Specialized Account Expectations](../covenant/)
 1. Open a "Specialized Account Approval" issue from our [Community Docs GitHub Repo](https://github.com/hachyderm/community/issues/new/choose)
-1. Include your agreement to the covenant in the GitHub issue 
+1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
   - If you are not approved, we will provide a reason and close and the PR
@@ -78,4 +78,4 @@ _Part 2: Finishing account setup_
 1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
-1. Make sure to share that you're an approved account, and include that that means you've agreed to [the covenant](../covenant/)!
+1. Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!

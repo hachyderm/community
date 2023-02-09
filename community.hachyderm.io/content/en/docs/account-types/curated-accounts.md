@@ -26,6 +26,6 @@ them prominently, have restrictions on this server.
       * This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
       * Hybrid accounts, those that make use of curated content and are also another specialized type,
         are bound to all sets of rules for their combined, hybrid, account type.
-      * Posts cannot violate the [covenant](../covenant/)
+      * Posts cannot violate the [Specialized Account Expectations](../covenant/)
     * Similar to bots, curated accounts must use the `#hachygrator` hashtag ("Hachyderm" + "Aggregator") in their posts to allow users to opt-in or opt-out.
 * Curated accounts must be [verified](../verification/)

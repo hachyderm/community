@@ -114,16 +114,16 @@ This doesn't mean that you can't post about what is relevant to your account typ
 This does mean we ask you do so in a way that engages with humans the way you'd wish
 to be interacted with.
 
-These principles are outlined further in our [covenant](covenant/). Some specialized accounts
-need to agree to the covenant as part of account creation; others, only if they
+These principles are outlined further in our [Specialized Account Expectations](covenant/). Some specialized accounts
+need to agree to the Specialized Account Expectations as part of account creation; others, only if they
 become verified.
 
 ### Recognized Specialized Account Categories
 
 * [Corporate](corporate-accounts/) - For businesses, companies, and similar.
    * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
-   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Trade Members who agree to the [covenant](covenant/).
-   * Prior to 1 Mar 2023, corporate accounts were invite-only and also required to agree to the [covenant](covenant/) (then referred to as the Corporate Covenant).
+   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Trade Members who agree to the [Specialized Account Expectations](covenant/).
+   * Prior to 1 Mar 2023, corporate accounts were invite-only and also required to agree to the [Specialized Account Expectations](covenant/) (then referred to as the Corporate Covenant).
 * [Events](open-source-accounts/) - For community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - For Open Source Projects.
 * [Curated](curated-accounts/) - These can be accounts that are re-posting / hosting other content, for example a curated
