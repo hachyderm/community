@@ -67,15 +67,15 @@ then the username must match the company / project name. For most
 other account types this means "describe what you are" via username,
 e.g. "CuratedTechJobPosts".
 - You must be verified with your company, project, etc. page.<br />
-If your company, project, newsletter, etc. has a web page then
+If your company, project, newsletter, etc. has a web page, then
 that web page must be verified on your profile.
-- All specialized accounts are welcome to [become verified](application/)
+- All specialized accounts are welcome to [become verified](application/).
 
 ### Guiding Principles for All Specialized Accounts
 
 Similar to the way that Don't Be A Dick is the guiding principle for the user
 accounts, with other rules calling out common "Whataboutisms" for that rule,
-specialized accounts also have two main guiding principles. Firstly:
+specialized accounts also have three main guiding principles.
 
 > We don't want a digital shouting match on Hachyderm.
 
@@ -87,8 +87,6 @@ race so that an entity's posts can be "heard" above the "cacophony" of other pos
 The goal of some of the rules and restrictions we impose on specialized account types is to curtail
 a discordant symphony of competition that drowns out collaboration and connection.
 
-Secondly:
-
 > We don't want to host an ad server.
 
 The goal of the remaining rules and restrictions that we impose on specialized account
@@ -96,11 +94,21 @@ types is to prevent hosting an abundance of ad and marketing focused content.
 The world is plastered in ads, but we believe what is needed and craved is connection
 and collaboration. With Hachyderm, we seek to nurture a space where these can thrive.
 
+> We want community consent to be the default.
+
+There is a lot of content on the internet that can be either harmful or fun, depending on
+its frequency and presentation. Bots, newsletters, and so on are execellent examples
+of this: having a bot respond with "honk" when summoned can get a laugh. A bot that
+auto-responds with gas prices when you mention certain keywords is not. When we are
+moderating specialized accounts, and drafting policies around them, the goal is to
+put that account type in alignment with user consent so that the community can
+effortlessly opt into and out of the content as often as is needed.
+
 This doesn't mean that you can't post about what is relevant to your account type.
 This does mean we ask you do so in a way that engages with humans the way you'd wish
 to be interacted with.
 
-These principles are outlined in our [covenant](covenant/). Some specialized accounts
+These principles are outlined further in our [covenant](covenant/). Some specialized accounts
 need to agree to the covenant as part of account creation; others, only if they
 become verified.
 
