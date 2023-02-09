@@ -69,7 +69,8 @@ _Part 2: Finishing account setup_
 1. Ensure you're already [verified with your official domain](https://github.com/hachyderm/community/blob/main/verification.md)
     - Do not remove the reference link. Moderators will be using this during their validation process.
 1. Fork this branch
-1. Add your verification tag under the appropriate header in the [approved](https://github.com/hachyderm/community/blob/main/community.hachyderm.io/content/en/approved/_index.md) file.
+1. Add your verification tag under the appropriate header in the approved file:
+    * In the `commmunity.hachyderm.io` directory in the repo: `content/en/approved/_index.md`
 1. Create a pull request using the specialized account template.
 1. Complete all tasks in the tasks list
 1. Submit the pull request
