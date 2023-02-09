@@ -1,5 +1,5 @@
 name: Specialized Account Approvals
-title: "[Specialize Accounts]: "
+title: "Specialize Accounts: YOUR_ACCOUNT_NAME"
 description: |
   Use this form to request approval for a specialized account.
 labels: ["Specialized Accounts"]
@@ -14,7 +14,7 @@ body:
   - type: dropdown
     attributes:
       label: |
-        Which type of specialized account are creating? Select all that apply.
+        Which type of specialized account are creating? If more than one apply, please select the primary type.
       options:
         - Corporate Account (must have already gone through email invite process)
         - Open Source Project
@@ -43,7 +43,7 @@ body:
   - type: textarea
     attributes:
       label: |
-        (Automated Posting/Bot Accounts Only)
+        (Accounts with Automated Posting/Bot Accounts Only)
         What method are you using to validate your bots code to ensure that any future updates don't disrupt the community?
       description: |
         Review the [posting standards](https://community.hachyderm.io/docs/account-types/bot-accounts/)
