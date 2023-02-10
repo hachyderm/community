@@ -9,14 +9,14 @@ description: >
 ## Who should verify?
 
 Currently, only a subset of our specialized accounts are _required_ to verify. That said, we recommend
-that all specialized accounts (including some, but not all, influencer accounts) go through the verification
+that all specialized accounts (influencer accounts on a case-by-case basis) go through the verification
 process so that Hachyderm users know that your account is officially recognized and that you've
 agreed to the [Specialized Account Expectations](../covenant/).
 
 
 ### Required and optional verification
 
-We recommend all accounts that are not user accounts apply to be verified with us, only the following
+While we recommend all accounts that are not user accounts apply to be verified with us, only the following
 are required to be verified:
 
 * [Corporate accounts](../corporate-accounts/)
@@ -25,12 +25,17 @@ are required to be verified:
 
 Accounts that will likely want to consider being verified:
 
-* [Events](../open-source-accounts/)
+* [Community Events](../open-source-accounts/)
 * [Open Source Projects](../open-source-accounts/)
 * Any account that may appear similar to a corporate account (but is not). This may include:
   * Some of the non-profits we've welcomed on our instance
-  * Some of our [Influencer Accounts](../influencer-accounts/) (though not all)
+* Some of our [Influencer Accounts](../influencer-accounts/) (though not all)
     * Note that verification is not open to general users at this time.
+    * In general, this is only if your personal brand or posting style could be conflated
+      with one of the recognized specialized account types. If
+      you're using Hachyderm as a general user and happen to have
+      a large following, you likely would not want to be verified
+      at this time.
 
 ## When to verify?
 
@@ -57,7 +62,7 @@ _Part 1: Get Pre-Approved_
 To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
 1. Read the [Specialized Account Expectations](../covenant/)
-1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=%5BSpecialize+Accounts%5D%3A+)
+1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=Specialized+Accounts%3A+YOUR_ACCOUNT_NAME)
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
