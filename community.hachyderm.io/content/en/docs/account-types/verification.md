@@ -66,7 +66,7 @@ To get started, we will create an issue to track the full process from the creat
 
 _Part 2: Finishing account setup_
 
-1. Ensure you're already [verified with your official domain](https://github.com/hachyderm/community/blob/main/verification.md)
+1. Ensure you're already [verified with your official domain](../../verification/)
     - Do not remove the reference link. Moderators will be using this during their validation process.
 1. Fork this branch
 1. Add your verification tag under the appropriate header in the approved file:
@@ -76,7 +76,7 @@ _Part 2: Finishing account setup_
 1. Submit the pull request
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. Validate your code has been merged, and your account is now visible on [https://community.hachyderm.io/approved](https://community.hachyderm.io/approved)
-1. Using the [verification steps](https://github.com/hachyderm/community/blob/main/verification.md), add the following to your profile metadata
+1. Using the [verification steps](../../verification/), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
 1. Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!
