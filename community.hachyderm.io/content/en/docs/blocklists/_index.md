@@ -136,7 +136,7 @@ This means:
 
 ## Requesting Moderation Changes for a Server
 
-### What to do there is a domain on the Blocklist in error
+### What to do if there is a domain on the Blocklist in error
 
 We are all human and are prone to mistakes. If there is a domain that is
 moderated on our Blocklist that seems to be in error, please open a
