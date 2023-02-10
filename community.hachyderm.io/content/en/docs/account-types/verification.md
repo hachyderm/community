@@ -61,22 +61,21 @@ To get started, we will create an issue to track the full process from the creat
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
-  - If you are not approved, we will provide a reason and close and the PR
+  - If you are not approved, we will provide a reason and close and the GitHub issue.
   - If you are approved, you can now create your account and then move on to _Part 2_ below
+     - Note: you should leave the GitHub issue _open_.
 
 _Part 2: Finishing account setup_
 
 1. Ensure you're already [verified with your official domain](../../verification/)
     - Do not remove the reference link. Moderators will be using this during their validation process.
-1. Fork this branch
-1. Add your verification tag under the appropriate header in the approved file:
-    * In the `commmunity.hachyderm.io` directory in the repo: `content/en/approved/_index.md`
-1. Create a pull request using the specialized account template.
-1. Complete all tasks in the tasks list
-1. Submit the pull request
-1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
-1. Validate your code has been merged, and your account is now visible on [https://community.hachyderm.io/approved](https://community.hachyderm.io/approved)
-1. Using the [verification steps](../../verification/), add the following to your profile metadata
+1. We will add your verification tag under the appropriate header in the approved file. (Please be patient, we are a group of volunteers and will update as soon as we can.)
+1. We will update the GitHub issue when this is done.
+1.  Using the [verification steps](../../verification/), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
-1. Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!
+1. Verify that you can see the appropriate field highlighted in green and the green check mark
+1. Once you have added the above to your profile metadata and verification is successful, please update and close the GitHub issue.
+   - Do not remove the approved link once you have completed the process. This field lets
+     our users know you're an approved account and will prevent your account from being reported as an unapproved account.
+2. _Optional, but recommened:_ Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!
