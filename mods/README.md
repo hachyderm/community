@@ -1,31 +1,8 @@
 # Hachyderm Moderators
 
-#### Benevolent Dictator for Life
+## Benevolent Dictator (Moderator) for Life
 
 Quintessence Anx, or [quintessence on both Hachyderm](https://hachyderm.io/@quintessence) and Discord.
-
-## Active Moderators
-
-The following moderators assist with moderation activity for Hachyderm itself,
-including responding to open issues here on the GitHub, and are also in the
-accompanying Nivenly Discord.
-
-| Name / Goes By | Hachyderm                                            | Discord       |
-|----------------|------------------------------------------------------|---------------|
-| benwis         | [benwis](https://hachyderm.io/@benwis)               | benwis        |
-| dma            | [dma](https://hachyderm.io/@dma)                     | dma           |
-| Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk           |
-| mk5r           | [mk5r](https://hachyderm.io/@mk5r)                   | mk5r          |
-| indie_monkey   | [indie__monkey](https://hachyderm.io/@ind1e__monk3y) | Ind1eMonk3y.  |
-| Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani          |
-| Zoe            | [Zoehammer](https://hachyderm.io/@Zoehammer)         | Foehammer     |
-| zunderscore    | [zunderscore](https://hachyderm.io/@zunderscore)     | zunderscore   |
-| freiheit       | [freiheit](https://hachyderm.io/@freiheit)           | [freiheit#1337](https://discordapp.com/users/910380721699438592) |
-| arbdev         | [arbdev](https://hachyderm.io/@arbdev)               | [arbdev#0001](https://discord.com/users/634505213948067863) |
-| gabriellanata  | [gabriellanata](https://hachyderm.io/@gabriellanata) | gabriellanata |
-
-Note that for "Name / Goes By" it is either the name of that particular moderator
-or their online handle, if that's how they prefer to be addressed / are recognized.
 
 ## Translation Assistance Moderators
 
@@ -61,13 +38,3 @@ for the next person to add themself.
 | mnl              | [mnl](https://hachyderm.io/@mnl/)                           | slono            | French, German   |
 | Issy             | [issyl0](https://hachyderm.io/@issyl0/)                     | issyl0           | French           |
 
-## Hachyderm Infrastructure
-
-This is the team that maintains the Hachyderm infrastructure.
-
-| Name / Goes By | Hachyderm                                            | Discord     |
-|----------------|------------------------------------------------------|-------------|
-| benwis         | [benwis](https://hachyderm.io/@benwis)               | benwis      |
-| dma            | [dma](https://hachyderm.io/@dma)                     | dma         |
-| Esk            | [eskesk](https://hachyderm.io/@eskesk)               | Esk         |
-| Tani           | [Tani](https://hachyderm.io/@Taniwha)                | Tani        |
