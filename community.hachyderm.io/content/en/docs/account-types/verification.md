@@ -70,6 +70,16 @@ To get started, we will create an issue to track the full process from the creat
   - If you are approved, you can now create your account and then move on to _Part 2_ below
      - Note: you should leave the GitHub issue _open_.
 
+Do not pre-emptively put the Approval URL in your profile metadata.
+Due to the way that verification works, Mastodon will only try to verify you
+_once_ per server when you add a URL. This means that Hachyderm's instance will
+only verify the URL when you add it, prior to it being approved, and will not re-check.
+You will be prompted to add the URL at the appropriate step below so the URL is live
+when Hachyderm checks.
+
+If you've pre-emptively added the field to the account profile, you'll need to re-save after the
+approval URL is live with your account listed in Part 2 below.
+
 _Part 2: Finishing account setup_
 
 1. Ensure you're already [verified with your official domain](../../verification/)

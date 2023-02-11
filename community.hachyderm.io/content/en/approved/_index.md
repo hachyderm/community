@@ -31,7 +31,3 @@ other API hooks, podcasts, and so forth.**
 
 ### Community Events
 
-**Test**
-
-* <a rel="me" href="https://hachyderm.io/@quintessence">Quintessence</a>
-* <a rel="me" href="https://hachyderm.io/@fjallabjorn">Barnaby</a>
