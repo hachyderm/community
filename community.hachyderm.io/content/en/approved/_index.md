@@ -30,3 +30,7 @@ other API hooks, podcasts, and so forth.**
 ### OSS Projects
 
 ### Community Events
+
+**Test**
+
+* <a rel="me" href="https://hachyderm.io/@quintessence">Quintessence</a>
