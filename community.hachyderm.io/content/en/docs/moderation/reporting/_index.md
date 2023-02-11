@@ -1,7 +1,7 @@
 ---
 title: "Reporting Issues and Communicating with Moderators"
 linkTitle: "Reporting and Communication"
-weight: 4
+weight: 40
 description: >
   How to report issues and interact with the moderation team.
 ---
