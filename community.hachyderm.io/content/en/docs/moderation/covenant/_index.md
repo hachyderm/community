@@ -79,18 +79,21 @@ functioning as designed, because that design is traumatic.
     - We do not moderate people for existing in public. This includes,
 but is not limited to, “acting Black”, “acting gay”, being visibly
 a member of a particular religion, and so on.
-1. **We reject the [Paradox of Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance).**<br />
+1. **We will not create the [Paradox of Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance).**<br />
 Whenever there is a choice that needs to be made between the impact of individual actions 
 and community safety, we will choose community safety.
-1. **We will determine if moderation action will cause additional harm rather than
-increasing community safety and/or decreasing risk to the community. (“to mod or not to mod”)**<br />
-We understand the limits of what we are able to moderate. Users on
-the fediverse who did not agree to our server rules are not
-subject to them. In cases where we are handling an off server
-user/account report, we do an analysis to determine whether taking
-moderator action (or not) decreases risk to the community. In
-situations where we still need to moderate, we choose  the
-action(s) that minimize or eliminate that risk to our community.
+1. **We will only take moderation action where doing so increases
+community safety and/or decreases community risk.**<br />
+For every report, we do an analysis to determine whether or not taking
+moderator action will improve community safety or decrease
+community risk. If the best action to take is to not react,
+then we will not react.<br />
+For off server users in particular we _also_ recognize the limits
+of what we are able to moderate. Users on the fediverse who did not
+agree to our server rules are not subject to them. In these cases
+we are solely evaluating what, if any, moderation action will protect
+our community and its members rather than evaluating if a user
+who never agreed to our specific rules is abiding by them.
 1. **We understand that people need space and safety to grow.**<br />
 We understand that it is impossible for everyone to know
 everything, and that includes us. We do not expect our community
