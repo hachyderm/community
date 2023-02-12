@@ -51,12 +51,14 @@ we then use the impact of the reported user action to inform what
 moderation action(s) to take, if any.
 1. **We will trust, but verify.**<br />
 There is a saying that you need to believe someone when they tell
-you who they are, and there is also the reality that not all
-reports are filed in good faith and could be a mechanism for
-harassment or oppression of a targeted user and/or demographic. We
-balance the reality that some users and communities will file
-reports with the goal of stewarding safe spaces on Hachyderm
-and/or the fediverse, but will verify every time.
+you who they are. Individuals and communities make use of the reporting
+feature to tell us about other individuals and/or communities who have
+announced who _they_ are in some way so we can take
+appropriate action. There is also the rare occasions where
+individuals will use the reporting feature(s) as a vector of
+harassment or oppression against a targeted user and/or demographic.
+We balance these two realities by trusting that reports are
+filed with good intention, but verifying every time.
 1. **We will hold Hachyderm users accountable for their actions.**<br />
 This is specific to the moderation context of when a reported user
 is a Hachydermian. When we communicate rule violation(s), we will
