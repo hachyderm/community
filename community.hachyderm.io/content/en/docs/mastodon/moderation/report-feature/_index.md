@@ -15,18 +15,34 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-## How and When to use the Mastodon UI
+## About the Report Feature
 
-The Mastodon UI, i.e. what you see when you're using Hachyderm.io
-or your home Mastodon instance of choice, should generally be used
-for reporting issues that can be reported via reporting individual
-posts. This typically is used for:
+Mastodon's report feature is a way for Mastodon users to send reports to
+a Mastodon instance's admins or moderators. If you are reporting a user to your own
+instance's moderators, then only they will see the report. If you are reporting
+a user on a remote server, then your home instance's admins still see the report.
+In the case of a remote user, you can also choose whether or not to forward
+the report to that instance's admins. The nuance here is capturing whether you
+are reporting a user to their own home instance for their admins to take action,
+to your own instance admins for them to take action, or both.
+
+On Hachyderm, we specifically request Hachydermians to use the report feature for the
+following scenarios:
 
 * Reporting individual posts but not the user overall
 * Reporting a user via their posts
-* Reporting a domain via the posts of their users
+* Reporting a domain via the posts of a user on that domain
 
-### How to report
+When submitting a report, it is important to include all relevant information.
+This includes supporting information, **_even if it seems obvious_**, any relevant 
+posts as needed, as well as comments supplied by you.
+
+**_Please note: if we receive an empty report and cannot see a
+clear cause, we will close the report without moderator action._**
+
+For more information about this, please see our [doc on Reporting Issues and Communicating with Moderators](../../../moderation/reporting/).
+
+## How to create a report
 
 1. Click on the meatballs(⋯) menu below the post and select
 "report"<br /> 
@@ -97,7 +113,7 @@ please:
   supplementary email
 * Email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
 
-### What a Filed Report Looks Like
+## What a Filed Report Looks Like
 
 For an example, I had Björn's user create a report against my Blob
 Fox Appreciation Post that I used for the screenshots above. When

@@ -36,7 +36,7 @@ are:
 * Suspend
 * Limit
 
-### About Warnings
+### Warn
 
 The warning feature is a tool in the Mastodon admin tools that allows us
 to send a message directily to you.

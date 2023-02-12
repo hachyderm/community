@@ -3,7 +3,7 @@ title: "Mastodon's UI and Features for Moderators"
 linkTitle: "Moderation Interface"
 weight: 40
 description: >
-    FIXME
+    Subset of supplemental documentation for Mastodon moderators.
 ---
 
 {{% pageinfo %}}
