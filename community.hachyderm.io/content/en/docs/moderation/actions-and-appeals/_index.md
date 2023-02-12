@@ -1,10 +1,10 @@
 ---
-title: "Moderation Help and FAQ"
-linkTitle: "Help and FAQ"
-weight: 100
+title: "Moderation Actions and Appeals Process"
+linkTitle: "Actions and Appeals"
+weight: 40
 description: >
-   Help and information about the moderation process,
-   and what to do, if you've been moderated.
+   Information about the different actions that moderators
+   take and what to do if you've been moderated.
 ---
 
 Here you will find everything you need to know about what to do if you've

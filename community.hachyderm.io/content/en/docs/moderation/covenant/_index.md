@@ -67,9 +67,14 @@ most common pattern here will be asking you to delete problematic
 posts or similar. Note that this will not be done in situations
 where it comes into conflict with Prioritizing the Vulnerable or
 Making Safety the Sustainable State. Also note that sometimes the
-action isn’t deleting posts, but changing a behavior. The most
-common pattern here is to send a reminder to walk away from
-interactions that are starting to go wrong, before they escalate.
+action isn’t deleting posts, but changing a behavior. Two common
+patterns here are:
+    * Asking a reported user to do some light research into the
+      topic area that caused them to be reported. Small steps
+      iterating over time increase our collective knowledge and
+      our community's ability to be safe and open.
+    * Reminding a reported user that they can always walk away
+      from an interaction that is not going the way they intend.
 1. **We will steward safe spaces to allow for the range of human expression and experience.**<br />
 Since people are more likely to report negative emotions and
 perspectives than positive, this one will be explained by relevant
