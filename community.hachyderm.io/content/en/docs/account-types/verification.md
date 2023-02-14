@@ -66,8 +66,8 @@ To get started, we will create an issue to track the full process from the creat
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
-  - If you are not approved, we will provide a reason and close and the GitHub issue.
-  - If you are approved, you can now create your account and then move on to _Part 2_ below
+   - If you are not approved, we will provide a reason and close the GitHub issue.
+   - If you are approved, you can now create your account and then move on to _Part 2_ below
      - Note: you should leave the GitHub issue _open_.
 
 Do not pre-emptively put the Approval URL in your profile metadata.
