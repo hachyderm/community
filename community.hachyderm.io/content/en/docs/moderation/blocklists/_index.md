@@ -148,7 +148,7 @@ not be able to be fully transparent with our decision - but we commit
 to erring on the side of transparency with these reports as often as possible.
 For more information about how to file a report in our community
 repo, please take a look at our [Reporting
-Documentation](/docs/reporting).
+Documentation](/docs/moderation/reporting).
 
 ### What to do if you would like us to moderate a server
 
@@ -161,7 +161,7 @@ domain(s) you would like to report that would be risky to report in our
 GitHub Issue tracker, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 For more information about filing reports and how to choose
 between the Mastodon UI and the GitHub Issue tracker, please look
-at our [Reporting Documentation](/docs/reporting).
+at our [Reporting Documentation](/docs/moderation/reporting).
 
 ### What not to do in either of these cases
 
