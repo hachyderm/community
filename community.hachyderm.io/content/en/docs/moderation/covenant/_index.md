@@ -7,7 +7,7 @@ description: >
 ---
 
 This is the set of principles that Hachyderm moderators agree to
-in order to inform their decisions and judgment calls when
+inform their decisions and judgment calls when
 creating and maintaining Hachyderm as a safe space and enforcing
 server rules. This is because first and foremost:
 
