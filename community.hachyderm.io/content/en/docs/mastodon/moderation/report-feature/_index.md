@@ -15,6 +15,14 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
+## Overvew <!-- omit in toc -->
+- [About the Report Feature](#about-the-report-feature)
+- [How to create a report](#how-to-create-a-report)
+- [What a Filed Report Looks Like](#what-a-filed-report-looks-like)
+    - [Who can see moderation reports](#who-can-see-moderation-reports)
+    - [Limitations of the Mastodon Admin Interface](#limitations-of-the-mastodon-admin-interface)
+    - [One Last Reminder](#one-last-reminder)
+
 ## About the Report Feature
 
 Mastodon's report feature is a way for Mastodon users to send reports to
@@ -177,6 +185,7 @@ For visibility the moderation actions are:
 post(s))
 1. Limit (Formerly known as "silence". The user can still
 participate but they will not show in Local or Federated feeds.)
+1. Freeze (User can log into their account but cannot interact.)
 1. Warn (Moderators send a note through the interface to the
 reported user. Note this option is not visible on the screenshot.)
 1. Suspend (Also known as "ban". If the user is a Hachydermian
@@ -184,28 +193,31 @@ then their account is removed from our server. If they are on a
 different server that user is banned from interacting with our
 server.)
 
-#### Who can see moderation reports
-
-All moderators can see all reports **_except_** the following:
-
-* A moderator cannot see any reports filed against them, but
-  others on the moderation team can to take action. (Note: I
-  needed to have a different member of the team take screenshots
-  of the above for me to write this article.)
-* A moderator cannot see any report that they have filed against a
-  user. This means that a single moderator cannot file and decide
-  on a single report. That report must be seen and acted on by
-  another moderator.
-
-Regular users do _not_ have access to moderator reports.
-
-#### Not all moderation action is visible
-
 Of the above actions, the only moderation actions that are visible
 are if a moderator deletes a post or suspends an account. When an
-issue is closed without action or when a user is warned or
+issue is closed without action or when a user is warned, frozen, or
 limited, the action is not visible to the reporting user or other
-users.
+users. This means that we / your instance moderators may have taken
+action as the result of your report, but that action is not
+publicly visible.
+
+Please look at our [our Actions and Appeals doc](../../../moderation/actions-and-appeals/)
+for more information about how we use the moderation tools to
+moderate Hachyderm.
+
+#### Who can see moderation reports
+
+If you are reporting a user on the same instance as you are (local user):
+
+* The instance moderators can see your report
+
+If you are reporting a user _not_ on the same instance as you are (remote user):
+
+* Your instance moderators can see your report
+* Remote instance moderators / the moderators for the reported user's instance can
+  only see the report if you forward the report.
+
+Regular users do **_not_** have access to moderation reports.
 
 #### Limitations of the Mastodon Admin Interface
 
@@ -227,5 +239,7 @@ How this impacts you:
   contact you, we might not have enough information to reverse the
   decision and no way to request more information from you.
 
-**_Please note: if we receive an empty report and cannot see a
+#### One Last Reminder
+
+**_If we receive an empty report and cannot see a
 clear cause, we will close the report without moderator action._**

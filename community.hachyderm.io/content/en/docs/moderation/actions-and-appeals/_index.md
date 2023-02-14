@@ -13,7 +13,7 @@ been moderated, including:
 * The specific actions we take and what they mean or imply
 * How to appeal and how we work around limitations with the appeal process
   
-## First things first
+## First things first <!-- omit in toc -->
 
 We acknowledge that being moderated can be stressful. We do our best to
 intervene only when necessary and in the interest of preserving Hachyderm as
@@ -26,6 +26,18 @@ please take a look at our [Moderator Covenant](../covenant/) and
 [Rule Explainer](../../rule-explainer/). Some of the language used below
 will come from the Moderator Covenant in particular.
 
+## Overview <!-- omit in toc -->
+
+- [The moderation actions and information about them](#the-moderation-actions-and-information-about-them)
+  - [Warn](#warn)
+  - [Freeze and Suspend](#freeze-and-suspend)
+  - [Limit and Delete Post](#limit-and-delete-post)
+- [Reminder: not all moderation action is visible](#reminder-not-all-moderation-action-is-visible)
+- [The Appeals Process](#the-appeals-process)
+    - [When not to appeal](#when-not-to-appeal)
+    - [When to appeal](#when-to-appeal)
+  - [Limitations of the appeals process](#limitations-of-the-appeals-process)
+
 ## The moderation actions and information about them
 
 Although there are a few actions we can take as moderators, the most common
@@ -34,7 +46,11 @@ are:
 * Warn
 * Freeze
 * Suspend
+
+Two additional, less commonly used, actions are:
+
 * Limit
+* Delete Posts
 
 ### Warn
 
@@ -98,7 +114,7 @@ We want to call out that there are times that we suspend an account
 even if the rule broken is not severe but there is an impact to the server
 or community that warrants it.
 
-### Limit
+### Limit and Delete Post
 
 Being limited means that you are hidden on our instance. Your posts
 are all still visible to your followers and can still be discovered
@@ -106,11 +122,30 @@ when directly searched for. Your posts will not otherwise show up
 in the Local feed. You will be able to federate with other instances
 normally.
 
-We do not typically Limit accounts. The reason for this is we do notwant
-the moderation process to be passive or go on without resolution. In
-general, we will use one of the other actions and communicate what we'd
-need from you in an appeal process to reinstate normal functioning
-of your account.
+Delete Post is what it sounds like - we can delete the reported posts
+and associated media (if that media is uploaded to Hachyderm).
+
+We do not typically Limit accounts or Delete Posts. We have a couple of
+reasons for this:
+
+* We do not want the moderation process to be passive; essentially,
+  if you acted in a way that required intervention we want to see
+  that you are willing and able to rectify the situation without
+  further intervention.
+* In the case of Limit in particular, we do not want the process to
+  to go on without resolution.
+
+This means that, in general, we will use one of the other actions and
+communicate what we'd need from you in an appeal process to reinstate
+normal functioning of your account.
+
+## Reminder: not all moderation action is visible
+
+Of the above actions, the only moderation actions that are visible
+are if a moderator deletes a post or suspends an account. When an
+issue is closed without action or when a user is warned, frozen, or
+limited, the action is not visible to the reporting user or other
+users.
 
 ## The Appeals Process
 
@@ -187,3 +222,6 @@ pending action we requested of you, we will need you to email us at
 summary of the situation in the appeal itself as that will remain
 tied with the appeal in admin UI, which will set the initial context
 and set the expectation that there are emails corresponding to the appeal.
+
+
+[def]: #when-to-appeal
