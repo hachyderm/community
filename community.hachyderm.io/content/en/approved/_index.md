@@ -17,6 +17,7 @@ The following accounts that have gone through the approval process with Hachyder
 
 ### Corporate Accounts
 
+* <a rel="me" href="https://hachyderm.io/@adminmagazine">ADMIN Magazine</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 
 ### Bot Accounts / Automated Posting Accounts
