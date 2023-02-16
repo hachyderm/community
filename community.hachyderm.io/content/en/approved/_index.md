@@ -30,8 +30,10 @@ other API hooks, podcasts, and so forth.**
 
 ### OSS Projects
 
+* <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
 
 ### Community Events
 
+* <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
