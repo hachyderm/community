@@ -21,7 +21,7 @@ a safe space. We acknowledge that we are human and that we can make errors.
 We ask for your patience and understanding that when we approach a
 situation, we are doing so as strangers moderating strangers. 
 
-For more information what goes into how we interpret and enforce our rules,
+For more information about what goes into how we interpret and enforce our rules,
 please take a look at our [Moderator Covenant](../covenant/) and
 [Rule Explainer](../../rule-explainer/). Some of the language used below
 will come from the Moderator Covenant in particular.
@@ -55,7 +55,7 @@ Two additional, less commonly used, actions are:
 ### Warn
 
 The warning feature is a tool in the Mastodon admin tools that allows us
-to send a message directily to you.
+to send a message directly to you.
 
 When you receive a warning, that means that the moderation team has decided:
 
@@ -110,9 +110,10 @@ If your account was frozen, you should always file an appeal. If your account
 was suspended, the situation of the suspension will determine if an
 appeal is possible. ([Skip to The Appeals Process](#the-appeals-process))
 
-We want to call out that there are times that we suspend an account
-even if the rule broken is not severe but there is an impact to the server
-or community that warrants it.
+We want to call out that there are times that we temporarily suspend an account
+even if the rule broken is not severe. This would only happen when there is an
+impact to the server or community that would warrant and benefit
+from an immediate, visble, action and forced cool-down period.
 
 ### Limit and Delete Post
 
@@ -129,10 +130,10 @@ We do not typically Limit accounts or Delete Posts. We have a couple of
 reasons for this:
 
 * We do not want the moderation process to be passive; essentially,
-  if you acted in a way that required intervention we want to see
+  if you acted in a way that required intervention, we want to see
   that you are willing and able to rectify the situation without
   further intervention.
-* In the case of Limit in particular, we do not want the process to
+* In the case of Limit in particular, we do not want the process
   to go on without resolution.
 
 This means that, in general, we will use one of the other actions and
@@ -206,7 +207,7 @@ in the appeals process. (See next section.)
 
 ### Limitations of the appeals process
 
-Whenever you want to file an appeal you should both file the appeal _and_
+Whenever you want to file an appeal you should _both_ file the appeal _and_
 email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 
 The reason for this is that the Appeal feature in the admin interface
@@ -216,10 +217,10 @@ communication when we do either action and cannot send a communication
 to help us decide what action to take.
 
 In order for us to know if your account was flagged incorrectly and why,
-or for us to be able reinstate your account if it was frozen or suspended
+or for us to be able to reinstate your account if it was frozen or suspended
 pending action we requested of you, we will need you to email us at
 [admin@hachyderm.io](mailto:admin@hachyderm.io). Please also include a
-summary of the situation in the appeal itself as that will remain
+summary of the situation in the appeal itself, as that will remain
 tied with the appeal in admin UI, which will set the initial context
 and set the expectation that there are emails corresponding to the appeal.
 

@@ -120,7 +120,7 @@ as needed.
 ## How and When to use the GitHub Issue Tracker
 
 The [Community's GitHub Issues](https://github.com/hachyderm/community/issues),
-a.k.a. Issue Tracker, is for communiticating with the moderation
+a.k.a. Issue Tracker, is for communicating with the moderation
 _and_ infrastructure teams, as needed. To create an issue:
 
 1. Go to [github.com/hachyderm/community/issues](https://github.com/hachyderm/community/issues)
@@ -134,6 +134,7 @@ It can also be used to request emoji, report a service outage (you can also use
 [omg.hachyderm.io](https://omg.hachyderm.io) for this),
 request updates / changes to the docs, and so on. There are issue
 templates for the most common issues that prompt users for the information
-we need to respond to requests efficiently. Depending on whether the request / 
-conversation is about moderation issue or a partial / full outage, a member
-of the corresponding team or teams will respond.
+we need to respond to requests efficiently. Depending on the
+nature of the request / discussion, a member of the infrasture
+team and/or the moderation team will respond.
+

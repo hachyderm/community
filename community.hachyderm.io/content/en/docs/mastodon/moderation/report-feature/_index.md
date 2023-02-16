@@ -106,7 +106,7 @@ report<br />
 The Additional Comments step is very important. To help us process reports
 efficiently there should _always_ be additional context in the
 Additional Comments field - the more the better. This should be done
-**_even if the report seems self explanatory_**. In the case of
+**_even if the report seems self-explanatory_**. In the case of
 reports of posts, users, and domains that are in languages other
 than English, we will need an English translation supplied.
 
@@ -178,7 +178,7 @@ and choose what action to take:
 
 Moderators can choose to close the issue with only an explaining
 comment, or to take one of the shown actions and close the issue.
-For visibility the moderation actions are:
+For visibility, the moderation actions are:
 
 1. Mark as Resolved (No moderator action)
 1. Delete posts (Moderator resolves by deleting the offending
@@ -201,7 +201,7 @@ users. This means that we / your instance moderators may have taken
 action as the result of your report, but that action is not
 publicly visible.
 
-Please look at our [our Actions and Appeals doc](../../../moderation/actions-and-appeals/)
+Please look at [our Actions and Appeals doc](../../../moderation/actions-and-appeals/)
 for more information about how we use the moderation tools to
 moderate Hachyderm.
 

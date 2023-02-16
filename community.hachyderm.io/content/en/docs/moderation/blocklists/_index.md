@@ -36,12 +36,12 @@ an individual user, but that content does not violate the home server's
 ethos.
 
 Mastodon has additional documentation about actions that individual
-users can take on their [Dealing with unwanted content documentation page](https://docs.joinmastodon.org/user/moderating/).
+users can take on their [Dealing With Unwanted Content documentation page](https://docs.joinmastodon.org/user/moderating/).
 
 ## How Hachyderm's Blocklist is Built
 
 At Hachyderm, we do our best to balance what actions should be taken at the
-instance level and what should be handled at the user level both when it
+instance level and what should be handled at the user level - both when it
 comes to our own users and when we receive reports of users on other
 instances or the instances themselves. The vast majority of the moderator
 action we have taken on servers on our Blocklist is to either
@@ -111,7 +111,7 @@ user impacting event.
 
 Whenever we take action on a server that has malicious activity,
 and this can be in the form of attacks on our server or in the
-form of social attacks like stalking and harrassment, we err on
+form of social attacks like stalking and harassment, we err on
 the side of safety. This means what level of information
 we provide and how loudly (notifications, etc.) we provide
 it will be based on what is safest for all of our users.
@@ -127,7 +127,7 @@ This means:
   concern, by the absence of information.
 - Not all changes to individual server status will be loudly announced, but some
   will.<br />
-  We will use the decision making process outlined above when
+  We will use the decision-making process outlined above when
   announcing.
 - Not announcing that a server has changed status does not
   mean that server is or was a cause of concern. It can

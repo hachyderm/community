@@ -46,9 +46,10 @@ seeing what, if any, factors are contributing to the situation and
 if that situation is escalating or at risk of escalating. Since we
 acknowledge that We Are Strangers, that means we are doing this
 based on an understanding of people, in general, and the
-intersectionalities at play. Also, again since We Are Strangers,
-we then use the impact of the reported user action to inform what
-moderation action(s) to take, if any.
+intersectionalities at play. Regardless of intent or whether
+actions and words were purposeful, the targeted or affected person
+is still harmed. That's why it is critical to prioritize impact
+and acknowledge the harm that was caused.
 1. **We will trust, but verify.**<br />
 There is a saying that you need to believe someone when they tell
 you who they are. Individuals and communities make use of the reporting
@@ -92,7 +93,7 @@ and community safety, we will choose community safety.
 1. **We will only take moderation action where doing so increases
 community safety and/or decreases community risk.**<br />
 For every report, we do an analysis to determine whether or not taking
-moderator action will improve community safety or decrease
+moderator action will improve community safety and/or decrease
 community risk. If the best action to take is to not react,
 then we will not react.<br />
 For off server users in particular we _also_ recognize the limits
