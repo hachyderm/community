@@ -1,53 +1,56 @@
 ---
-title: "Reporting Issues and Communicating with Moderators"
-linkTitle: "Reporting and Communication"
-weight: 4
+title: "Mastodon Report Feature"
+linkTitle: "Report Feature"
+weight: 40
 description: >
-  How to report issues and interact with the moderation team.
+   How to use the Mastodon report feature.
 ---
 
-There are two main ways to report issues to the moderation team:
-in the GitHub Community Issue tracker and in the Mastodon UI
-itself. In general, the Mastodon UI (i.e. the "report" feature on
-Hachyderm.io) is used for reporting specific posts, users, and
-domains. The GitHub Community Issue tracker is for other types of
-reports as well as raising other questions and conversations with
-the Hachyderm Moderation Team.
+{{% pageinfo %}}
+This section documents features and processes maintained by Mastodon. For
+issues related to these features and/or processes, please reach out to the Mastodon team
+directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
 
-There are three ways to correspond with the Hachyderm Moderation
-team:
+For issues with this doc page itself, please reach out to us on
+[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+{{% /pageinfo %}}
 
-* [Email](#how-and-when-to-use-email)
-* [The Mastodon UI](#how-and-when-to-use-the-mastodon-ui)
-* The Issue Tracker on the Community Repo
+## Overvew <!-- omit in toc -->
+- [About the Report Feature](#about-the-report-feature)
+- [How to create a report](#how-to-create-a-report)
+- [What a Filed Report Looks Like](#what-a-filed-report-looks-like)
+    - [Who can see moderation reports](#who-can-see-moderation-reports)
+    - [Limitations of the Mastodon Admin Interface](#limitations-of-the-mastodon-admin-interface)
+    - [One Last Reminder](#one-last-reminder)
 
-## How and When to use Email
+## About the Report Feature
 
-The moderation team should, in general, only be contacted via
-email to:
+Mastodon's report feature is a way for Mastodon users to send reports to
+a Mastodon instance's admins or moderators. If you are reporting a user to your own
+instance's moderators, then only they will see the report. If you are reporting
+a user on a remote server, then your home instance's admins still see the report.
+In the case of a remote user, you can also choose whether or not to forward
+the report to that instance's admins. The nuance here is capturing whether you
+are reporting a user to their own home instance for their admins to take action,
+to your own instance admins for them to take action, or both.
 
-* Supplement a report in the Mastodon UI
-* Provide a report or other communication that cannot be in a
-public forum, like the GitHub Issue tracker, and cannot be
-submitted via the Mastodon UI
-
-In short: please prioritize using the Mastodon UI and/or GitHub
-issues as often as possible. That said, if you would need to reach
-out to the admin team for either of the above situations, please
-use [admin@hachyderm.io](mailto:admin@hachyderm.io).
-
-## How and When to use the Mastodon UI
-
-The Mastodon UI, i.e. what you see when you're using Hachyderm.io
-or your home Mastodon instance of choice, should generally be used
-for reporting issues that can be reported via reporting individual
-posts. This typically is used for:
+On Hachyderm, we specifically request Hachydermians to use the report feature for the
+following scenarios:
 
 * Reporting individual posts but not the user overall
 * Reporting a user via their posts
-* Reporting a domain via the posts of their users
+* Reporting a domain via the posts of a user on that domain
 
-### How to report
+When submitting a report, it is important to include all relevant information.
+This includes supporting information, **_even if it seems obvious_**, any relevant 
+posts as needed, as well as comments supplied by you.
+
+**_Please note: if we receive an empty report and cannot see a
+clear cause, we will close the report without moderator action._**
+
+For more information about this, please see our [doc on Reporting Issues and Communicating with Moderators](../../../moderation/reporting/).
+
+## How to create a report
 
 1. Click on the meatballs(⋯) menu below the post and select
 "report"<br /> 
@@ -103,7 +106,7 @@ report<br />
 The Additional Comments step is very important. To help us process reports
 efficiently there should _always_ be additional context in the
 Additional Comments field - the more the better. This should be done
-**_even if the report seems self explanatory_**. In the case of
+**_even if the report seems self-explanatory_**. In the case of
 reports of posts, users, and domains that are in languages other
 than English, we will need an English translation supplied.
 
@@ -118,7 +121,7 @@ please:
   supplementary email
 * Email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
 
-### What a Filed Report Looks Like
+## What a Filed Report Looks Like
 
 For an example, I had Björn's user create a report against my Blob
 Fox Appreciation Post that I used for the screenshots above. When
@@ -175,13 +178,14 @@ and choose what action to take:
 
 Moderators can choose to close the issue with only an explaining
 comment, or to take one of the shown actions and close the issue.
-For visibility the moderation actions are:
+For visibility, the moderation actions are:
 
 1. Mark as Resolved (No moderator action)
 1. Delete posts (Moderator resolves by deleting the offending
 post(s))
 1. Limit (Formerly known as "silence". The user can still
 participate but they will not show in Local or Federated feeds.)
+1. Freeze (User can log into their account but cannot interact.)
 1. Warn (Moderators send a note through the interface to the
 reported user. Note this option is not visible on the screenshot.)
 1. Suspend (Also known as "ban". If the user is a Hachydermian
@@ -189,28 +193,31 @@ then their account is removed from our server. If they are on a
 different server that user is banned from interacting with our
 server.)
 
-#### Who can see moderation reports
-
-All moderators can see all reports **_except_** the following:
-
-* A moderator cannot see any reports filed against them, but
-  others on the moderation team can to take action. (Note: I
-  needed to have a different member of the team take screenshots
-  of the above for me to write this article.)
-* A moderator cannot see any report that they have filed against a
-  user. This means that a single moderator cannot file and decide
-  on a single report. That report must be seen and acted on by
-  another moderator.
-
-Regular users do _not_ have access to moderator reports.
-
-#### Not all moderation action is visible
-
 Of the above actions, the only moderation actions that are visible
 are if a moderator deletes a post or suspends an account. When an
-issue is closed without action or when a user is warned or
+issue is closed without action or when a user is warned, frozen, or
 limited, the action is not visible to the reporting user or other
-users.
+users. This means that we / your instance moderators may have taken
+action as the result of your report, but that action is not
+publicly visible.
+
+Please look at [our Actions and Appeals doc](../../../moderation/actions-and-appeals/)
+for more information about how we use the moderation tools to
+moderate Hachyderm.
+
+#### Who can see moderation reports
+
+If you are reporting a user on the same instance as you are (local user):
+
+* The instance moderators can see your report
+
+If you are reporting a user _not_ on the same instance as you are (remote user):
+
+* Your instance moderators can see your report
+* Remote instance moderators / the moderators for the reported user's instance can
+  only see the report if you forward the report.
+
+Regular users do **_not_** have access to moderation reports.
 
 #### Limitations of the Mastodon Admin Interface
 
@@ -232,22 +239,7 @@ How this impacts you:
   contact you, we might not have enough information to reverse the
   decision and no way to request more information from you.
 
-**_Please note: if we receive an empty report and cannot see a
+#### One Last Reminder
+
+**_If we receive an empty report and cannot see a
 clear cause, we will close the report without moderator action._**
-
-### Important: What we need when you file a report
-
-We wanted to put this section intentionally below the limitations
-of the interface, so that the context of what we're asking for
-here is clear. If you are filing an issue that needs moderator
-input or if you are filing an appeal that may need additional
-discussion, please provide your preferred email so we can reach
-out to you for clarifications as needed.
-
-## How and When to use the GitHub Issue Tracker
-
-TBD: Will be in next commit.
-
-## Expectations for Interaction with the Moderation Team
-
-TBD: Will be in next commit.

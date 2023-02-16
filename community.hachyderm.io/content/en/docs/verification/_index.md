@@ -91,7 +91,7 @@ Instructions for current, commonly requested, services are below.
 As with the verification process itself: **when verifying with a
 service, that service is responsible for assisting with errors or
 issues with verification. If you experience issues with the
-verificaiton process, please reach out to the relevant service for
+verification process, please reach out to the relevant service for
 assistance.**
 
 #### GitHub
