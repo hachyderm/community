@@ -11,9 +11,4 @@ been moderated, including:
 
 * The specific actions we take and what they mean or imply
 * How to appeal and how we work around limitations with the appeal process
-  
-## First things first
-
-text here
-
-0123456789012345678901234567890123456789012345678901234567890123456789012345
+* What we promise as moderators to moderate Hachyderm
