@@ -1,7 +1,7 @@
 ---
 title: "Account Types"
 linkTitle: "Account Types"
-weight: 20
+weight: 4
 ---
 
 Hachyderm generalizes accounts into one of two account types for moderation:

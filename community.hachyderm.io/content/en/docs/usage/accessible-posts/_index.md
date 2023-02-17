@@ -1,4 +1,8 @@
-# How to create accessible posts
+---
+title: 'How to create accessible posts'
+linkTitle: 'How to create accessible posts'
+weight: 4
+---
 
 NOTES
 - Note how screenreaders read display names
