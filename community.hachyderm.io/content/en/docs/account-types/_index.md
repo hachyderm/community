@@ -2,6 +2,8 @@
 title: "Account Types"
 linkTitle: "Account Types"
 weight: 20
+description: >
+  Permissible Hachyderm account types and features, with an account FAQ.
 ---
 
 Hachyderm generalizes accounts into one of two account types for moderation:

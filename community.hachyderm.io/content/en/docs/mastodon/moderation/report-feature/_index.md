@@ -3,7 +3,7 @@ title: "Mastodon Report Feature"
 linkTitle: "Report Feature"
 weight: 40
 description: >
-   How to use the Mastodon report feature.
+  How to use the Mastodon report feature.
 ---
 
 {{% pageinfo %}}
