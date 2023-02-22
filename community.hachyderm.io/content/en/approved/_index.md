@@ -36,4 +36,6 @@ other API hooks, podcasts, and so forth.**
 
 ### Community Events
 
+* <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
+* <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
