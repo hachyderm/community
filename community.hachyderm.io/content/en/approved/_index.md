@@ -15,6 +15,12 @@ description: >
 
 The following accounts that have gone through the approval process with Hachyderm.
 
+### Hachyderm and/or Nivenly Official Accounts
+
+* <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
+* <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
+* <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
+
 ### Corporate Accounts
 
 * <a rel="me" href="https://hachyderm.io/@adminmagazine">ADMIN Magazine</a>
