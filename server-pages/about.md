@@ -30,11 +30,11 @@ Learn more about our Community by looking at:
 * [GitHub Community Issue Tracker](https://github.com/hachyderm/community/issues)
 * 💞🐘[Current Emojis](https://emojos.in/hachyderm.io) 🐘💞
 
-#Funding
+# Funding
 
 Hachyderm is currently running on donations to [Kris Nóva's Ko-Fi](https://ko-fi.com/krisnovalive) page; however, we are in the process of setting up a new process that is more accessible / does not require separate account creation.
 
-#Moderation and Community Safety
+# Moderation and Community Safety
 
 Hachyderm is actively moderated to protect our most vulnerable members. Our primary rule is Don't Be A Dick and all other rules are to capture common "whataboutisms" that we want to clearly state are included by Don't Be A Dick. [Our server rules](https://community.hachyderm.io/docs/rule-explainer/), including Don't Be A Dick, are explained on our Community Docs.
 
