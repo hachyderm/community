@@ -15,6 +15,12 @@ description: >
 
 The following accounts that have gone through the approval process with Hachyderm.
 
+### Hachyderm and/or Nivenly Official Accounts
+
+* <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
+* <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
+* <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
+
 ### Corporate Accounts
 
 * <a rel="me" href="https://hachyderm.io/@adminmagazine">ADMIN Magazine</a>
@@ -33,7 +39,10 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
+* <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
 
 ### Community Events
 
+* <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
+* <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
