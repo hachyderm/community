@@ -69,7 +69,7 @@ e.g. "CuratedTechJobPosts".
 - You must be verified with your company, project, etc. page.<br />
 If your company, project, newsletter, etc. has a web page, then
 that web page must be verified on your profile.
-- All specialized accounts are welcome to [become verified](application/).
+- All specialized accounts are welcome to [become verified](verification/).
 
 ### Guiding Principles for All Specialized Accounts
 
