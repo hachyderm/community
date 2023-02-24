@@ -78,9 +78,9 @@ definition (in terms of account type) and would require a [corporate account](..
   sponsor/owner such as Google's [Go Programming language](https://go.dev/)
   and HashiCorp's [Terraform](https://www.terraform.io/).
 - :heavy_multiplication_x: Open source projects with structured sponsorship
-  models that resemble paid services. For example, features that are unlocked
-  via donation such as [LetsEncrypt](https://letsencrypt.org/sponsors/)'s quota
-  limit which can only be raised via donation.
+  models that resemble paid services. Some examples include unlocking
+  essential features, increasing quotas, and so forth via donation or
+  payment tiers.
 - :heavy_multiplication_x: "up-sell" or "upgrade to pro" or "free trial" model
   projects that resemble a paid service such as [pfSense Community
   Edition](https://www.pfsense.org/download/) or [Wolfram
