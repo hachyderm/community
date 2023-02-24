@@ -3,7 +3,7 @@ title: "Sexual Content"
 linkTitle: "Sexual Content"
 weight: 4
 description: >
-  Understanding the depth of sexual content, NSFW content, 18+ content, sexually charged content, sexual imagery, and its relationship to Hachyderm users and marginalized communities. Understanding our policy, and our thoughts on the topic.
+  Policies and thoughts on sexual content, NSFW content, 18+ content, sexually charged content, sexual imagery, and its relationship to Hachyderm users and marginalized communities.
 ---
 
 Sex is everywhere, and we have a pragmatic and mature relationship with sex and sexual content at Hachyderm.

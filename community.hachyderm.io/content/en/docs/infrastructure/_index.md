@@ -3,7 +3,7 @@ title: "Open Source Infrastructure"
 linkTitle: "Infrastructure"
 weight: 4
 description: >
-  Understand our public infrastructure and learn what keeps #Hachyderm online.
+  Description of our public infrastructure that keeps Hachyderm online.
 ---
 
 {{% pageinfo %}}

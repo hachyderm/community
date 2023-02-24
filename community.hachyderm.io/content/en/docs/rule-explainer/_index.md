@@ -3,7 +3,7 @@ title: "Rule Explainer"
 linkTitle: "Rule Explainer"
 weight: 4
 description: >
-  Expands on the different rules that govern Hachyderm.
+  Expanded explanation of the rules that govern user conduct on Hachyderm.
 ---
 
 ## The Rule Explainer
