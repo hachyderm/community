@@ -39,6 +39,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
+* <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
 
 ### Community Events
 
