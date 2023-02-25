@@ -51,8 +51,7 @@ Hachyderm as they please.
 OSS projects and industry events that are company-like or business-like in their
 implementation will be considered "corporate" (in the account sense) and require
 a [corporate account](../corporate-accounts/). They will also be bound by the
-account rules and restrictions for that account type, including the requirement
-that they be backed by a Nivenly Trade Member. Criteria that would meet this type:
+account rules and restrictions for that account type. Criteria that would meet this type:
 
 - Projects that are a product / service of a parent entity that would meet the
   criteria for a corporate account **_or_**<br />
@@ -113,9 +112,11 @@ default.
 
 ### Can I create an account for my event? Like DevopsDays?
 
-Yes. As long as your event is not a profit focused event, then you are welcome to
-create an account. If your event is profit seeking, you must follow our
-[corporate policy](../corporate-accounts/).
+Yes, the goal is to support community focused events. If the goal of the
+event is the community, then this is the correct account type for your event.
+If your event is business oriented, or for businesses to network with each
+other (e.g. what is sometimes referred to as a tradeshow), your event will
+need a [corporate account](../corporate-accounts/).
 
 #### What about DevopsDays for my specific city?
 
@@ -138,4 +139,6 @@ should join the project and ask for access to the Mastodon account.
 ### Can I create a bot account for our open source project?
 
 No. We know it is fun to automate pull requests, build status, and more. However,
-we try to keep our content based around real words written by real people.
+we try to keep our content based around real words written by real people. That said,
+you are welcome to include some of that data in your project's account posts, it just
+can't be dedicated to only publishing that type of content.

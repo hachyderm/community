@@ -122,10 +122,14 @@ become verified.
 
 ### Recognized Specialized Account Categories
 
-* [Corporate](corporate-accounts/) - For businesses, companies, and similar.
-   * Note that corporate accounts are restricted on this server. Unapproved corporate accounts are banned.
-   * As of 1 Mar 2023, corporate accounts will be limited to Nivenly Trade Members who agree to the [Specialized Account Expectations](covenant/).
-   * Prior to 1 Mar 2023, corporate accounts were invite-only and also required to agree to the [Specialized Account Expectations](covenant/) (then referred to as the Corporate Covenant).
+* [Corporate](corporate-accounts/) - For businesses, companies, and similar. Corporate accounts:
+   * Are **_invite-only_**. For information email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+   * Must agree to the [Specialized Account Expectations](covenant/) (formerly Corporate Covenant).
+   * Must follow the [the rules for their account type](corporate-accounts/).
+   * Pay for Hachyderm access (as of 1 Mar 2023). Additional information
+     is on the [corporate accounts page](corporate-accounts/).
+   * **Note**: Unofficial corporate accounts will be suspended. You must email us at [admin@hachyderm.io](mailto:admin@hachyderm.io)
+     prior to creating your account.
 * [Events](open-source-accounts/) - For community events, including conferences and meetups.
 * [Projects](open-source-accounts/) - For Open Source Projects.
 * [Curated](curated-accounts/) - These can be accounts that are re-posting / hosting other content, for example a curated
@@ -133,8 +137,8 @@ become verified.
   content can include, but aren't limited to: newsletters, podcasts, and streamers.
 * [Automated](bot-accounts/) - Most commonly, but not exclusively, bot accounts. Any posts that are programmatic and/or
   scheduled in nature.
-* Hybrid - This is when an account falls under more than one category, typically companies, events, projects, etc.
-  making use of automated posts. (But not limited to this.) In this case, the account must adhere to all
+* Hybrid - This is when an account falls under more than one category. Typically, but not exclusively, this is
+  companies, events, projects, etc. making use of automated posts. In this case, the account must adhere to all
   the rules for the different types they house.
 
 Of the above, only the [corporate accounts](corporate-accounts/) are invite-only / require approval. That said,
