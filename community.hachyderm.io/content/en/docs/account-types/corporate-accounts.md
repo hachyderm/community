@@ -39,6 +39,7 @@ Corporate accounts:
 * Are [verified with Hachyderm](../verification/).
   * This last process is new in 2023 to help Hachydermians quickly see that a corporate
     account has been approved by us.
+* Are [verified with their company/business/entity domain](../../mastodon/user/verification/)
 * Pay a subscription cost as of 1 Mar 2023 (see next section).
 
 ## Corporate account application information and cost

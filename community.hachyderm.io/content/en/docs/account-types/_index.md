@@ -68,10 +68,10 @@ This means for companies, OSS projects, community events, podcasts, newsletters,
 then the username must match the company / project name. For most
 other account types this means "describe what you are" via username,
 e.g. "CuratedTechJobPosts".
-- You must be verified with your company, project, etc. page.<br />
+- You must [be verified](../mastodon/user/verification/) with your company, project, etc. page.<br />
 If your company, project, newsletter, etc. has a web page, then
 that web page must be verified on your profile.
-- All specialized accounts are welcome to [become verified](verification/).
+- All specialized accounts are welcome to [become verified with Hachyderm](verification/).
 
 ### Guiding Principles for All Specialized Accounts
 
