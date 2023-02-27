@@ -28,4 +28,6 @@ them prominently, have restrictions on this server.
         are bound to all sets of rules for their combined, hybrid, account type.
       * Posts cannot violate the [Specialized Account Expectations](../covenant/)
     * Similar to bots, curated accounts must use the `#hachygrator` hashtag ("Hachyderm" + "Aggregator") in their posts to allow users to opt-in or opt-out.
-* Curated accounts must be [verified](../verification/)
+* Curated accounts must be [verified with Hachyderm](../verification/)
+* Where applicable, accounts should [be verified](../../mastodon/user/verification/)
+  with their relevant domain(s).

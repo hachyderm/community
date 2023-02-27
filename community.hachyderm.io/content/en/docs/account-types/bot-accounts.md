@@ -14,7 +14,9 @@ article is for you!
 - Automated posts and bot accounts
 - Posting rules for automated content
 - Posting rules and behavior restrictions for bots
-- All bots must be [verified](../verification/)
+- All bots must be [verified with Hachyderm](../verification/)
+- Where applicable, accounts should [be verified](../../mastodon/user/verification/)
+  with their relevant domain(s).
 
 ## A bit about post automation
 
@@ -57,7 +59,7 @@ Accounts that violate the above may be limited or suspended.
 
 #### Account Configuration
 
-- All bot accounts must [be verified](../verification/), which means they agree to the [Specialized Account Expectations](../covenant/).
+- All bot accounts must [be verified with Hachyderm](../verification/), which means they agree to the [Specialized Account Expectations](../covenant/).
 - All bots must select the bot checkbox in their profile settings. (Open image in new window to enlarge.)<br />
   <img src="../mastodon-bot-account.png"
        alt="Screenshot of four check boxes in account settings: require follow
