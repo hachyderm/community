@@ -28,6 +28,8 @@ The following accounts that have gone through the approval process with Hachyder
 
 ### Bot Accounts / Automated Posting Accounts
 
+* <a rel="me" href="https://hachyderm.io/@ietf_wg_dnsop">DNS Operations Working Group of the Internet Engineering Task Force (IETF)</a>
+
 ### Curated Content Accounts
 
 **This can include, but is not limited to: newsletters, blogs /
@@ -40,6 +42,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
 * <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
+* <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
 ### Community Events
 
