@@ -56,6 +56,10 @@ Some accounts are restricted and/or invite-only and many have rules governing ho
 the platform. Unrecognized account types are suspended. Please read our [Account Types documentation](account-types/)
 for more information.
 
+#### I am the mod / admin of another instance and need to contact the Hachyderm mods / admins.
+
+Please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
+
 #### I have an issue that requires the moderation team, please help.
 
 If the issue is regarding a user or post, please use the report feature in Mastodon. If you need to
