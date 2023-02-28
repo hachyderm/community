@@ -26,9 +26,8 @@ Pronounced hack-a-derm like [pachyderm](https://forvo.com/word/pachyderm/#en). (
 
 #### Running a service is expensive. How can I donate?
 
-Hachyderm is currently running on donations to [Kris Nóva's Ko-Fi](https://ko-fi.com/krisnovalive) page;
-however, we are in the process of setting up a new process that is more accessible / does not require
-separate account creation.
+There are a few ways to support us, including through [Hachyderm's GitHub Sponsors page](https://github.com/sponsors/hachyderm).
+For additional ways to support, including supporting via Nivenly, please take a look at [our Funding and Thank You doc](thank-you/).
 
 #### How did Hachyderm start? Who is the "Benevolent Dictator for Life"?
 
