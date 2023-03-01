@@ -27,8 +27,8 @@ Sponsors page:
 Hachyderm's GitHub sponsors page has a few benefits, including:
 
 * Sponsor icon on your GitHub profile
-* (Optional) A shout out on our #ThankYouThursday on Hachyderm's Hachyderm account.<br />
-* (Optional) Added to our Thank You list at the bottom of this page.
+* (Optional) A shout out on our [#ThankYouThursday](https://hachyderm.io/tags/ThankYouThursday) on Hachyderm's Hachyderm account starting in April.<br />
+* (Optional) Added to our Thank You list at the bottom of this page starting in April.
 
 For both the shoutouts and Thank You list: we will use your GitHub username by default.
 If you would like this changed please either [submit a PR](https://github.com/hachyderm/community/pulls) or email us at [admin@hachyderm.io](admin@hachyderm.io).
@@ -39,17 +39,29 @@ The two ways to support Hachyderm are:
 
 * Donating directly to the Hachyderm project
 * Donating to Hachyderm's parent organization, the Nivenly Foundation
+* Purchasing swag
 
 #### Regular Donations
+
+(... and swag)
 
 * [Hachyderm's GitHub Sponsor page](https://github.com/sponsors/hachyderm)<br />
   This is the same as the Donate button above.
 * [Nivenly's GitHub Sponsor page](https://github.com/sponsors/nivenly)<br />
   The Nivenly Foundation is the parent organization for Hachyderm. You can configure
   either one-time or recurring donations.
+* [Nivenly's Ko-fi page](https://ko-fi.com/nivenly)<br />
+  If you're looking to continue donating to Nivenly, Hachyderm, et al through Ko-fi
+  and are just migrating away from donating to us via Kris Nóva's Ko-fi, this is the
+  place for you!
 * [Nivenly Donation via Stripe](https://donate.stripe.com/3cs8Apb7R6eK3a83cd)<br />
   This is a one-time donation via credit card payment to the Nivenly Foundation.
 
+Please visit our swag store if you're looking to update your awesome assortment
+of shirts, mugs, stickers, and so on:
+
+* [The Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/)<br />
+  Has swag for Nivenly, Hachyderm, and Aurae!
 
 #### The Nivenly Foundation and Membership
 
@@ -78,4 +90,8 @@ above.
 ## Thank you everyone!
 
 Our first set of Thank Yous will be added here in April, one month after our March 2023 release.
-Updates afterward will be quarterly in June, September, and December 2023.
+Updates afterward will be quarterly in June, September, and December 2023. We will update from our
+public GitHub Sponsors primarily, as we are treating private GitHub Sponsors, Ko-fi, and Stripe donations
+private. If you have sent us a donation via one of these and do _not_ want it to be private, and _do_ want
+to be on this page, please contact us at [admin@hachyderm.io](mailto:admin@hachyderm.io). The amount
+each donor donated will _not_ be listed on this page, name/handle only.
