@@ -35,7 +35,7 @@ If you would like this changed please either [submit a PR](https://github.com/ha
 
 ### Donation Options
 
-The two ways to support Hachyderm are:
+The three ways to support Hachyderm are:
 
 * Donating directly to the Hachyderm project
 * Donating to Hachyderm's parent organization, the Nivenly Foundation
