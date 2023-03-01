@@ -100,9 +100,15 @@ our budget as we grow. Our next two big milestones:
 
 As we grow we'll continue to post updates. Thank you all so much for your patience and participation 💕
 
-#### P.S. What's going to happen with Kris Nóva's Ko-Fi?
+## P.S. and update: What's happening with Ko-fi?
 
-Although we are migrating away from using Kris Nóva's Ko-Fi as the primary source of Hachyderm donations,
-it is still up and running as part of her Twitch stream. During the transition period to GitHub Sponsors,
-Stripe, and Open Collective donations made through Ko-Fi will still route to Hachyderm. Sometime in the next
-30-60 days that will cease (and be announced at that time). 
+We are currently moving away from Kris Nóva's Ko-fi as a funding source for Nivenly and Hachyderm et al.
+We've created a **_new_** Ko-fi account for the Nivenly Foundation itself:
+
+* [Nivenly Foundation Ko-fi](https://ko-fi.com/nivenly)
+
+Kris Nóva's Ko-fi is still live to give people time to migrate Nivenly-specific donations (including those
+for Hachyderm and Aurae) from her Ko-fi to either GitHub sponsors, Nivenly's Ko-fi, Stripe or starting
+a Nivenly co-op general membership via Nivenly's Open Collective page as those become ready (which should be soon).
+We'll still be using Nivenly-specific funds from her Ko-fi for Nivenly for the next 30-60 days
+and will follow up with an update as we start to stop that (manual 😅) process.
