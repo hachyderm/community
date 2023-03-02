@@ -45,22 +45,22 @@ The three ways to support Hachyderm are:
 
 (... and swag)
 
-* [Hachyderm's GitHub Sponsor page](https://github.com/sponsors/hachyderm)<br />
+* [Hachyderm's GitHub Sponsor page](https://github.com/sponsors/hachyderm) <i class="fa-brands fa-github"></i> <br />
   This is the same as the Donate button above.
-* [Nivenly's GitHub Sponsor page](https://github.com/sponsors/nivenly)<br />
+* [Nivenly's GitHub Sponsor page](https://github.com/sponsors/nivenly) <i class="fa-brands fa-github"></i> <br />
   The Nivenly Foundation is the parent organization for Hachyderm. You can configure
   either one-time or recurring donations.
-* [Nivenly's Ko-fi page](https://ko-fi.com/nivenly)<br />
+* [Nivenly's Ko-fi page](https://ko-fi.com/nivenly) <i class="far fa-coffee"></i><br />
   If you're looking to continue donating to Nivenly, Hachyderm, et al through Ko-fi
   and are just migrating away from donating to us via Kris Nóva's Ko-fi, this is the
   place for you!
-* [Nivenly Donation via Stripe](https://donate.stripe.com/3cs8Apb7R6eK3a83cd)<br />
+* [Nivenly Donation via Stripe](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i> <br />
   This is a one-time donation via credit card payment to the Nivenly Foundation.
 
 Please visit our swag store if you're looking to update your awesome assortment
 of shirts, mugs, stickers, and so on:
 
-* [The Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/)<br />
+* [The Nivenly Foundation Swag Store](https://nivenly.myspreadshop.com/) <i class="fa-solid fa-shirt"></i> <br />
   Has swag for Nivenly, Hachyderm, and Aurae!
 
 #### The Nivenly Foundation and Membership
