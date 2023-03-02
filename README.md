@@ -40,8 +40,7 @@ the following:
 
 ## Donations
 
-Donations can be made directly to Kris Nóva on
-[ko-fi.com/krisnovalive](https://ko-fi.com/krisnovalive).
+Information on Donations is at [community.hachyderm.io/docs/thank-you](https://community.hachyderm.io/docs/thank-you/#how-to-donate).
 
 ## Understanding Account Types
 
