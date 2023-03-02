@@ -75,13 +75,13 @@ non-profit with the State of Washington and 2 ) we have a nice, shiny, EIN which
 donations to both the Nivenly Foundation as well as its two projects: Aurae and Hachyderm. For visibility, here
 are all the GitHub sponsor links in one place:
 
-* [Nivenly GitHub Sponsor Page <i class="fa-brands fa-github ml-1"></i>](https://github.com/sponsors/nivenly)
-* [Hachyderm GitHub Sponsor Page <i class="fa-brands fa-github ml-1"></i>](https://github.com/sponsors/hachyderm)
-* [Aurae GitHub Sponsor Page <i class="fa-brands fa-github ml-1"></i>](https://github.com/sponsors/aurae-runtime)
+* [Nivenly GitHub Sponsor Page](https://github.com/sponsors/nivenly) <i class="fa-brands fa-github ml-1"></i>
+* [Hachyderm GitHub Sponsor Page](https://github.com/sponsors/hachyderm) <i class="fa-brands fa-github ml-1"></i>
+* [Aurae GitHub Sponsor Page](https://github.com/sponsors/aurae-runtime) <i class="fa-brands fa-github ml-1"></i>
 
 It is also possible to give a custom one-time donation to Nivenly via Stripe:
 
-* [Stripe One-Time Donation](https://donate.stripe.com/3cs8Apb7R6eK3a83cd)
+* [Stripe One-Time Donation](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i>
 
 Right now only _donations_ are open for Nivenly, Aurae, and Hachyderm. After we finalize Nivenly's launch,
 Nivenly memberships will **_also_** be available for individuals, maintainers, and what we call trade memberships
@@ -105,7 +105,7 @@ As we grow we'll continue to post updates. Thank you all so much for your patien
 We are currently moving away from Kris Nóva's Ko-fi as a funding source for Nivenly and Hachyderm et al.
 We've created a **_new_** Ko-fi account for the Nivenly Foundation itself:
 
-* [Nivenly Foundation Ko-fi](https://ko-fi.com/nivenly)
+* [Nivenly Foundation Ko-fi](https://ko-fi.com/nivenly) <i class="far fa-coffee"></i>
 
 Kris Nóva's Ko-fi is still live to give people time to migrate Nivenly-specific donations (including those
 for Hachyderm and Aurae) from her Ko-fi to either GitHub sponsors, Nivenly's Ko-fi, Stripe or starting
