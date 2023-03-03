@@ -28,6 +28,7 @@ The following accounts that have gone through the approval process with Hachyder
 
 ### Bot Accounts / Automated Posting Accounts
 
+* <a rel="me" href="https://hachyderm.io/@cowsay">cowsay bot</a>
 * <a rel="me" href="https://hachyderm.io/@ietf_wg_dnsop">DNS Operations Working Group of the Internet Engineering Task Force (IETF)</a>
 
 ### Curated Content Accounts
