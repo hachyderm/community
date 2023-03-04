@@ -3,15 +3,47 @@ title: "Content Warnings"
 linkTitle: "Content Warnings"
 weight: 40
 description: >
-  How to use content warnings on Hachyderm.
+  Describes what content warnings are and how they are used.
 ---
 
 FIXME - all the following content and possibly description.<br />
 FIXME - check all links - need to be to docs and not Markdown files
 
-This document describes how to use content warnings and how they are,
-or are not, moderated. To understand the feature itself, please look
-at [our content warning feature doc](../mastodon/user/content-warnings/).
+{{% pageinfo %}}
+This page documents features and processes maintained by Mastodon. For
+issues related to these features and/or processes, please reach out to the Mastodon team
+directly on [the Mastodon project's GitHub](https://github.com/mastodon/mastodon).
+
+For issues with this doc page itself, please reach out to us on
+[Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
+{{% /pageinfo %}}
+
+## What are Content Warnings?
+
+Content warnings are a feature that allows you to
+obscure your content in such a way that it is hidden by default in other
+users' timelines. Instead, only the text of the content warning is
+displayed. To put it another way, if you were to put a content warning on
+one of your posts that read "descriptions of war violence" while discussing
+current or past wars, users would only see that description and could then
+choose to click through the content warning to view the content (or not).
+
+## How to Apply a Content Warning
+
+In order to apply a content warning use the "CW" in the post field:
+
+<img src="mastodon-content-warning-button.png" 
+     width="400"
+     alt="Screenshot of the post field with the CW circled and with
+          an arrow pointing to it" />
+
+An example post with a content warning on the text and image looks like
+this:
+
+<img src="mastodon-content-warning.png"
+     alt="Screenshot of a post with content warning 'Politics (CO)' and the
+          blurred out content labeled 'Sensitive Content'"
+     width="400"/>
 
 ## When to Use Content Warnings
 
@@ -24,6 +56,8 @@ here are some general guidelines.
 * Spoilers
 
 The latter is quickest to explain, so let's start there.
+
+--- FIXME : refactor everything below this
 
 ### "Spoilers, Sweetie"
 
