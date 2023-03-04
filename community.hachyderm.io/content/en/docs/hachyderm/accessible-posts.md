@@ -1,3 +1,13 @@
+---
+title: "Accessible Posting"
+linkTitle: "Accessible Posting"
+weight: 40
+description: >
+  Introduction to posting accessibly for new users.
+---
+
+FIXME - all the following content and possibly description.
+
 # How to create accessible posts
 
 NOTES

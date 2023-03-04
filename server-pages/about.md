@@ -32,7 +32,7 @@ Learn more about our Community by looking at:
 
 # Funding
 
-Hachyderm is currently running on donations to [Kris Nóva's Ko-Fi](https://ko-fi.com/krisnovalive) page; however, we are in the process of setting up a new process that is more accessible / does not require separate account creation.
+Hachyderm is funded via [the Hachyderm project GitHub Sponsor page](https://github.com/sponsors/hachyderm) as well as other donation sources. Please see our [Funding and Thank You](https://community.hachyderm.io/docs/thank-you/) documentation page for more information about additional ways to donate.
 
 # Moderation and Community Safety
 

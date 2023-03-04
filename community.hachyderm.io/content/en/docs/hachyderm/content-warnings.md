@@ -1,3 +1,13 @@
+---
+title: "Intro to Content Warnings"
+linkTitle: "Intro to Content Warnings"
+weight: 40
+description: >
+  Introduction to Mastodon Content Warnings for new users.
+---
+
+FIXME - all the following content and possibly description.
+
 # All About Content Warnings
 
 The short version: content warnings are a feature that allows you to
@@ -12,7 +22,7 @@ choose to click through the content warning to view the content (or not).
 
 In order to apply a content warning use the "CW" in the post field:
 
-<img src="../assets/mastodon-content-warning-button.png" 
+<img src="../mastodon-content-warning-button.png" 
      width="400"
      alt="Screenshot of the post field with the CW circled and with
           an arrow pointing to it" />
@@ -20,7 +30,7 @@ In order to apply a content warning use the "CW" in the post field:
 An example post with a content warning on the text and image looks like
 this:
 
-<img src="../assets/mastodon-content-warning.png"
+<img src="../mastodon-content-warning.png"
      alt="Screenshot of a post with content warning 'Politics (CO)' and the
           blurred out content labeled 'Sensitive Content'"
      width="400"/>
