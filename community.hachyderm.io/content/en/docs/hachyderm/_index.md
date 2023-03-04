@@ -8,7 +8,8 @@ description: >
   refer to the Mastodon section.
 ---
 
-FIXME - all the following content and possibly description.
+FIXME - all the following content and possibly description.<br />
+FIXME - should have "the gist" of all the to knows, like "content warnings are how to you can block text" and so forth. THEN link to article.
 
 # Welcome to Hachyderm
 

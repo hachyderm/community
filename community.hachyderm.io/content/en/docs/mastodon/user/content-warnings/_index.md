@@ -7,7 +7,9 @@ description: >
 ---
 
 FIXME - all the following content and possibly description.<br />
-FIXME - check all links - need to be to docs and not Markdown files
+FIXME - a lot of the "how to / Hachyderm" is now in the appropriate doc <br />
+FIXME - check all links - need to be to docs and not Markdown files<br />
+FIXME - all messages in replies default to the CW
 
 {{% pageinfo %}}
 This page documents features and processes maintained by Mastodon. For

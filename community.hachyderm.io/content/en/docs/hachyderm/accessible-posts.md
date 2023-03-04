@@ -11,6 +11,7 @@ FIXME - all the following content and possibly description.
 # How to create accessible posts
 
 NOTES
+- This is only an intro / The Basics - it is not a Complete Guide to Accessibiilty
 - Note how screenreaders read display names
 - Note how screenreaders read "fun" fonts in general
 - Note how screenreaders do (or in some cases don't) read emoji
