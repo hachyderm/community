@@ -166,7 +166,7 @@ When you are composing this type of content warning, ask yourself two
 questions:
 
 1. Why am I putting this behind a content warning?
-1. What differs between this and other types of post in this topic that
+1. What differs between this and other posts about this topic that
    I would _not_ put behind a content warning?
 
 The answer to your first question will likely be short. "It's about war",
@@ -178,16 +178,16 @@ In the example near the top of the post, it is the difference between "it's
 a spoiler" and "it's about the latest episode of The Mandalorian". For
 psychological safety, you might find yourself providing answers like:
 
-* 1 ) it's about the war in Ukraine<br />
-  2 ) it shows images of people in the
+* 1 ) It's about the war in Ukraine<br />
+  2 ) It shows images of people in the
   aftermath of an explosion.
   * Example content warning text:<br />
     "Ukraine War - images and video of bomb injuries and death"
-* 1 ) it's about another shooting in the US<br />
-  2 ) it was at a school and
+* 1 ) It's about another shooting in the US<br />
+  2 ) It was at a school and
   children are scared and crying in the images / video in the news report.
   * Example content warning text:<br />
-    "School Shooting - images and video of traumatized children"
+    "School Shooting - images / video of traumatized children but no injuries shown"
 
 Asking the questions in this way allows you to supply the broad topic
 _as well as_ describe the nuance that informed your decision to put the
