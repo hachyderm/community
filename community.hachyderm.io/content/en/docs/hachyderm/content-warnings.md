@@ -6,8 +6,6 @@ description: >
   How to use content warnings on Hachyderm.
 ---
 
-FIXME - all the following content and possibly description.<br />
-
 This document describes how to use content warnings and how they are
 moderated. To understand the feature itself, please look
 at [our content warning feature doc](/docs/mastodon/user/content-warnings/).
@@ -15,9 +13,12 @@ In this document:
 
 - [What is a content warning?](#what-is-a-content-warning)
 - [When to use content warnings](#when-to-use-content-warnings)
+- [Common examples of content warnings](#common-examples-of-content-warnings)
 - [How to structure a good content warning](#how-to-structure-a-good-content-warning)
   - ["Spoilers, Sweetie"](#spoilers-sweetie)
   - [Protecting Psychological Safety](#protecting-psychological-safety)
+      - [Composing content warnings for psychological safety](#composing-content-warnings-for-psychological-safety)
+      - [Nuance and growth](#nuance-and-growth)
 - [What Do the Moderators Enforce](#what-do-the-moderators-enforce)
 
 ## What is a content warning?
@@ -41,6 +42,22 @@ warning, you are creating a situation where other users are opted-out
 of the detail of your post by default. They must _consent_ to opt-in.
 In an ideal scenario, other users are able to make an informed decision
 to opt-in, i.e. _informed consent_.
+
+## Common examples of content warnings
+
+There are a few situations where content warnings are commonly used on the
+fediverse (not only on Hachyderm):
+
+1. Images of faces with eye contact
+1. Images of food and alcohol, even if they are not being consumed in excess
+   * Though they will also be behind a content warning if they are
+1. Text or media describing or showcasing violence
+   * This is common when discussing news around war violence or shootings
+   * Also common when sharing stories of personal trauma
+1. NSFW content
+   * Please see our [Sexual Content Policy](/docs/nsfw-policy/) for information
+     that is specific to Hachyderm.
+1. Fandom-specific spoilers for various forms of entertainment like TV shows, movies, and books.
 
 ## How to structure a good content warning
 
@@ -78,7 +95,9 @@ Also: what is the _impact_ to each of these groups if they click through your co
 warning and see content they did not want to see?
 
 Remember: The goal is for the content warning text to be descriptive enough that
-all of these prospective audiences can decide to opt-in or opt-out.
+all of these prospective audiences can decide to opt-in or opt-out. The impact in
+this example is intentionally low, someone will see spoilers, but there are
+situations where the impact will be higher.
 
 ### "Spoilers, Sweetie"
 
@@ -99,9 +118,10 @@ please [Don't Be A Dick](/docs/rule-explainer/).
 
 ### Protecting Psychological Safety
 
-This one will take more time and effort on your part as users as it takes
-only a moment to explain but takes growth and improving over time to
-manage effectively. The short version is:
+This topic is covered second because it requires a lot of explanation
+for the implementation details. In fact, protecting psychological safety
+is a life-long journey and involves understanding others unlike yourself.
+The short version of when to use this content warning:
 
 > You should use a content warning whenever the psychologically safest
 option is to opt into a conversation rather than to default into that
@@ -115,7 +135,7 @@ the need to raise awareness, you may want to make sure that people can
 see the content to avoid turning a blind eye.
 
 That said: you cannot control the reach of your information.
-This means that by not using a content warning, not only will the people
+This means if you do not use a content warning, not only will the people
 you wish would pay attention potentially see it (or not, depending on how
 their home instance federates), but you could also be exposing victims
 of that same violence to content that triggers their trauma. So what's the
@@ -134,6 +154,48 @@ our definition of violence includes physical, psychological, or sexual
 violence. Animal abuse _also_ counts as violence.
 (For more clarification on the various rules, like
 "No violence", please see [our Rule Explainer](/docs/rule-explainer/).)
+
+##### Composing content warnings for psychological safety
+
+Being conscientious about composing a content warning that is intended to
+preserve the psychological safety of others is important as the impact
+is higher than if someone sees a spoiler before they have a chance to
+experience the "unspoiled" content.
+
+When you are composing this type of content warning, ask yourself two
+questions:
+
+1. Why am I putting this behind a content warning?
+1. What differs between this and other types of post in this topic that
+   I would _not_ put behind a content warning?
+
+The answer to your first question will likely be short. "It's about war",
+"it's about yet another shooting", "domestic violence", "eating disorders",
+and so forth.
+
+The answer to the _second_ question is what will provide the nuance.
+In the example near the top of the post, it is the difference between "it's
+a spoiler" and "it's about the latest episode of The Mandalorian". For
+psychological safety, you might find yourself providing answers like:
+
+* 1 ) it's about the war in Ukraine<br />
+  2 ) it shows images of people in the
+  aftermath of an explosion.
+  * Example content warning text:<br />
+    "Ukraine War - images and video of bomb injuries and death"
+* 1 ) it's about another shooting in the US<br />
+  2 ) it was at a school and
+  children are scared and crying in the images / video in the news report.
+  * Example content warning text:<br />
+    "School Shooting - images and video of traumatized children"
+
+Asking the questions in this way allows you to supply the broad topic
+_as well as_ describe the nuance that informed your decision to put the
+post behind a content warning, especially if you wouldn't necessarily
+do so for the broad topic area by itself.
+
+
+##### Nuance and growth
 
 Areas that might take more learning and growth to understand and adopt
 are normally those that involve understanding intersectionality of users
