@@ -32,7 +32,7 @@ the community.
   - [Interpretive](#interpretive)
     - [Neurodiverse](#neurodiverse)
     - [Medical](#medical)
-    - [Trauma](#trauma)
+    - [Traumas and phobias](#traumas-and-phobias)
     - [Language accessibility and ease of translation](#language-accessibility-and-ease-of-translation)
   - [Economic](#economic)
 - [Summary](#summary)
@@ -221,16 +221,42 @@ mentioning in your post that supplies a link.
 
 ### Interpretive
 
-Interpretive accessibilty is about how our minds understand the information being presented to them.
-One aspect of interpretive 
+Interpretive accessibilty is about how our minds understand presented information. This is a very
+broad set of topics as our minds use _a lot_ of data to process information. As an introduction,
+some common areas to consider for making intrepretation more access are listed below.
 
-FIXME. Sigh.
+Almost exclusively, the ask for assisting with accessible interpretation is:
+
+* [Use well written content warnings](../content-warnings/).
+
+Since the ask is almost always the same, unlike the above section this section will not have
+a "common examples" and "direct asks" pattern.  As an introduction we're
+calling out some of the most common barriers to interepretation, offering a suggestion to handle,
+and remindng everyone that we do not request or require anyone to become experts. Our main ask
+is that you continue to learn and grow in awareness.
 
 #### Neurodiverse
 
-Spectrum et al
+Neurodiversity is the umbrella term for "the range of differences in individual brain function
+and behavioral traits, regarded as part of the normal variation in the human population". (Oxford
+Dictionary) A few common attributes that are part of neurodiversity are:
 
-FIXME 
+* ADHD
+* Dyslexia, Dyscalculia
+* Autism / Spectrum
+
+There are more than these. The main underlying factors that define different aspects of neurodiversiy
+are things like verbal / written skills, hyper/hypofocus, sensory interpretation (e.g. overwhelm when there's
+too much sensory input), mental visualization, and so on.
+[The Web Content Accessibility Guide article on Digital Accessibility and Neurodiversity](https://wcag.com/blog/digital-accessibility-and-neurodiversity/)
+has some excellent tips on the software design level that can also help you build your mental model
+while interacting with others.
+
+Within the context of Mastodon, these will usually come up via links to shared content rather than
+anything hosted on the platform itself. That means that what you can do is include the relevant information
+when you are posting a link to other content. This can either be via a description in the post itself
+or, where relevant, crafting a [content warning](../content-warning/) for the post.
+
 
 #### Medical
 
@@ -250,9 +276,36 @@ We do not ask that Hachydermians be medical experts in order to interact on the 
 The main ask to be aware of situations like these and use content warnings when posting
 content that might be triggering to these groups.
 
-#### Trauma
+#### Traumas and phobias
 
-FIXME - individual and systemic
+Trauma is a very broad category and the nuance of what can trigger trauma varies between
+individuals. That said, there are some common examples of posting patterns that can be
+assumed to be generally traumatic:
+
+* If posting about trauma to an individual member of a community, either via a news cycle
+  or personal experience, in all likelihood the trauma for the collective group will be triggered.
+* If posting about any sort of violence, it can be assumed to be trauamtic even to those
+  who have never experienced that type of violence. This includes various forms of violent
+  trauma humans can inflict on each other _as well as_ animal abuse and abuse to our environment.
+* If posting about wealth and poverty, and the topics in-between, it can be assumed that
+  this will trigger the trauma of the many who have had to interact with economic systems
+  from a place of disadvantage.
+
+There are many more traumas than these. There are also common phobias that humans have
+where the response patterns in the mind and body very directly mirror what happens in
+a traumatized person that has been triggered. Common categories of phobias include:
+
+* Death
+* Disease
+* Enclosed spaces
+* Heights
+
+We do not ask that Hachydermians be experts in trauma and phobias in order to interact
+on the platform. We do ask that users use content warnings when discussing heavy topics
+like the above. This is because, while there is a lot to be gained from discussion, those
+most impacted will see the same traumatic conversations over and over again. Especially if
+it's the Topic Du Jour (or week) or something has happened in a recent news cycle to prompt
+many simultaneous discussions.
 
 #### Language accessibility and ease of translation
 
@@ -285,8 +338,15 @@ From an accessibility and equity mindset: while people should be paid for their 
 to remmeber that not everyone can pay for the access to that work. They may be disadvantaged overall,
 or may live outside the country or countries that are allowed to pay for access to it.
 
+Another common pattern is for user data to be a type of payment. In this situation, someone must
+typically supply their email and some demographic information for free (as in currency) access
+to the content. Similar to the above, this can be an accessibility issue for those who have reason
+to only share their information cautiously. This is especially in light of increasingly common
+data breaches, where supplied data can be used to target individuals and groups.
+
 Here on Hachyderm _we do not moderate_ you for posting paywalled content. Within the context of
-accessibility, we only ask _that you are aware_ (and call out) when you do. 
+accessibility, we ask _that you are aware_ (and call out) when you do and that you manage what
+you choose to share with care.
 
 ## Summary
 
@@ -304,10 +364,12 @@ wrong.
 Taking these into account, these are our asks:
 
 * Be aware of the general asks of the above, and at a minimum:
-  * Apply [content warnings](../content-warnings/) where appropriate
-  * Add alt text to your images and summaries for your videos
-  * Use CamelCase for your hashtags
-  * Be mindful of how much paywalled content you're posting
+  * Apply [content warnings](../content-warnings/) when posting and sharing content that is likely
+    to impact the mental health and psychological safety of others, especially if and when those
+    most impacted will be a traditionally marginalized group.
+  * Add alt text to your images and summaries for your videos.
+  * Use CamelCase for your hashtags.
+  * Be mindful of how much paywalled content you're posting.
 * Remember that others may not know what you know, and others may know things that you do not know. That means
   when it comes to the above help others, but [Don't Be A Dick](/docs/rule-explainer/). e.g.:
   * If someone forgot their alt text, or didn't realize they could edit a post to add it after the fact, help
@@ -324,5 +386,4 @@ If someone forgets their alt text, **_part of_** "help them don't shame them or 
 not telling them it "only takes two seconds to write alt text". Yes, people should write alt text.
 No, it doesn't take two seconds to write (useful) alt text - there are literally whole articles
 about how to do this effectively. If you're going to help, please do so in a genuine way but if
-not then please move on. As always, malicious users can be reported to the mods as well, though
-that isn't specific to this situation.
+not then please move on. 
