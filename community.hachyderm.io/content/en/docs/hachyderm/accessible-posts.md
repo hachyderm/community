@@ -71,7 +71,8 @@ When _sending_ content on the internet, the content is typically:
   Same as the above, but something we are sending rather than receiving.
 * Tactile<br />
   Typically how we interact with visual content by "clicking here" or otherwise
-  interacting with the content we are receiving.
+  interacting with the content we are receiving.<br />
+  FIXME - is this sending or receiving or both?
 
 When _interpreting_ content on the internet, we are using:
 
@@ -134,6 +135,16 @@ memes, or animated GIFs. Some common examples:
 * Emoji
 * Hashtags
 
+The direct asks for each of these:
+
+* Include effective alt text
+* Should have a summary, similar to the function of alt text
+* Minimize usage of "fancy text" and special characters
+* Favor longer, complete emoji names over shorter names
+* Use CamelCase
+
+##### The context <!-- omit from toc -->
+
 How do people who do not see, or see clearly, the above interact with the content? Typically,
 via screenreaders. Screenreaders are designed to not only read plaintext documents, like this page,
 but also to read any text associated with a visual. For images and video:
@@ -167,8 +178,23 @@ you should use the hashtag #SaturdayCaturday not #saturdaycaturday. To show the 
 
 #### Audio
 
+Common sources of audio or audiovisual content on social media are:
+
+* Podcasts, recorded messages, and so on.
+* Audiovideo content like YouTube, TikTok, etc.
+
+The asks for these:
+
+* When the content is your own, please have a transcript or similar available
+* When the content is not your own, please favor content that has a transcript for longer
+  content as often as possible.
+* In either case, when posting the content include a short summary (similar to the function of alt text).
+
+##### The context <!-- omit from toc -->
+
 Due to the sizes of audio files in posts, most audio content, or audio-visual content in the case
-of video, is not hosted on Hachyderm. In general, most Hachydermians are posting links to common
+of video, is not hosted on Hachyderm. That can mean that the 
+In general, most Hachydermians are posting links to common
 sources like YouTube, TikTok, news pages with video embedded, and so on.
 
 FIXME
@@ -271,13 +297,15 @@ we are approaching these issues from a growth mindset for our userbase. The othe
 that we understand that occasionally different groups have genuinely different needs. One person may
 post about weight gain/loss as part of recovery from a medical issue, it may trigger another person's
 current eating disorder. One person may want to scream about how blatant transphobia hurts them and
-another person may not want a reminder that that's still happening today.
+another person may not want a reminder that that's still happening today. Another way to look at
+situations like these: individuals and groups _can_ be in a state of conflict without anyone being
+wrong.
 
 Taking these into account, these are our asks:
 
 * Be aware of the general asks of the above, and at a minimum:
   * Apply [content warnings](../content-warnings/) where appropriate
-  * Add alt-text to your images and summaries for your videos
+  * Add alt text to your images and summaries for your videos
   * Use CamelCase for your hashtags
   * Be mindful of how much paywalled content you're posting
 * Remember that others may not know what you know, and others may know things that you do not know. That means
@@ -292,8 +320,9 @@ Taking these into account, these are our asks:
   * Make sure to include the details, even if they are obvious, as [outlined in our Reporting and Communication doc](/docs/moderation/reporting).
 
 [^1]: An addendum (we try to minimize these):<br />
-If someone forgets their alt text, **_part of_** "help them don't shame them or sealion them" means don't sealion them 
-by telling them it "only takes two seconds to write alt text". Yes, people should write alt text. No, it doesn't take two
-seconds - there are literally whole articles about how to do this effectively. If you're going to help, please do so in
-a genuine way but if not then please move on. Users with malicious intent can also always be reported to the mods as well,
-but that isn't specific to this situation.
+If someone forgets their alt text, **_part of_** "help them don't shame them or sealion them" means
+not telling them it "only takes two seconds to write alt text". Yes, people should write alt text.
+No, it doesn't take two seconds to write (useful) alt text - there are literally whole articles
+about how to do this effectively. If you're going to help, please do so in a genuine way but if
+not then please move on. As always, malicious users can be reported to the mods as well, though
+that isn't specific to this situation.
