@@ -419,7 +419,7 @@ malicious and manipulative individual users and server instances to the moderati
 As you learn and grow you may want to help others as well. This is great! Remember to do so only
 when you have the emotional space to help with grace. Different people are at different stages in
 different journeys, which means that the person who you are frustrated with for not understanding
-on facet of accessibility might be very adept with a facet you know very little of.
+one facet of accessibility might be very adept with a facet you know very little of.
 
 If you run into situations where your needs and another's come into a state of conflict, please
 approach each other with compassion and respect. Please also remember that you can always walk away from
