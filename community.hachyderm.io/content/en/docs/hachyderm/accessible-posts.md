@@ -6,22 +6,24 @@ description: >
   Introduction to posting accessibly for new users.
 ---
 
-FIXME - all the following content and possibly description.<br />
-FIXME - we lose in the weeds "what to _DO_" in each case. Content warning vs alt text, etc.
-
 ## How to create accessible posts <!-- omit from toc -->
 
-This doc page is meant to server as a place to start learning how to
-post accessibily. This means it is not all inclusive, and that you
-should continue your learning and growth after and beyond reading this
-post. There is a lot to say here.
+This documentation page is an introductory guide for about posting
+accessibly on Hachyderm. As an introductory guide there are topics
+and sections that will need to be added and improved upon over time.
 
-If you are looking for the short version and our asks, we
-recommend reading the "What do we mean when we talk about accessibility"
-and "Summary" sections, the latter of which contains our requests of
-the community.
+If you are looking for the short version of our asks here on Hachyderm,
+please read "What do we mean when we talk about accessibility",
+"what you should know and our asks", as well as the summary at the end of
+the document.
+
+If you are looking for the underlying nuance and context to apply them more
+effectively and and take an active part in maintaining
+Hachyderm as a safe, active community, please read and reflect on each of the
+deeper sections.
 
 - [What do we mean when we talk about accessibility?](#what-do-we-mean-when-we-talk-about-accessibility)
+  - [What you should know and our asks](#what-you-should-know-and-our-asks)
   - [Interactions on the internet](#interactions-on-the-internet)
   - [Mastodon and Hachyderm](#mastodon-and-hachyderm)
 - [Navigating the complexity](#navigating-the-complexity)
@@ -44,9 +46,41 @@ Accessibility means that as many people as possible can
 access your content if they choose to. Accessibility does not mean
 that you cannot otherwise _intentionally_ gate your content,
 for example via a [content warning](../content-warnings/). Rather,
-accesssibility refers to the many ways that people typically create
+accessibility refers to the many ways that people typically create
 _unintentional_ gates around their content.
 
+### What you should know and our asks
+
+> No one on Hachyderm is expected to be an expert. Everyone on Hachyderm
+> is asked to approach accessibility with a growth mindset and to iterate
+> and change over time.
+
+Whenever you receive a request from a group you are not yet
+familiar with, or who you do not interact with often enough to have cultural
+fluency, please take that request as a growth opportunity. This growth
+can happen with sustainable time and effort on your part.
+
+#### Our asks <!-- omit in toc -->
+
+When posting accessibly:
+
+1. Learn how to write effective alt text for images.
+1. Use CamelCase for your hashtags.
+1. Learn how to write effective summaries for audio / video content.
+1. Prioritize audio content with captions and transcripts where available.
+1. Be aware how often you post paywalled content; not everyone has the same purchasing power.
+1. Learn how and when to use [effective content warnings](../content-warnings/).
+1. When writing posts for an international audience, minimize use of slang
+   and metaphor and instead use literal, direct, phrasing that can be easily
+   translated by translation tools.
+1. When someone makes a mistake regarding any of the above, please either help
+   them if you have the emotional space to do so or move on. Do not shame them
+   or sealion them.[^1]
+
+Content warnings in particular are a useful feature that applies to many
+situations. The remainder of this introductory doc page will supply context
+and nuance to the above asks. The use of content warnings will come up
+heavily for [the interpretive section](#interpretive).
 
 ### Interactions on the internet
 
@@ -60,6 +94,9 @@ When _receiving_ content on the internet, that content is typically:
   The text on this page, static or animated images, video
 * Auditory<br />
   Non-visual audio content like podcasts, or audio content with visuals like a video.
+* Tactile<br />
+  How we interact with visual content by "clicking here" or otherwise
+  interacting with the content we are receiving.<br />
 * Economic<br />
   Content that requires individual purchase or subscription to access.
 
@@ -70,9 +107,7 @@ When _sending_ content on the internet, the content is typically:
 * Auditory<br />
   Same as the above, but something we are sending rather than receiving.
 * Tactile<br />
-  Typically how we interact with visual content by "clicking here" or otherwise
-  interacting with the content we are receiving.<br />
-  FIXME - is this sending or receiving or both?
+  Same as the above, but something we are sending rather than receiving.
 
 When _interpreting_ content on the internet, we are using:
 
@@ -84,9 +119,9 @@ When _interpreting_ content on the internet, we are using:
 * And so on.
 
 Generating _accessible content_ is the combinatorics problem of the above. Most commonly,
-accessibiliy is implemented by creating a "sensory backup" of the primary delivery of the
-content. For example, if the content is audio it will have a (visual) transcript. If the
-content is visual, it will have descriptive text that can be auditorily read. And so on.
+accessibility is implemented by creating a "sensory backup" of the primary delivery of the
+content. For example, if the content is audio, it will have a (visual) transcript. If the
+content is visual, it will have descriptive text that can be audibly read. And so on.
 
 The interpretation aspect content is where "sensory backups" alone fall short. If
 someone is a trauma survivor, having a "sensory backup" of the content does not
@@ -95,7 +130,7 @@ pivoting to a different sense _may_ solve the particular difficulty they are hav
 but it may also not. To dive into that a little deeper: if the difficulty they are
 having is that the web page is visually noisy, having a transcript that deeply
 describes all that visual noise and instead makes it auditory doesn't necessarily
-solve the difficulty. In fact, it might not even be desireable.
+solve the difficulty. In fact, it might not even be desirable.
 
 ### Mastodon and Hachyderm
 
@@ -115,7 +150,7 @@ in order to create posts that are more accessible. Note that we didn't say "post
 are accessible", only "posts that are more accessible". The reason for this is the
 scope of humanity is broad, and learning about others is a lifelong journey. Being
 truly accessible not only with posts, but with software design and just general life,
-is an end goal you should strive to attain even if it can't be truly acheived.
+is an end goal you should strive to attain even if it can't be truly achieved.
 
 ### Sensory
 
@@ -146,7 +181,7 @@ The direct asks for each of these:
 ##### The context <!-- omit from toc -->
 
 How do people who do not see, or see clearly, the above interact with the content? Typically,
-via screenreaders. Screenreaders are designed to not only read plaintext documents, like this page,
+via screen readers. Screen readers are designed to not only read plaintext documents, like this page,
 but also to read any text associated with a visual. For images and video:
 
 * Images: will need to have alt text
@@ -159,7 +194,7 @@ But what about "fancy text", emoji, and hashtags? In fact, what do we mean by "f
 "Fancy text" / special characters actually warrant an article of their own, and Scope has a lovely 2021 article titled
 [How special characters and symbols affect screen reader accessibility](https://business.scope.org.uk/article/accessibility-screen-readers-special-characters-and-unicode-symbols).
 The article shows how different special character "fonts", typically used to create italics or other visual
-affects, are read by screen readers for those who use them.
+effects, are read by screen readers for those who use them.
 
 The case is similar for emoji. While in the standard emoji set there is associated
 text for a screen reader to read, like a thumbs up 👍, when reading the text for a
@@ -181,23 +216,27 @@ you should use the hashtag #SaturdayCaturday not #saturdaycaturday. To show the 
 Common sources of audio or audiovisual content on social media are:
 
 * Podcasts, recorded messages, and so on.
-* Audiovideo content like YouTube, TikTok, etc.
+* Audio video content like YouTube, TikTok, etc.
 
 The asks for these:
 
-* When the content is your own, please have a transcript or similar available
+* When the content is your own, please have a transcript or similar available.
 * When the content is not your own, please favor content that has a transcript for longer
   content as often as possible.
 * In either case, when posting the content include a short summary (similar to the function of alt text).
 
 ##### The context <!-- omit from toc -->
 
-Due to the sizes of audio files in posts, most audio content, or audio-visual content in the case
-of video, is not hosted on Hachyderm. That can mean that the 
-In general, most Hachydermians are posting links to common
-sources like YouTube, TikTok, news pages with video embedded, and so on.
-
-FIXME
+Due to the sizes of audio files in posts, most audio content, or audiovisual content in the case
+of video, is not hosted on Hachyderm. Linked content comes from various news pages, podcast pages,
+Twitch streams, YouTube, TikTok, and so on. Unless you are the streamer, this also means that you
+don't have as much control over how the content is displayed or rendered, as you would for embedding
+a GIF or meme (with the alt text, etc.). For this reason, the biggest ask here is that you summarize
+audio or video when you post it, so that someone can get the gist of what is posted even if they
+cannot directly use the content. It also helps to start to be aware of what sources have captions
+(many video sites offer automated captions) as well as transcriptions. If you would like an example
+of a podcast that has a transcript, take a look at any of the episode pages for
+PagerDuty's [Page It to the Limit podcast](https://www.pageittothelimit.com/).
 
 #### Noise
 
@@ -205,6 +244,12 @@ FIXME
 
 * "Too much" audio and/or visual content
 * "Too loud" audio and/or visual content
+
+The asks for these:
+
+* Please call out in your post if your linked content fits either of the above.
+
+##### The context <!-- omit from toc -->
 
 For an example of what might be generating audiovisual noise, try navigating the internet without
 an adblocker or script blocker. Risk of malware aside, there are a lot of audio and/or visual
@@ -215,15 +260,15 @@ These situations are usually frustrating when you're trying to navigate the situ
 what happens when you're trying to convert the page to one particular sense (auditory or visual).
 
 Most of these situations do _not_ apply on the fediverse directly. They appear when links to other
-pages and content. To be clear, on Hachyderm we do not ask you to be responsible for the entrity
+pages and content. To be clear, on Hachyderm we do not ask you to be responsible for the entirety
 of the internet. That said, if you are posting content that might be "noisy", it might be worth
 mentioning in your post that supplies a link.
 
 ### Interpretive
 
-Interpretive accessibilty is about how our minds understand presented information. This is a very
+Interpretive accessibility is about how our minds understand presented information. This is a very
 broad set of topics as our minds use _a lot_ of data to process information. As an introduction,
-some common areas to consider for making intrepretation more access are listed below.
+some common areas to consider for making interpretation more access are listed below.
 
 Almost exclusively, the ask for assisting with accessible interpretation is:
 
@@ -231,8 +276,8 @@ Almost exclusively, the ask for assisting with accessible interpretation is:
 
 Since the ask is almost always the same, unlike the above section this section will not have
 a "common examples" and "direct asks" pattern.  As an introduction we're
-calling out some of the most common barriers to interepretation, offering a suggestion to handle,
-and remindng everyone that we do not request or require anyone to become experts. Our main ask
+calling out some of the most common barriers to interpretation, offering a suggestion to handle,
+and reminding everyone that we do not request or require anyone to become experts. Our main ask
 is that you continue to learn and grow in awareness.
 
 #### Neurodiverse
@@ -245,7 +290,7 @@ Dictionary) A few common attributes that are part of neurodiversity are:
 * Dyslexia, Dyscalculia
 * Autism / Spectrum
 
-There are more than these. The main underlying factors that define different aspects of neurodiversiy
+There are more than these. The main underlying factors that define different aspects of neurodiversity
 are things like verbal / written skills, hyper/hypofocus, sensory interpretation (e.g. overwhelm when there's
 too much sensory input), mental visualization, and so on.
 [The Web Content Accessibility Guide article on Digital Accessibility and Neurodiversity](https://wcag.com/blog/digital-accessibility-and-neurodiversity/)
@@ -278,13 +323,13 @@ content that might be triggering to these groups.
 
 #### Traumas and phobias
 
-Trauma is a very broad category and the nuance of what can trigger trauma varies between
+Trauma is a very broad category, and the nuance of what can trigger trauma varies between
 individuals. That said, there are some common examples of posting patterns that can be
 assumed to be generally traumatic:
 
 * If posting about trauma to an individual member of a community, either via a news cycle
   or personal experience, in all likelihood the trauma for the collective group will be triggered.
-* If posting about any sort of violence, it can be assumed to be trauamtic even to those
+* If posting about any sort of violence, it can be assumed to be traumatic even to those
   who have never experienced that type of violence. This includes various forms of violent
   trauma humans can inflict on each other _as well as_ animal abuse and abuse to our environment.
 * If posting about wealth and poverty, and the topics in-between, it can be assumed that
@@ -310,7 +355,7 @@ many simultaneous discussions.
 #### Language accessibility and ease of translation
 
 The main goal here is to ensure that both plain text and text descriptions of media
-are copy/pastable so they can be translated into a different language than they were
+are copy/pasteable so they can be translated into a different language than they were
 composed in. This allows users that may not be fluent, or fluent enough, in the language
 the text was written in to use translation tools for assistance.
 
@@ -335,7 +380,7 @@ The paywall may be a direct purchase for that specific piece of content or the c
 by an entity that requires a subscription to access.
 
 From an accessibility and equity mindset: while people should be paid for their work, it is important
-to remmeber that not everyone can pay for the access to that work. They may be disadvantaged overall,
+to remember that not everyone can pay for the access to that work. They may be disadvantaged overall,
 or may live outside the country or countries that are allowed to pay for access to it.
 
 Another common pattern is for user data to be a type of payment. In this situation, someone must
@@ -352,38 +397,31 @@ you choose to share with care.
 
 The length of this particular document should tell you that being accessible requires time and effort.
 As only an intro guide, it should also tell you that there is a lot happening on our biodiverse sphere.
-This is part of the reason that we _request_ [content warnings](../content-warnings/) as appropriate:
-we are approaching these issues from a growth mindset for our userbase. The other reason we _request_ is
-that we understand that occasionally different groups have genuinely different needs. One person may
-post about weight gain/loss as part of recovery from a medical issue, it may trigger another person's
-current eating disorder. One person may want to scream about how blatant transphobia hurts them and
-another person may not want a reminder that that's still happening today. Another way to look at
-situations like these: individuals and groups _can_ be in a state of conflict without anyone being
-wrong.
 
-Taking these into account, these are our asks:
+Diversity is one of the primary reasons we _request_, not _require_, use of content warnings in most
+cases. This is because there are many ways two or more groups may be in a state of genuine conflict
+without anyone being in the wrong. One quick example could be if someone was posting about weight loss
+or gain as a response to recovery from a medical issue that triggered someone else's eating disorder. 
+Another might be someone who needs to scream about how transphobia hurts them, while someone else needs to not
+be reminded that's still happening today. Hachyderm needs to be able to accommodate all of these
+situations and more. To do so, we try to create space for disparate needs to co-exist. For situations
+where server-level policy wouldn't be beneficial to the community, we ask individuals to block
+keywords, hashtags, and users as they need to maintain their mental health in a public space.
 
-* Be aware of the general asks of the above, and at a minimum:
-  * Apply [content warnings](../content-warnings/) when posting and sharing content that is likely
-    to impact the mental health and psychological safety of others, especially if and when those
-    most impacted will be a traditionally marginalized group.
-  * Add alt text to your images and summaries for your videos.
-  * Use CamelCase for your hashtags.
-  * Be mindful of how much paywalled content you're posting.
-* Remember that others may not know what you know, and others may know things that you do not know. That means
-  when it comes to the above help others, but [Don't Be A Dick](/docs/rule-explainer/). e.g.:
-  * If someone forgot their alt text, or didn't realize they could edit a post to add it after the fact, help
-    them don't shame them or sealion them.[^1]
-  * If someone didn't put a content warning on a post that maybe should have it, help them don't shame them or sealion them.
-  * If someone didn't realize that an article was paywalled, help them don't shame them or sealion them.
-  * And so on.
-* Be courteous and respectful with each other when different needs come into conflict.
-* Report issues, users, and/or servers when you encounter a situation that requires moderator attention and/or action.
-  * Make sure to include the details, even if they are obvious, as [outlined in our Reporting and Communication doc](/docs/moderation/reporting).
+As you learn and grow you may want to help others as well. This is great! Remember to do so only
+when you have the emotional space to help with grace. Different people are at different stages in
+different journeys, which means that the person who you are frustrated with for not understanding
+on facet of accessibility might be very adept with a facet you know very little of.
+
+If you run into situations where your needs and another's come into a state of conflict, please
+approach each other with compassion and respect. Please also remember that you can always walk away from
+disrespectful conversations for any reason. If the other person does not respect your boundaries and/or
+the space you are creating for yourself, you can also request moderator intervention by sending us
+a [report](/docs/moderation/reporting/).
 
 [^1]: An addendum (we try to minimize these):<br />
 If someone forgets their alt text, **_part of_** "help them don't shame them or sealion them" means
 not telling them it "only takes two seconds to write alt text". Yes, people should write alt text.
 No, it doesn't take two seconds to write (useful) alt text - there are literally whole articles
-about how to do this effectively. If you're going to help, please do so in a genuine way but if
-not then please move on. 
+about how to do this effectively. If you're going to help, please do so in a genuine way. If
+not, please move on. 
