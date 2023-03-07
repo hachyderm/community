@@ -8,8 +8,6 @@ menu:
     weight: 20
 ---
 
-FIXME - see if the FAQ order makes sense and/or would benefit from a TOC
-
 ## Welcome to Hachyderm!
 
 Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.
@@ -56,10 +54,10 @@ Also: [The famous "The Queues ☃️ down in Queueville" Incident Report](../blo
 
 #### I'm new to Mastodon in general. Help?
 
-FIXME - link welcome / etc. doc when complete
-
 If you're new to Mastodon in general, we recommend taking a look at [Mastodon.Help's brief explainer](https://mastodon.help/)
 about what Mastodon is and isn't, as well as taking a look at [fedi.tips](https://fedi.tips/) for some How To Dos.
+
+As for How to be a Hachydermian, take a look at the docs in [our Hachyderm section](/docs/hachyderm/).
 
 #### Can I create a non-user account?
 

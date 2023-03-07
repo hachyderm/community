@@ -46,7 +46,7 @@ to opt-in, i.e. _informed consent_.
 ## Common examples of content warnings
 
 There are a few situations where content warnings are commonly used on the
-fediverse (not only on Hachyderm):
+fediverse (these are not exclusive to Hachyderm):
 
 1. Images of faces with eye contact
 1. Images of food and alcohol, even if they are not being consumed in excess
@@ -58,6 +58,9 @@ fediverse (not only on Hachyderm):
    * Please see our [Sexual Content Policy](/docs/nsfw-policy/) for information
      that is specific to Hachyderm.
 1. Fandom-specific spoilers for various forms of entertainment like TV shows, movies, and books.
+
+Content warnings feature heavily in [our Accessible Posting doc](../accessible-posts/),
+especially in the [Interpretive Accessibility sections](../accessible-posts/#interpretive).
 
 ## How to structure a good content warning
 
@@ -158,8 +161,8 @@ violence. Animal abuse _also_ counts as violence.
 ##### Composing content warnings for psychological safety
 
 Being conscientious about composing a content warning that is intended to
-preserve the psychological safety of others is important as the impact
-is higher than if someone sees a spoiler before they have a chance to
+preserve the psychological safety of others is important. The impact
+is significantly higher than if someone sees a spoiler before they have a chance to
 experience the "unspoiled" content.
 
 When you are composing this type of content warning, ask yourself two
@@ -179,13 +182,12 @@ a spoiler" and "it's about the latest episode of The Mandalorian". For
 psychological safety, you might find yourself providing answers like:
 
 * 1 ) It's about the war in Ukraine<br />
-  2 ) It shows images of people in the
-  aftermath of an explosion.
+  2 ) It shows images of people in the aftermath of an explosion.
   * Example content warning text:<br />
     "Ukraine War - images and video of bomb injuries and death"
 * 1 ) It's about another shooting in the US<br />
-  2 ) It was at a school and
-  children are scared and crying in the images / video in the news report.
+  2 ) It was at a school and children are scared and crying in the
+      images / video in the news report.
   * Example content warning text:<br />
     "School Shooting - images / video of traumatized children but no injuries shown"
 
@@ -193,7 +195,6 @@ Asking the questions in this way allows you to supply the broad topic
 _as well as_ describe the nuance that informed your decision to put the
 post behind a content warning, especially if you wouldn't necessarily
 do so for the broad topic area by itself.
-
 
 ##### Nuance and growth
 
@@ -221,15 +222,10 @@ Succinctly:
   it really is in poor form to openly share spoilers.
 * Moderators will protect the psychological safety of users and prioritize
   the most vulnerable.
-* Moderators will not, in general, enforce a specific way to compose content warnings.
-  Exceptions to this are noted specifically in [the Rule Explainer](/docs/rule-explainer/)
-  and our [Sexual Content policy](/docs/nsfw-policy/).
+* Moderators will not, in general, take moderator action due to content warnings (or their lack).
+  * To rephrase: moderators will _request_ and _recommend_ effective ways to use content
+    warnings as opposed to _requiring_ them.
+  * Any exceptions to this are called out on a case-by-case basis.
 * Using a content warning as a workaround is not actually a workaround.
-
-For the last one, that means that if a post is in violation of our
-rules, then the content warning doesn't make the infraction "better"
-or evade the potential for moderation action like warning, limiting,
-or suspending the account (situationally and rule dependent). The only
-exception to this is any content we've outlined we specifically allow
-if posted with a content warning. The content warning in that case
-is clear and appropriately descriptive.
+  * This means that rule violations are not less severe or otherwise
+    mitigated by putting the offending content behind a content warning.

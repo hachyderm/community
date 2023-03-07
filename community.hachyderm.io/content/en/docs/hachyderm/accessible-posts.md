@@ -78,7 +78,11 @@ When posting accessibly:
    or sealion them.[^1]
 
 Content warnings in particular are a useful feature that applies to many
-situations. The remainder of this introductory doc page will supply context
+situations. As a reminder, we _request_ and _recommend_ content warnings
+as a general rule as opposed to _requiring_ them. (Please see
+[this document's summary](#summary) for more information about why this is.)
+
+The remainder of this introductory doc page will supply context
 and nuance to the above asks. The use of content warnings will come up
 heavily for [the interpretive section](#interpretive).
 
@@ -403,10 +407,14 @@ cases. This is because there are many ways two or more groups may be in a state 
 without anyone being in the wrong. One quick example could be if someone was posting about weight loss
 or gain as a response to recovery from a medical issue that triggered someone else's eating disorder. 
 Another might be someone who needs to scream about how transphobia hurts them, while someone else needs to not
-be reminded that's still happening today. Hachyderm needs to be able to accommodate all of these
-situations and more. To do so, we try to create space for disparate needs to co-exist. For situations
-where server-level policy wouldn't be beneficial to the community, we ask individuals to block
-keywords, hashtags, and users as they need to maintain their mental health in a public space.
+be reminded that's still happening today.
+
+Hachyderm needs to be able to accommodate all of these situations and more. To do so, we try to
+create space for disparate needs to co-exist. For situations where server-level policy wouldn't be
+beneficial to the community, we ask individuals to block keywords, hashtags, and users as needed
+to maintain your mental health in a public space. We also ask everyone to use common keywords and hashtags
+so that those who are looking to filter that content can do so easily. As always, [please report](/docs/moderation/reporting/)
+malicious and manipulative individual users and server instances to the moderation team.
 
 As you learn and grow you may want to help others as well. This is great! Remember to do so only
 when you have the emotional space to help with grace. Different people are at different stages in
@@ -418,10 +426,3 @@ approach each other with compassion and respect. Please also remember that you c
 disrespectful conversations for any reason. If the other person does not respect your boundaries and/or
 the space you are creating for yourself, you can also request moderator intervention by sending us
 a [report](/docs/moderation/reporting/).
-
-[^1]: An addendum (we try to minimize these):<br />
-If someone forgets their alt text, **_part of_** "help them don't shame them or sealion them" means
-not telling them it "only takes two seconds to write alt text". Yes, people should write alt text.
-No, it doesn't take two seconds to write (useful) alt text - there are literally whole articles
-about how to do this effectively. If you're going to help, please do so in a genuine way. If
-not, please move on. 
