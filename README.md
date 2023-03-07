@@ -1,6 +1,3 @@
-# FIXME - all the following content and possibly description.
-# Part of FIXME -> Grafana, StatusPage, etc. on Community Docs?
-
 # The Hachyderm Community
 
 Welcome to the Hachyderm community. We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
