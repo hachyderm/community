@@ -75,7 +75,7 @@ When posting accessibly:
    translated by translation tools.
 1. When someone makes a mistake regarding any of the above, please either help
    them if you have the emotional space to do so or move on. Do not shame them
-   or sealion them.[^1]
+   or sealion them.
 
 Content warnings in particular are a useful feature that applies to many
 situations. As a reminder, we _request_ and _recommend_ content warnings
