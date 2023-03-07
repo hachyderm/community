@@ -10,6 +10,7 @@ limited to:
 
 * Job postings for a specific profession, industry, or from a particular source
 * Newsletter or newsletter-like postings relevant to a particular profession or industry
+* Podcasts or other streaming focused content
 * Conference aggregators for CFPs, tickets, sign-up date(s), etc.
 
 ## Restrictions on behavior

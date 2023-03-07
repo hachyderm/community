@@ -1,4 +1,19 @@
-# Welcome to Hachyderm
+---
+title: "Welcome and How to Hachyderm"
+linkTitle: "How to Hachyderm"
+weight: 1
+description: >
+  New to Hachyderm and Mastodon in general? These docs are for
+  you! For deeper documentation about Mastodon features, please
+  refer to the Mastodon section.
+---
+
+{{% pageinfo %}}
+This page was directly copied from our outdated Markdown documentation and is
+in the process of being updated.
+{{% /pageinfo %}}
+
+## Welcome to Hachyderm
 
 Hello Hachydermians! Some of you are new to Mastodon, so here are some notes to
 help you get started. Since a fair few of you are coming from Twitter, there
@@ -39,7 +54,7 @@ more or less compatible with screenreaders and VoiceOver, and so on.
 This diagram has been making rounds on Twitter, Mastodon, et al. It is from a
 GitHub issue on the Mastodon project:
 
-<img src="../assets/mastodon-post-visibility-flowchart.jpg"
+<img src="mastodon-post-visibility-flowchart.jpg"
      alt="Flow chart showing that a public post by USER is visible only if you
           are: following that user, the user is on the same instance as you, or
           someone on your instanced follows and interacted with the post"
@@ -100,7 +115,7 @@ please. However we do offer some best practices for you to consider.
 Content Warnings are implemented differently in Mastodon than Twitter. CW'ed
 posts look like this:
 
-<img src="../assets/mastodon-content-warning.png"
+<img src="mastodon-content-warning.png"
      alt="Screenshot of a post with content warning 'Politics (CO)' and the
           blurred out content labeled 'Sensitive Content'"
      width="400"/>
@@ -169,7 +184,7 @@ reflect the names you know them as and sometimes they do not. Sometimes you
 follow new colleagues or people you've meet on or off line. If you would like,
 you can add notes that only you see to a users profile. For example:
 
-<img src="../assets/hachyderm-founder-kris-nova.png"
+<img src="hachyderm-founder-kris-nova.png"
      alt="nova"
      width="400"/>
 

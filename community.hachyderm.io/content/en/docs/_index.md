@@ -29,6 +29,16 @@ Pronounced hack-a-derm like [pachyderm](https://forvo.com/word/pachyderm/#en). (
 There are a few ways to support us, including through [Hachyderm's GitHub Sponsors page](https://github.com/sponsors/hachyderm).
 For additional ways to support, including supporting via Nivenly, please take a look at [our Funding and Thank You doc](thank-you/).
 
+#### Is Hachyderm down or just me? Or: I think I'm having a service issue.
+
+To see if Hachyderm itself is up and running, please look at:
+
+* [Our Grafana Dashboard](https://grafana.hachyderm.io/public)
+* [Our Status Page](https://status.hachyderm.io)
+
+To report a full or partial outage, or an issue with a particular feature not working as expected, please use
+[our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose).
+
 #### How did Hachyderm start? Who is the "Benevolent Dictator for Life"?
 
 Our Benevolent Dictator for Life is Kris Nóva. Kris Nóva founded Hachyderm on her rack, nicknamed the Water Tower,
@@ -36,7 +46,7 @@ with the servers Yakko, Wakko, and Dot with a guest appearance by a non-Animania
 The Twitter Exodus of 2022 Hachyderm grew from ~700 users to ~40,000 users in two months. It was awesome!
 It was chaotic! And thus, we now have a much larger, non-basement, Hachyderm.
 
-##### Where are all those great incident reports I keep hearing about?
+#### Where are all those great incident reports I keep hearing about?
 
 [On our blog](../blog).
 
@@ -46,6 +56,8 @@ Also: [The famous "The Queues ☃️ down in Queueville" Incident Report](../blo
 
 If you're new to Mastodon in general, we recommend taking a look at [Mastodon.Help's brief explainer](https://mastodon.help/)
 about what Mastodon is and isn't, as well as taking a look at [fedi.tips](https://fedi.tips/) for some How To Dos.
+
+As for How to be a Hachydermian, take a look at the docs in [our Hachyderm section](/docs/hachyderm/).
 
 #### Can I create a non-user account?
 
@@ -77,13 +89,6 @@ The Moderator Covenant is to show how the rules are enforced and what is used to
 
 The other rules we have are governing [the account types](account-types/) permitted on Hachyderm and how
 often they can post and how they can interact on the platform.
-
-#### Is Hachyderm down or just me? Or: I think I'm having a service issue.
-
-To see if Hachyderm is up and running, please take a look at our [public Grafana dashboard](https://grafana.hachyderm.io/public).
-
-To report a full or partial outage, or an issue with a particular feature not working as expected, please use
-[our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose).
 
 #### Who designed the Hachyderm logo?
 

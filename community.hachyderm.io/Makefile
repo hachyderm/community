@@ -29,6 +29,9 @@ dev: submodule ## Run the local server
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en
 
+drafts: ## Find all the drafts
+	find "content/en" -type f -name "*.draft"
+
 .PHONY: help
 help:  ## 🤔 Show help messages for make targets
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[32m%-30s\033[0m %s\n", $$1, $$2}'
