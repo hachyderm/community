@@ -6,9 +6,9 @@ weight: 40
 
 For the vast majority of Hachyderm users:
 
-Follow our [rules](https://hachyderm.io/about/more#rules), and our [automated post policy](../bot-accounts/)
-if that applies to you, and have fun.
+* Follow our [server rules](/docs/rule-explainer/)
+* Make note of any account rules that may apply to you, e.g. [automated / scheduled posts](../bot-accounts) if you use them
 
-Other than our policy, your account, your rules.
+And most of all:
 
 Have fun.

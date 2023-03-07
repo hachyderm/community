@@ -34,6 +34,10 @@ then the first time we encounter your account is when it has been reported for a
 based on your perceived account type. In general, unless we see a discrepancy that indicates otherwise,
 we will moderate based on that perceived type.
 
+For all account types: username parking is prohibited on this server.
+Please only create an account that is in active use, even if only
+lurking. Accounts that appear to be "parked" will be suspended.
+
 ## User Accounts
 
 User accounts are also referred to as General Accounts, which are
