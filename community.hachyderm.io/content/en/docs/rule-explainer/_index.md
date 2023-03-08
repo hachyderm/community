@@ -252,7 +252,7 @@ Homophobia in any form is not tolerated on this server. Some specifics:
 * Supporting or spreading support indicating one sexual orientation as "the only
   correct" one, or "only natural" one, etc. is not tolerated
 * Supporting or spreading support for hate speech or violence against a specific
-  sexual orientation
+  sexual orientation, is not tolerated
 * As few points of clarity:
   * All those who are not heterosexual are protected by this rule, even if they
     do not identify as specifically gay
