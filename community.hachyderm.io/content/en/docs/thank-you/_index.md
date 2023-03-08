@@ -19,7 +19,7 @@ sources we will post updates here.
 
 ## How to donate
 
-One fast, easy way to donate to help finance Hachyderm is directly via Hchyderm's GitHub
+One fast, easy way to donate to help finance Hachyderm is directly via Hachyderm's GitHub
 Sponsors page:
 
 <a class="btn btn-primary mb-4" href="https://github.com/sponsors/hachyderm">Donate <i class="fa-brands fa-github ml-1"></i></a>
