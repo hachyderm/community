@@ -82,11 +82,11 @@ approval URL is live with your account listed in Part 2 below.
 
 _Part 2: Finishing account setup_
 
-1. Ensure you're already [verified with your official domain](../../verification/)
+1. Ensure you're already [verified with your official domain](/docs/mastodon/user/verification/)
     - Do not remove the reference link. Moderators will be using this during their validation process.
 1. We will add your verification tag under the appropriate header in the approved file. (Please be patient, we are a group of volunteers and will update as soon as we can.)
 1. We will update the GitHub issue when this is done.
-1.  Using the [verification steps](../../verification/), add the following to your profile metadata
+1.  Using the [verification steps](/docs/mastodon/user/verification/), add the following to your profile metadata
     - Label: APPROVED
     - Content: https://community.hachyderm.io/approved
 1. Verify that you can see the appropriate field highlighted in green and the green check mark
