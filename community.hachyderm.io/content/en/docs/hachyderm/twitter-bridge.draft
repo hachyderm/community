@@ -1,0 +1,13 @@
+Twitter Bridge
+
+"RSS Feed"
+
+Why they're controversial
+
+Can they be used as a vector? -> https://hachyderm.io/@LinuxAndYarn@mastodon.social/110001232955495311
+
+This might be a space where "we need to learn about this thing" rather than engaging in the arms race
+of keeping ahead of them one-by-one. Partly because it will be disruptive for people using the tools
+for their intended purpose: getting Twitter content out of Twitter. This is similar (and overlaps) with
+scraping: we can do a lot to help stop scraping activity, but at the end of the day there are tools that 
+don't respect robots.txt / etc. so it needs to be a combination of "what is this" and "what we can realistically do".
