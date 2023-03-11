@@ -37,6 +37,7 @@ The following accounts that have gone through the approval process with Hachyder
 **This can include, but is not limited to: newsletters, blogs /
 other API hooks, podcasts, and so forth.**
 
+* <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
 
 ### OSS Projects
 
