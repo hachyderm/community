@@ -97,6 +97,7 @@ be:
 * TBD -> FIXME: need additional clarifying criteria to separate "reserved"
   from general use. Caturday is cross fediverse, but not reserved. If it
   doesn't pass the Caturday test, the criteria are incorrect or insufficient.
+* Perhaps the only criteria is "will moderate for misuse"
 
 * [FediBlock](https://hachyderm.io/tags/FediBlock)
   * Should **_only_** be used for updating the Fediverse about users and/or
