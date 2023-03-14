@@ -38,10 +38,12 @@ The following accounts that have gone through the approval process with Hachyder
 other API hooks, podcasts, and so forth.**
 
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
+* <a rel="me" href="https://hachyderm.io/@TwosComplement">Two's Complement</a>
 
 ### OSS Projects
 
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
+* <a rel="me" href="https://hachyderm.io/@compiler_explorer">Compiler Explorer</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
