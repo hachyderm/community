@@ -8,32 +8,26 @@ description: >
 
 Hashtags are useful ways of connecting with other users. When users
 follow hashtags they can see posts that might otherwise be buried
-in the firehose of their local and/or federated timelines.
+in the fire hose of their local and/or federated timelines.
 
+If you looking for some popular hashtags to follow, please
+[scroll down to the Popular Hashtags section](#some-popular-hashtags)
+at the bottom. Note that some of the popular hashtags are
+restricted. To understand what that means, please read the
+subsequent sections first.
 
-## Hashtag Ettiquette <!-- omit from toc -->
+## Hashtag Etiquette <!-- omit from toc -->
 
-There are a few aspects to how use hashtags:
+How to have good hashtag etiquette on Hachyderm and the Fediverse:
 
 - [Use common hashtags](#use-common-hashtags)
-- [CamelCase your hashtags](#camelcase-your-hashtags)
+- [Use an alternating case pattern for your hashtags](#use-an-alternating-case-pattern-for-your-hashtags)
 - [Don't overuse hashtags](#dont-overuse-hashtags)
 - [Don't misuse reserved hashtags](#dont-misuse-reserved-hashtags)
   - [Fediverse reserved hashtags](#fediverse-reserved-hashtags)
   - [Hachyderm reserved hashtags](#hachyderm-reserved-hashtags)
   - [General use hashtags](#general-use-hashtags)
-  - [Informational](#informational)
-  - [Fun](#fun)
-
-If you are looking for Hachyderm-specific hashtags, please look
-at the Reserved Hashtags section linked above.
-
-* Hashtags change organically
-* Use common hashtags in your posts as applies
-* CamelCase your hashtags
-* Don't overuse hashtags
-* Don't misuse reserved hashtags
-  * Reserved hashtags may be Fediverse or instance specific
+  - [Some Popular Hashtags](#some-popular-hashtags)
 
 ## Use common hashtags
 
@@ -44,24 +38,30 @@ with post topics, either specific or broad, and using them <u>can help others</u
 who are either opting in or out of the type of content you are posting. (See 
 [filtering content on our mental health doc](../mental-health/)). As a quick
 example, someone looking to connect with other fountain pen users might follow
-hashtags like pen, ink, or penthusiast. Likewise, someone who needs to filter
+hashtags like pen, ink, or FountainPen. Likewise, someone who needs to filter
 out food and/or drink related content for any reason, might filter out hashtags
-like food, drink, DiningOut, and so forth.
+like food, drink, DiningOut, and so forth. 
 
-## CamelCase your hashtags
+## Use an alternating case pattern for your hashtags
 
-You should always CamelCase your hashtags so that screen readers can read them
-properly. ([Please see our Accessible Posts doc](../accessible-posts/)). Changing
-the casing will _not_ change the posts that are attributed to the tag. This means
-whether someone is filtering in or out based on the tag, the same posts will be
+You should always use an alternating case pattern, like PascalCase or camelCase,
+for your hashtags so that screen readers can read them
+properly. ([Please see our Accessible Posts doc](../accessible-posts/).) Changing
+the case will _not_ change the posts that are attributed to the tag. This means
+whether someone is filtering in or out a specific tag, the same posts will be
 displayed or hidden.
 
-If you are using a hashtag and a non-CamelCase option is offered to autocomplete,
-please complete with CamelCase. This is because Mastodon will offer the most
-common tag or tags associated with what you are writing. The more users manually
-type the CamelCase version, the sooner the CamelCase tag is offered for autocomplete.
+<!-- FIXME: verify how to get Mastodon to offer new cased tags -->
 
-For completely new tags the tag is stored with the case provided. This is when
+If you are using a hashtag and a non-cased option is offered to autocomplete,
+please complete with the correct casing. This is because Mastodon will offer the most
+common tag or tags associated with what you are writing. The more users manually
+type the cased version, the sooner the cased tag is offered for autocomplete.
+That said, one of the big reasons that we do not moderate for tag casing is
+because of this feature: users will frequently not catch that their tags have
+been overwritten while composing their post.
+
+For completely new tags the tag is stored with the case you compose it with. This is when
 you should take additional care: the next person who types the tag after you
 will be presented to autocomplete the version you have typed (as the only one
 that exists).
@@ -70,20 +70,23 @@ that exists).
 
 It's reader discretion for how many tags are "too much". One or two will likely
 be fine, and having every word be a separate hashtag is a chore to read. As a
-loose rule, around five tags per post should be a reasonable "upper bound".
+loose rule, around five tags every two paragraphs should be a reasonable "upper bound".
+
+We do not, in general, moderate hashtag volume in a post. That said, posts with a high
+number of hashtags _may_ be reported and moderated as spam.
 
 ## Don't misuse reserved hashtags
 
 What to know about reserved hashtags:
 
-* Can only be used for their stated purpose
+* Can only be used for their stated purpose.
 * Can be restricted across the Fediverse or instance-specific.
 * Misuse of reserved hashtags may warrant moderator action, this will
   be on a case-by-case basis.
 
 This means that these reserved hashtags cannot be used the same as general
-purpose hashtags. For example, you can include cats and caturday on any
-cat-relevant post you wish. You cannot use the FediBlock hashtag for any
+purpose hashtags. For example, you can include #cats and #caturday on any
+cat-relevant post you wish. You cannot use #FediBlock for any
 other reason than to notify other instance admins of a malicious instance
 or user.
 
@@ -94,46 +97,75 @@ be:
 
 * Used across the Fediverse
 * Extremely limited or narrow in scope
-* TBD -> FIXME: need additional clarifying criteria to separate "reserved"
-  from general use. Caturday is cross fediverse, but not reserved. If it
-  doesn't pass the Caturday test, the criteria are incorrect or insufficient.
-* Perhaps the only criteria is "will moderate for misuse"
+
+Due to the ever-changing nature of hashtags, we will not track and moderate
+all Fediverse reserved hashtags, only an extremely limited subset of them.
+That said, if someone has notified you that you've misused a reserved hashtag,
+please remove it from your post.
+
+The following are the reserved hashtags that we will moderate for misuse. In
+every case, misuse is "any use of the hashtag other than how it specified below".
 
 * [FediBlock](https://hachyderm.io/tags/FediBlock)
   * Should **_only_** be used for updating the Fediverse about users and/or
-    instance domains that need to be suspended via the instance admin tools.
+    instance domains that need to be suspended via the instance admin tools
+    **_or_** for directly responding to a thread/discussion about a reported
+    user or instance.
   * This tag is followed by instance admins across the Fediverse and as such
     is not limited to Hachyderm or even Mastodon instances in general.
-  * To see how to include the appropriate level of detail for posts with
-    this tag, please see existing posts.
-  * Misusing this tag is using it for _any other purpose_, e.g. jokes like 
-    "lol #FediBlock ed".
-* [FedHire](https://hachyderm.io/tags/FediHire)
+  * Existing posts using the hashtag can be used as a guide for what details
+    to include in your post.
+    * As a general rule, you'll want to include the domain, the reason why,
+      and screenshots to substantiate. The use of screenshots may vary,
+      though, depending on the nature of the content being reported via this tag.
+* [FediHire](https://hachyderm.io/tags/FediHire)
   * Should **_only_** be used for job posting and job seeking.
-  * To see how to include detail in posts, please see existing posts.
+  * Existing posts using the hashtag can be used as a guide for what details
+    to include in your posts.
+
+#### Adding tags to the moderated, reserved list <!-- omit from toc -->
 
 To append hashtags to the above list, please submit a PR or email us at
 [admin@hachyderm.io](mailto:admin@hachyderm.io). In order for a tag to
-be listed in this section, it must be shown to be reserved across the
-Fediverse and not limited to a specific instance
+be listed in this section, it must be shown to:
+
+* Have a narrow, consistent purpose across the Fediverse
+* Have an existing, broadly socialized, expectation of use
 
 ### Hachyderm reserved hashtags
 
-* [hachybots](https://hachyderm.io/tags/hachybots)
-  * This tag is required for all bot posts on Hachyderm.
+Similar to the Fediverse reserved hashtags, the following are restricted
+for misuse on the Hachyderm instance.
+
+* [HachyBots](https://hachyderm.io/tags/HachyBots)
+  * This tag is required for all bot posts on Hachyderm to allow users
+    to easily opt in or out of bot content.
+  * Use of this hashtag for any other purpose will warrant moderator
+    action.
 
 ### General use hashtags
 
-These are generally available, have fun.
+General use hashtags are "normal use". This means you have broader discretion
+over how/when/where you use them. The general rule here is "have fun, don't
+be confusing".
 
-Some to potentially follow:
+If you notice that there are topic areas that you post about relatively
+frequently, it is a good idea to become familiar with the hashtags in that
+space. This is so that [people filtering out content](../mental-health/)
+can do so more effectively.
 
-* 
+### Some Popular Hashtags
 
-### Informational
+If you're new to Hachyderm and/or the Fediverse, here are some high traffic
+hashtags you may want to look at, grouped roughly by topic. Note that
+general and restricted hashtags are both listed below.
 
-e.g. TwitterDown
-
-### Fun
-
-e.g. Caturday
+* Hachyderm: Hachyderm, Hachydermia, Hachydermian, Hachydermians, HachyJobs, HachyBots
+* Fediverse: FediTips, FediHire, FediBlock
+* Animals: Caturday, CatsOfMastodon, DogsOfMastodon, MonDog
+* Job posting / seeking: HachyJobs, FediHire, Job, Jobs, HireMe
+* Tech Industry: Data, OpenData, Security, InfoSec, OpenSource, Tech, Technology, TwitterDown
+* STEM: OpenScience, Science, Climate, ClimateChange, ClimateCrisis, Weather, Space, Astronomy
+* Arts: Art, Writing, WritingCommunity, Writer, Poetry, PhotoOfTheDay, FotoMontag
+* Humans: News, Sustainability, HumanRights, ActuallyAutistic
+* Misc: SilentSunday, Mosstodon, LichenSubscribe, 3GoodThings
