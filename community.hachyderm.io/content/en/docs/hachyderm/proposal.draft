@@ -1,0 +1,8 @@
+How to propose new rules / etc. 
+
+Requirements for new rules / rule modifications:
+
+* Must be enforceable with the tools available to Mastodon
+  * Cannot require using a fork of Mastodon for a tool
+
+ToDo: Consensus based approval process

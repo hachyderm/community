@@ -65,7 +65,7 @@ can happen with sustainable time and effort on your part.
 When posting accessibly:
 
 1. Learn how to write effective alt text for images.
-1. Use CamelCase for your hashtags.
+1. Use PascalCase or camelCase for your hashtags.
 1. Learn how to write effective summaries for audio / video content.
 1. Prioritize audio content with captions and transcripts where available.
 1. Be aware how often you post paywalled content; not everyone has the same purchasing power.
@@ -211,8 +211,9 @@ reader encounters "Jayne Cobb :verified: :github:" it will read "Jayne Cobb veri
 One of these is significantly more accessible than the other.
 
 Hashtags is the last heavily used "type" in the visual section. Many screen readers are aware of
-and able to read hashtags, but only when they are CamelCase. For those unfamiliar, that means that
-you should use the hashtag #SaturdayCaturday not #saturdaycaturday. To show the difference,
+and able to read hashtags, but only when they use alternating case (PascalCase, camelCase).
+For those unfamiliar, that means that you should use the hashtag #SaturdayCaturday not
+#saturdaycaturday. To show the difference,
 [Belong AU has an excellent 17 second clip showing how screen readers read hashtags](https://twitter.com/BelongAU/status/1450711235704492035).
 
 #### Audio

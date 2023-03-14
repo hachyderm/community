@@ -13,6 +13,8 @@ This page was directly copied from our outdated Markdown documentation and is
 in the process of being updated.
 {{% /pageinfo %}}
 
+FIXME: edit camelCase to alternating case as can be camelCase or PascalCase
+
 ## Welcome to Hachyderm
 
 Hello Hachydermians! Some of you are new to Mastodon, so here are some notes to

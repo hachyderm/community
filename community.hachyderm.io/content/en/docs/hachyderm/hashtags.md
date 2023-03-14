@@ -13,8 +13,8 @@ in the fire hose of their local and/or federated timelines.
 If you looking for some popular hashtags to follow, please
 [scroll down to the Popular Hashtags section](#some-popular-hashtags)
 at the bottom. Note that some of the popular hashtags are
-restricted. To understand what that means, please read the
-subsequent sections first.
+reserved. To understand what that means, please read the
+[Don't misuse reserved hashtags section](#dont-misuse-reserved-hashtags).
 
 ## Hashtag Etiquette <!-- omit from toc -->
 
@@ -100,8 +100,9 @@ be:
 
 Due to the ever-changing nature of hashtags, we will not track and moderate
 all Fediverse reserved hashtags, only an extremely limited subset of them.
-That said, if someone has notified you that you've misused a reserved hashtag,
-please remove it from your post.
+That said, if someone has notified you that you've misused a hashtag
+that is intended for a specific use, please remove it from your post
+whether it is on this list or not.
 
 The following are the reserved hashtags that we will moderate for misuse. In
 every case, misuse is "any use of the hashtag other than how it specified below".
@@ -134,8 +135,8 @@ be listed in this section, it must be shown to:
 
 ### Hachyderm reserved hashtags
 
-Similar to the Fediverse reserved hashtags, the following are restricted
-for misuse on the Hachyderm instance.
+Similar to the Fediverse reserved hashtags, the following are reserved
+on Hachyderm.
 
 * [HachyBots](https://hachyderm.io/tags/HachyBots)
   * This tag is required for all bot posts on Hachyderm to allow users
@@ -158,14 +159,63 @@ can do so more effectively.
 
 If you're new to Hachyderm and/or the Fediverse, here are some high traffic
 hashtags you may want to look at, grouped roughly by topic. Note that
-general and restricted hashtags are both listed below.
+general and reserved hashtags are both listed below.
 
-* Hachyderm: Hachyderm, Hachydermia, Hachydermian, Hachydermians, HachyJobs, HachyBots
-* Fediverse: FediTips, FediHire, FediBlock
-* Animals: Caturday, CatsOfMastodon, DogsOfMastodon, MonDog
-* Job posting / seeking: HachyJobs, FediHire, Job, Jobs, HireMe
-* Tech Industry: Data, OpenData, Security, InfoSec, OpenSource, Tech, Technology, TwitterDown
-* STEM: OpenScience, Science, Climate, ClimateChange, ClimateCrisis, Weather, Space, Astronomy
-* Arts: Art, Writing, WritingCommunity, Writer, Poetry, PhotoOfTheDay, FotoMontag
-* Humans: News, Sustainability, HumanRights, ActuallyAutistic
-* Misc: SilentSunday, Mosstodon, LichenSubscribe, 3GoodThings
+* Hachyderm:
+    [Hachyderm](https://hachyderm.io/tags/Hachyderm),
+    [Hachydermia](https://hachyderm.io/tags/Hachydermia),
+    [Hachydermian](https://hachyderm.io/tags/Hachydermian),
+    [Hachydermians](https://hachyderm.io/tags/Hachydermians),
+    [HachyJobs](https://hachyderm.io/tags/HachyJobs),
+    [HachyBots](https://hachyderm.io/tags/HachyBots)
+* Fediverse:
+    [FediTips](https://hachyderm.io/tags/FediTips),
+    [FediHire](https://hachyderm.io/tags/FediHire),
+    [FediBlock](https://hachyderm.io/tags/FediBlock)
+* Animals:
+    [Caturday](https://hachyderm.io/tags/Caturday),
+    [CatsOfMastodon](https://hachyderm.io/tags/CatsOfMastodon),
+    [DogsOfMastodon](https://hachyderm.io/tags/DogsOfMastodon),
+    [MonDog](https://hachyderm.io/tags/MonDog)
+* Job posting / seeking:
+    [HachyJobs](https://hachyderm.io/tags/HachyJobs),
+    [FediHire](https://hachyderm.io/tags/FediHire),
+    [Job](https://hachyderm.io/tags/Job),
+    [Jobs](https://hachyderm.io/tags/Jobs),
+    [HireMe](https://hachyderm.io/tags/HireMe)
+* Tech Industry:
+    [Data](https://hachyderm.io/tags/Data),
+    [OpenData](https://hachyderm.io/tags/OpenData),
+    [Security](https://hachyderm.io/tags/Security),
+    [InfoSec](https://hachyderm.io/tags/InfoSec),
+    [OpenSource](https://hachyderm.io/tags/OpenSource),
+    [Tech](https://hachyderm.io/tags/Tech),
+    [Technology](https://hachyderm.io/tags/Technology),
+    [TwitterDown](https://hachyderm.io/tags/TwitterDown)
+* STEM:
+    [OpenScience](https://hachyderm.io/tags/OpenScience),
+    [Science](https://hachyderm.io/tags/Science),
+    [Climate](https://hachyderm.io/tags/Climate),
+    [ClimateChange](https://hachyderm.io/tags/ClimateChange),
+    [ClimateCrisis](https://hachyderm.io/tags/ClimateCrisis),
+    [Weather](https://hachyderm.io/tags/Weather),
+    [Space](https://hachyderm.io/tags/Space),
+    [Astronomy](https://hachyderm.io/tags/Astronomy)
+* Arts:
+    [Art](https://hachyderm.io/tags/Art),
+    [Writing](https://hachyderm.io/tags/Writing),
+    [WritingCommunity](https://hachyderm.io/tags/WritingCommunity),
+    [Writer](https://hachyderm.io/tags/Writer),
+    [Poetry](https://hachyderm.io/tags/Poetry),
+    [PhotoOfTheDay](https://hachyderm.io/tags/PhotoOfTheDay),
+    [FotoMontag](https://hachyderm.io/tags/FotoMontag)
+* Humans:
+    [News](https://hachyderm.io/tags/News),
+    [Sustainability](https://hachyderm.io/tags/Sustainability),
+    [HumanRights](https://hachyderm.io/tags/HumanRights),
+    [ActuallyAutistic](https://hachyderm.io/tags/ActuallyAutistic)
+* Misc:
+    [SilentSunday](https://hachyderm.io/tags/SilentSunday),
+    [Mosstodon](https://hachyderm.io/tags/Mosstodon),
+    [LichenSubscribe](https://hachyderm.io/tags/LichenSubscribe),
+    [3GoodThings](https://hachyderm.io/tags/3GoodThings)
