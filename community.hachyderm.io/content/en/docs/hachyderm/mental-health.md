@@ -6,6 +6,11 @@ description: >
   How to use the Mastodon tools help preserve your mental health on the Fediverse.
 ---
 
+FIXME - revisit individual paragraph phrasing
+FIXME - reconcile the opt-in, opt in, opt-out, opt out differences
+FIXME - consistently case fediverse Fediverse
+FIXME - hyphen consistency : instance-level, instance level; server level, server-level
+
 ## Social media and your mental health <!-- omit from toc -->
 
 There are many articles available online about social media, general online
@@ -14,23 +19,19 @@ of these and focus on helping you use the Mastodon tools to uphold your
 personal needs and boundaries.
 
 - [Moderation action and individual action](#moderation-action-and-individual-action)
+- [Collective action requires a collective](#collective-action-requires-a-collective)
+  - [Give yourself permission](#give-yourself-permission)
 - [Mastodon tools at your disposal](#mastodon-tools-at-your-disposal)
   - [Unwanted content](#unwanted-content)
   - [Additional features](#additional-features)
-- [Common negative impacts and ideas to address them](#common-negative-impacts-and-ideas-to-address-them)
-- [Patterns to proactively protect your mental health](#patterns-to-proactively-protect-your-mental-health)
-  - [Collective action: a grain of sand](#collective-action-a-grain-of-sand)
-  - [Give yourself permission](#give-yourself-permission)
-  - [Keywords, filtering, and hashtags: a proactive approach](#keywords-filtering-and-hashtags-a-proactive-approach)
-  - [Setting healthy boundaries and protecting your personal information](#setting-healthy-boundaries-and-protecting-your-personal-information)
-  - [Creating some proactive boundaries](#creating-some-proactive-boundaries)
-  - [Enforcing boundaries and what happens they're violated](#enforcing-boundaries-and-what-happens-theyre-violated)
-  - [How and who can interact with your account](#how-and-who-can-interact-with-your-account)
+- [Frequent patterns and how to address them](#frequent-patterns-and-how-to-address-them)
+  - [Limit how and who can interact with your account as needed](#limit-how-and-who-can-interact-with-your-account-as-needed)
+  - [Be proactive about filtering content](#be-proactive-about-filtering-content)
+  - [Be proactive about how media displays](#be-proactive-about-how-media-displays)
+  - [Protect your personal information](#protect-your-personal-information)
+  - [Create and maintain boundaries](#create-and-maintain-boundaries)
   - [Control what content you want to be exposed to](#control-what-content-you-want-to-be-exposed-to)
-  - [Control what cadence (?)](#control-what-cadence-)
 - [Context Setting](#context-setting)
-- [Know when to engage the moderators](#know-when-to-engage-the-moderators)
-- [Creating space for yourself](#creating-space-for-yourself)
 
 ## Moderation action and individual action
 
@@ -59,6 +60,48 @@ but can have a negative impact on individuals:
 The above examples are not comprehensive, but do show situations where you may need to protect
 your own individual mental health even as communities across the Fediverse discuss and interact
 in ways that show collective growth.
+
+## Collective action requires a collective
+
+It is important for everyone to do their part to create and maintain safe communities
+(and build a better world). The reason this is called collective action is because it
+takes more than one person to accomplish group-level and societal changes. As with any
+effort to build something better, individuals that are doing their part for others must
+remember to do their part for themselves. This means, amongst other things, taking care
+of your mental health and protecting yourself from burnout.
+
+### Give yourself permission
+
+Part of protecting yourself from burnout in a social media context means for whatever
+the current conversation or topic is:
+
+* Do you, specifically, need to engage at this moment or can another member of the
+  community (collective) do it?
+* If you need to be the one that engages, either due to expertise or some other reason,
+  do you have the capacity to do in the current moment? If not, can you defer until a
+  time that you do? 
+
+Remember:
+
+* The Fediverse is vast and if you see an issue, especially one that the community commonly catches,
+  it is likely someone else will say / do something.
+* Even if you do not have the capacity at the moment and no one else does, protecting your mental
+  health will ensure your ability to continue to help others and grow yourself. Basically,
+  it will help you handle the next one.
+
+Relevantly:
+
+* You can leave conversations at any time for any reason. You do not need to justify or inform when
+  you do, especially if doing so will continue to inflame the situation.
+* You can opt-out of any content at any time for any reason. You to not need to justify or inform
+  when you do, especially if doing so will be negatively impactful to yourself.
+* You can also opt-in to content at any time. Any time you feel the need to opt-out of content,
+  the ability is always there to opt back in when you're ready.
+
+Opting in and out of topics, especially those that might be personally relevant and soul straining
+for you, is a very useful tactic for creating personal boundaries. It limits when and how you are
+exposed to that type of content, especially if / when there is a news cycle or other event increasing
+the discussion frequency.
 
 ## Mastodon tools at your disposal 
 
@@ -143,83 +186,53 @@ The above are all set in your profile and preferences. We have documented how to
 our our [Mastodon User Profile and Preferences](/docs/mastodon/user/profile-preferences/)
 doc page.
 
-## Common negative impacts and ideas to address them
+## Frequent patterns and how to address them
 
-FIXME - this needs to be moved to under the next section.
+Below we list some commons patterns that you can use the above tooling to solve.
 
-There are a few patterns on social media that are detrimental to us as
-individuals, even if there is a collective benefit.
+FIXME includes
 
-## Patterns to proactively protect your mental health
+* Require explicit allow for followers
+* Be careful about PII - pets, family, where you live, your job, etc.; these are common doxxing tactics
 
-There are a few patterns that you can use to get ahead of posts that will negatively impact your
-mental health.
+### Limit how and who can interact with your account as needed
 
-### Collective action: a grain of sand
+Follower/following, DMs (always on), public vs private account
 
-FIXME: likly rewrite, but essentially "collective action requires a collective: find your collective"
+This is where you can control who can interact with your account and how they can
+do so.
 
-The "a grain of sand" analogy is a great metaphor for individual or collective action. This analogy also
-features heavily when evaluating different ideas and recommendations to improve and protect your
-experience on the Fediverse.
+### Be proactive about filtering content
 
-The analogy itself is succinct: one grain of sand does not make or shift a dune, but all the grains together
-comprise its shape. When wind or water move an individual grain of sand the dune remains the same shape. Over time,
-dunes shift. In extensions of the analogy, canyons are carved.
+Content filtering is very useful for helping your mental health. Use the fact that social
+media generally opts users into content as a default that you have the ability to toggle.
 
-The reason this analogy is relevant here: you do not need to sacrifice your individual mental health, in
-solitude, for collective action. How you implement this and what it means to you will depend on your
-individual needs and boundaries.
+* Active opt in<br />
+  Following keywords and hashtags can provide relief when you need to decompress. Cats, math,
+  stomatopoda - anything that helps.
+* Active opt out<br />
+  You can filter out keywords and hashtags to either temporarily or permanently remove yourself
+  from certain discussions.
 
-You will see other references to this analogy in this document.
+### Be proactive about how media displays
 
-### Give yourself permission
+If images and video are a frequent trigger for you, including items not frequently marked as
+sensitive, you can choose to hide all media. When enabled, you will need to explicitily opt
+in to the media, similar to Sensitive Media, rather than being exposed to it generally.
 
-This is not a Mastodon tool, but a mindset. For anyone who wants or needs to have it stated:
+[Please visit the Mastodon preferences doc to show how hidden media appears](https://docs.joinmastodon.org/user/preferences/#sensitive).
 
-* You can leave conversations at any time for any reason. You do not need to justify or inform when
-  you do, especially if doing so will continue to inflame the situation.
-* You can opt-out of any content at any time for any reason. You to not need to justify or inform
-  when you do, especially if doing so will be negatively impactful to yourself.
+### Protect your personal information
 
-About leaving conversations: contributing to change is a bit like general elections. There may be thousands, or
-even millions, partaking in the election. The individual vote may be a grain of sand on a dune,
-but the collective vote provides consensus (the shape of the dune). This means that while it is
-important to have individual and collective conversations that improve the lives of yourself and
-others, that _each individual_ conversation is the grain of sand and the _net benefit_ is the dune.
-If a particular attempt at conversation to inspire change in someone else isn't doing so, and
-especially if their response negatively impacts you, remember to walk away for any reason. There
-will always be next time, with another grain of sand or the same one, and you do not need to
-continue a current conversation that is ineffective and/or damaging.
+There are a few tools that you can use to protect your personal information
 
-About opting-out of content: some forms of content are community-beneficial and individually harmful.
-This is especially true of conversations around news cycles, their impacts, and responses (including
-protests and so forth). When you're a member of a group or community that is being targeted by another,
-this means that you periodically inundated with Everyone's Thoughts, Opinions, and Questions About What To Do
-at unpredictable times. While you may support the community supporting you, for your own mental health
-you may want to not feel like you should partake in those conversations. In fact you may
-even prefer to navigate social media as if those conversations aren't happening.
+FIXME - post visibility, account visibility; auto-delete posts; hide social graph
+* auto-delete posts from a "content visibilty" perspective might be controversial, just be aware
 
-
-### Keywords, filtering, and hashtags: a proactive approach
-
-The two main uses of filtering is to either opt into or out of content. You might follow,
-or create a filter, for Caturday posts because cats are precious. You might use the same
-mechanism to opt _out_ of content about a specific news cycle, or that uses certain tags,
-because you do not want to engage with that content either temporarily or permanently.
-
-### Setting healthy boundaries and protecting your personal information
-
-### Creating some proactive boundaries
-
-* for large accounts, accounts for people / communities that are at risk
-* Auto-deleting posts after a certain period of time
-  * Why there might be disagreement with this / disappearing / linked content
-
-### Enforcing boundaries and what happens they're violated
+### Create and maintain boundaries
 
 First and foremost: it is not ok for someone to violate your boundaries or for you to
-violate someone else's. To be clear, this section is _not_ for stalking and other forms
+violate someone else's. To be clear, this section is _not_ referring to stalking and other forms
 of harassment. If you are experiencing these, please [report it to the moderation team](/docs/moderation/reporting).
 
 The common patterns you'll see here:
@@ -233,12 +246,14 @@ The common patterns you'll see here:
   * "Black Mastodon users..." -> If you are not Black, do not respond.
   * "Non-native English speakers..." -> If your native language is English, do not respond.
 
-For the latter: it is not feasiable for anyone to try and individually block or otherwise filter out who they
-suspect is not a member of the in-group they are attempting to converse with. If you know that you are not
-in the requested group, do not respond for any reason. If you do and you're a Hachydermian, you will be in
-violation of our [Don't Be A Dick](/docs/rule-explainer) policy (at a minimum).
-
-For the former, please read on.
+Both of these patterns involve having a healthy understanding of public spaces and consent.
+A conversation thread being on social media does not necessarily mean it is for everyone to
+engage with. This concept should feel familiar: if a group is going for a walk and talking
+together in a park it does not mean that their walk and conversation is for everyone in that
+park at that time. That said, there are also public performances that happen in public
+spaces which _are_ intended for everyone. Similar to the examples just provided, there are
+frequently communciated boundaries and expectations around private and public engagements
+happening in public spaces.
 
 ##### Someone violating your boundaries <!-- omit from toc -->
 
@@ -250,15 +265,17 @@ your disposal are:
 * Block the user<br />
   They will not be able to follow you, see your posts, etc. They will not be notified that they are
   blocked, but they will be able to tell that they are blocked.
+* [Report the user](/docs/moderation/reporting/)<br />
+  Remember you can always escalate to the moderation team.
 
 Which of these actions you take is entirely up to you. Your account is how you navigate the fediverse
 and you are the one that will need to decide which of these are warranted for the situation you are in.
 
 Note that we do _not_ recommend announcing when you have muted / blocked someone, as that defeats
-the purpose of de-escalating the conflict. There are reasonable exceptions to this involving
+the purpose of removing yourself from the conflict. There are reasonable exceptions to this involving
 the safety of others and/or the overall community. In this case we request that you
 [report the situation to the mods](/docs/moderation/reporting), whether you post about it or not,
-as it is the job of moderation to handle instance level policy such as this.
+as it is the job of moderation to handle instance-level policy such as this.
 
 ##### You're violating someone else's boundaries <!-- omit from toc -->
 
@@ -276,12 +293,7 @@ as it is the job of moderation to handle instance level policy such as this.
     rejected your apology, is a violation of our [Don't Be A Dick](/docs/rule-explainer)
     policy at a minimum.
 
-### How and who can interact with your account
 
-Follower/following, DMs, public vs private account
-
-This is where you can control who can interact with your account and how they can
-do so.
 
 ### Control what content you want to be exposed to
 
@@ -290,9 +302,6 @@ Filtering, etc. Display images or not, boosts or not, etc.
 This is where you can control what content you are exposed to and either increase
 or decrease certain types of content based on hashtags and keywords.
 
-### Control what cadence (?)
-
-Doomscrolling.
 
 
 ---
@@ -319,62 +328,3 @@ not limited to:
 * When you don't want to see content from specific users, but the users
   themselves are not otherwise harmful or warranting moderation.
 
-## Know when to engage the moderators
-
-The goal of this doc is to help you create space for yourself when
-on Hachyderm. The goal is not to avoid situations where users and
-servers should be [reported to the moderator team](/docs/moderation/reports/).
-
-## Creating space for yourself
-
-It is important to use the tools available to you to your benefit. In the
-context of creating mental and emotional space, or setting and maintaining
-boundaries, there are 
-
-FIXME - need to write out the following:
-
-- Remember to block content that is triggering _to you_, so
-  blocking hashtags, spoilers, traumatizing content
-- We as mods can only moderate at the community level, users need
-  to (to a point - clarify) moderate at the individual level.
-- Hashtags - fedihire, feditips, fediblock, etc.
-- Protecting your Online Experience / Mental Health might be a better phrasing
-
-
-What you should do to protect your mental health:
-
-- Don't doomscroll
-  - Mastodon feature to assist with this?
-- Don't engage with users that are negatively impacting your mental health
-  - This means not going onto their threads to engage with them as well as
-  - not responding when they engage with you.
-  - This means setting boundaries for persisent people, and enforcing them
-  - as needed (blocking, muting, etc.)
-  - Just the whole "stepping away" thing.
-- Report users and content that needs server-wide policy
-  - The difference between "is this bad for me or is this bad for the community"
-- For content that is "bad for me, fine for server":
-  - Use block, mute, etc. to limit or prevent individual interactions
-- Be mindful of whether your forwarding a report to another server's mods or not
-  - In the cases of brigading, the domain is run by the same people you're reporting
-  - and the report is an attack vector pointing them to you. You can always choose
-  - to not forward a report.
-- Interactions that do not go the way you intend note.
-- Too many followers? Limit who can follow you by requiring them to request.
-- Personal bounardaries are more about the software, know yourself
-  - What topics are unsafe for you? How can you keep them away from you?
-  - Unsafe / frustrating / traumatizing == avoid for any reason you wish
-  - What topics do you frequently want to Fix Others Mindset on that Frequently
-  - Results in Negative Experiences for you? -> Filter / block / mute, prevent temptation.
-- Don't forget that unfollowing is an option along with block / etc.
-- Can users prevent DMs? Can users individually prevent media from loading?
-- That image about "Slack"tivism: online petition, social media posts, but no real change.
-  - Change is change, if the person you are arguing with immediately changes their view,
-  - is the negative consequence to you worth it for that interaction?
-  - Does it move the social justice issue forward?
-    - Yes, understood that it's a collective effort to shift collective minds, this is a
-    - one off situation.
-- Any statements on privacy: images of you, your pets, your home, your family, the usual PII warnings.
-  - May exceed scope of this page, but these are frequent doxxing tactics. People can doxx
-    pretty easily, actually.
-- Self service: service to the self
