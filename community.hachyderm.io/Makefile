@@ -13,6 +13,8 @@ dev: submodule ## Run the local server
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en
 
+fixme: issues
+
 drafts: ## Find all the drafts
 	find "content/en" -type f -name "*.draft"
 
