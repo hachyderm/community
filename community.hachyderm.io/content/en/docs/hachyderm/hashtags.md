@@ -92,8 +92,8 @@ or user.
 
 ### Fediverse reserved hashtags
 
-In order for hashtags to be listed in this section, they must be shown to
-be:
+In order for hashtags to be considered reserved in the Fediverse context, they
+must be shown to be:
 
 * Used across the Fediverse
 * Extremely limited or narrow in scope
@@ -116,22 +116,15 @@ every case, misuse is "any use of the hashtag other than how it specified below"
     is not limited to Hachyderm or even Mastodon instances in general.
   * Existing posts using the hashtag can be used as a guide for what details
     to include in your post.
-    * As a general rule, you'll want to include the domain, the reason why,
+    * As a general rule, you'll want to include the user or domain, the reason why,
       and screenshots to substantiate. The use of screenshots may vary,
-      though, depending on the nature of the content being reported via this tag.
+      though, depending on the nature of the content being reported.
 * [FediHire](https://hachyderm.io/tags/FediHire)
   * Should **_only_** be used for job posting and job seeking.
+  * This tag is followed by both those posting and applying for jobs across
+    the Fediverse.
   * Existing posts using the hashtag can be used as a guide for what details
     to include in your posts.
-
-#### Adding tags to the moderated, reserved list <!-- omit from toc -->
-
-To append hashtags to the above list, please submit a PR or email us at
-[admin@hachyderm.io](mailto:admin@hachyderm.io). In order for a tag to
-be listed in this section, it must be shown to:
-
-* Have a narrow, consistent purpose across the Fediverse
-* Have an existing, broadly socialized, expectation of use
 
 ### Hachyderm reserved hashtags
 
