@@ -160,7 +160,8 @@ general and reserved hashtags are both listed below.
     [Hachydermian](https://hachyderm.io/tags/Hachydermian),
     [Hachydermians](https://hachyderm.io/tags/Hachydermians),
     [HachyJobs](https://hachyderm.io/tags/HachyJobs),
-    [HachyBots](https://hachyderm.io/tags/HachyBots)
+    [HachyBots](https://hachyderm.io/tags/HachyBots),
+    [ThankYouThursday](https://hachyderm.io/tags/ThankYouThursday)
 * Fediverse:
     [FediTips](https://hachyderm.io/tags/FediTips),
     [FediHire](https://hachyderm.io/tags/FediHire),
@@ -206,7 +207,8 @@ general and reserved hashtags are both listed below.
     [News](https://hachyderm.io/tags/News),
     [Sustainability](https://hachyderm.io/tags/Sustainability),
     [HumanRights](https://hachyderm.io/tags/HumanRights),
-    [ActuallyAutistic](https://hachyderm.io/tags/ActuallyAutistic)
+    [ActuallyAutistic](https://hachyderm.io/tags/ActuallyAutistic),
+    [ActuallyADHD](https://hachyderm.io/tags/ActuallyADHD)
 * Misc:
     [SilentSunday](https://hachyderm.io/tags/SilentSunday),
     [Mosstodon](https://hachyderm.io/tags/Mosstodon),

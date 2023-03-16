@@ -414,11 +414,11 @@ Another might be someone who needs to scream about how transphobia hurts them, w
 be reminded that's still happening today.
 
 Hachyderm needs to be able to accommodate all of these situations and more. To do so, we try to
-create space for disparate needs to co-exist. For situations where server-level policy wouldn't be
-beneficial to the community, we ask individuals to block keywords, hashtags, and users as needed
-to maintain your mental health in a public space. We also ask everyone to use common keywords and hashtags
+create space for disparate needs to co-exist. For situations where instance-level policy wouldn't be
+beneficial to the community, we ask individuals to [create and maintain their personal boundaries
+in a public space](../mental-health). We also ask everyone to use common keywords and hashtags
 so that those who are looking to filter that content can do so easily. As always, [please report](/docs/moderation/reporting/)
-malicious and manipulative individual users and server instances to the moderation team.
+malicious and manipulative individual users and instances to the moderation team.
 
 As you learn and grow you may want to help others as well. This is great! Remember to do so only
 when you have the emotional space to help with grace. Different people are at different stages in
