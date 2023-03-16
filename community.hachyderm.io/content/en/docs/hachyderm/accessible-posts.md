@@ -267,7 +267,7 @@ consent windows as well.
 These situations are usually frustrating when you're trying to navigate the situation as-is, let alone
 what happens when you're trying to convert the page to one particular sense (auditory or visual).
 
-Most of these situations do _not_ apply on the fediverse directly. They appear when links to other
+Most of these situations do _not_ apply on the Fediverse directly. They appear when links to other
 pages and content. To be clear, on Hachyderm we do not ask you to be responsible for the entirety
 of the internet. That said, if you are posting content that might be "noisy", it might be worth
 mentioning in your post that supplies a link.

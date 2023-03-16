@@ -1,4 +1,3 @@
-
 ---
 title: "Hachyderm Community Documentation"
 linkTitle: "Documentation"

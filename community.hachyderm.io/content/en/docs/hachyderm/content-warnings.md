@@ -46,7 +46,7 @@ to opt-in, i.e. _informed consent_.
 ## Common examples of content warnings
 
 There are a few situations where content warnings are commonly used on the
-fediverse (these are not exclusive to Hachyderm):
+Fediverse (these are not exclusive to Hachyderm):
 
 1. Images of faces with eye contact
 1. Images of food and alcohol, even if they are not being consumed in excess

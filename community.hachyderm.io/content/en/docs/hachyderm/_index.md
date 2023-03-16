@@ -48,7 +48,7 @@ list of rules at the top and then delves into them. Similar to Accessible Postin
 that you familiarize yourself with the short list first, then read more once you're in a
 place to read the nuance.
 
-### What is hashtag ettiquette on the Fediverse?
+### What is hashtag etiquette on the Fediverse?
 
 Hashtag casing, and not misusing restricted hashtags, are important
 aspects of hashtag use on the Fediverse. For more, read [our Hashtag
@@ -56,17 +56,24 @@ doc](hashtags/).
 
 ### What are content warnings and how/when do I use them?
 
-Content warnings are a feature that allows users to click-through to opt into
-your content rather than be opted in by default. [Our Content Warnings doc](content-warnings/)
+Content warnings are a feature that allows users to click-through to opt-in to
+your content rather than be opted-in by default. [Our Content Warnings doc](content-warnings/)
 explains this, and how to create an effective content warning, in more detail.
 
 Content warnings are most commonly used for spoilers and for accessibility. For more about
 the latter, please read [our Accessible Posting doc](accessible-posts/).
 
+### Why are the links in some profiles highlighted and green? What is verification?
 
-FIXME
+Mastodon uses a concept of verification that works like
+identity verification (Keybase, KeyOxide). For information about
+how you can verify your domains and so on, please see our
+[Mastodon Verification doc](/docs/mastodon/user/verification/).
 
-* What posts do I see / not see?
-* What posts show when I follow a hashtag?
-* Verification
-* Mental Health and boundaries
+### The world is on fire, how do I help support myself while enjoying Hachyderm and the Fediverse?
+
+There are many tools that allow you to control what content you
+are exposed to and how visible you want your account and posts to
+be. For information about these features and more, please see
+[our Mental Health doc](mental-health/).
+
