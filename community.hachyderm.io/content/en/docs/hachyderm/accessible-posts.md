@@ -64,8 +64,11 @@ can happen with sustainable time and effort on your part.
 
 When posting accessibly:
 
-1. Learn how to write effective alt text for images.
-1. Use CamelCase for your hashtags.
+1. Include effective alt text for images.
+   * Note you cannot add alt text after posting by editing a post. This includes both creating
+     new alt text that was neglected or fixing existing alt text. The common work around
+     is to comment to your post with the alt text.
+1. Use PascalCase or camelCase for your hashtags.
 1. Learn how to write effective summaries for audio / video content.
 1. Prioritize audio content with captions and transcripts where available.
 1. Be aware how often you post paywalled content; not everyone has the same purchasing power.
@@ -211,8 +214,9 @@ reader encounters "Jayne Cobb :verified: :github:" it will read "Jayne Cobb veri
 One of these is significantly more accessible than the other.
 
 Hashtags is the last heavily used "type" in the visual section. Many screen readers are aware of
-and able to read hashtags, but only when they are CamelCase. For those unfamiliar, that means that
-you should use the hashtag #SaturdayCaturday not #saturdaycaturday. To show the difference,
+and able to read hashtags, but only when they use alternating case (PascalCase, camelCase).
+For those unfamiliar, that means that you should use the hashtag #SaturdayCaturday not
+#saturdaycaturday. To show the difference,
 [Belong AU has an excellent 17 second clip showing how screen readers read hashtags](https://twitter.com/BelongAU/status/1450711235704492035).
 
 #### Audio
@@ -263,7 +267,7 @@ consent windows as well.
 These situations are usually frustrating when you're trying to navigate the situation as-is, let alone
 what happens when you're trying to convert the page to one particular sense (auditory or visual).
 
-Most of these situations do _not_ apply on the fediverse directly. They appear when links to other
+Most of these situations do _not_ apply on the Fediverse directly. They appear when links to other
 pages and content. To be clear, on Hachyderm we do not ask you to be responsible for the entirety
 of the internet. That said, if you are posting content that might be "noisy", it might be worth
 mentioning in your post that supplies a link.
@@ -410,11 +414,11 @@ Another might be someone who needs to scream about how transphobia hurts them, w
 be reminded that's still happening today.
 
 Hachyderm needs to be able to accommodate all of these situations and more. To do so, we try to
-create space for disparate needs to co-exist. For situations where server-level policy wouldn't be
-beneficial to the community, we ask individuals to block keywords, hashtags, and users as needed
-to maintain your mental health in a public space. We also ask everyone to use common keywords and hashtags
+create space for disparate needs to co-exist. For situations where instance-level policy wouldn't be
+beneficial to the community, we ask individuals to [create and maintain their personal boundaries
+in a public space](../mental-health). We also ask everyone to use common keywords and hashtags
 so that those who are looking to filter that content can do so easily. As always, [please report](/docs/moderation/reporting/)
-malicious and manipulative individual users and server instances to the moderation team.
+malicious and manipulative individual users and instances to the moderation team.
 
 As you learn and grow you may want to help others as well. This is great! Remember to do so only
 when you have the emotional space to help with grace. Different people are at different stages in

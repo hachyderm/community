@@ -1,4 +1,3 @@
-
 ---
 title: "Hachyderm Community Documentation"
 linkTitle: "Documentation"
@@ -38,13 +37,6 @@ To see if Hachyderm itself is up and running, please look at:
 
 To report a full or partial outage, or an issue with a particular feature not working as expected, please use
 [our Community Issues on GitHub](https://github.com/hachyderm/community/issues/new/choose).
-
-#### How did Hachyderm start? Who is the "Benevolent Dictator for Life"?
-
-Our Benevolent Dictator for Life is Kris Nóva. Kris Nóva founded Hachyderm on her rack, nicknamed the Water Tower,
-with the servers Yakko, Wakko, and Dot with a guest appearance by a non-Animaniac server named Alice. During
-The Twitter Exodus of 2022 Hachyderm grew from ~700 users to ~40,000 users in two months. It was awesome!
-It was chaotic! And thus, we now have a much larger, non-basement, Hachyderm.
 
 #### Where are all those great incident reports I keep hearing about?
 
