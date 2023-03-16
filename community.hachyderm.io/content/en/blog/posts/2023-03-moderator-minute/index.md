@@ -118,7 +118,7 @@ docs, or wish to submit a PR for the docs, please do so on
 [our Community repo on GitHub](https://github.com/hachyderm/community/).
 
 April will mark one month since we launched [the Nivenly Foundation](https://nivenly.org.),
-Hachyderm's parent org. Nivenly's website is continuing to updated with
+Hachyderm's parent org. Nivenly's website is continuing to be updated with
 information about how to sponsor or become a member. For more information
 about Nivenly, please see [Nivenly's Hello World blog post](https://nivenly.org/blog/2023/03/01/nivenly.helloworld/).
 
