@@ -31,7 +31,7 @@ is about where in the post composition UI you click to create a content warning.
 ## Preserving your mental health
 
 In our new [Mental Health doc](/docs/hachyderm/mental-health/), we focus on ways that you
-can use the Mastodon tools for contraining content and other information. We structurd the
+can use the Mastodon tools for constraining content and other information. We structured the
 doc to answer two specific questions:
 
 * How can people be empowered to set and maintain their own boundaries in a public space (the Fediverse)?
