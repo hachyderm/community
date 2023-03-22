@@ -113,7 +113,7 @@ appeal is possible. ([Skip to The Appeals Process](#the-appeals-process))
 We want to call out that there are times that we temporarily suspend an account
 even if the rule broken is not severe. This would only happen when there is an
 impact to the server or community that would warrant and benefit
-from an immediate, visble, action and forced cool-down period.
+from an immediate, visible, action and forced cool-down period.
 
 ### Limit and Delete Post
 

@@ -199,8 +199,8 @@ is:
 * Attacking / demeaning others' religion is not tolerated
 * Supporting violence towards the participants of a religion is not tolerated
 * Spreading hateful speech regarding religion is not tolerated
-* To clarify potential grey areas: atheism, as the abscence of religion, as
-  well as agnosticism is covered by the above. Other philosphies that could
+* To clarify potential grey areas: atheism, as the absence of religion, as
+  well as agnosticism is covered by the above. Other philosophies that could
   be considered "religion adjacent", like secular humanism, are also protected
   by this rule.
 * Spreading support for a subset of one religion spreading hate, violence,
@@ -227,9 +227,9 @@ the "extremism" aspect that is disallowed on this server.
 ### No racism
 
 A lot of this rule overlaps with No White Supremacy; however as an
-extension and clarification from that rule: discrimation on the basis
+extension and clarification from that rule: discrimination on the basis
 of race or ethnicity is not tolerated on this server. Neither will
-hate speech or propogating hateful ideas on the basis of race or
+hate speech or propagating hateful ideas on the basis of race or
 ethnicity be tolerated.
 
 * Attacking / demeaning others' race or ethnicity is not tolerated
@@ -286,7 +286,7 @@ from time to time. Whether it is sharing current news, feelings about
 current news, personal experiences and/or impacts, or making historical
 connections the fact is that the world is a bit on fire. **Conversations
 from these perspectives are welcome, however: use content warnings on text
-and media whenver discussing or sharing anything that might fall under
+and media whenever discussing or sharing anything that might fall under
 these rules.** If you are unsure, use a content warning as that is why the
 feature is there. This is how we as a community can give space to as many as
 we can: both those who need to talk about certain topics and spread knowledge
