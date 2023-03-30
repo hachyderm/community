@@ -27,6 +27,15 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 * <a rel="me" href="https://hachyderm.io/@tremolo">Tremolo</a>
 
+### Individual / Self Run Entities and similar
+
+This is for individuals that are founding small businesses and
+such where their individual account functions as "corporate"
+and/or there is a lot of overlap. This is **not** for general
+users.
+
+* <a rel="me" href="https://hachyderm.io/@mariyadelano">Mariya Delano</a>
+
 ### Bot Accounts / Automated Posting Accounts
 
 * <a rel="me" href="https://hachyderm.io/@cowsay">cowsay bot</a>
@@ -53,8 +62,9 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@rOpenSci">rOpenSci</a>
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
-### Community Events
+### Community Events, Groups, and similar
 
 * <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
+* <a rel="me" href="https://hachyderm.io/@K8sContributors">K8s Contributors</a>
