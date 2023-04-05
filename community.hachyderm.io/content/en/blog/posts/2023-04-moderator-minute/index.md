@@ -1,14 +1,11 @@
 ---
-date: 2023-03-29
+date: 2023-04-05
 title: "A Minute from the Moderators"
 linkTitle: "April Moderator Minute"
 description: |
   Update on verified accounts and how to file reports to the moderation team.
 author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 ---
-
-FIXME - FIX DATE prior to publish (needed a non-future date for the URL slug to generate)<br />
-FIXME - does the TOC make the post look longer than it is?
 
 Hello and welcome to April! This month we'll be reviewing the account
 verification process we rolled out as well as two more classic moderation
