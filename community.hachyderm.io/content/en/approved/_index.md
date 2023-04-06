@@ -48,6 +48,7 @@ users.
 other API hooks, podcasts, and so forth.**
 
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
+* <a rel="me" href="https://hachyderm.io/@ThingsDrawnByTextModels">Things Drawn By Text Models</a>
 * <a rel="me" href="https://hachyderm.io/@TwosComplement">Two's Complement</a>
 
 ### OSS Projects
@@ -69,3 +70,4 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
 * <a rel="me" href="https://hachyderm.io/@K8sContributors">K8s Contributors</a>
 * <a rel="me" href="https://hachyderm.io/@NottingHack">NottingHack</a>
+* <a rel="me" href="https://hachyderm.io/@WomeninAIethics">Women in AI Ethics</a>
