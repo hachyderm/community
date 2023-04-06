@@ -31,14 +31,14 @@ topics: how to file a report and what to do if you're moderated.
 
 ## Account Verification 
 
-Throughout the month of March we started posting about an account verification
+Throughout the month of March we started circulating an account verification
 process that launched. What does this mean, how do we use it, and what does it
 tell Hachydermians?
 
 ### Mastodon account verification is like an identity service
 
 Verification in the Mastodon context is similar to an ID verification service.
-When you build your profile you have four fields that are labled "profile
+When you build your profile you have four fields that are labeled "profile
 metadata". When you include a URL that you have a `rel=me` link to your
 Mastodon profile on, then that URL highlights green with a corresponding
 green checkmark. In that case, the URL is verified: confirming that the person
@@ -48,11 +48,11 @@ who has control of the account also has control of the domain.
 
 Since some specialized accounts are restricted on Hachyderm, we decided to make
 it more immediately visible which accounts are approved or not. As part of these
-discussions, we also extended the verifcation process to even non-restricted
+discussions, we also extended the verification process to even non-restricted
 specialized accounts.
 
 In order to verify, specialized accounts use the process outlined on our
-[Account Verficiation page](/docs/account-types/verification/) which includes
+[Account Verification page](/docs/account-types/verification/) which includes
 agreeing to the [Specialized Account Expectations](/docs/account-types/covenant/)
 and using our Community GitHub issues to submit the request. Once approved,
 we add their Hachyderm account to an approval page we created for this process.
@@ -67,7 +67,7 @@ first corporate accounts, [Tailscale](https://hachyderm.io/@tailscale):
 
 ### Specialized accounts should be verified
 
-As a reminder the only accounts we're currently requiring to be verified are:
+As a reminder, the only accounts we're currently requiring to be verified are:
 
 * Corporate accounts
 * Bot accounts
@@ -108,9 +108,9 @@ what we see when we receive a report, for reference.
 
 You should always include a description with your report. It can be as succinct as "spam"
 or more descriptive like "account is repeatedly following / unfollowing other users". You
-should even include a description even if the posts, when included, seem to speak for themselves.
+should include a description even if the posts, when included, seem to speak for themselves.
 If you are reporting content in a language other than English, please supply translations
-for any dogwhistles or other commentary that a translation site will likely miss in a word-for-word
+for any dog whistles or other commentary that a translation site will likely miss in a word-for-word
 translation.
 
 Mastodon also deletes posts from reports more than 30 days old. So in the event that we need
@@ -119,7 +119,7 @@ the added context can also help us capture information that is no longer present
 
 ### (Almost) Always include relevant posts
 
-If you are reporting a user because of something they have postsed, you should (almost)
+If you are reporting a user because of something they have posted, you should (almost)
 always include the posts themselves. When a post is reported, the post is saved in the
 report even if the user's home instance deletes the posts. If the posts are not included,
 and the user and/or their instance mods delete the posts, then we have an empty report
@@ -166,11 +166,11 @@ and [our Mental Health doc](/docs/hachyderm/mental-health/).
 
 Being moderated is stressful! We understand and do our best to intervene only when
 required to maintain community safety or when accounts need to be nudged to be in
-alignment with account rules.
+alignment with rules for their account type and/or server rules.
 
-For additonal information on the below, please see our
+For additional information on the below, please see both our
 [Reporting and Communication doc](https://community.hachyderm.io/docs/moderation/reporting/)
-as well as our [Moderation Actions and Appeals doc](https://community.hachyderm.io/docs/moderation/actions-and-appeals/).
+and our [Moderation Actions and Appeals doc](https://community.hachyderm.io/docs/moderation/actions-and-appeals/).
 
 ### Take warnings to heart, but they do not require an appeal
 
@@ -189,7 +189,7 @@ to appeals. We can only accept (repeal) or reject (keep) the decision.
 
 ### Let us know if we've made a mistake
 
-If we've made an error in moderating your account: apologies! We do our best but mistakes
+If we've made an error in moderating your account: apologies! We do our best, but mistakes
 can and will happen. If your account has been restricted, please file an appeal the same
 as in the above: by including the error and your email so we can follow up with you as needed.
 Once we have the information we need we can reverse the error.
