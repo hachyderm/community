@@ -19,6 +19,7 @@ The following accounts that have gone through the approval process with Hachyder
 
 * <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
 * <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
+* <a rel="me" href="https://hachyderm.io/@zomg">Hachyderm ZOMG account</a>
 * <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
 
 ### Corporate Accounts
@@ -71,4 +72,5 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
 * <a rel="me" href="https://hachyderm.io/@K8sContributors">K8s Contributors</a>
 * <a rel="me" href="https://hachyderm.io/@NottingHack">NottingHack</a>
+* <a rel="me" href="https://hachyderm.io/@OpenCost">OpenCost</a>
 * <a rel="me" href="https://hachyderm.io/@WomeninAIethics">Women in AI Ethics</a>
