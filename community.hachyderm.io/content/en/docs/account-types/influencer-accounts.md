@@ -63,5 +63,5 @@ to migrate followers if they become stuck during your migration.
 
 As a rule, if you have more than 10K followers on an existing platform, we ask
 that you reach out to us directly at [admin@hachyderm.io](mailto:admin@hachyderm.io)
-or via the Nivenly Discord (if you're already in there) before announcing your arrival
+or via the [Nivenly Discord](https://discord.gg/yqpEM494RP) (if you're already in there) before announcing your arrival
 to your followers so we can prepare to assist as needed.
