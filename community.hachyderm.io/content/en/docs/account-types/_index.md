@@ -41,11 +41,11 @@ lurking. Accounts that appear to be "parked" will be suspended.
 ## User Accounts
 
 User accounts are also referred to as General Accounts, which are
-briefly described on our [General Accounts page](../general-accounts/).
+briefly described on our [General Accounts page](./general-accounts/).
 
 Similar to all other accounts, General Accounts must follow server rules.
 
-There are few exceptions that would result in General Accounts being moderated more strictly:
+There are some exceptions that would result in General Accounts being moderated more strictly:
 - Accounts Causing Confusion
 - Influencer Accounts
 
