@@ -1,6 +1,6 @@
 ---
 title: "Specialized Account Expectations"
-linkTitle: "Expectations"
+linkTitle: "Specialized Account Expectations"
 weight: 10
 description: >
    Formerly referred to as the Corporate Covenant. We've rebranded the name,
