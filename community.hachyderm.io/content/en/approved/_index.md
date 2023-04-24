@@ -68,6 +68,7 @@ other API hooks, podcasts, and so forth.**
 
 ### Community Events, Groups, and similar
 
+* <a rel="me" href="https://hachyderm.io/@barcampbangalore">Barcamp Bangalore</a>
 * <a rel="me" href="https://hachyderm.io/@CodeAndSupply">Code & Supply</a>
 * <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
