@@ -3,7 +3,7 @@ title: "Exceptions and Rule Changes"
 linkTitle: "Exceptions and Rule Changes"
 weight: 50
 description: >
-  Steps to take if you believe you are an exception or how to request a rule change.
+  Steps to take to request an exception to an existing rule or a rule change.
 ---
 
 ## The Rules
@@ -15,10 +15,10 @@ This means that we will always do our best to take action on reports, but we als
 
 ## Exceptions
 
-If you believe that you are an exception to the rules, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io) with the following information:
-- Your username:
-- A link to the rule that you are impacted by:
-- A description of why you believe you are an exception:
+If you would like to request an exception to the rules, please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io) with the following information:
+- Your username
+- A link to or description of the rule that you are impacted by
+- A description of why you believe you are an exception
 
 ## Rule Changes
 
