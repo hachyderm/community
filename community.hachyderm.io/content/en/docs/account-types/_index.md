@@ -41,18 +41,33 @@ lurking. Accounts that appear to be "parked" will be suspended.
 ## User Accounts
 
 User accounts are also referred to as General Accounts, which are
-briefly described on our [General Accounts page](../general-accounts/).
-In general:
+briefly described on our [General Accounts page](./general-accounts/).
 
-- Follow server rules
-- Don't create an account type confusion with a specialized account type
+Similar to all other accounts, General Accounts must follow server rules.
 
-For the latter, if you are an individual user then you shouldn't
+There are some exceptions that would result in General Accounts being moderated more strictly:
+- Accounts Causing Confusion
+- Influencer Accounts
+
+Please review the below sections for details about each of the exceptions
+
+### Accounts Causing Confusion
+
+If your account has habitual posts that result in confusion about the
+purpose of the account, your account could be subject to moderation.
+It's recommended that you review the list of [Recognized Specialized Account Categories](#recognized-specialized-account-categories)
+and the list of [Disallowed Specialized Account Categories](#disallowed-specialized-account-categories)
+to confirm that a significant portion of your posts don't fall into these categories.
+
+In addition, if you are an individual user then you shouldn't
 have a username or an about page that might indicate that you are a
 company, project, or other form of specialized account. As a
 specific example, if you have an account name like MyUserCompany
 or MyPodcast, then you will be considered that specialized account
 type based on name or about page and be bound by those rules.
+
+As always, our group of volunteer moderator will always do their best to abide
+by the [Moderator Covenant.](https://community.hachyderm.io/docs/moderation/covenant/)
 
 ### Influencer Accounts = Large Userbase Accounts
 
