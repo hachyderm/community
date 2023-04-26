@@ -30,17 +30,16 @@ Mutual aid is a form of solidarity-based support that is centered around the ide
 
 > Hachyderm unequivocally supports all calls for mutual aid. -Nóva
 
-As a community that focuses on being a safe space and supporting the needs of marginalized people, we want to support mutual aid efforts. We also want to ensure that our environment does not support exploiting the needs of marginalized people to the benefit of others.
+As a community that focuses on being a safe space and supporting the needs of marginalized people, we support mutual aid efforts. The rules below help to ensure individuals are not exploiting the needs of marginalized people to the benefit of others.
 
 Things to keep in mind when posting about mutual aid:
-- Mutual aid is not charity. Mutual aid is not a handout. Mutual aid is a way for us to support one another in a way to support one another without "lording" status or favors over another being.
+- Mutual aid is not charity. Mutual aid is not a handout. Mutual aid is a way for us to support one another in a way to support one another without demanding status or favors over another being.
 - Mutual aid typically involves a one-to-one interaction. However, please remember your mental health as you interact with the community and only share what you are comfortable with discussing.
 
-### Rules around Mutual Aid
+### Posting about Mutual Aid
 
-Mutual Aid post must include the following:
-- You must include "This post is for `#mutualaid`" either at the beginning or end of your post.
-- Mutual aid post must still be appropriately marked with content warnings when applicable, but you can add mutual aid to the title to help with engagement. For example, if the need from the mutual aid is related to domestic abuse, you could use the `Mutual Aid: Domestic Abuse` content warning.
+- You should include "This post is for `#MutualAid`" either at the beginning or end of your post.
+- Mutual aid post should still be appropriately marked with content warnings when applicable, but you can add mutual aid to the title to help with engagement. For example, if the need from the mutual aid is related to domestic abuse, you could use the `Mutual Aid: Domestic Abuse` content warning.
 
 ## Charity Fundraisers
 
@@ -48,12 +47,11 @@ Mutual Aid post must include the following:
 
 Charity fundraisers are a way for us to support organizations that are doing work that we believe in. Charity fundraisers are not typically a way for us to support individuals.
 
-### Rules around Charity Fundraisers
+### Posting about Charity Fundraisers
 
-While we are appreciative of the incredible work that large organizations can do for individuals in needs, specialized accounts that are focused on charity fundraisers are not permitted at this time as we do not have the capacity to vet each organization.
+While we are appreciative of the incredible work that large organizations can do for individuals in need, specialized accounts that are focused on charity fundraisers are not permitted at this time as we do not have the capacity to vet each organization.
 
-All others user posts related to charity fundraisers must include the following:
-- You must include "This post is for `#FediFundraising`" either at the beginning or end of your post.
+All others user posts related to charity fundraisers should include "This post is for `#FediFundraising`" either at the beginning or end of your post.
 
 ## Affiliate Links
 
@@ -61,10 +59,10 @@ All others user posts related to charity fundraisers must include the following:
 
 Affiliate links allow an individual to earn a commission when someone purchases a product or service through their link. Affiliate links are a way for you to earn money without having to create a product or service.
 
-### Rules around Affiliate Links
+### Posting about Affiliate Links
 
 ## Crowdfunding
 
 ### Description
 
-### Rules around Crowdfunding
+### Posting about Crowdfunding
