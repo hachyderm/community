@@ -59,10 +59,26 @@ All others user posts related to charity fundraisers should include "This post i
 
 Affiliate links allow an individual to earn a commission when someone purchases a product or service through their link. Affiliate links are a way for you to earn money without having to create a product or service.
 
+Typically users that are posting affiliate links are doing so from a business capacity. As a result, we ask that ver
+
 ### Posting about Affiliate Links
+
+- You **must** include "This uses `#AffiliateLinks`" either at the beginning or end of your post.
+- Accounts that are utilizing affiliate links will be moderated based on the [Specialized Account Expectations](/docs/account-types/covenant/). Should you choose to utilize affiliate links, you will be expected to follow the guidelines outlined in the Specialized Account Expectations.
+- Posts that include affiliate links may not be made through an automation. All posts must be made by a human.
+- Posts that include affiliate links must be made by the individual that is receiving the commission. You may not post affiliate links on behalf of another individual.
 
 ## Crowdfunding
 
 ### Description
 
+Crowdfunding is a way for individuals to raise money for a specific project or cause. Crowdfunding is typically done through a platform such as Kickstarter, Indiegogo, or GoFundMe.
+
 ### Posting about Crowdfunding
+
+Please use the below matrix to determine how to interact with crowdfunding posts.
+
+| Type of Crowdfunding | Poster Involved | Poster is not Involved |
+| --- | --- | --- |
+| Mutual Aid | Crowdfunding for a mutual aid effort is allowed. Please review the [mutual aid](#mutual-aid) section above. | Please ensure that the individual(s) impacted are okay with the distribution of their information. |
+| Not Mutual Aid | As a community that focuses on science and technology, we want to support the incredible work that is being done by our users. However, we ask that you be mindful of the frequency of your posts and review the [Specialized Account Expectations](/docs/account-types/covenant/) for more information. For non-tech crowdfunding, we recommend an alternative platform. | We are excited that you are excited! |
