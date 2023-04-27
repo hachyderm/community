@@ -36,5 +36,4 @@ for the next person to add themself.
 | msangi           | [mario](https://hachyderm.io/@mario/)                       | msangi           | Italian          |
 | slamp            | [slamp](https://hachyderm.io/@slamp/)                       | slamp            | French           |
 | mnl              | [mnl](https://hachyderm.io/@mnl/)                           | slono            | French, German   |
-| Issy             | [issyl0](https://hachyderm.io/@issyl0/)                     | issyl0           | French           |
 
