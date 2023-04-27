@@ -29,7 +29,7 @@ Absolutely under no circumstance is 18+ content allowed without a content warnin
 We believe the first step in understanding how to navigate sexual content is to be a good steward of the content.
 We expect all Hachydermians to lead by example with regard to consent.
 
-In other words we expect all Hachydermians to have a mature understanding of consent, and to practice consent in their daily usage of the service by offering their content with a [content warning](https://github.com/hachyderm/community/blob/main/welcome/README.md#content-warnings-%EF%B8%8F). 
+In other words we expect all Hachydermians to have a mature understanding of consent, and to practice consent in their daily usage of the service by offering their content with a [content warning](/docs/hachyderm/content-warnings/). 
 
 The first step in practicing consent is learning how to listen to the needs of others, and be respectful and cognizant of their needs.
 It is important that everyone understands that their own personal definition of sexually charged content will likely be different from others.
