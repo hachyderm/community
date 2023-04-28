@@ -78,7 +78,7 @@ Crowdfunding is a way for individuals to raise money for a specific project or c
 
 Please use the below matrix to determine how to interact with crowdfunding posts.
 
-| Type of Crowdfunding | Poster Involved | Poster is not Involved |
+| Type of Crowdfunding | Poster Financially Benefits | Poster Does Not Financially Benefit |
 | --- | --- | --- |
 | Mutual Aid | Crowdfunding for a mutual aid effort is allowed. Please review the [mutual aid](#mutual-aid) section above. | Please ensure that the individual(s) impacted are okay with the distribution of their information. |
 | Not Mutual Aid | As a community that focuses on science and technology, we want to support the incredible work that is being done by our users. However, we ask that you be mindful of the frequency of your posts and review the [Specialized Account Expectations](/docs/account-types/covenant/) for more information. For non-tech crowdfunding, we recommend an alternative platform. | We are excited that you are excited! |
