@@ -38,7 +38,7 @@ Things to keep in mind when posting about mutual aid:
 
 ### Posting about Mutual Aid
 
-- You should include "This post is for `#MutualAid`" either at the beginning or end of your post.
+- You should include "`#MutualAid`" either at the beginning or end of your post.
 - Mutual aid post should still be appropriately marked with content warnings when applicable, but you can add mutual aid to the title to help with engagement. For example, if the need from the mutual aid is related to domestic abuse, you could use the `Mutual Aid: Domestic Abuse` content warning.
 
 ## Charity Fundraisers
@@ -51,7 +51,7 @@ Charity fundraisers are a way for us to support organizations that are doing wor
 
 While we are appreciative of the incredible work that large organizations can do for individuals in need, specialized accounts that are focused on charity fundraisers are not permitted at this time as we do not have the capacity to vet each organization.
 
-All others user posts related to charity fundraisers should include "This post is for `#FediFundraising`" either at the beginning or end of your post.
+All others user posts related to charity fundraisers should include "`#FediFundraising`" either at the beginning or end of your post.
 
 ## Affiliate Links
 
@@ -59,11 +59,11 @@ All others user posts related to charity fundraisers should include "This post i
 
 Affiliate links allow an individual to earn a commission when someone purchases a product or service through their link. Affiliate links are a way for you to earn money without having to create a product or service.
 
-Typically users that are posting affiliate links are doing so from a business capacity. As a result, we ask that ver
+Typically users that are posting affiliate links are doing so from a business capacity.
 
 ### Posting about Affiliate Links
 
-- You **must** include "This uses `#AffiliateLinks`" either at the beginning or end of your post.
+- You **must** include "`#AffiliateLinks`" either at the beginning or end of your post.
 - Accounts that are utilizing affiliate links will be moderated based on the [Specialized Account Expectations](/docs/account-types/covenant/). Should you choose to utilize affiliate links, you will be expected to follow the guidelines outlined in the Specialized Account Expectations.
 - Posts that include affiliate links may not be made through an automation. All posts must be made by a human.
 - Posts that include affiliate links must be made by the individual that is receiving the commission. You may not post affiliate links on behalf of another individual.
