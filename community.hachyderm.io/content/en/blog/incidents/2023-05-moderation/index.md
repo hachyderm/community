@@ -21,7 +21,7 @@ post is a little longer than our norm.
 (A note to the broader, non-tech industry, members of our community: “Incident”
 here carries similar context and meaning to an
 “[IT Incident](https://en.wikipedia.org/wiki/Computer_security_incident_management)”
-as we are a tech-oriented instance. Post Mortems for traditional IT incidents are also in
+as we are a tech-oriented instance. Postmortems for traditional IT incidents are also in
 this section.)
 
 ### A Short, Confusing Timeline
