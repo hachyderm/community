@@ -3,7 +3,7 @@ date: 2023-05-02
 title: "Moderation Postmortem"
 linkTitle: "Moderation Postmortem"
 description: "Moderation incident from May 2023 and inter-instance communication."
-author: Quintessence ([@quintessnce](https://hachyderm.io/@quintessence))
+author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
