@@ -123,7 +123,7 @@ communicate, it was unnatural for some of the existing instances to do so. Inste
 seems there are pre-existing cultural norms in the space we weren’t aware of, the
 impact of this is that some instances knew how to reach us and others did not.
 
-We have been taking feedback from the person we connect with so that we can balance
+We have been taking feedback from the person we connected with so that we can balance
 the needs of the existing communication patterns and norms of the Fediverse, while
 not accidentally creating a situation where a communication method ends up either
 too silo’ed or not appropriately visible due to our team structures.
