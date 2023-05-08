@@ -1,5 +1,5 @@
 ---
-date: 2023-05-04
+date: 2023-05-08
 title: "A Minute from the Moderators"
 linkTitle: "May Moderator Minute"
 description: |
@@ -19,6 +19,7 @@ into the topics that we wanted to cover in this month's Moderator Minute!
 - [Moderation on a large instance](#moderation-on-a-large-instance)
   - [How moderators are selected](#how-moderators-are-selected)
   - [Moderation onboarding and continuous improvement](#moderation-onboarding-and-continuous-improvement)
+  - [When moderators make a mistake](#when-moderators-make-a-mistake)
 - [Harm prevention and mitigation on large instance](#harm-prevention-and-mitigation-on-large-instance)
   - [Using research as a tool for harm prevention](#using-research-as-a-tool-for-harm-prevention)
   - [Nurturing safe spaces by requiring active participation in moderation](#nurturing-safe-spaces-by-requiring-active-participation-in-moderation)
@@ -89,6 +90,19 @@ kept the process. This means it is common for multiple moderators to see an
 individual ticket and asynchronously discuss prior to taking an action. This
 informal, consensus-style review has led to our team being able to continue
 to learn from each individual's experiences and expertise.
+
+### When moderators make a mistake
+
+We do our best, but are human and are thus prone to mistakes. Whenever something
+like this happens, we:
+
+* May follow up with the impacted user or users
+* Will review the policy that led to the error
+
+When we make mistakes, we will always do our best by the user(s) directly
+impacted. This means that we will take ownership for our mistakes, apologize
+to the impacted user(s) if doing so will not cause further harm, and also
+review any relevant policies to ensure it doesn't happen again. 
 
 ## Harm prevention and mitigation on large instance
 
