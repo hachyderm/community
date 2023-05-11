@@ -165,7 +165,7 @@ of systems of oppression, posting illegal content, harassment, etc.
 
 The other situation is if the account is a type that we ban on our
 server and it was correctly flagged (please file an appeal if not).
-Common types of banned account types are NSFW and fundraising.
+Common types of banned accounts are those that don't abide by our [NSFW Policy](/docs/nsfw-policy/) and [Monetary Policy](/docs/monetary-posts/).
 
 For clarity: if your account was suspended (or frozen) due to being either
 1 ) an unrecognized special account type or 2 ) not following the rules
