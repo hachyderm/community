@@ -7,11 +7,11 @@ body:
     attributes:
       value: |
         ## ⚠️  Please Read Before Proceeding ⚠️
-        Before filing this report, please review our [Blocklist Documentation Page](https://community.hachyderm.io/docs/blocklists/).
+        Before filing this report, please review our [Blocklist Documentation Page](https://community.hachyderm.io/docs/moderation/blocklists/).
         This doc page includes expectation setting for how servers are added/removed and how much transparency to expect.
 
         If this domain needs to be brought to our attention in a non-public venue, please file a report using either the Mastodon
-        UI or email us directly. For information about this, please read our [Reporting Documentation Page](https://community.hachyderm.io/docs/reporting/).
+        UI or email us directly. For information about this, please read our [Reporting Documentation Page](https://community.hachyderm.io/docs/moderation/reporting/).
   - type: textarea
     attributes:
       label: |
