@@ -30,8 +30,3 @@ Hachyderm deeply believes there is untapped value left in computer science. We i
 
 Your user data will never be leveraged for an experiment. All user profile data, direct messages, post content, access metrics, demographic detail, and personal information will be restricted from any form of experiment. To be even more direct about, you, as a Hachyderm user will never be leveraged in an experiment. We will not be experimenting on you. We are experimenting on the tools and services that support hachyderm's public services such as prototyping databases, HTTP(s) servers, and compute runtimes.
 
-### Meet The Team 
-
- - [Kris Nóva](https://hachyderm.io/@nova)
-
-
