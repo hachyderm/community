@@ -25,6 +25,7 @@ The following accounts that have gone through the approval process with Hachyder
 ### Corporate Accounts
 
 * <a rel="me" href="https://hachyderm.io/@adminmagazine">ADMIN Magazine</a>
+* <a rel="me" href="https://hachyderm.io/@CrowdSupply">Crowd Supply</a>
 * <a rel="me" href="https://hachyderm.io/@oxidecomputer">Oxide Computer Company</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 * <a rel="me" href="https://hachyderm.io/@tremolo">Tremolo</a>
