@@ -68,6 +68,8 @@ scenario. We will continue to announce when new instances are added to this list
 via [our Hachyderm Hachyderm account](https://hachyderm.io/@hachyderm) and link
 back to this blog post. Instances that are no longer impacted will be un-Limited.
 
-* Mastodon Social
-* Mastodon World
 * TechHub Social
+
+Update 25 May 2023 - we've been crypto spam free from Mastodon
+Social and Mastodon World, so we've gone ahead an un-Limited those
+instances.
