@@ -66,10 +66,16 @@ current crypto spam attack here. Note that this is not _all_ instances we curren
 have Limited for any reason, only the ones that are experiencing this specific
 scenario. We will continue to announce when new instances are added to this list
 via [our Hachyderm Hachyderm account](https://hachyderm.io/@hachyderm) and link
-back to this blog post. Instances that are no longer impacted will be un-Limited.
+back to this blog post. Instances that are no longer impacted will be un-Limited
+and removed from the list below. (When the list is empty, that means that all
+instances have been un-Limited.)
 
-* TechHub Social
+### Updates
 
 Update 25 May 2023 - we've been crypto spam free from Mastodon
 Social and Mastodon World, so we've gone ahead an un-Limited those
 instances.
+
+Update 2 Jun 2023 - we've been crypto spam free from TechHub Social,
+so we've gone ahead and un-Limited that instance! That's the last
+one, so this incident is resolved.
