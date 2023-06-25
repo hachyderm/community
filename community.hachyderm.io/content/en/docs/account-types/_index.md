@@ -170,7 +170,7 @@ The following are disallowed as general content on the server, thus are
 also disallowed as a dedicated account type.
 
 * NSFW / 18+ - This is mostly due to our need to be able to comply with 18+, which
-  isn't in the Mastodon tooling at this time. (See our [Sexual Content Policy](nsfw-policy/) for more information.)
+  isn't in the Mastodon tooling at this time. (See our [Sexual Content Policy](../nsfw-policy/) for more information.)
 * Fundraising - No accounts can fundraise on Hachyderm.
 * Unofficial company / corporate accounts - As this account type is invite only, unapproved
   accounts will be banned.
