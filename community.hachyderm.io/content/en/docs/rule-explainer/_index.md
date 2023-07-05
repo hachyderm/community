@@ -84,7 +84,6 @@ colonialism" rule or a violation of our "don't be a dick" policy.
 We don't want to be the "shitpost" police. 
 We encourage you to shitpost, just not at the expense of others.
 
-
 ### No hacking
 
 All usage of Hachyderm as a service should fall under "expected use".
@@ -103,7 +102,7 @@ Breach Du Jour ™️ ".
 
 No one should ever discuss infosec knowledge where they have privileged
 access. e.g. If you know of an unpublished vulnerability that an entity
-or community hasn't had the change to address, whether or not they have
+or community hasn't had the chance to address, whether or not they have
 been notified, and other best practices in this space.
 
 As the moderator team is volunteer, what this means for reports that come
@@ -128,7 +127,6 @@ were reported for disclosing privileged information that is in fact public,
 include links to that effect. Just as we need the report to make it as
 easy as possible for us to "trust but verify", we need you to make your appeal
 as easy as possible for us to "trust but verify".
-
 
 #### What you should do if you are interested in helping with security
 
@@ -155,7 +153,7 @@ Specifically the following are not tolerated:
 
 ### No fascism
 
-Toots in favor of fascism either abstactly or concretely are not allowed.
+Toots in favor of fascism either abstractly or concretely are not allowed.
 This includes sharing material and media that is in favor of fascism.
 
 ### No colonialism
@@ -213,7 +211,6 @@ or otherwise discuss religion in this space. It simply cannot cross the line
 into causing harm and requires good boundaries and healthy respect by all active
 participants. All participants must also keep in mind that their conversation
 will be visible by many, many non-participants in the Fediverse.
-
 
 ### No nationalism
 
