@@ -273,7 +273,7 @@ including decisions, outages, and so forth, as it’ll be relevant to the other 
 The tools we use to send **announcements** are one or more of the following:
 
 * Hachyderm site announcements 
-* Posts on Hachyderm’s Hachyderm](https://hachyderm.io/@hachyderm) account, which
+* Posts on [Hachyderm’s Hachyderm](https://hachyderm.io/@hachyderm) account, which
   are also cross posted in the Hachyderm category of Nivenly’s Community Discord
 * [Blog posts and documentation](https://community.hachyderm.io)
 
