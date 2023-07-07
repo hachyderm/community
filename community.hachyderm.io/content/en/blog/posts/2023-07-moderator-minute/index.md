@@ -54,7 +54,7 @@ in that will foster the growth of others.
 
 # Interested in volunteering? We’re growing our moderation team!
 
-Also as a response to the growth we’re seeing, we’re scaling the Moderation team!
+Also, as a response to the growth we’re seeing, we’re scaling the Moderation team!
 If you’re interested in volunteering on the moderation team, please read on.
 
 Hachyderm is operated by two teams: moderation and infrastructure. In an effort to
@@ -103,14 +103,14 @@ will have more details about what they’re looking for specifically, we can sha
 a bit of our experience to help as well.
 
 As one of the first two (the other being Aurae) Nivenly Projects, we can share
-that two things to be aware of if you’re interesting in scoping out the project:
+that two things to be aware of if you’re interested in scoping out the project:
 Nivenly will want to ensure that any projects brought on can commit to safe spaces
 and there will be expectations for what that means as well as projects that are
 interested in improving the community space overall. This can mean that an infra
 team will need to have one or more members (but not all) that are interested in
 contributing to the project’s software where / as applicable.
 
-For anyone with pre-emptive questions about this, please reach out to Nivenly
+For anyone with preemptive questions about this, please reach out to Nivenly
 using their email: [info@nivenly.org](mailto:info@nivenly.org).
 
 # Let’s talk about Meta.
@@ -127,8 +127,8 @@ released information.
 
 For this section, the first thing that we’ll be covering is how we’ll come to
 consensus about Meta’s instance, Threads. Then we’ll go into a bit about how
-Hachydermians can communicate their wants and needs to us as well as a refresher
-for how we send out communications. 
+Hachydermians can communicate their wants and needs to us, as well as a refresher
+on how we send out communications. 
 
 ## How the Hachyderm instance will reach consensus about Meta and communicate about it
 
@@ -190,7 +190,7 @@ federate with Threads and support the ActivityPub protocol, which is in use
 on the Fediverse, but is not doing so at this time. Less than a day into launch,
 and there are already reports that Twitter is threatening to sue Meta over
 intellectual property. ([Ars Technica article here](https://arstechnica.com/tech-policy/2023/07/musk-and-zuck-may-fight-in-court-twitter-threatens-to-sue-meta-over-threads/).)
-Basically: it launced, and there is uncertainty to the product's future.
+Basically: it launched, and there is uncertainty to the product's future.
 
 If and when Threads starts federating, similar to other instances on the Fediverse,
 Hachyderm will evaluate our federation status using the above criteria. If Threads
@@ -247,7 +247,7 @@ As the situation is still evolving, there is a lot of speculation to be answered
 [The Mastodon project has a blog post](https://blog.joinmastodon.org/2023/07/what-to-know-about-threads/)
 that answers some of these, including what can
 (and cannot) be done with ActivityPub or the Mastodon software. Similarly,
-[Nexus of Privacy is writing a long deep dive into issues and concerns with Fediverse Privacy and Threat Modeling](https://privacy.thenexus.today/fediverse-threat-modeling-privacy-and-meta/). 
+[Nexus of Privacy is writing a deep dive into issues and concerns with Fediverse Privacy and Threat Modeling](https://privacy.thenexus.today/fediverse-threat-modeling-privacy-and-meta/). 
 The article is still a draft, but already contains great points to consider if you or your
 instance are not doing so already.
 
