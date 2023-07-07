@@ -4,7 +4,7 @@ title: "A Minute from the Moderators"
 linkTitle: "July Moderator Minute"
 description: |
   Moderator volunteers, Reddit alternatives, and Meta
-author: Hachyderm Maintainers ([@hachyderm](https://hachyderm.io/@hachyderm))
+author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 ---
 
 Hello and welcome to this month’s Moderator Minutes. Apologies for missing June, we
