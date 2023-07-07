@@ -269,7 +269,7 @@ place we haven’t received Q&A about Meta yet.
 ## How we communicate site-wide
 
 We also wanted to provide a refresher for how we communicate anything that is user impacting,
-including decisions, outages, and so forth, as it’ll be relevant to the other subsections about Meta.
+including decisions, outages, and so forth, as it's relevant to both the Meta Q&A and our communications in general.
 The tools we use to send **announcements** are one or more of the following:
 
 * Hachyderm site announcements 
