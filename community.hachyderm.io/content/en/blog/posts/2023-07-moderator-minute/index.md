@@ -233,9 +233,9 @@ around concern that Meta could deploy what’s called the “embrace, extend, ex
 against ActivityPub. This basically means that Meta would adopt it, start to build it out, and
 then (try to) eliminate its use.
 
-Another concern in this area is what would happen with user data. To state it clearly: Hachyderm
+Another concern in this area is what would happen with user data. **To state it clearly: Hachyderm
 does not and will not ever sell user data. Due to the consequences of federation, we also cannot
-federate with instances that sell user data.
+federate with instances that sell user data.**
 
 This means that if Hachyderm does ultimately federate with Threads, if and when they start
 federating, it will be because they pass all the above tests and, importantly, doing so does
