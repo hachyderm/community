@@ -51,9 +51,10 @@ Fediverse (these are not exclusive to Hachyderm):
 1. Images of faces with eye contact
 1. Images of food and alcohol, even if they are not being consumed in excess
    * Though they will also be behind a content warning if they are
-1. Text or media describing or showcasing violence
+1. Text or media describing or showcasing violence or weapons (including but not limited to guns, knives, and swords)
    * This is common when discussing news around war violence or shootings
    * Also common when sharing stories of personal trauma
+   * This is also common when sharing news about personal safety, domestic abuse, or sexual assault
 1. NSFW content
    * Please see our [Sexual Content Policy](/docs/nsfw-policy/) for information
      that is specific to Hachyderm.
