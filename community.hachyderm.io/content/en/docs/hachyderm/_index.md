@@ -41,7 +41,7 @@ itself dives into those with more nuance, thus the doc page itself is quite long
 reading and understanding just the asks when you're getting started, then coming back once you're
 in a place to dive into the deeper explainations.
 
-Beyond that, you will need to understand [our server rules](/docs/server-rules/)
+Beyond that, you will need to understand [our server rules](/docs/rule-explainer/)
 and [permitted account types](/docs/account-types/) (if you're looking to create a non-general
 user account). The Rule Explainer doc, like the Accessible Posting doc, has the short
 list of rules at the top and then delves into them. Similar to Accessible Posting, we recommend
