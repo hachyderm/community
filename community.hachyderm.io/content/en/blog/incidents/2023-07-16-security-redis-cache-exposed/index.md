@@ -20,7 +20,7 @@ Highly sensitive information like passwords, private keys, and private posts wer
 
 The affected Redis cache stored the following types of information with a 10 minute time-to-live before getting deleted:
 
-- Logins using `/auth/sign_in` will create cached inputted email addresses and used IP addresses for login throttling. Note that if you had a cached session during this period, no IPs or email-addresses would have been included.
+- Logins using `/auth/sign_in` will cache inputted email addresses and used IP addresses for login throttling. Note that if you had a cached session during this period, no IPs or email-addresses would have been included.
 - Rails-generated HTML content.
 - Some UI-related settings for individual users (examples being toggles for reducing motion, auto play gifs, and the selected UI font).
 - Public posts rendered by Mastodon in the affected period.
