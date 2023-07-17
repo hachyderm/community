@@ -10,13 +10,13 @@ author: Esk ([@esk](https://hachyderm.io/@esk)), Sofi ([@soupglasses](https://ha
 
 Between July 9 and July 16, 2023, one of Hachyderm’s Redis cache servers was exposed to the public internet. On July 16, 2023, the Hachyderm Infrastructure team identified a misconfiguration of our firewall on the cache server which allowed access to the redis interface from the public Internet. After a routine system update, the nftables firewall service was not brought up automatically after a restart, which exposed the Redis cache to the internet for a period of seven days.
 
-Normally, Hachyderm servers run nftables to block all except necessary traffic from the Internet. We leverage Tailscale for inter-service communication and only expose ports to the Internet as needed to run Mastodon and administer our systems.
+Normally, Hachyderm servers run nftables to block all except necessary traffic from the Internet. We leverage Tailscale for server-to-server communication and only expose ports to the Internet as needed to run Mastodon and administer the systems.
 
 As of July 16, 2023 11:17 UTC, the Hachyderm team has corrected the configuration on our systems and blocked external actors from accessing this Redis instance.
 
 ## Impact
 
-Highly sensitive information like passwords, private keys, and private posts were NOT available as part of this incident. No action is required from the user.
+Highly sensitive information like passwords, private keys, and private posts were **NOT** exposed as part of this incident. No action is required from the user.
 
 The affected Redis cache stored the following types of information with a 10 minute time-to-live before getting deleted:
 
@@ -26,9 +26,7 @@ Some UI-related settings for individual users (examples being toggles for reduci
 Public posts rendered by Mastodon in the affected period.
 Other non-critical information like emojis, blocked IPs, status counts, and other normally public information of the instance.
 
-We do not have sufficient monitoring to confirm precisely when the compromise occurred. We also have no confirmation if any of the above data was actually sent to a third party, but since the information was available to them, we assume the data was compromised. Fortunately, this particular Redis cache expires information after 10 minutes, so the window of opportunity for any particular chunk of information was small.
-
-Finally, during the attack, the Redis cache put itself in a defensive read only mode. Because no new data could be written to the cache, after the Redis server flipped read-only, all data still present in the cache expired ten minutes thereafter.
+We do not have sufficient monitoring to confirm precisely when the compromise occurred. We also have no confirmation if any of the above data was actually sent to a third party, but since the information was available to them, we assume the data was compromised. But since the adversary turned on read-replica mode disabling writes, and Mastodon's cache having a time to live of 10 minutes, it would have severely limited the amount of information leaked in this period
 
 ## Timeline
 
