@@ -1,7 +1,7 @@
 ---
 date: 2023-07-16
-title: "Security incident: Redis cache exposed to public internet (July 16, 2023)"
-linkTitle: "2023-07-16 Security incident: Redis exposure"
+title: "Security incident: Redis cache exposed to public internet"
+linkTitle: "Security incident: Redis exposure"
 description: "Production security incident. Redis cache exposed to internet. No user action required."
 author: Esk ([@esk](https://hachyderm.io/@esk)), Sofi ([@soupglasses](https://hachyderm.io/@soupglasses)), and the Hachyderm Infra team
 ---
