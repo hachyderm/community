@@ -19,6 +19,7 @@ The following accounts that have gone through the approval process with Hachyder
 
 * <a rel="me" href="https://hachyderm.io/@aurae">Aurae</a>
 * <a rel="me" href="https://hachyderm.io/@hachyderm">Hachyderm</a>
+* <a rel="me" href="https://hachyderm.io/@hachyinfra">Hachyderm Infrastructure</a>
 * <a rel="me" href="https://hachyderm.io/@zomg">Hachyderm ZOMG account</a>
 * <a rel="me" href="https://hachyderm.io/@nivenly">Nivenly Foundation</a>
 
