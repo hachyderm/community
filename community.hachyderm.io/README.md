@@ -1,3 +1,5 @@
+[![Hugo Deployment](https://github.com/hachyderm/community/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/hachyderm/community/actions/workflows/publish.yml)
+
 # Hachyderm Community Resources Website
 
 Here is the static website that is hosted at [community.hachyderm.io](https://community.hachyderm.io).
