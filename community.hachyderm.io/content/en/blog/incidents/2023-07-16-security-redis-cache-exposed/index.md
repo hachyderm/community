@@ -20,11 +20,11 @@ Highly sensitive information like passwords, private keys, and private posts wer
 
 The affected Redis cache stored the following types of information with a 10 minute time-to-live before getting deleted:
 
-Email and IP Address of users who used the logged in during this period. Note that if you had a cached session during this period, this data would not have been included.
-Rails-generated HTML content
-Some UI-related settings for individual users (examples being toggles for reducing motion, auto play gifs, and the selected UI font).
-Public posts rendered by Mastodon in the affected period.
-Other non-critical information like emojis, blocked IPs, status counts, and other normally public information of the instance.
+- Email and IP Address of users who used the logged in during this period. Note that if you had a cached session during this period, this data would not have been included.
+- Rails-generated HTML content
+- Some UI-related settings for individual users (examples being toggles for reducing motion, auto play gifs, and the selected UI font).
+- Public posts rendered by Mastodon in the affected period.
+- Other non-critical information like emojis, blocked IPs, status counts, and other normally public information of the instance.
 
 We do not have sufficient monitoring to confirm precisely when the compromise occurred. We also have no confirmation if any of the above data was actually sent to a third party, but since the information was available to them, we assume the data was compromised. But since the adversary turned on read-replica mode disabling writes, and Mastodon's cache having a time to live of 10 minutes, it would have severely limited the amount of information leaked in this period
 
