@@ -10,7 +10,7 @@ author: Esk ([@esk](https://hachyderm.io/@esk)), Sofi ([@soupglasses](https://ha
 
 Between July 9 and July 16, 2023, one of Hachyderm’s Redis cache servers was exposed to the public internet. On July 16, 2023, the Hachyderm Infrastructure team identified a misconfiguration of our firewall on the cache server which allowed access to the redis interface from the public Internet. After a routine system update, the nftables firewall service was not brought up automatically after a restart, which exposed the Redis cache to the internet for a period of seven days.
 
-During the exposure, an unknown third party attempted to reconfigure our Redis server to act as a replica for a Redis server they controlled. Lucikly, the reconfiguration contained an error which triggered a protective read-only mode in the Hachyderm Redis.
+During the exposure, an unknown third party attempted to reconfigure our Redis server to act as a replica for a Redis server they controlled. Due to this change, a read-only mode was enabled on Hachyderm Redis and no further data was written.
 
 Normally, Hachyderm servers run nftables to block all except necessary traffic from the Internet. We leverage Tailscale for server-to-server communication and only expose ports to the Internet as needed to run Mastodon and administer the systems.
 
