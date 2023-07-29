@@ -124,7 +124,7 @@ collaboration with Hachydermians.
 > We want community consent to be the default.
 
 There is a lot of content on the internet that can be either harmful or fun, depending on
-its frequency and presentation. Bots, newsletters, and so on are execellent examples
+its frequency and presentation. Bots, newsletters, and so on are excellent examples
 of this: having a bot respond with "honk" when summoned can get a laugh. A bot that
 auto-responds with gas prices when you mention certain keywords is not. When we are
 moderating specialized accounts, and drafting policies around them, the goal is to
