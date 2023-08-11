@@ -42,6 +42,7 @@ users.
 
 ### Bot Accounts / Automated Posting Accounts
 
+* <a rel="me" href="https://hachyderm.io/@books2explore">books2explore</a>
 * <a rel="me" href="https://hachyderm.io/@cowsay">cowsay bot</a>
 * <a rel="me" href="https://hachyderm.io/@ietf_wg_dnsop">DNS Operations Working Group of the Internet Engineering Task Force (IETF)</a>
 * <a rel="me" href="https://hachyderm.io/@vecka">vecka</a>
