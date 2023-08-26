@@ -1,6 +1,6 @@
 ---
 name: Reporting Service Issue
-description: There is a partial or full outage on Hachyderm
+description: There is a partial or full outage on Hachyderm. Please review https://status.hachyderm.io/ as we may already know.
 labels:
   - Reporting Service Issue
 body:
