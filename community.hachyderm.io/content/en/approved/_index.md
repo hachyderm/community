@@ -70,6 +70,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@fluiddyn">FluidDyn</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
 * <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
+* <a rel="me" href="https://hachyderm.io/@ProjectJupyter">ProjectJupyter</a>
 * <a rel="me" href="https://hachyderm.io/@rOpenSci">rOpenSci</a>
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
