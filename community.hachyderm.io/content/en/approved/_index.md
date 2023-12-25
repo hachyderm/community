@@ -69,6 +69,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
 * <a rel="me" href="https://hachyderm.io/@dokku">dokku</a>
 * <a rel="me" href="https://hachyderm.io/@fluiddyn">FluidDyn</a>
+* <a rel="me" href="https://hachyderm.io/@golang">The Go Language</a>
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
 * <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
