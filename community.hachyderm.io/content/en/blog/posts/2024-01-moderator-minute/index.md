@@ -61,7 +61,7 @@ A: We are too! And we continue to monitor the instance for any of these behavior
 
 A: We’re not giving Threads “a chance” so much as meeting the current situation where it’s at with plans to continue to adapt as the situation changes. Since there are 9 users, we’re treating this instance like a 9 user instance. In cases with instances that are ~50 users or less, unless the instance is cohesive (e.g. examplenazi.com where they all espouse that ideology), we moderate individual accounts. This means that regardless of the status of Threads as a whole or the number of federating accounts, accounts like Libs of Tik Tok would never federate with Hachyderm for being in violation of our federating policy.
 
-## Community Collaboration\
+## Community Collaboration
 
 ### Community Votes
 In the approximately 15 months since Hachyderm scaled, we have limited or suspended federation with 19 instances per month for a total of 285 instances. These instances in large part have been banned in order to pre-emptively protect our users. In almost every case, we know that these instances go against everything we stand for as a group. However, in a few of those cases, it’s more nuanced to determine if/when we should block an instance and how we should communicate those changes.
@@ -90,7 +90,7 @@ This method isn’t perfect, but we are excited to continue to work on a method 
 
 ### Trusted reporters
 
-Starting this month, the moderation team will be reaching out to select users to ask them to join our Trusted Reporters group. These users will be selected based upon the quality of the reports that they have submitted that have resulted in actions by the moderation team. This group of individuals will be given an opportunity to learn more about the moderation process. The goal is to ensure that community members are able to deliver the most meaningful reports to our moderation team. In exchange, these trusted reports will have a more direct line of communication to a few members within the moderation team that can help assist in the event of a time critical need for moderator support.
+Starting this month, the moderation team will be reaching out to select users to ask them to join our Trusted Reporters group. These users will be selected based upon the quality of the reports that they have submitted that have resulted in actions by the moderation team. This group of individuals will be given an opportunity to learn more about the moderation process. The goal is to ensure that community members are able to deliver the most meaningful reports to our moderation team. In exchange, these trusted reporters will have a more direct line of communication to a few members within the moderation team that can help assist in the event of a time critical need for moderator support.
 
 ### How to become a trusted reporter
 
