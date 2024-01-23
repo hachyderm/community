@@ -10,13 +10,13 @@ description: >
 
 ## What is Threads?
 
-Threads is an online [social media](https://en.wikipedia.org/wiki/Social_media "Social media") and [social networking service](https://en.wikipedia.org/wiki/Social_networking_service "Social networking service")operated by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms"). The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, [reposts](https://en.wikipedia.org/wiki/Reblogging "Reblogging"), and [likes](https://en.wikipedia.org/wiki/Like_button "Like button"). Closely linked to Meta platform [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram") and additionally requiring users to both have an Instagram account and use Threads under the same Instagram [handle](https://en.wikipedia.org/wiki/Mention_(blogging) "Mention (blogging)"), the functionality of Threads is similar to [X](https://en.wikipedia.org/wiki/Twitter "Twitter") (formerly known as Twitter)[1] and Mastodon.
+Threads is an online [social media](https://en.wikipedia.org/wiki/Social_media "Social media") and [social networking service](https://en.wikipedia.org/wiki/Social_networking_service "Social networking service") operated by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms "Meta Platforms"). The app offers users the ability to post and share text, images, and videos, as well as interact with other users' posts through replies, [reposts](https://en.wikipedia.org/wiki/Reblogging "Reblogging"), and [likes](https://en.wikipedia.org/wiki/Like_button "Like button"). Closely linked to Meta platform [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram") and additionally requiring users to both have an Instagram account and use Threads under the same Instagram [handle](https://en.wikipedia.org/wiki/Mention_(blogging) "Mention (blogging)"), the functionality of Threads is similar to [X](https://en.wikipedia.org/wiki/Twitter "Twitter") (formerly known as Twitter)[1] and Mastodon.
 
 ## What is the status of their ActivityPub implementation?
 
 As of December 13, 2023, Threads has begun to test their implementation of ActivityPub. As of December 22, 2023, only **seven** users from Threads are federating with Hachyderm’s instance. For all other users on Threads, we are seeing that the system is not federating correctly due to certificate errors on Threads side.  We understand that they are working to resolve those certification issues with assistance from the Mastodon core team.
 
-Based on the available [Terms of Use](https://help.instagram.com/769983657850450) and [Supplemental Privacy Policy](https://help.instagram.com/515230437301944) provided by Meta, they are not selling any of the data they have. This is not official legal or privacy advice for individual users and we recommend evaluating the linked documents yourself to determine for yourselves.
+Based on the available [Terms of Use](https://help.instagram.com/769983657850450) and [Supplemental Privacy Policy](https://help.instagram.com/515230437301944) provided by Meta, they are not selling any of the data they have. This is not official legal or privacy advice for individual users, and we recommend evaluating the linked documents yourself to determine for yourselves.
 
 With regards to the section in the privacy policy 
 > Information From Third Party Services and Users: We collect information about the Third Party Services and Third Party Users who interact with Threads. If you interact with Threads through a Third Party Service (such as by following Threads users, interacting with Threads content, or by allowing Threads users to follow you or interact with your content), we collect information about your third-party account and profile (such as your username, profile picture, and the name and IP address of the Third Party Service on which you are registered), your content (such as when you allow Threads users to follow, like, reshare, or have mentions in your posts), and your interactions (such as when you follow, like, reshare, or have mentions in Threads posts).
@@ -28,7 +28,7 @@ It’s important to remember a few things:
 
 ## How does this impact Hachyderm?
 
-At this point, Threads tests of the ActivityPub do not impact us directly. Based on the available information, they haven’t breached any rules of this instance, they aren’t selling any of the data as discussed above, and the user pool is so limited that even if they did, our team's ability to moderate that would be quick and decisive. In addition any users that do want to block Threads at this time, can follow the instructions in the next section to pre-emptively block Threads at their account level.
+At this point, Threads tests of the ActivityPub do not impact us directly. Based on the available information, they haven’t breached any rules of this instance, they aren’t selling any of the data as discussed above, and the user pool is so limited that even if they did, our team's ability to moderate that would be quick and decisive. In addition, any users that do want to block Threads at this time, can follow the instructions in the next section to pre-emptively block Threads at their account level.
 
 As a result, we will continue to follow our standard of monitoring each instance on a case by case to see how the situation evolves, and if a time comes that we see Threads federations as a risk to the safety of our users and community, we will defederate at that time.
 
@@ -66,4 +66,4 @@ https://community.hachyderm.io/blog/2023/07/07/a-minute-from-the-moderators/#how
 
 ---
 
-[1] https://en.wikipedia.org/wiki/Threads_(social_network)
+[1]: https://en.wikipedia.org/wiki/Threads_(social_network)
