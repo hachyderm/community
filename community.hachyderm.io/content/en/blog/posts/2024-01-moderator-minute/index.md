@@ -9,7 +9,7 @@ author: Hachyderm Moderation ([@Hachyderm](https://hachyderm.io/@Hachyderm))
  
 We hope everyone had a wonderful and safe new year celebration!
  
-In today’s moderator minutes we will be focused on the continuing conversations around Threads and how Hachyderm moderation is continuing to expand our collaboration with our community
+In today’s moderator minutes we will be focused on the continuing conversations around Threads and how Hachyderm moderation is continuing to expand our collaboration with our community.
  
 ## What’s going on with Threads?
 
@@ -23,15 +23,15 @@ It’s important to remember a few things:
 - The Mastodon/ActivityPub at their core uses a form of caching of information in order to make the process as seamless as possible. For example, when you create a verified link on your profile, every instance that your profile opens on does its own checks of the links and saves the validation on that third party server. This helps prevent malicious actors from falsifying their verified links that would then trickle out to other instances.
 - We don’t transmit user IPs to any third party instances as part of your interaction. If Meta is able to collect your IP, it would be through a direct interaction with a post on their server or CDN.
 
-For more details, review our original update about Threads (https://community.hachyderm.io/blog/2023/12/23/threads-update/)
+For more details, [review our original update about Threads](https://community.hachyderm.io/blog/2023/12/23/threads-update/)
 
 ### Limiting Threads
 
 Based on user concern, we are shifting to a Limited status with Threads.
 
-We have included the definition of limit below that comes from the mastodon documentation. (https://docs.joinmastodon.org/admin/moderation/#limit-user)
+[We have included the definition of limit below that comes from the mastodon documentation.](https://docs.joinmastodon.org/admin/moderation/#limit-user)
 
-A limited account is hidden from all other users on that instance, except for its followers. All of the content is still there, and it can still be found via search, mentions, and following, but the content is invisible publicly.
+> A limited account is hidden from all other users on that instance, except for its followers. All of the content is still there, and it can still be found via search, mentions, and following, but the content is invisible publicly.
 
 What this means:
 - You will still be able to follow people from Threads when they federate those users
@@ -41,7 +41,7 @@ What this means:
 
 ### Next Steps
 
-As Threads continues to implement their integration with ActivityPub and the Fediverse at large, we will watch how those users integrate with our community and how their service interacts with our servers. If you would like to learn more about our criteria for how Hachyderm handles federating with other instances, please review our A Minute from the Moderators - July Edition where we list out our criteria.
+As Threads continues to implement their integration with ActivityPub and the Fediverse at large, we will watch how those users integrate with our community and how their service interacts with our servers. If you would like to learn more about our criteria for how Hachyderm handles federating with other instances, please review our [A Minute from the Moderators - July Edition](https://community.hachyderm.io/blog/2023/07/07/a-minute-from-the-moderators/) where we list out our criteria.
 
 ##### Very, very quick Q&A on Threads
 
@@ -66,7 +66,7 @@ A: We’re not giving Threads “a chance” so much as meeting the current situ
 ### Community Votes
 In the approximately 15 months since Hachyderm scaled, we have limited or suspended federation with 19 instances per month for a total of 285 instances. These instances in large part have been banned in order to pre-emptively protect our users. In almost every case, we know that these instances go against everything we stand for as a group. However, in a few of those cases, it’s more nuanced to determine if/when we should block an instance and how we should communicate those changes.
 
-For example, when we blocked exampleillegal.com for illicit materials. We didn’t announce the change and we expect that none of our users will take issue with us blocking that material.
+For example, if we blocked exampleillegal.com for illicit materials. We wouldn’t announce the change and we expect that none of our users will take issue with us blocking that material.
 
 In contrast, on Jun 30, 2023, 22:12  UTC, we made the following announcement:
 
