@@ -20,9 +20,9 @@ jobs:
     if: github.event.pull_request.merged == true || contains(fromJson('["push", "workflow_dispatch"]'), github.event_name)
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
           extended: true
@@ -31,7 +31,7 @@ jobs:
       - name: Build
         run: cd community.hachyderm.io && hugo --minify
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: community.hachyderm.io/public/
 
@@ -44,4 +44,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
