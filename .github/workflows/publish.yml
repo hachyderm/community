@@ -24,7 +24,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
+          hugo-version: "0.124.1"
           extended: true
       - name: Pre-build
         run: cd community.hachyderm.io && make hugo
