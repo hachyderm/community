@@ -1,3 +1,0 @@
-[submodule "community.hachyderm.io/themes/docsy"]
-	path = community.hachyderm.io/themes/docsy
-	url = git@github.com:google/docsy.git

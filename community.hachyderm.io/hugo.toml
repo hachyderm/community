@@ -24,13 +24,13 @@ category = "categories"
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["tags", "categories"] 
+taxonomyCloud = ["tags", "categories"]
 
 # If used, must have same length as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"] 
+taxonomyCloudTitle = ["Tag Cloud", "Categories"]
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"] 
+taxonomyPageHeader = ["tags", "categories"]
 
 
 # Highlighting config
@@ -52,23 +52,21 @@ resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
-[services]
-[services.googleAnalytics]
-# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-00000000-0"
-
 # Language configuration
 
 [languages]
 [languages.en]
-title = "Hachyderm Community"
-description = "Official community resources for the Hachyderm social media service."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+[languages.en.params]
+title = "Hachyderm Community"
+description = "Official community resources for the Hachyderm social media service."
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.parser.attribute]
+      block = true
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
@@ -84,7 +82,6 @@ weight = 1
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Hachyderm Community"
 privacy_policy = "https://hachyderm.io/privacy-policy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -94,13 +91,13 @@ privacy_policy = "https://hachyderm.io/privacy-policy"
 # This menu appears only if you have at least one [params.versions] set.
 version_menu = "Releases"
 
-# Flag used in the "version-banner" partial to decide whether to display a 
+# Flag used in the "version-banner" partial to decide whether to display a
 # banner on every page indicating that this is an archived version of the docs.
 # Set this flag to "true" if you want to display the banner.
 archived_version = false
 
 # The version number for the version of the docs represented in this doc set.
-# Used in the "version-banner" partial to display a version number for the 
+# Used in the "version-banner" partial to display a version number for the
 # current doc set.
 version = "0.0"
 
@@ -120,24 +117,22 @@ github_subdir = "community.hachyderm.io"
 # or specify a new value if you want to reference another branch in your GitHub links
 github_branch= "main"
 
-# Google Custom Search Engine ID. Remove or comment out to disable search.
-#gcs_engine_id = ""
-
-# Enable Algolia DocSearch
-algolia_docsearch = false
-
 # Enable Lunr.js offline search
 offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
 
+[params.copyright]
+  authors = "The Hachyderm Community | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) | "
+  from_year = 2022
+
 # User interface configuration
 [params.ui]
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
-# Set to true to disable the About link in the site footer
-footer_about_disable = true
+# Set to true to enable the About link in the site footer
+footer_about_enable = false
 # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
 navbar_logo = true
 # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
@@ -158,7 +153,7 @@ yes = 'Glad to hear it! Please <a href="https://github.com/hachyderm/community/i
 no = 'Sorry to hear that. Please <a href="https://github.com/hachyderm/community/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
@@ -185,14 +180,11 @@ enable = false
 # hugo module configuration
 
 [module]
-  # uncomment line below for temporary local development of module
-  # replacements = "github.com/google/docsy -> ../../docsy"
+  # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
+  # workspace = "docsy.work"
   [module.hugoVersion]
     extended = true
-    min = "0.75.0"
+    min = "0.110.0"
   [[module.imports]]
     path = "github.com/google/docsy"
-    disable = false
-  [[module.imports]]
-    path = "github.com/google/docsy/dependencies"
     disable = false

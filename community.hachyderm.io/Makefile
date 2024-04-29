@@ -1,20 +1,23 @@
 default: help
 
+.PHONY: hugo
 hugo: ## Build the hugo site for CI
-	npm install postcss-cli
-	hugo --minify
+	npm ci
+	npm run build:production
 
-submodule: ## Build the git submodule
-	git submodule update --init --recursive
+.PHONY: dev
+dev: ## Run the local server
+	npm ci
+	npm run build
 
-dev: submodule ## Run the local server
-	hugo serve . --bind=0.0.0.0
-
+.PHONY: issues
 issues: ## Find all the FIXMEs
 	grep -ri "FIXME" content/en
 
+.PHONY: fixme
 fixme: issues
 
+.PHONY: drafts
 drafts: ## Find all the drafts
 	find "content/en" -type f -name "*.draft"
 

@@ -1,24 +1,37 @@
 {
-  "name": "tech-doc-hugo",
-  "version": "0.0.1",
-  "description": "Hugo theme for technical documentation.",
-  "main": "none.js",
+  "name": "community-hachyderm-io",
+  "version": "0.9.1",
+  "description": "Hachyderm community website",
+  "repository": "github:hachyderm/community",
+  "homepage": "https://community.hachyderm.io",
+  "license": "Apache-2.0",
+  "bugs": "https://github.com/hachyderm/community/issues",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "_build": "npm run _hugo-dev --",
+    "_check:links": "echo IMPLEMENTATION PENDING for check-links; echo",
+    "_hugo": "hugo --cleanDestinationDir",
+    "_hugo-dev": "npm run _hugo -- -e dev -DFE",
+    "_local": "npx cross-env HUGO_MODULE_WORKSPACE=docsy.work",
+    "_serve": "npm run _hugo-dev -- --minify serve",
+    "build:production": "npm run _hugo -- --minify",
+    "build": "npm run _build -- ",
+    "check:links:all": "HTMLTEST_ARGS= npm run _check:links",
+    "check:links": "npm run _check:links",
+    "clean": "rm -Rf public/* resources",
+    "local": "npm run _local -- npm run",
+    "make:public": "git init -b main public",
+    "precheck:links:all": "npm run build",
+    "precheck:links": "npm run build",
+    "postbuild:preview": "npm run _check:links",
+    "postbuild:production": "npm run _check:links",
+    "serve": "npm run _serve",
+    "test": "npm run check:links",
+    "update:pkg:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
+    "update:pkg:hugo": "npm install --save-dev --save-exact hugo-extended@latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/google/docsy-example.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/google/docsy-example/issues"
-  },
-  "homepage": "https://github.com/google/docsy-example#readme",
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.3.7",
-    "postcss-cli": "^9.1.0"
+    "autoprefixer": "^10.4.14",
+    "cross-env": "^7.0.3",
+    "postcss-cli": "^11.0.0"
   }
 }

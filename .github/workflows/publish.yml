@@ -24,12 +24,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.124.1"
+          hugo-version: "latest"
           extended: true
-      - name: Pre-build
-        run: cd community.hachyderm.io && make hugo
       - name: Build
-        run: cd community.hachyderm.io && hugo --minify
+        run: make -C community.hachyderm.io hugo
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
