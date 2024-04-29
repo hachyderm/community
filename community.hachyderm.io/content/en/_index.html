@@ -4,16 +4,14 @@ linkTitle = "Hachyderm Community"
 +++
 
 {{< blocks/cover title="Social Media For Technical Professionals" image_anchor="top" height="full" color="blue" >}}
-<div class="mx-auto">
-    <a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
-        Community Docs <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-    </a>
-    <a class="btn btn-lg btn-secondary mr-3 mb-4" target="_blank" href="https://hachyderm.io">
-        Sign-up Today <i class="fa-brands fa-mastodon"></i>
-    </a>
-    <p class="lead mt-5">Powered by <a href="https://joinmastodon.org/" target="_blank">Mastodon</a></p>
-    {{< blocks/link-down color="info" >}}
-</div>
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
+    Community Docs <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary mr-3 mb-4" target="_blank" href="https://hachyderm.io">
+    Sign-up Today <i class="fa-brands fa-mastodon"></i>
+</a>
+<p class="lead mt-5">Powered by <a href="https://joinmastodon.org/" target="_blank">Mastodon</a></p>
+{{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
@@ -21,7 +19,8 @@ linkTitle = "Hachyderm Community"
 Hachyderm is building an open network of professionals and computer scientists in the tech industry.
 {{% /blocks/lead %}}
 
-{{< blocks/section color="dark" >}}
+
+{{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-brands fa-mastodon" title="Decentralized Social Media" %}}
 Free, open source, independently hosted.
 
@@ -31,7 +30,6 @@ Free, open source, independently hosted.
 
 
 {{% blocks/feature icon="fab fa-github" title="Openly Governed Community" %}}
-
 Managed by volunteers experienced with managing Linux, Kubernetes, Developer Advocacy, Go and Rust communities.
 
 <a href="https://github.com/hachyderm/community" target="_blank">Contribute on GitHub ...</a>
@@ -44,12 +42,12 @@ We are hackers, professionals, enthusiasts, and are passionate about life, respe
 {{% /blocks/feature %}}
 
 
-{{< /blocks/section >}}
+{{% /blocks/section %}}
 
 
-{{< blocks/section >}}
+{{% blocks/section %}}
 <div class="col">
-<h1 class="text-center">Safe Space For Technical Professionals</h1>
+    <h1 class="text-center">Safe Space For Technical Professionals</h1>
     <h4 class="text-center">
         Linux. Rust. Kubernetes. Go. Aurae. C Programming. Infrastructure. SRE. Security. OSINT. Economics. News. Pets. Hobbies.
     </h4>
@@ -57,12 +55,11 @@ We are hackers, professionals, enthusiasts, and are passionate about life, respe
         Influencers. Twitch streamers. Twitter breakaways. Podcasters. Bloggers. News. Trustworthy and agenda free journalism.
     </h4>
 </div>
-
-{{< /blocks/section >}}
-
+{{% /blocks/section %}}
 
 
-{{< blocks/section >}}
+{{% blocks/section type="row" %}}
+
 {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
 <a target="_blank" href="https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974">
     Download for iOS
@@ -84,5 +81,4 @@ Checkout our <a href="https://grafana.hachyderm.io/public">public dashboard</a>.
 {{% /blocks/feature %}}
 
 
-{{< /blocks/section >}}
-
+{{% /blocks/section %}}
