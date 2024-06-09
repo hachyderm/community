@@ -6,8 +6,6 @@ description: |
   Blog Update and a Brief Discussion on the Israel-Palestine Conflict
 author: Hachyderm Moderation ([@Hachyderm](https://hachyderm.io/@Hachyderm))
 ---
- 
-# The Israel-Palestine Conflict
 
 Hey Hachyderm,
 
@@ -37,4 +35,5 @@ We highly recommend reviewing the Give Your Permission https://community.hachyde
 these sensitive topics.
 
 Warmly,
+
 Your Hachyderm Moderators
