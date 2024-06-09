@@ -268,6 +268,10 @@ Transphobia in any form is not tolerated on this server. Some specifics:
   will not be tolerated.
 * Supporting or spreading support of cruelty to transgender children and
   adults will not be tolerated
+* The promotion, endorsement, or suggestion of conversion therapy or any
+  related programs or practices is not tolerated
+* Deadnaming, which involves referring to a transgender or gender-diverse
+  person by a name they used before their gender transition, is not tolerated
 * Those on the gender spectrum, who may not identify as trans but who may
   be non-binary, genderfluid, etc. are protected by this rule.
 
