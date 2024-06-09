@@ -17,12 +17,12 @@ and months and you should expect to see more activity through the blog starting 
 Today we wanted to discuss the ongoing conflict between Israel and Palestine. We there is a significant amount of history understand  the emotions tied to the conversation because it's something that
 hits close to home for many of us.
 
-# Where We Stand
+## Where We Stand
 
 Firstly, we want to make it clear that we're heartbroken by the violenc and the loss of innocent lives, and we stand firmly against war. The devastation and suffering caused by this conflict are tragedies,
 and we believe in the importance of peace and understanding to resolve disputes.
 
-# Speaking Up, With Respect
+## Speaking Up, With Respect
 We uphold the right of our community members to express their views and critique political structures. However, we feel it's important to remind our community that the guidelines don't allow for blanket
 statements or sweeping claims about religions or people of a specific faith. It's important to separate the actions of a government from the beliefs of individuals.
 
