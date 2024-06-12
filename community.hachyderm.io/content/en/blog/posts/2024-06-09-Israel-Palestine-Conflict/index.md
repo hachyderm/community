@@ -22,7 +22,7 @@ and we believe in the importance of peace and understanding to resolve disputes.
 We uphold the right of our community members to express their views and critique political structures. However, we feel it's important to remind our community that the guidelines don't allow for blanket
 statements or sweeping claims about religions or people of a specific faith. It's important to separate the actions of a government from the beliefs of individuals.
 
-When it comes to the Israel-Palestine war, we know religion is a big part of society for both sides, but let's not forget that religions aren't defined solely by these governments, even if their
+When it comes to the Israel-Palestine war, we know religion is a big part of society for both sides. However, let's not forget that religions aren't defined solely by these governments, even if their
 leaders are prominent figures with loud voices. As moderators, we support Hachydermians when they need to vent or criticize situations and decisions. That said, sweeping generalizations and intolerance will not be supported.
 
 As we continue to discuss this topic, let’s strive to promote understanding, empathy, and respect. Remember, behind every post and comment there's a real person that we could learn from and grow with through
