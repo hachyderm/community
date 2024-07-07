@@ -25,7 +25,7 @@ Our commitment to Nivenly is plain and simple: Ensure that hackers, professional
 While this is a tall order, everyone at Hachyderm believes and has a commitment to deliver on this vision.
 
 ## Our assurance to the Community
-Over the months, we have made a number of posts discussing the moderation process and the team as a whole. You can find more details from last May's Moderator Minutes (https://community.hachyderm.io/blog/2023/05/08/a-minute-from-the-moderators/). We won't be rehashing the details of those posts here. Instead, we want to share with the community how our relationship with Nivenly impacts the decisions that we make as a moderation team.
+Over the months, we have made a number of posts discussing the moderation process and the team as a whole. You can find more details from last May's Moderator Minutes (https://community.hachyderm.io/blog/2023/05/08/a-minute-from-the-moderators). We won't be rehashing the details of those posts here. Instead, we want to share with the community how our relationship with Nivenly impacts the decisions that we make as a moderation team.
 
 We look to Nivenly for reassurance that we are acting in a way that aligns with the stated commitment. In addition, Nivenly supports us in ensuring that we have the support necessary to deliver on those commitments. However, Nivenly doesn't otherwise participate in the day to day of Hachyderm's operations. We firmly believe that this distinction is of utmost significance. By enabling Hachyderm to have the independence to operate independently, we can ensure the decisions that we made do the best to represent the community as a whole.  
 
