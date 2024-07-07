@@ -7,6 +7,8 @@ description: |
 author: Hachyderm Moderation ([@Hachyderm](https://hachyderm.io/@Hachyderm))
 ---
 
+Hey Hachyderm!
+
 We're continuing to post on more important topics as previously promised. For today's topic, we wanted to cover something that we know a lot of people have had questions about,
 the relationship between Hachyderm and Nivenly. Our discussion will focus on the relationship structure, our commitment to Nivenly, and our assurance to the community.
 
@@ -28,7 +30,3 @@ Over the months, we have made a number of posts discussing the moderation proces
 We look to Nivenly for reassurance that we are acting in a way that aligns with the stated commitment. In addition, Nivenly supports us in ensuring that we have the support necessary to deliver on those commitments. However, Nivenly doesn't otherwise participate in the day to day of Hachyderm's operations. We firmly believe that this distinction is of utmost significance. By enabling Hachyderm to have the independence to operate independently, we can ensure the decisions that we made do the best to represent the community as a whole.  
 
 Disclaimer: There are people who volunteer at both Nivenly and Hachyderm, but their roles are separated by the tasks that they are completing.
-
-Warmly,
-
-Your Hachyderm Moderators
