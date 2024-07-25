@@ -48,12 +48,12 @@ We identify a few types of accounts that are useful for understanding the
 minutia for things such as corporate accounts, bot accounts, event accounts,
 and open source project accounts.
 
-- [General Account Detail](accounts/README.md)
-  - [General Accounts](accounts/general-accounts.md)
-  - [Open Source Accounts](accounts/open-source-accounts.md)
-  - [Influencer Accounts](accounts/influencer-accounts.md)
-  - [Corporate Accounts](accounts/corporate-accounts.md)
-  - [Bot Accounts](accounts/bot-accounts.md)
+- [General Account Detail](community.hachyderm.io/content/en/docs/account-types/_index.md)
+  - [General Accounts](community.hachyderm.io/content/en/docs/account-types//general-accounts.md)
+  - [Open Source Accounts](community.hachyderm.io/content/en/docs/account-types//open-source-accounts.md)
+  - [Influencer Accounts](community.hachyderm.io/content/en/docs/account-types//influencer-accounts.md)
+  - [Corporate Accounts](community.hachyderm.io/content/en/docs/account-types//corporate-accounts.md)
+  - [Bot Accounts](community.hachyderm.io/content/en/docs/account-types//bot-accounts.md)
 
 ### Disallowed Account Types
 
