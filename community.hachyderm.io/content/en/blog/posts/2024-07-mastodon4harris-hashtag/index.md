@@ -29,7 +29,7 @@ due to its length.
 > 
 > That said, as we are approaching a US election and a large percentage of our instance is US based, we will be proceeding through the coming months with caution to ensure that people can follow the news and conversations around the upcoming elections to the degree they wish to.
 > 
-> All posts, Mastodon(For|4)Harris or otherwise, will still be moderated according to our current guidelines. This includes posts that are not marked sensitive that should be, that have a false or misleading content warning ("jump scare"), or posts that harass others. We have information about these on both our Content Warnings doc and the No Violence section of our rules:
+> All posts, Mastodon(For|4)Harris or otherwise, will still be moderated according to our current guidelines. This includes posts that are not marked sensitive that should be, that have a false or misleading content warning ("jump scare"), bait-n-switch / deceptive links\*, or posts that harass others. We have information about these on both our Content Warnings doc and the No Violence section of our rules:
 > 
 > https://community.hachyderm.io/docs/hachyderm/content-warnings/
 > https://community.hachyderm.io/docs/rule-explainer/#no-violence
@@ -39,3 +39,5 @@ due to its length.
 > https://community.hachyderm.io/docs/hachyderm/mental-health/#create-and-maintain-interpersonal-boundaries
 > 
 > 29 July 2024 23:04 UTC
+
+\* Minor edit to explicitly call out deceptive linking.
