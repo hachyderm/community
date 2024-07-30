@@ -1,7 +1,7 @@
 ---
 date: 2023-05-17
 title: "Crypto Spam Attacks on Fediverse"
-linkTitle: "Crypo Spam"
+linkTitle: "Crypto Spam"
 description: "Updates and information regarding the ongoing crypto spam attacks in May 2023."
 author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 resources:
