@@ -15,7 +15,7 @@ For issues with this doc page itself, please reach out to us on
 [Hachyderm's Community Issue tracker](https://github.com/hachyderm/community/issues).
 {{% /pageinfo %}}
 
-## Overvew <!-- omit in toc -->
+## Overview <!-- omit in toc -->
 - [About the Report Feature](#about-the-report-feature)
 - [How to create a report](#how-to-create-a-report)
 - [What a Filed Report Looks Like](#what-a-filed-report-looks-like)
