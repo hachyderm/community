@@ -1,5 +1,5 @@
 ---
-date: 2024-08-06
+date: 2024-08-12
 title: "Hachyderm's Introduction to Mastodon Moderation: Part 1"
 linkTitle: "Intro to Moderation Part 1"
 description: |
