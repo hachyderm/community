@@ -58,6 +58,7 @@ users.
 other API hooks, podcasts, and so forth.**
 
 * <a rel="me" href="https://hachyderm.io/@humaneguild">Humane Guild</a>
+* <a rel="me" href="https://hachyderm.io/@sdr_pod">Self-Directed Research Podcast</a>
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
 * <a rel="me" href="https://hachyderm.io/@status_updates">Status Updates (Parody Account)</a>
 * <a rel="me" href="https://hachyderm.io/@ThingsDrawnByTextModels">Things Drawn By Text Models</a>
