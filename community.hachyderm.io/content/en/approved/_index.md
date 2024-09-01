@@ -97,4 +97,5 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@NottingHack">NottingHack</a>
 * <a rel="me" href="https://hachyderm.io/@OpenCost">OpenCost</a>
 * <a rel="me" href="https://hachyderm.io/@summitpgh">PGH (Pittsburg) Racial Justice Summit</a>
+* <a rel="me" href="https://hachyderm.io/@techtonica">Techtonica</a>
 * <a rel="me" href="https://hachyderm.io/@WomeninAIethics">Women in AI Ethics</a>
