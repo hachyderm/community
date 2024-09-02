@@ -1,7 +1,7 @@
 ---
 date: 2024-08-12
 title: "Hachyderm's Introduction to Mastodon Moderation: Part 1"
-linkTitle: "Intro to Moderation Part 1"
+linkTitle: "Intro to Moderation Tooling Series (Part 1)"
 description: |
   The first post in a series about Mastodon moderation tooling.
   This post focuses on context for the upcoming posts.
@@ -45,7 +45,7 @@ Before we focus heavily on "how do the moderation tools work", we wanted to ackn
 > Person E: Are you reporting these to your mods? People can't fix what they don't see!<br />
 > Person F: Are you reporting these to other mods? People can't fix what they don't see!
 
-Intentions behind Persons B-E aside, here are a few "did you knows":
+Intentions behind Persons B-F aside, here are a few "did you knows":
 
 **Limitations of "Oh no! Have you tried changing instances?"**
 
