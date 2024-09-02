@@ -336,11 +336,26 @@ As you can see in the above section, the moderation interface allows you to sear
 
 The moderation interface does not currently allow for you to search for an originating domain ([though work on this has started](https://github.com/mastodon/mastodon/issues/31234)). If you wanted to see all reports _from_ an instance, e.g. all reports originating _from_ Hachyderm.wtf, then you'd need to run a database query (if you're self hosting). The general query looks like this:
 
+```ruby
+Report.where(account: Account.where(domain: 'example.com')).count
+```
+
 If the result is one or more, you can see the full URLs of the report(s) by running:
+
+```ruby
+Report.where(account: Account.where(domain: 'example.com')).map { |r| puts admin_report_url(r.id) }
+```
 
 The query and output of the latter looks something like this:
 
-Where example.com would be changed to whatever instance you want data on and both XXXX and YYYY are specific report IDs.
+```
+> Report.where(account: Account.where(domain: 'example.com')).map { |r| puts admin_report_url(r.id) }
+
+https://hachyderm.io/admin/reports/XXXX
+https://hachyderm.io/admin/reports/YYYY
+```
+
+Where `example.com` would be changed to whatever instance you want data on and both `XXXX` and `YYYY` are specific report IDs.
 
 As far as we know you can only run these queries if you are self hosting. If you are using a Mastodon hosting provider, you will need to reach out to your provider to see if you have access to run queries like this one.
 
@@ -622,7 +637,7 @@ Although this post, and the rest of the posts in this series, are being written 
 * Not all reports are directly actionable by a local moderation team, especially if it is a remote user who was reported. Moderators can contact the reported user's moderation team for action.
 * Moderators can contact their own users in-platform but not remote users or moderators.
 * Moderators can determine how many reports have been filed from/about an instance, but not about what category.
-* Moderators can determine what reports were filed by or file about an individual user via their user profile in the moderation UI.
+* Moderators can determine what reports were filed by or about an individual user via their user profile in the moderation UI.
 * Moderators cannot directly forward reports to remote moderators but can generate new reports if they believe the report should be sent and it wasn't forwarded by the reporting user.
 * Moderators should have a firm understanding of what data they can pull from the moderation platform and what information their policies allow them to share, so they can set expectations on information requests.
 
