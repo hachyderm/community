@@ -29,7 +29,7 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@CrowdSupply">Crowd Supply</a>
 * <a rel="me" href="https://hachyderm.io/@DeterminateSystems">Determinate Systems</a>
 * <a rel="me" href="https://hachyderm.io/@Freexian">Freexian</a>
-* <a rel="me" href="https://hachyderm.io/@flydotio">Fly.i</a>
+* <a rel="me" href="https://hachyderm.io/@flydotio">Fly.io</a>
 * <a rel="me" href="https://hachyderm.io/@github">GitHub</a>
 * <a rel="me" href="https://hachyderm.io/@hacktoberfest">Hacktoberfest (DigitalOcean)</a>
 * <a rel="me" href="https://hachyderm.io/@oxidecomputer">Oxide Computer Company</a>
