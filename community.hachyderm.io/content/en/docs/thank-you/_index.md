@@ -14,9 +14,6 @@ Hachyderm is primarily funded by individual Hachydermians either directly to the
 or to Hachyderm's parent org, the Nivenly Foundation. Although corporate accounts assist with paying
 for Hachyderm's infrastructure costs, they are not the primary source of funding for Hachyderm.
 
-Note that we moved off Kris Nóva's Ko-Fi as of March 2023. As we start receiving other sponsorship
-sources we will post updates here.
-
 ## How to donate
 
 One fast, easy way to donate to help finance Hachyderm is directly via Hachyderm's GitHub
@@ -51,9 +48,9 @@ The three ways to support Hachyderm are:
   The Nivenly Foundation is the parent organization for Hachyderm. You can configure
   either one-time or recurring donations.
 * [Nivenly's Ko-fi page](https://ko-fi.com/nivenly) <i class="far fa-coffee"></i><br />
-  If you're looking to continue donating to Nivenly, Hachyderm, et al through Ko-fi
-  and are just migrating away from donating to us via Kris Nóva's Ko-fi, this is the
-  place for you!
+  This is an alternative method to donating to The Nivenly
+  Foundation, Hachyderm's parent organization. You can configure
+  either one-time or recurring donations.
 * [Nivenly Donation via Stripe](https://donate.stripe.com/3cs8Apb7R6eK3a83cd) <i class="fa-solid fa-credit-card"></i> <br />
   This is a one-time donation via credit card payment to the Nivenly Foundation.
 
@@ -80,12 +77,6 @@ preference from donor to member at any time.
 General Nivenly Membership can be purchased through [Nivenly's new Open Collective page](https://opencollective.com/nivenly-foundation).
 If you are looking to join Nivenly as a project or trade member, you must email [info@nivenly.org](mailto:info@nivenly.org).
 
-
-#### Kris Nóva's Ko-Fi
-
-Originally, Hachyderm was primarily funded through donations to Kris Nóva's Ko-Fi. Although her
-Ko-Fi page is still active for her Twitch stream, please donate to Hachyderm using one of the paths
-above.
 
 ## Thank you everyone!
 
