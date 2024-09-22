@@ -68,6 +68,24 @@ Please email us at [admin@hachyderm.io](mailto:admin@hachyderm.io).
 If the issue is regarding a user or post, please use the report feature in Mastodon. If you need to
 reach the mods another way, please look at our [Reporting and Communication page](moderation/reporting/).
 
+#### I would like to know why a user or instance was moderated. How do I reach out and what can I expect?
+
+Due to our size, we do not publicly share moderation information. That said:
+
+* If you are moderator of a different instance and are contacting us about either your
+  instance or a user on your instance, please email us at [admin@hachyderm.io](admin@hachyderm.io).
+* If you are the moderated user and you are not on Hachyderm, please email us
+  at [admin@hachyderm.io](admin@hachyderm.io).
+* If you are the moderated user and you _are_ on Hachyderm, please see our doc for  
+  [how to file an Appeal](moderation/actions-and-appeals/).
+
+If you are not the moderated user and not on a moderation team, please still feel free
+to email us at [admin@hachyderm.io](admin@hachyderm.io) to confirm if a user or instance
+is moderated or not. The main focus of moderation is community safety, so if a specific
+user or instance has been temporarily or permanently moderated, then we most common
+reason is that we saw an incident or behavioral pattern that we believed posed a risk
+to community safety.
+
 #### I have been moderated and would like to know what to do.
 
 Please take a look at our [Moderation Actions and Appeals page](moderation/actions-and-appeals/).
