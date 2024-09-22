@@ -82,7 +82,7 @@ Due to our size, we do not publicly share moderation information. That said:
 If you are not the moderated user and not on a moderation team, please still feel free
 to email us at [admin@hachyderm.io](admin@hachyderm.io) to confirm if a user or instance
 is moderated or not. The main focus of moderation is community safety, so if a specific
-user or instance has been temporarily or permanently moderated, then we most common
+user or instance has been temporarily or permanently moderated, then the most common
 reason is that we saw an incident or behavioral pattern that we believed posed a risk
 to community safety.
 
