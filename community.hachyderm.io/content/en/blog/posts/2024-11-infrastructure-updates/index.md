@@ -263,8 +263,6 @@ Recommendation:
 
 ## Hachyderm Core (Web, Queues, Database)
 
-
-FIXME - the table CSS from Google Docs needs to be adjusted
 <table>
   <tr>
    <td>Impact
