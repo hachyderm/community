@@ -1,5 +1,5 @@
 ---
-date: 2024-11-25
+date: 2024-11-29
 title: "Ensuring Hachyderm's Future: Improving Safety & Resilience through Strategic Placement of Infrastructure"
 linkTitle: "Hachyderm Infrastructure Resilience Plan"
 description: |
@@ -8,10 +8,9 @@ description: |
 author: Hachyderm Infrastructure ([@Hachyderm](https://hachyderm.io/@Hachyderm))
 ---
 
-FIXME - If not "Hachy Infra", change author to Esk
-FIXME - Fix date to true date, not 25 Nov. This will need to be pre-publish, as the date is in the slug.
+# Ensuring Hachyderm's Future: Improving Safety & Resilience through Strategic Placement of Infrastructure
 
-# Preamble/Disclaimer
+## Preamble/Disclaimer
 
 This document has **not **been reviewed by a lawyer and **must not be considered legal advice**. Hachyderm and its volunteer staff will make a best effort to keep Hachyderm running and safe from government interference, but we cannot guarantee any particular legal outcomes.
 
@@ -29,8 +28,9 @@ Hachyderm operates primarily out of the EU. We will reduce our exposure to US-ba
 
 # Introduction
 
-Hachyderm has, over the last two years, established itself as a small corner of the Fediverse where approximately 54,000 users (10,000 monthly active users) have made their fedi-home. 
+Hachyderm has, over the last two years, established itself as a small corner of the Fediverse where approximately 54,000 users (~11,000 monthly active users) have made their fedi-home. 
 
+From our `About` on Hachyderm:
 
 > Here we are trying to build a curated network of respectful
 > professionals in the tech industry around the globe. We welcome
@@ -67,7 +67,7 @@ can benefit. Where possible, we _should_ also open source our infrastructure and
 
 ## Scope
 
-While there are many other influencing factors that could affect Hachyderm, we are focused on the technical architecture and placement of infrastructure. For example, we care about where our media is stored, but we aren't addressing the fact that our bills are paid from a US-based credit card and bank account. We will address those other operational risks in a separate document.
+While there are many other influencing factors that could affect Hachyderm, we are focused on the technical architecture and placement of infrastructure. For example, we will discuss where our media is stored, but we aren't addressing the fact that our bills are paid from a US-based credit card and bank account. We will address those other operational risks in a separate document.
 
 For the moment, we are also not addressing German [political risks](https://www.reuters.com/world/europe/fearing-uncertainty-german-industry-calls-fast-snap-election-2024-11-07/) - we may expand the scope of this initiative based on the results of the [planned February 2025 snap election](https://www.cnn.com/2024/11/12/europe/germany-snap-election-february-intl/index.html).
 
@@ -92,19 +92,13 @@ Edge sites will store temporary copies of assets like images and content to spee
 ## Current State (November 2024)
 
 
-FIXME - needs image and alt text
-![alt_text](images/image1.png "image_tooltip") <br />
-💜 = current edge site 💛 = possible future edge site <br />
-🖼️ = media storage (images, videos) 
-FIXME - needs image and alt text
-![alt_text](images/image2.png "image_tooltip")
-= Mastodon core services (web, queues, database)
+![Map of the world with Hachyderm's sites as pins on the map](./hachymap-with-legend.png)
 
-Our [Core Site](#heading=h.762j9inad68r) is in Frankfurt, Germany and operated by Hetzner (a German provider). In 2022, we chose to deploy to Germany due to the protections offered by laws like the [General Data Protection Regulation (GDPR)](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en) that regulate how people's data is processed and handled by providers. Since it's harder for us to move or replace the Core Site – there's a lot of data! – we put this site in a location that offered the strongest legal protections for free speech and data privacy. In hindsight, we reaffirm this choice and commitment to keeping our data in the EU.
+Our Core Site is in Frankfurt, Germany and operated by Hetzner (a German provider). In 2022, we chose to deploy to Germany due to the protections offered by laws like the [General Data Protection Regulation (GDPR)](https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en) that regulate how people's data is processed and handled by providers. Since it's harder for us to move or replace the Core Site – there's a lot of data! – we put this site in a location that offered the strongest legal protections for free speech and data privacy. In hindsight, we reaffirm this choice and commitment to keeping our data in the EU.
 
-As you can see in the map above, our current [Edge Sites](#heading=h.ju6qeuabiwqz) are spread across the globe, with two of our four current sites in the United States. All of our Edge Sites are provided by Akamai (who recently purchased Linode, our original provider), a US-based company. Since Edge Sites are easier to replace, making a "wrong" decision is much less costly. If we find the location of an Edge Site is no longer desirable, we build a new one and shift traffic to it.
+As you can see in the map above, our current Edge Sites are spread across the globe, with two of our four current sites in the United States. All of our Edge Sites are provided by Akamai's Linode platform, a US-based company. Since Edge Sites are easier to replace, making a "wrong" decision is much less costly. If we find the location of an Edge Site is no longer desirable, we build a new one and shift traffic to it.
 
-A more detailed analysis is available in [Appendix A: Infrastructure Component Locations & Providers](#heading=h.8pwfpq77ebcr).
+A more detailed analysis is available in **Appendix A: Infrastructure Component Locations & Providers**, below.
 
 
 # Component-by-component Analysis
@@ -124,30 +118,29 @@ We'll then provide a short-term and long-term recommendation for investigations,
 
 ## Service Discovery
 
-FIXME - the table CSS from Google Docs needs to be adjusted
 <table>
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Severely degrated, mostly **not** usable
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Possible
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Small (1 month) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>Large (2 quarters)
    </td>
   </tr>
 </table>
@@ -161,8 +154,6 @@ Furthermore, the .io domain suffix has an [uncertain future with the impending d
 
 Recommendations:
 
-
-
 * Sooner
     * Migrate DNS services to a non-US provider, or self-host
     * Migrate hachyderm.io to a non-US registrar
@@ -174,43 +165,38 @@ Recommendations:
 
 ## Edge Sites
 
-
-FIXME - the table CSS from Google Docs needs to be adjusted
 <table>
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Inconvenient
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Possible
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Medium (1 quarter) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>Medium (1 quarter)
    </td>
   </tr>
 </table>
 
-
-We currently leverage Akamai (formerly known as Linode), a US-based company for our Edge Sites. Akamai has the advantages of being very affordable, established in many regions, and well-connected through their highly performant Internet backbone.
+We currently leverage Akamai (who purchased Linode), a US-based company for our Edge Sites. Akamai has the advantages of being very affordable, established in many regions, and well-connected through their highly performant Internet backbone.
 
 As previously mentioned, setting up a new Edge Site is a relatively quick operation.
 
 Recommendations:
-
-
 
 * Sooner
     * Consider establishing additional edge locations in the US in "blue" states (both current edge nodes in the US are in California and New Jersey)
@@ -229,31 +215,29 @@ Recommendations:
 
 ## Media Storage
 
-
-FIXME - the table CSS from Google Docs needs to be adjusted
 <table>
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Inconvenient
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Possible
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Small (1 month) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>Very Large (1 year+)
    </td>
   </tr>
 </table>
@@ -268,8 +252,6 @@ Due to the size of the content (~23 TiB) and number of files, we consider this a
 Like the database, media storage is a bandwidth intensive application, and replicating to multiple providers could be costly due to costs increasing linearly with storage and egress bandwidth costs.
 
 Recommendation:
-
-
 
 * Sooner
     * Identify non US-based corporations with S3-compatible storage
@@ -287,29 +269,28 @@ FIXME - the table CSS from Google Docs needs to be adjusted
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Completely unusable
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Unlikely
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Large (2 quarters) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>Large (2 quarters)
    </td>
   </tr>
 </table>
-
 
 The "core" Mastodon components – Mastodon web, sidekiq queues, redis, and database – are hosted in Hetzner in Frankfurt, Germany. In terms of exposure from the US, we classify this risk as significantly lower than our other providers.
 
@@ -320,8 +301,6 @@ Similarly, each of our redis instances (persistent & cache) are singletons and c
 Naturally, as both redis and the database are high-throughput, latency and bandwidth sensitive components in our architecture, homing across multiple providers may prove challenging and unreasonably costly due to egress bandwidth charges.
 
 Recommendation:
-
-
 
 * Sooner
     * Improve process to spin up mastodon web, sidekiq, and redis nodes in Hetzner
@@ -335,38 +314,34 @@ Recommendation:
 
 ## Internal Networking
 
-
-FIXME - the table CSS from Google Docs needs to be adjusted
 <table>
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Completely unsuable
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Unlikely
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Small (1 month) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>N/A
    </td>
   </tr>
 </table>
 
-
 Internally, we leverage [Tailscale](https://tailscale.com/), which is a Canada-based corporation. They provide control and data planes, which includes [API](https://tailscale.com/kb/1101/api), [PKI](https://tailscale.com/blog/tls-certs), and [DERP relay](https://tailscale.com/kb/1232/derp-servers) servers. It's possible they could be forced to suspend our service, which would break many internal communication paths. See their [Terms of Use](https://tailscale.com/terms), particularly:
-
 
 > "4.4	Termination by Tailscale. We reserve the right to terminate these Terms and close your account upon notice to you in the event that we determine we are **required to do so by law**" (emphasis added)
 
@@ -380,8 +355,6 @@ Given this context, we do not think there is significant risk from continuing to
 
 Recommendation:
 
-
-
 * Short-term
     * Investigate running our own control plane, [like headscale](https://github.com/juanfont/headscale)
 
@@ -390,34 +363,32 @@ We also leverage Hetzner's [vSwitch capability](https://docs.hetzner.com/robot/d
 
 ## Observability
 
-
 <table>
   <tr>
    <td>Impact
    </td>
-   <td>
+   <td>Partially degraded, but usable
    </td>
   </tr>
   <tr>
    <td>Likelihood
    </td>
-   <td>
+   <td>Possible
    </td>
   </tr>
   <tr>
    <td>Short-term effort
    </td>
-   <td> 
+   <td>Small (1 month) 
    </td>
   </tr>
   <tr>
    <td>Long-term effort
    </td>
-   <td>
+   <td>Large (2 quarters)
    </td>
   </tr>
 </table>
-
 
 Our observability infrastructure (Prometheus, Grafana, Loki) is currently hosted on a single instance in Linode (esme.hachyderm.io) in their Frankfurt datacenter.
 
@@ -426,8 +397,6 @@ We also leverage Uptime Robot, based in Malta, to perform periodic synthetic che
 Finally, we recently added honeycomb.io as a destination for OTel traces from Mastodon. We are currently storing tracing data in the US; however, Honeycomb offers the option of storing this data in the EU.
 
 Recommendation:
-
-
 
 * Short-term
     * Automate stand up of observability infrastructure
@@ -440,8 +409,6 @@ Recommendation:
 ## Other Supporting Tools
 
 There are many tools that aren't directly part of the above categories that help run Hachyderm. Most of these are SaaS solutions provided by US-based companies.
-
-
 
 * 1Password
     * Canadian company.
@@ -505,14 +472,11 @@ There are many tools that aren't directly part of the above categories that help
 
 # Appendix
 
-
 ## Appendix A. Infrastructure Component Locations & Providers
 
 In this table, we make a distinction between assets and the provider itself. For example, for Media Storage, we run Digital Ocean's Spaces product in Frankfurt, Germany. Digital Ocean is a US-based company.
 
 When determining our risk profile for a component, we are making the following broad assumptions:
-
-
 
 * The safest posture is for both the asset and providers to be outside of the US.
 * The next safest posture is for the asset to be outside the US but operated by a US-based provider.
@@ -769,25 +733,3 @@ When determining our risk profile for a component, we are making the following b
    </td>
   </tr>
 </table>
-
-
-
-## Bandwidth Usage
-
-### Hetzner
-
-#### 2022
-
-FIXME - needs image and alt text
-![alt_text](images/image3.png "image_tooltip")
-
-#### 2023
-
-FIXME - needs image and alt text
-![alt_text](images/image4.png "image_tooltip")
-
-#### 2024
-
-FIXME - needs image and alt text
-![alt_text](images/image5.png "image_tooltip")
-
