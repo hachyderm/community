@@ -1,3 +1,5 @@
+![Total Users Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhachyderm.io%2Fnodeinfo%2F2.0.json&query=%24.usage.users.total&style=for-the-badge&logo=mastodon&label=Total%20Users)   ![Monthly User Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhachyderm.io%2Fnodeinfo%2F2.0.json&query=%24.usage.users.activeMonth&style=for-the-badge&logo=mastodon&label=Monthly%20Users)   ![Version Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhachyderm.io%2Fnodeinfo%2F2.0.json&query=%24.software.version&style=for-the-badge&logo=mastodon&label=Version)
+
 # The Hachyderm Community
 
 Welcome to the Hachyderm community. We have agreed to the [Mastodon Server Covenant](https://joinmastodon.org/covenant).
