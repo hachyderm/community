@@ -8,8 +8,6 @@ description: |
 author: Hachyderm Infrastructure ([@Hachyderm](https://hachyderm.io/@Hachyderm))
 ---
 
-# Ensuring Hachyderm's Future: Improving Safety & Resilience through Strategic Placement of Infrastructure
-
 ## Preamble/Disclaimer
 
 This document has **not **been reviewed by a lawyer and **must not be considered legal advice**. Hachyderm and its volunteer staff will make a best effort to keep Hachyderm running and safe from government interference, but we cannot guarantee any particular legal outcomes.
