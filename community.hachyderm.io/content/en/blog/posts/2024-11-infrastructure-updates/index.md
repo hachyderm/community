@@ -108,7 +108,7 @@ For each Component, we will assess:
 
 
 * The impact should we do nothing and this component is affected,
-* the likelihood of of the risk being realized, and
+* the likelihood of the risk being realized, and
 * a relative sizing of the effort to reduce the risk both in the short and long term.
 
 We'll then provide a short-term and long-term recommendation for investigations, research, experiments, and actions we can take to mitigate our exposure.
