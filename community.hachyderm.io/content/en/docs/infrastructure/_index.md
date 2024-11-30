@@ -16,7 +16,7 @@ Today Hachyderm runs a multi-cloud, global topology that is distributed across t
 
  - **Edge node "CDN"** - small, lightweight [Linode](https://www.linode.com/) VMs operating around the world. These serve as the front door to Hachyderm and allow us to cache content close to where our users consume it.
  - **Mastodon Core** - physical machines operating in [Hetzner](https://www.hetzner.com/) in Falkenstein, Germany.
- - **Media Storage** - media (images, videos, audio, etc.) storage hosted in DigitalOcean's [Spaces S3-alike]](https://www.digitalocean.com/products/spaces) service.
+ - **Media Storage** - media (images, videos, audio, etc.) storage hosted in DigitalOcean's [Spaces S3-alike](https://www.digitalocean.com/products/spaces) service.
 
  The disparate clouds are linked together using [Tailscale](https://tailscale.com) to create a resilient, secure global virtual private network.
 
@@ -318,3 +318,9 @@ If you're interested in volunteering, read more [here](https://github.com/hachyd
 Here's our "v2" infrastructure diagram from circa November 2022:
 
 ![](infra-2022-11.png)
+
+## Infrastructure Contributors
+
+Some contributors have opted to remain anonymous. Thank you to all our volunteers past & present!
+
+- <a href="https://hachyderm.io/@esk" rel="me">@esk@hachyderm.io</a>
