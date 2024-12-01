@@ -120,7 +120,7 @@ We'll then provide a short-term and long-term recommendation for investigations,
   <tr>
    <td>Impact
    </td>
-   <td>Severely degrated, mostly **not** usable
+   <td>Severely degraded, mostly **not** usable
    </td>
   </tr>
   <tr>
