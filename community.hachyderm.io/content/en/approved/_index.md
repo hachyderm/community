@@ -101,3 +101,10 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@summitpgh">PGH (Pittsburg) Racial Justice Summit</a>
 * <a rel="me" href="https://hachyderm.io/@techtonica">Techtonica</a>
 * <a rel="me" href="https://hachyderm.io/@WomeninAIethics">Women in AI Ethics</a>
+
+### BotsInSpace - By Invite Only
+
+* <a rel="me" href="https://hachyderm.io/@naturalist_bot">naturalist_bot</a>
+* <a rel="me" href="https://hachyderm.io/@ooh_directory_bot">ooh_directory_bot</a>
+* <a rel="me" href="https://hachyderm.io/@PleaseCaption">PleaseCaption Bot</a>
+* <a rel="me" href="https://hachyderm.io/@TownBuilder">TownBuilder Bot</a>

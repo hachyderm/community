@@ -62,12 +62,13 @@ _Part 1: Get Pre-Approved_
 To get started, we will create an issue to track the full process from the creation of your account to the completion of the approval process.
 
 1. Read the [Specialized Account Expectations](../covenant/)
+1. Create a Hachyderm acccount with your desired handle
 1. Open a "Specialized Account Approval" issue from our [Community Issue Tracker](https://github.com/hachyderm/community/issues/new?assignees=&labels=Specialized+Accounts&template=9.Specialized-Account-Approvals.yml&title=Specialized+Accounts%3A+YOUR_ACCOUNT_NAME)
 1. Include your agreement to the Specialized Account Expectations in the GitHub issue 
 1. Be patient (we are group of volunteer mods and will reach out as soon as we can)
 1. We make a decision
    - If you are not approved, we will provide a reason and close the GitHub issue.
-   - If you are approved, you can now create your account and then move on to _Part 2_ below
+   - If you are approved, you can now put in the Approval URL and then move on to _Part 2_ below
      - Note: you should leave the GitHub issue _open_.
 
 Do not pre-emptively put the Approval URL in your profile metadata.
@@ -82,7 +83,7 @@ approval URL is live with your account listed in Part 2 below.
 
 _Part 2: Finishing account setup_
 
-1. Ensure you're already [verified with your official domain](/docs/mastodon/user/verification/)
+1. Ensure you're already [verified with your official domain](/docs/mastodon/user/verification/) (if you have one)
     - Do not remove the reference link. Moderators will be using this during their validation process.
 1. We will add your verification tag under the appropriate header in the approved file. (Please be patient, we are a group of volunteers and will update as soon as we can.)
 1. We will update the GitHub issue when this is done.
@@ -94,3 +95,4 @@ _Part 2: Finishing account setup_
    - Do not remove the approved link once you have completed the process. This field lets
      our users know you're an approved account and will prevent your account from being reported as an unapproved account.
 2. _Optional, but recommened:_ Make sure to share that you're an approved account, and include that that means you've agreed to the [Specialized Account Expectations](../covenant/)!
+
