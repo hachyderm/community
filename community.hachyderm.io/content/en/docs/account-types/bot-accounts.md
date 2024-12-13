@@ -39,11 +39,21 @@ When we enforce the rules and regulations on bots and automated content, as outl
 section, we do so with the goal of increasing the connected, collaborative nature of the
 Hachyderm community.
 
+Enforcement of rules
+around all account types, including bot accounts, are to help
+foster a sense of community. Bots that focus on humanity, such as
+accessibility or care, are given greater flexibility than bots
+used for promotions.
+
 ## Posting Rules
 
 All accounts that make use of automated and/or scheduled posts must adhere to the following:
 
-- **There is an upper limit of 5 curated/scheduled/automated posts per day. Lower is better.**
+- There is an upper limit of 5 curated/scheduled/automated posts per day, with allowed exceptions on request or other approval.
+  - If your bot's posting patterns have been approved as part of
+	an invitation or conversation for approval, you do not need to
+	chnage your bots posting behavior as part of joining
+	Hachyderm.
 - Posts cannot violate other rules
   - This includes server rules disallowing spam, fundraising, NSFW/18+ content (et al)
   - Hybrid accounts, those that make use of scheduled posts and are also another specialized type,
@@ -66,8 +76,13 @@ Accounts that violate the above may be limited or suspended.
        requests, this is a bot account, suggest account to others, and hide
        your social graph" 
        width="400px" />
-- Bots are required to put the `#hachybots` hashtag in _all_ posts
-  to allow users to opt into, or out of, bot posts.
+- Bots must be clearly marked as bots so that people can easily
+  opt-out of bot posts if they wish.
+  - Almost all bots are required to have the `#hachybots` hashtag
+	in all posts so users can easily opt-out.
+  - Invited / approved bots for comunity benefit may be allowed to
+	bypass this rule as long as the account itself is clearly marked as
+	a bot account.
 
 #### Restrictions on Behavior
 
