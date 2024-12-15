@@ -106,5 +106,5 @@ other API hooks, podcasts, and so forth.**
 
 * <a rel="me" href="https://hachyderm.io/@naturalist_bot">naturalist_bot</a>
 * <a rel="me" href="https://hachyderm.io/@ooh_directory_bot">ooh_directory_bot</a>
-* <a rel="me" href="https://hachyderm.io/@PleaseCaption">PleaseCaption Bot</a>
+* <a rel="me" href="https://hachyderm.io/@PleaseCaptionBot">PleaseCaption Bot</a>
 * <a rel="me" href="https://hachyderm.io/@TownBuilder">TownBuilder Bot</a>
