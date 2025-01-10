@@ -99,7 +99,8 @@ The query to run for "how many unique Threads accounts do accounts
 on my instance follow" is:
 
 ```
-Follow.joins(:target_account).merge(Account.where(domain: 'threads.net')).group(:target_account).count.keys.size
+Follow.joins(:target_account).merge(Account.where(domain: 'threads.net')).group(:target_account_id).count.keys.size
+
 ```
 
 Our result in this case is 919.
