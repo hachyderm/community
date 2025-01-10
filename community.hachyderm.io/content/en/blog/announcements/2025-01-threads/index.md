@@ -92,7 +92,8 @@ Follow.joins(:account).merge(Account.where(domain: 'threads.net')).group(:accoun
 
 ```
 
-Our result in this case is 22.
+Our result in this case is 26.
+
 
 The query to run for "how many unique Threads accounts do accounts
 on my instance follow" is:
