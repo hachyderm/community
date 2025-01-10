@@ -65,5 +65,55 @@ Specific data:
         * This is approximately 0.0036% of Threads users overall, as Threads has approximately 275 million active users ([as of Nov 2024](https://techcrunch.com/2024/11/03/threads-now-has-275m-monthly-active-users/)).
 * There was one user-generated report regarding a Threads user. In that case it was not about harmful content but a user interaction. There were no other reports sent to Hachyderm moderation about Threads interactions.
     * To put in perspective (and acknowledging that these two instances *do not* have the same moderation policy that Threads now does) we've fielded ~500 reports (in total) regarding Mastodon Social and 45 reports (in total) regarding Mastodon Online.
+	* There were 2033 unique Hachyderm accounts following 919 unique Threads accounts and 22 unique Threads accounts following Hachyderm accounts.
+    	* For other mods, note that the queries to figure out are not what the Admin Dashboard is running. We'll put the queries at the bottom of this blog post.
 
-How does this tie into our overall moderation decision? Essentially, the changes to their moderation policy, whether they revert them or not, increase the risk of harm drastically and with high likelihood of changing their account demographics faster than our ability to manually moderate them. This means the existing situation of low engagement and no discovered (via our team or users) harmful engagement will likely change, and it puts their moderation policies in alignment with instances that, candidly, we work hard to find before their content reaches Hachyderm. (Many such instances are smaller and ephemeral, changing domains for harassment purposes, it is rare for one to require an announcement like this.)
+How does this tie into our overall moderation decision? Essentially, the changes to their moderation policy, whether they revert them or not, increase the risk of harm drastically and with high likelihood of changing the Threads platform account demographics faster than our ability to manually moderate them. In that respect, the decision that we would need to defederate from Threads was made after we reviewed Threads current policy and its diff when it was released on Tuesday.
+
+Before enacting the decision, we needed to understand the impact on the Hachyderm community and prepare this statement. Since the queries on the dashboard didn't provide the level of granularity we needed, Hachyderm moderation and infrastructure coordinated to ensure that we were surfacing the correct data to inform our decision (the last bullet point above and the queries in the next section). This allows us to know how many Hachydermians would be impacted and to what degree. Thank you for your patience in this regard, as due to the significance of the follow/following severances that are occurring we wanted to be accurate in providing this data.
+
+#### Queries to run to gather the above data
+
+The query to run for "how many unique accounts on my instance are
+following Threads accounts" is:
+
+```
+Follow.joins(:target_account).merge(Account.where(domain: 'threads.net')).group(:account_id).count.keys.size
+```
+
+Our result in this case is 2033.
+
+The query to run for "how many unique Threads accounts are
+following accounts on my instance" is: 
+
+```
+Follow.joins(:account).merge(Account.where(domain: 'threads.net')).group(:target_account_id).count.keys.size
+```
+
+Our result in this case is 22.
+
+The query to run for "how many unique Threads accounts do accounts
+on my instance follow" is:
+
+```
+Follow.joins(:target_account).merge(Account.where(domain: 'threads.net')).group(:target_account).count.keys.size
+```
+
+Our result in this case is 919.
+
+These numbers are different from what appears in the admin dashboard (`instanceDomain.com/admin/instances/threads.net`) because the dashboard runs different queries.
+
+The "Their Followers Here" query is:
+
+```
+Follow.joins(:target_account).merge(Account.where(domain: domain)).count
+```
+
+The "Our Followers There" query is:
+
+```
+Follow.joins(:account).merge(Account.where(domain: 'threads.net')).count
+```
+
+Essentially, these numbers aren't deduplicated so the results may
+look larger than you'd want, depending on what data you need.
