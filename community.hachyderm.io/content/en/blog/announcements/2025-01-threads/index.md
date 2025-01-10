@@ -65,7 +65,8 @@ Specific data:
         * This is approximately 0.0036% of Threads users overall, as Threads has approximately 275 million active users ([as of Nov 2024](https://techcrunch.com/2024/11/03/threads-now-has-275m-monthly-active-users/)).
 * There was one user-generated report regarding a Threads user. In that case it was not about harmful content but a user interaction. There were no other reports sent to Hachyderm moderation about Threads interactions.
     * To put in perspective (and acknowledging that these two instances *do not* have the same moderation policy that Threads now does) we've fielded ~500 reports (in total) regarding Mastodon Social and 45 reports (in total) regarding Mastodon Online.
-	* There were 2033 unique Hachyderm accounts following 919 unique Threads accounts and 22 unique Threads accounts following Hachyderm accounts.
+	* There were 2033 unique Hachyderm accounts following 919 unique Threads accounts and 26 unique Threads accounts following 22 uniqueHachyderm accounts.
+
     	* For other mods, note that the queries to figure out are not what the Admin Dashboard is running. We'll put the queries at the bottom of this blog post.
 
 How does this tie into our overall moderation decision? Essentially, the changes to their moderation policy, whether they revert them or not, increase the risk of harm drastically and with high likelihood of changing the Threads platform account demographics faster than our ability to manually moderate them. In that respect, the decision that we would need to defederate from Threads was made after we reviewed Threads current policy and its diff when it was released on Tuesday.
