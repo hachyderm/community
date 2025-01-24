@@ -6,9 +6,6 @@ description: "Hachyderm experienced elevated 500 error levels in mid-January 202
 author: Emelia Smith ([@thisismissem](https://hachyderm.io/@thisismissem))
 resources:
 - src: "**.{png,jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Kris Nóva"
 ---
 
 On Monday, January 20th, 2025 at roughly 17:00 UTC Hachyderm started to experience elevated 500 error levels during routine system maintenance.
