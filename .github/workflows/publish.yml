@@ -34,6 +34,16 @@ jobs:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          # The action defaults to search for the dependency file (package-lock.json,
+          # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
+          # hash as a part of the cache key.
+          # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+          cache-dependency-path: "**/package-lock.json"
+
       - name: Build
         run: make -C community.hachyderm.io hugo
 
