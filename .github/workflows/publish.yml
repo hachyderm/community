@@ -2,8 +2,6 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
@@ -12,7 +10,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: "pages-${{ github.ref_name }}"
   cancel-in-progress: true
 
 jobs:
@@ -21,19 +19,41 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Hugo Version
+        id: hugo_version
+        run: |
+          HUGO_VERSION=$(cat .tool-versions | grep hugo | cut -d' ' -f2 | cut -d'_' -f2)
+          echo "HUGO_VERSION=$HUGO_VERSION" >> "$GITHUB_ENV"
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.139.4"
+          hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+          # The action defaults to search for the dependency file (package-lock.json,
+          # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
+          # hash as a part of the cache key.
+          # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+          cache-dependency-path: "**/package-lock.json"
+
       - name: Build
         run: make -C community.hachyderm.io hugo
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           path: community.hachyderm.io/public/
 
+  # Only run deploy on main branch, all others just run the build as a CI step.
   deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
