@@ -10,7 +10,7 @@ author: Hachyderm Infrastructure ([@Hachyderm](https://hachyderm.io/@Hachyderm))
 
 ## Preamble/Disclaimer
 
-This document has **not **been reviewed by a lawyer and **must not be considered legal advice**. Hachyderm and its volunteer staff will make a best effort to keep Hachyderm running and safe from government interference, but we cannot guarantee any particular legal outcomes.
+This document has **not** been reviewed by a lawyer and **must not be considered legal advice**. Hachyderm and its volunteer staff will make a best effort to keep Hachyderm running and safe from government interference, but we cannot guarantee any particular legal outcomes.
 
 ***That being said, we are going to do our best to provide a service that is resilient, available, and safe to use.***
 
