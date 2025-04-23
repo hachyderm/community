@@ -69,6 +69,7 @@ other API hooks, podcasts, and so forth.**
 
 * <a rel="me" href="https://hachyderm.io/@AnySoftKeyboard">AnySoftKeyboard</a>
 * <a rel="me" href="https://hachyderm.io/@Backloggery">Backloggery</a>
+* <a rel="me" href="https://hachyderm.io/@bearcove">bearcove</a>
 * <a rel="me" href="https://hachyderm.io/@compiler_explorer">Compiler Explorer</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
 * <a rel="me" href="https://hachyderm.io/@coveragepy">coveragepy</a>
