@@ -55,7 +55,7 @@ While there are situations where we would try to reach someone via email, we gen
 
 That means that we try to find alternative ways to contact applicants where we can. There are two things we are doing:
 
-* If an applicant says they are migrating from a different account or Fediverse instance, we message that account to verify their identity. We will only do this by sending a DM ("mentions-only message") from the official hachyderm@hachyderm.io account.
+* If an applicant says they are migrating from a different account or Fediverse instance, we message that account to verify their identity. We will only do this by sending a DM ("mentions-only message") from the official [hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm/) account.
 * If we need to contact the account holder for a different reason, we may need to “Approve” the account to get it out of “Pending” state, and then take a moderation action, such as a [”Freeze” or “Suspend”](https://community.hachyderm.io/docs/moderation/actions-and-appeals/).
 
 This process can feel confusing—particularly when an approval is quickly followed by a freeze or suspension. We handle it this way because suspensions and freezes can be appealed and reversed, whereas application rejections are final and can't be undone. Until we have better processes or tools to manage this more cleanly, we’ll continue approving and then freezing / suspending suspected inauthentic accounts to leave room for correction if we've made an error.
