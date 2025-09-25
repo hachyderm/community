@@ -101,6 +101,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
 * <a rel="me" href="https://hachyderm.io/@K8sContributors">K8s Contributors</a>
+* <a rel="me" href="https://hachyderm.io/@NodoComun">NodoComun</a>
 * <a rel="me" href="https://hachyderm.io/@NottingHack">NottingHack</a>
 * <a rel="me" href="https://hachyderm.io/@OpenCost">OpenCost</a>
 * <a rel="me" href="https://hachyderm.io/@summitpgh">PGH (Pittsburg) Racial Justice Summit</a>
