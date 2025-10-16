@@ -33,6 +33,7 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@flydotio">Fly.io</a>
 * <a rel="me" href="https://hachyderm.io/@github">GitHub</a>
 * <a rel="me" href="https://hachyderm.io/@hacktoberfest">Hacktoberfest (DigitalOcean)</a>
+* <a rel="me" href="https://hachyderm.io/@TheNewStack">The New Stack </a>
 * <a rel="me" href="https://hachyderm.io/@oxidecomputer">Oxide Computer Company</a>
 * <a rel="me" href="https://hachyderm.io/@OrnithopterHosting">OrnithopterHosting</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
