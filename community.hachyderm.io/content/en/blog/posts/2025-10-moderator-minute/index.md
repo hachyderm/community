@@ -1,7 +1,7 @@
 ---
 date: 2025-10-27
 title: "A Minute from the Moderators"
-linkTitle: "Oct Moderator Minute"
+linkTitle: "October Moderator Minute"
 description: |
   Protecting our mental health online.
 author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
@@ -95,7 +95,7 @@ For the latter, while it is true that we can and have sent out time bounded requ
 If you receive a request from the Hachyderm moderation team, you absolutely can verify the request either by DMing our main account ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm)) or emailing us ([admin@hachyderm.io](mailto:admin@hachyderm.io)). If it helps, a common pattern would be to verify a request through a different communication method than the one you were contacted from. For example, if you receive a DM from an account that looks like a moderation account, email the support address and vice versa. **To practice avoiding copy-pasting** any potential phishing links or other codes from the message you received, make sure you have either **separately stored the relevant links** or only copy-paste from official documentation if it is present. (Hachyderm's contact information is on our [About page](https://hachyderm.io/about) and [Docs](https://community.hachyderm.io/docs/).)
 
 
-## Various scam campaigns
+## Scams vs legitimate campaigns 
 
 We also do our best to keep track of various campaigns and differentiate "real or scam", to the degree that we are able. For campaigns that are identified as scams, we do our best to research and prevent that traffic from coming to Hachyderm. There are few well known campaigns, including but not limited to: impersonation scams to moderation / staff accounts, Jimmy Truth with other name iterations, and various automated scam campaigns[1.5]. A few of you have also done a wonderful job assisting us in research and detection for a few active campaigns, without being asked. Thank you so much for contributing to community safety! For those who are interested in helping out like this, even if you don't have time to be a moderator, we always make time to help people submit reports of this nature without increasing risk to themselves or others on the platform.
 
