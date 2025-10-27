@@ -92,7 +92,7 @@ For Hachyderm moderation communications:
 
 For the latter, while it is true that we can and have sent out time bounded requests, we have worked to ensure that the timeframes in those requests don't create a sense of urgency or pressure someone to act against their best interests. We also try our best to remind people that moderation decisions are not permanent, and can frequently be reversed with appeals. Over the course of the next month, we will create documentation around what we will communicate and include it in our docs.
 
-If you receive a request from the Hachyderm moderation team, you absolutely can verify the request either by DMing our main account ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm)) or emailing us ([admin@hachyderm.io](mailto:admin@hachyderm.io)). If it helps, a common pattern would be to verify a request through a different communication method than the one you were contacted from. For example, if you receive a DM from an account that looks like a moderation account, email the support address and vice versa. **To practice avoiding copy-pasting** any potential phishing links or other codes from the message you received, make sure you have either **separately stored the relevant links** or only copy-paste from official documentation if it is present. ([achyderm's contact information is on our [About page](https://hachyderm.io/about) and [Docs](https://community.hachyderm.io/docs/).)
+If you receive a request from the Hachyderm moderation team, you absolutely can verify the request either by DMing our main account ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm)) or emailing us ([admin@hachyderm.io](mailto:admin@hachyderm.io)). If it helps, a common pattern would be to verify a request through a different communication method than the one you were contacted from. For example, if you receive a DM from an account that looks like a moderation account, email the support address and vice versa. **To practice avoiding copy-pasting** any potential phishing links or other codes from the message you received, make sure you have either **separately stored the relevant links** or only copy-paste from official documentation if it is present. (Hachyderm's contact information is on our [About page](https://hachyderm.io/about) and [Docs](https://community.hachyderm.io/docs/).)
 
 
 ## Various scam campaigns
@@ -122,7 +122,7 @@ Whenever you see a group working to help people in crisis, whether it's this one
 I realize I am being very verbose in that last example, but I do want to be clear: the rise of various global crises have caused many of us to lash out ("shoot first and ask questions later") towards each other. Some of this is learned, having to scream on the Twitter-that-was to get your airline ticket refunded when the support email doesn't work or having to submit your full address to sales just to ask a question about a product you don't own but would like to know about without being followed forever, has caused us to internalize a lot of harmful patterns. I won't continue to go into this here, as I will be expanding on it in the next Moderator Minutes, but it is important to start the conversation.
 
 
-### Question for Hachydermians
+## Question for Hachydermians
 
 As an experiment, I'd like to end this discussion with a couple of open questions to the community. 
 
