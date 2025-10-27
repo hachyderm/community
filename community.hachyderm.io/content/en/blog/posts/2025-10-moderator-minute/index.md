@@ -124,7 +124,7 @@ I realize I am being very verbose in that last example, but I do want to be clea
 
 ## Question for Hachydermians
 
-As an experiment, I'd like to end this discussion with a couple of open questions to the community. 
+As an experiment, I'd like to end this post with an open question to the community:
 
 > What strategies have you found useful, that you'd like to share, to reduce your stress online?
 
