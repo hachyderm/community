@@ -10,14 +10,14 @@ author: Quintessence ([@quintessence](https://hachyderm.io/@quintessence))
 How can you use mental health to protect yourself online?
 
 
-# Boundaries
+## Boundaries
 
 Boundaries are a mental health tool for understanding your personal limits. If you feel like you are reaching your personal limits with regularity these days, you likely already know how important it is to not only have healthy boundaries but also have healthy ways of enforcing them.
 
 To show by example, you may want to come online for cat pics and catharsis, but not see food if you're struggling with an eating disorder - no matter how cute the cat eating their nom noms is. To handle this, you need mental bandwidth and experience actively nurturing yourself. This starts to get into topics that will exceed the scope of this post, but understanding if, when, how, and to what degree you are in control of meeting your own wants and needs is critical to our journeys in life. Mental health work gives us the tools and creativity for solutions like: "I will store a cache of my favorite, trigger-free, cat pics for when I'm just not well enough to be online."
 
 
-## Why boundaries are important
+### Why boundaries are important
 
 Calm minds have a greater ability to respond to stressful situations. When we are pressured, we're likely to make mistakes that cost us. Maybe we say that hurtful thing we didn't mean, and maybe we click on links instead of typing them, missing homoglyph[1.1] attacks.
 
@@ -26,7 +26,7 @@ It is very common to create a sense of urgency when trying scam[1.2], as the sca
 Understanding this vulnerability is the first step toward protecting ourselves. When we recognize how stress impairs our judgment, we can begin to establish boundaries that help us maintain clarity even under pressure. Boundaries aren't just about spam and scams, they're also about recognizing and honoring our limits whether faced with malicious actors or emotionally triggering content.
 
 
-### Learning from prior experiences
+#### Learning from prior experiences
 
 Knowing our personal boundaries helps us navigate challenges. For the previous example: can you go online for what you want to accomplish without getting overwhelmed by triggering content? Take time to figure out if you'll benefit more from engaging or if the stressful exposure will trigger your trauma, and what you can do to support yourself in trauma.
 
@@ -37,17 +37,17 @@ It might not be directly obvious why this is the starting point for talking abou
 When we're struggling to stay grounded, we might react the moment we see content like this. But what if we took a moment and looked again, with a refreshed perspective?
 
 
-### Grounding
+#### Grounding
 
 Grounding[1.4] and emotional regulation start with recognizing when you're having a stress response. Notice your heart rate rising? A pit in your stomach? Tight shoulders? Feeling a sudden wave of irritation or panic? Sit with that feeling and make note of it, so you can recognize it once more in the future when it reoccurs. Recognizing when this happens gives you the power to choose your next move deliberately instead of letting urgency push you into an uncontrolled reaction.
 
 This matters because it helps you respond thoughtfully rather than impulsively. That urgent "Click Now" message in your inbox? Click Later. Phone calls, DMs, and so forth? Take small pauses to give you time to ground yourself, both mentally and physically. When you take time for yourself, you are better equipped to think clearly.
 
 
-## First steps for grounding and regulation for online safety
+### First steps for grounding and regulation for online safety
 
 
-### Boundaries around information are protective
+#### Boundaries around information are protective
 
 There is a lot of common advice around the various types of scams that have become increasingly common for the past couple of decades. A lot of countermeasures for scams rely on teams working together to be effective by establishing trust and sharing information. For individuals, we read about how to recognize phishing links, not to click them, and not to give "certain information" to others.
 
@@ -56,12 +56,12 @@ There is a lot of common advice around the various types of scams that have beco
 Since life is messy, it's not often that there's an easy button to press. Scamming is no different. There is often nuance in statements like the above, for example a bank may create boundaries around the conditions where they *will* ask for certain information. For example, if *you* call *them* they may ask for information for you to verify who you are, and if you receive the call, there should be information that you can use to verify the caller.
 
 
-#### How does this apply to mental health?
+##### How does this apply to mental health?
 
 Knowing what information to share is a type of boundary, no different than knowing your personal limits around when to take breaks and set other forms of limits. You need to decide for yourself what personal information you're comfortable sharing, with whom, and when. Where you are able, deciding in advance helps you know how to navigate as a planned situation unfolds. It also helps you practice for unplanned situations, where you will need to determine this in the moment.
 
 
-### Bypass the request
+#### Bypass the request
 
 I'll admit (me, not Hachyderm), that sometimes rather than verify "real or not" for phone calls, I'll just ask for a ticket number or similar that I can use, hang up, and then call whatever organization (e.g. bank) through an official phone number and route back in. This trade off in time massively reduces my own cognitive load, and reduces my personal risk when answering an unplanned phone call. Similar can be true of other forms of contact including email and social media.
 
@@ -72,15 +72,15 @@ For example, as various crises escalate simultaneously, there are various indivi
 Seeing online fundraisers for a particular issue? You can choose to donate to a local organization or individual doing similar work that you know and feel comfortable with. You're still giving your help to those who need it, just in a way that leaves you feeling peaceful instead of uncertain.
 
 
-#### How does this apply to mental health?
+##### How does this apply to mental health?
 
 Building skills to allow you to reduce your mental burdens and protect your emotional states are both critical to maintaining your wellbeing. Many of us don't have unlimited spoons to do detective work, so using our energy and creativity to focus on how we can help ourselves is exactly the type of work we should be doing, and that is what this strategy focuses on.
 
 
-# Hachyderm commitments 
+## Hachyderm commitments 
 
 
-## Moderation communication
+### Moderation communication
 
 Part of the work that we as instance moderators need to do in light of various online scams is communicate to you what we will and will not ask for, and how we will or will not ask for it. This mirrors other industries that have also done education and awareness about what information they will and will not ask for and in what way e.g., "we will never ask for your account information via email".
 
@@ -95,19 +95,19 @@ For the latter, while it is true that we can and have sent out time bounded requ
 If you receive a request from the Hachyderm moderation team, you absolutely can verify the request either by DMing our main account ([@hachyderm@hachyderm.io](https://hachyderm.io/@hachyderm)) or emailing us ([admin@hachyderm.io](mailto:admin@hachyderm.io)). If it helps, a common pattern would be to verify a request through a different communication method than the one you were contacted from. For example, if you receive a DM from an account that looks like a moderation account, email the support address and vice versa. **To practice avoiding copy-pasting** any potential phishing links or other codes from the message you received, make sure you have either **separately stored the relevant links** or only copy-paste from official documentation if it is present. ([achyderm's contact information is on our [About page](https://hachyderm.io/about) and [Docs](https://community.hachyderm.io/docs/).)
 
 
-# Various scam campaigns
+## Various scam campaigns
 
 We also do our best to keep track of various campaigns and differentiate "real or scam", to the degree that we are able. For campaigns that are identified as scams, we do our best to research and prevent that traffic from coming to Hachyderm. There are few well known campaigns, including but not limited to: impersonation scams to moderation / staff accounts, Jimmy Truth with other name iterations, and various automated scam campaigns[1.5]. A few of you have also done a wonderful job assisting us in research and detection for a few active campaigns, without being asked. Thank you so much for contributing to community safety! For those who are interested in helping out like this, even if you don't have time to be a moderator, we always make time to help people submit reports of this nature without increasing risk to themselves or others on the platform.
 
 
-### A legitimate campaign
+#### A legitimate campaign
 
 We also recognize that there are legitimate campaigns. One relatively new effort is the [Gaza Verified project](https://gaza-verified.org/). I (Quintessence) spoke to Aral to ask questions and generally understand the process, and am comfortable confirming that 1 ) Aral is a real person who is doing the work he states and 2 ) that the people that are being listed on Gaza Verified are confirmed with in-person verification with the network that he and Joy are building. To be overclear: the work is being done, and being done the way it is being communicated.
 
 In-person verification is slow work, as it requires each new contact to be verified by an existing contact. They also take the time to attempt to onboard people who mostly are unfamiliar with the technology we take for granted, and therefore both do not have prior exposure to cultural norms and also due to suffering, do not have a lot of mental bandwidth to "just learn it".
 
 
-### How to help crisis groups
+#### How to help crisis groups
 
 Whenever you see a group working to help people in crisis, whether it's this one or others you already know, remember:
 
@@ -122,17 +122,17 @@ Whenever you see a group working to help people in crisis, whether it's this one
 I realize I am being very verbose in that last example, but I do want to be clear: the rise of various global crises have caused many of us to lash out ("shoot first and ask questions later") towards each other. Some of this is learned, having to scream on the Twitter-that-was to get your airline ticket refunded when the support email doesn't work or having to submit your full address to sales just to ask a question about a product you don't own but would like to know about without being followed forever, has caused us to internalize a lot of harmful patterns. I won't continue to go into this here, as I will be expanding on it in the next Moderator Minutes, but it is important to start the conversation.
 
 
-## Question for Hachydermians
+### Question for Hachydermians
 
 As an experiment, I'd like to end this discussion with a couple of open questions to the community. 
 
-What strategies have you found useful, that you'd like to share, to reduce your stress online?
+> What strategies have you found useful, that you'd like to share, to reduce your stress online?
 
 To help make it easier to participate, we've made a [Github Issue](https://github.com/hachyderm/community/issues/641) to serve as a discussion thread.
 
-### Resources
+#### Resources
 
-#### In-post
+##### In-post
 
 [1.1] [Wikipedia article about what homoglyphs are](https://en.wikipedia.org/wiki/Homoglyph)
 
@@ -148,7 +148,7 @@ To help make it easier to participate, we've made a [Github Issue](https://githu
 
 [1.7] [Where Does the South End and Christianity Begin? Understanding the role of shame/honor culture in the roots of Christian rage.](https://web.archive.org/web/20250808165213/https://thedispatch.com/newsletter/frenchpress/where-does-the-south-end-and-christianity/) (Web Archive link due to soft paywall.)
 
-#### General information about phishing and online scams
+##### General information about phishing and online scams
 
 [2.1] [https://department.va.gov/privacy/fact-sheet/the-four-ps-of-spotting-fraud/](https://department.va.gov/privacy/fact-sheet/the-four-ps-of-spotting-fraud/)
 
