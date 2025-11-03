@@ -81,6 +81,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@FediTo">FediTo</a>
 * <a rel="me" href="https://hachyderm.io/@fluiddyn">FluidDyn</a>
 * <a rel="me" href="https://hachyderm.io/@followthecrypto">followthecrypto</a>
+* <a rel="me" href="https://hachyderm.io/@getaurora">getaurora</a>
 * <a rel="me" href="https://hachyderm.io/@golang">The Go Language</a>
 * <a rel="me" href="https://hachyderm.io/@guix">GUIX</a>
 * <a rel="me" href="https://hachyderm.io/@highland">The Highland App</a>
@@ -96,13 +97,14 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
 
-### Community Events, Groups, and similar
+### Community Events, Public Good, Groups, and similar
 
 * <a rel="me" href="https://hachyderm.io/@barcampbangalore">Barcamp Bangalore</a>
 * <a rel="me" href="https://hachyderm.io/@CodeAndSupply">Code & Supply</a>
 * <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
+* <a rel="me" href="https://hachyderm.io/@dotmeow">dotmeow</a>
 * <a rel="me" href="https://hachyderm.io/@K8sContributors">K8s Contributors</a>
 * <a rel="me" href="https://hachyderm.io/@NodoComun">NodoComun</a>
 * <a rel="me" href="https://hachyderm.io/@NottingHack">NottingHack</a>
