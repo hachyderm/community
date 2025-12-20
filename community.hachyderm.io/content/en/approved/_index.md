@@ -83,6 +83,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@followthecrypto">followthecrypto</a>
 * <a rel="me" href="https://hachyderm.io/@golang">The Go Language</a>
 * <a rel="me" href="https://hachyderm.io/@guix">GUIX</a>
+* <a rel="me" href="https://hachyderm.io/@heliosphere">Heliosphere</a>
 * <a rel="me" href="https://hachyderm.io/@highland">The Highland App</a>
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
