@@ -7,9 +7,9 @@ Welcome to the Hachyderm community. We have agreed to the [Mastodon Server Coven
 Make sure to check our status page: [status.hachyderm.io](https://status.hachyderm.io)
 
 As well as our docs page: [community.hachyderm.io/docs](https://community.hachyderm.io/docs)
-- ⚠️ The Markdown files, a.k.a. legacy docs, are in the process of being migrated to the docs page and will be
-    deleted. When submitting PRs, please only do so for the website which is in the
-    `community.hachyderm.io` directory in this repository.
+- ⚠️ While the Markdown files in this repository are still available for historical
+     purposes, including this README, they will not be updated further. Please refer
+     to the above linked Hachyderm Community Documentation.
 
 Here you will find information and resources on how we manage things at Hachyderm.
 
