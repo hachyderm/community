@@ -26,7 +26,7 @@ on the Fediverse. Mastodon Help is a great "101 Guide" to just get started.
 
 * [Mastodon Help site](https://mastodon.help/) (site only)
 * [FediTips site](https://fedi.tips)
-* [FediTips Mastodon account](https://social.growyourown.services/@FediTipsa)
+* [FediTips Mastodon account](https://social.growyourown.services/@FediTips)
 * [FediTips Hashtag](https://hachyderm.io/tags/FediTips)
 
 ### I'm new to Hachyderm - help?
