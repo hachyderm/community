@@ -61,6 +61,7 @@ users.
 **This can include, but is not limited to: newsletters, blogs /
 other API hooks, podcasts, and so forth.**
 
+* <a rel="me" href="https://hachyderm.io/@fanfic_clips">FanFic Clips (AO3)</a>
 * <a rel="me" href="https://hachyderm.io/@gnutoolsweekly">GNU Tools Weekly</a>
 * <a rel="me" href="https://hachyderm.io/@humaneguild">Humane Guild</a>
 * <a rel="me" href="https://hachyderm.io/@sdr_pod">Self-Directed Research Podcast</a>
