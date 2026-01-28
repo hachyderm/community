@@ -35,7 +35,7 @@ Our infrastructure team keeps Hachyderm running. This means traditional server a
 - **Documentation** Creating and maintaining runbooks, architecture diagrams, and onboarding materials so knowledge isn't siloed.
 - **Tooling** Collaborating with moderation to build tools that support community stewardship—bridging technical operations and community care.
 
-**Technologies we work with / are interested in:** Linux (NixOS, Arch), Docker, Grafana, Tailscale, and OAuth technologies like Keycloak. The Mastodon stack includes Ruby on Rails, PostgreSQL, Redis, Sidekiq, Node.js (streaming API), and S3-compatible object storage.
+**Technologies we work with / are interested in:** Linux (Debian, Arch), systemd, Docker, Grafana, Tailscale, and OAuth technologies like Keycloak. The Mastodon stack includes Ruby on Rails, PostgreSQL, Redis, Sidekiq, Node.js (streaming API), and S3-compatible object storage.
 
 **We're especially interested in:** Current or aspiring contributors to [Mastodon](https://github.com/mastodon) (Ruby/Rails, React) and/or [Bonfire](https://github.com/bonfire-networks) (Elixir/Phoenix).
 
