@@ -39,6 +39,7 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@OrnithopterHosting">OrnithopterHosting</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 * <a rel="me" href="https://hachyderm.io/@tremolo">Tremolo</a>
+* <a rel="me" href="https://hachyderm.io/@yarnologymn">Yarnology (MN)</a>
 
 ### Individual / Self Run Entities and similar
 
