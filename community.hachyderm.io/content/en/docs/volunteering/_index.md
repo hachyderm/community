@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-<p align="center"><strong>[Please join us at our FOSDEM BOF!](https://fosdem.org/2026/schedule/event/3C3SX8-hachyderm-nivenly-bof/)</strong> 🎉</p>
+<p align="center"><strong>Please join us at our FOSDEM BOF!<br /><br />https://fosdem.org/2026/schedule/event/3C3SX8-hachyderm-nivenly-bof/</strong> 🎉</p>
 {{% /pageinfo %}}
 
 Hachyderm is looking for volunteers across four teams: Moderation, Infrastructure, and Security. Below you'll find what each team does and what we're looking for.
