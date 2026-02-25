@@ -65,19 +65,25 @@ If you use these tools, or if you carry the expectation that others should resea
 
 #### The Smallest Scale
 
-The same pattern plays out interpersonally. We were recently privy to a report where someone on the Fediverse posted that they were going to "steal" something to share. They were reported because "stealing" is wrong.
+The same pattern plays out interpersonally. We were recently privy to a situation where someone on the Fediverse posted that they were going to "steal" something to share. Depending on your native language, you may recognize "stealing to share" and its variants as a colliquialism to express enthusiasm about sharing something with friends. English speakers in particular use it regularly. However, in the context of evolving norms around how to attribute when sharing digital assets, the phrase was interpreted through a different lens.
 
-But were they stealing, in the sense of theft? In this case, they were a non-native English speaker using a common colloquialism, a variant of "stealing to share," to express enthusiasm about something they wanted to pass along to their friend group. English speakers also use variations of this phrase all the time. But in the context of evolving norms around attribution and sharing digital assets, the phrase was interpreted through a different lens. Specifically, through the desire to change existing norms about attribution. While for some this norm has been a long time coming, it is also true that for others it is a new, emerging, expectation.
+We are not going to adjudicate whether this particular usage was acceptable or not. The relevant moderation teams have their own perspectives on the matter, and that conversation is theirs to have. But that debate, however interesting, is not the point of this post.
 
-This is the same mechanism at its smallest unit. A norm in transition meets a person without full context, and the response is correction rather than connection.
+The point is this: accusing someone of wrongdoing is functionally not the same as telling someone what you need from them. And the outcomes of each approach are not the same.
+
+An accusatory response to a perceived norm violation will predictably escalate conflict rather than resolve it. This is not a moral judgment about the person who feels wronged. It is a predictable outcome of how human beings work. Accusation activates self-protection. Self-protection is not understanding. And understanding is what is actually needed for someone to change their behavior.
+
+If the goal is for people to share with attribution, then the response that serves that goal is the one that communicates it: "remember to credit when you share by \[how you'd like to be credited\]." Not the one that triggers a defensive reaction and ensures the person never hears the underlying request at all.
+
+Whether you believe the original poster was right or wrong, justified or careless, the question remains the same: _did a response of this type produce attribution?_ Or did it produce conflict? If you already know the answer, then you can likely guess what we're about to talk about.
 
 #### Two Reactions
 
-Across all of these scales (the ecosystem-wide migration, the persistent patterns, the individual interaction) the same two responses present themselves.
+Across all of these scales (the ecosystem-wide migration, the persistent patterns, the individual interaction) the same two responses present themselves most commonly:
 
-**Reaction A: correct and punish.** Yelling about content warnings. Using content moderation as tool for retaliation, via blocks and so forth. Treating colloquialisms as transgressions. These responses share a common thread: they express what someone _doesn't want_ without communicating what they _do want_. They create conflict in the space where connection could have been.
+**Reaction A: correct and punish.** Yelling about content warnings. Using content moderation as tool for retaliation, via blocks and so forth. Treating colloquialisms as transgressions. Responding to perceived norm violations with accusation. These responses share a common thread: they express what someone _doesn't want_ without communicating what they _do want_. They create conflict in the space where connection could have been.
 
-**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. Responding to "stealing to share" with "remember to credit me when you share with your friends!" Sending requests to moderation teams to please talk to their member about respecting boundaries. These responses share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
+**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. "Please include alt text that is friendly to screenreaders," "please credit me when you share," and "please remember to use content warnings and make them clear so readers know what they're about" are all examples of this. Sending requests to moderation teams to please talk to their member so they can have a conversation that you perhaps do not have the space to do in the moment. All of these choices share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
 
 Reaction B is community care. Reaction A, however understandable its origins, is not.
 
@@ -116,3 +122,4 @@ We'd love to hear your reflections. Last Moderator Minutes we tried a discussion
 As always, processes grow over time, and this conversation is no exception.
 
 ‡ Discord: we're actually in the process of migrating out of Discord to Zulip! We're not doing the final leg of the proces until the moderation team feels appropriately comfortable and confident with the new tools.
+
