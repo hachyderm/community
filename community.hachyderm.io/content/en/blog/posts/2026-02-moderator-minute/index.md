@@ -19,7 +19,7 @@ Community care in an online context is the practice of centering collective well
 
 ## Why Now?
 
-We have noticed an increase in certain patterns appearing in our reports and as well as in federating communities. They tend to cluster into a few categories: people having difficulty expressing or maintaining their boundaries, people having difficulty understanding and respecting the boundaries of others, people struggling to de-escalate conflict, changes and reinterpretations of historical norms and phrases, and an increase in reported posts (on and off Hachyderm) that start to touch our our "No Violence" rule.
+We have noticed an increase in certain patterns appearing in our reports and as well as in federating communities. They tend to cluster into a few categories: people having difficulty expressing or maintaining their boundaries, people having difficulty understanding and respecting the boundaries of others, people struggling to de-escalate conflict, changes and reinterpretations of historical norms and phrases, and an increase in reported posts (on and off Hachyderm) that start to touch on our "No Violence" rule.
 
 We are not going to address all of these in a single post. This month, we are focusing on norm shifts: how they happen, why they matter, and how they can be both a force for care and a vector for harm. In our next Moderator Minutes, we will address some of what drives all of us toward confrontation and what it means to channel that energy safely. Boundaries and de-escalation will follow after that.
 
