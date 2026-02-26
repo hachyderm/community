@@ -1,5 +1,5 @@
 ---
-date: 2026-02-22
+date: 2026-02-26
 title: "A Minute from the Moderators"
 linkTitle: "February Moderator Minute"
 description: |
@@ -65,27 +65,23 @@ If you use these tools, or if you carry the expectation that others should resea
 
 #### The Smallest Scale
 
-The same pattern plays out interpersonally. We were recently privy to a situation where someone on the Fediverse posted that they were going to "steal" something to share. Depending on your native language, you may recognize "stealing to share" and its variants as a colliquialism to express enthusiasm about sharing something with friends. English speakers in particular use it regularly. However, in the context of evolving norms around how to attribute when sharing digital assets, the phrase was interpreted through a different lens.
+The same pattern plays out interpersonally. We were recently privy to a situation on the Fediverse involving attribution norms where the phrase "stealing to share" was used. The parties involved interpreted the situation differently, the interaction escalated, and multiple moderation teams became involved. We are not going to recount the specifics or adjudicate who was right, because the specifics are not the point.
 
-We are not going to adjudicate whether this particular usage was acceptable or not, nor who was right or wrong and for what. The relevant moderation teams have their own perspectives on the matter based on more nuanced information, and that conversation is theirs to have. That debate, however interesting, is not the point of this post.
+What we want to talk about is the pattern. These types of interactions, where a norm in transition meets people with different contexts and expectations, tend to follow a predictable trajectory. Someone perceives a violation. They respond with accusation or correction. The other person, feeling attacked, becomes defensive. The defensive response is read as doubling down. Escalation follows. By the time it's over, neither party has gotten what they actually needed, and the original issue (in this case, attribution) has been buried under layers of conflict.
 
-The point is this: accusing someone of wrongdoing is functionally not the same as telling someone what you need from them, even if you try to do both at the same time. And the outcomes of each approach are not the same.
+This trajectory is not inevitable, but it is common enough to be worth examining. Accusation, even when justified, activates self-protection. Self-protection is not understanding. And understanding is what is actually needed for someone to change their behavior. If the goal is for people to share with attribution, then the response that serves that goal is the one that communicates it clearly: "please credit me when you share." The response that is least likely to achieve that goal is the one that triggers a defensive reaction and ensures the person never hears the underlying request at all.
 
-An accusatory response to a perceived norm violation will predictably escalate conflict rather than resolve it. This is not a moral judgment about the person who feels wronged. It is a predictable outcome of how human beings work. Accusation activates self-protection. Self-protection is not understanding. And understanding is what is actually needed for someone to change their behavior.
-
-If the goal is for people to share with attribution, then the response that serves that goal is the one that communicates it: "remember to credit when you share by \[how you'd like to be credited\]." Not the one that triggers a defensive reaction and ensures the person never hears the underlying request at all.
-
-Beyond this specific event, whether we believe this pattern is right or wrong, justified or careless, the question remains the same: _do responses of this type tend to result in attribution?_ Or conflict? If you already know the answer, then you can likely guess what we're about to talk about.
+This does not mean that the person who feels wronged is at fault for the escalation. Sometimes you communicate clearly, you make a reasonable request, and the other person still doesn't hear you. When that happens, that is on them. You can choose other tools that available to you at that point that are not esclatory, such as: disengagement and contacting moderation (reporting the behavior, contacting the relevant moderation team). We will talk more about this in our next Moderator Minutes, but we want to name it here: choosing community care does not guarantee care in return. It is still, in our view, the better choice. Not only because it is more likely to produce the outcome you want, but because the practice of choosing connection over punishment is itself part of building the community we believe that we all want to live in.
 
 #### Two Reactions
 
-Across all of these scales (the ecosystem-wide migration, the persistent patterns, the individual interaction) the same two responses present themselves most commonly:
+Back to the topic at hand, across all of these scales (the ecosystem-wide migration, the persistent patterns, the individual interaction) there are two common response patterns:
 
-**Reaction A: correct and punish.** Yelling about content warnings. Using content moderation as tool for retaliation, via blocks and so forth. Treating colloquialisms as transgressions. Responding to perceived norm violations with accusation. These responses share a common thread: they express what someone _doesn't want_ without communicating what they _do want_. They create conflict in the space where connection could have been.
+**Reaction A: correct and punish.** Yelling about content warnings. Using content moderation as a tool for retaliation, via blocks and so forth. Treating colloquialisms as transgressions. Responding to perceived norm violations with accusation rather than communication. These responses share a common thread: they express what someone _doesn't want_ without communicating what they _do want_. They create conflict in the space where connection could have been.
 
-**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. "Please include alt text that is friendly to screenreaders," "please credit me when you share," and "please remember to use content warnings and sure they're clear" are all examples of this. Sending requests to moderation teams to please talk to someone in their community, so they can have a conversation that you perhaps do not have the space to. All of these choices share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
+**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. Responding to "I'm going to steal this to share!" with "please credit me when you share with your friends!" Sending requests to moderation teams to please talk to their member about respecting boundaries. These responses share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
 
-Reaction B is community care. Reaction A is not. Even if we understand why someone is doing it. Even if we _empathize_ with why they are doing it. Even if we would also consider doing the same in their shoes.
+Reaction B is community care. Reaction A, however understandable its origins, is not.
 
 We are not suggesting that Reaction B is easy, or that it should be the default in every circumstance. There are bad-faith actors for whom connection is not the answer, and we will address that directly in our next Moderator Minutes. But for the vast majority of these collisions we see, the person on the other side of the interaction is not acting in bad faith. They are navigating norms that are shifting under their feet, just as you are being exhausted by the same.
 
@@ -105,11 +101,11 @@ We have spent much of this post describing what can go wrong. We want to close w
 
 The question we asked you to carry, _is it working?_, is not meant to shame anyone. It is meant to open space for a different kind of honesty. Many of us have invested significant emotional energy in behaviors that feel right but are not producing the outcomes we want. That is not a moral failing. It is an invitation to try something else.
 
-Reaction B is not just a better response to any single situation. It is a practice. It is the habit of leading with what you want rather than what you fear. The habit of assuming the person in front of you is capable of growth rather than deserving of punishment. The habit of asking yourself, before you hit "post," whether your words are building the community you want to inhabit.
+Reaction B is not just a better response to any single situation. It is a practice. It is the habit of leading with what you want. The habit of assuming the person in front of you is capable of growth rather than deserving of punishment. The habit of asking yourself, before you hit "post," whether your words are building the community you want to inhabit.
 
 This is not naivete, and it is not asking you to extend infinite grace to bad-faith actors. That is a different conversation, and one we will address next month. It _is_ asking you to extend considered grace to the people around you who are, like all of us, navigating norms that are shifting under their feet.
 
-Isn't it time we stopped engaging in behaviors that aren't serving us, and started investing in the ones that might?
+What if we chose now to stop engaging in behaviors that are not, or no longer, serving us and instead invested in trying new ones that might?
 
 ## A Question for You
 
@@ -121,5 +117,4 @@ We'd love to hear your reflections. Last Moderator Minutes we started a discussi
 
 As always, processes grow over time, and this conversation is no exception.
 
-‡ Discord: we're actually in the process of migrating out of Discord to Zulip! We're not doing the final leg of the proces until the moderation team feels appropriately comfortable and confident with the new tools.
-
+‡ Discord: we're actually in the process of migrating out of Discord to Zulip! We're not doing the final leg of the proces until the moderation team feels appropriately comfortable and confident with the new tools, though it's probable that future discussions will be in Zulip so stay tuned.
