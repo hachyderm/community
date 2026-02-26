@@ -19,7 +19,7 @@ Community care in an online context is the practice of centering collective well
 
 ## Why Now?
 
-We have noticed an increase in certain patterns appearing in our reports and as well as in federating communities. They tend to cluster into a few categories: people having difficulty expressing or maintaining their boundaries, people having difficulty understanding and respecting the boundaries of others, people struggling to de-escalate conflict, changes and reinterpretations of historical norms and phrases, and an increase in reported posts (on and off Hachyderm) that start to touch on our "No Violence" rule.
+We have noticed an increase in certain patterns appearing in our reports and as well as the broader Fediverse. They tend to cluster into a few categories: people having difficulty expressing or maintaining their boundaries, people having difficulty understanding and respecting the boundaries of others, people struggling to de-escalate conflict, changes and reinterpretations of historical norms and phrases, and an increase in reported posts (on and off Hachyderm) that start to touch on our "No Violence" rule.
 
 We are not going to address all of these in a single post. This month, we are focusing on norm shifts: how they happen, why they matter, and how they can be both a force for care and a vector for harm. In our next Moderator Minutes, we will address some of what drives all of us toward confrontation and what it means to channel that energy safely. Boundaries and de-escalation will follow after that.
 
@@ -27,7 +27,7 @@ These patterns are not unrelated phenomena, and some of them have been building 
 
 We want to walk through this pattern. Not to admonish, but to illuminate. And as you read, we'd like to ask you to hold two questions: 
 
-* When you encounter a norm violation, what do you feel the need to do about it?
+* When you encounter a norm violation, how do you tend to respond?
 <br /> **-and-** 
 * Has it been working?
 
@@ -67,15 +67,15 @@ If you use these tools, or if you carry the expectation that others should resea
 
 The same pattern plays out interpersonally. We were recently privy to a situation where someone on the Fediverse posted that they were going to "steal" something to share. Depending on your native language, you may recognize "stealing to share" and its variants as a colliquialism to express enthusiasm about sharing something with friends. English speakers in particular use it regularly. However, in the context of evolving norms around how to attribute when sharing digital assets, the phrase was interpreted through a different lens.
 
-We are not going to adjudicate whether this particular usage was acceptable or not. The relevant moderation teams have their own perspectives on the matter, and that conversation is theirs to have. But that debate, however interesting, is not the point of this post.
+We are not going to adjudicate whether this particular usage was acceptable or not, nor who was right or wrong and for what. The relevant moderation teams have their own perspectives on the matter based on more nuanced information, and that conversation is theirs to have. That debate, however interesting, is not the point of this post.
 
-The point is this: accusing someone of wrongdoing is functionally not the same as telling someone what you need from them. And the outcomes of each approach are not the same.
+The point is this: accusing someone of wrongdoing is functionally not the same as telling someone what you need from them, even if you try to do both at the same time. And the outcomes of each approach are not the same.
 
 An accusatory response to a perceived norm violation will predictably escalate conflict rather than resolve it. This is not a moral judgment about the person who feels wronged. It is a predictable outcome of how human beings work. Accusation activates self-protection. Self-protection is not understanding. And understanding is what is actually needed for someone to change their behavior.
 
 If the goal is for people to share with attribution, then the response that serves that goal is the one that communicates it: "remember to credit when you share by \[how you'd like to be credited\]." Not the one that triggers a defensive reaction and ensures the person never hears the underlying request at all.
 
-Whether you believe the original poster was right or wrong, justified or careless, the question remains the same: _did a response of this type produce attribution?_ Or did it produce conflict? If you already know the answer, then you can likely guess what we're about to talk about.
+Beyond this specific event, whether we believe this pattern is right or wrong, justified or careless, the question remains the same: _do responses of this type tend to result in attribution?_ Or conflict? If you already know the answer, then you can likely guess what we're about to talk about.
 
 #### Two Reactions
 
@@ -83,9 +83,9 @@ Across all of these scales (the ecosystem-wide migration, the persistent pattern
 
 **Reaction A: correct and punish.** Yelling about content warnings. Using content moderation as tool for retaliation, via blocks and so forth. Treating colloquialisms as transgressions. Responding to perceived norm violations with accusation. These responses share a common thread: they express what someone _doesn't want_ without communicating what they _do want_. They create conflict in the space where connection could have been.
 
-**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. "Please include alt text that is friendly to screenreaders," "please credit me when you share," and "please remember to use content warnings and make them clear so readers know what they're about" are all examples of this. Sending requests to moderation teams to please talk to their member so they can have a conversation that you perhaps do not have the space to do in the moment. All of these choices share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
+**Reaction B: connect and guide.** Reaching out to moderation teams to help onboard newcomers and de-escalate conflict. Telling someone directly what you need from an interaction rather than punishing them for not intuiting correctly. "Please include alt text that is friendly to screenreaders," "please credit me when you share," and "please remember to use content warnings and sure they're clear" are all examples of this. Sending requests to moderation teams to please talk to someone in their community, so they can have a conversation that you perhaps do not have the space to. All of these choices share a different common thread: they lead with intention. They identify the actual gap and offer a path across it.
 
-Reaction B is community care. Reaction A, however understandable its origins, is not.
+Reaction B is community care. Reaction A is not. Even if we understand why someone is doing it. Even if we _empathize_ with why they are doing it. Even if we would also consider doing the same in their shoes.
 
 We are not suggesting that Reaction B is easy, or that it should be the default in every circumstance. There are bad-faith actors for whom connection is not the answer, and we will address that directly in our next Moderator Minutes. But for the vast majority of these collisions we see, the person on the other side of the interaction is not acting in bad faith. They are navigating norms that are shifting under their feet, just as you are being exhausted by the same.
 
@@ -117,7 +117,7 @@ We'd like to close with something for the community to sit with:
 
 > When you encounter a norm in transition (something that used to be fine but is now contested, or something that used to be unacceptable but is gaining new context) how do you decide how to respond? What helps you lead with curiosity rather than correction?
 
-We'd love to hear your reflections. Last Moderator Minutes we tried a discussion via Github Issue, but this time we'll try in our Discord‡. In our next Moderator Minutes, we will be discussing what happens when the impulse to act on something distressing meets the realities of online safety, and how community care applies when the stakes are higher than a misunderstood phrase.
+We'd love to hear your reflections. Last Moderator Minutes we started a discussion via a Github Issue, this time we'll actually point you to our Discord‡. In our next Moderator Minutes, we will be discussing what happens when the impulse to act on something distressing meets the realities of online safety, and how community care applies when the stakes are higher than the examples we explored here.
 
 As always, processes grow over time, and this conversation is no exception.
 
