@@ -30,6 +30,7 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@CrowdSupply">Crowd Supply</a>
 * <a rel="me" href="https://hachyderm.io/@CuriousCatMusicStudio">CuriousCatMusicStudio</a>
 * <a rel="me" href="https://hachyderm.io/@DeterminateSystems">Determinate Systems</a>
+* <a rel="me" href="https://hachyderm.io/@formerlab">FormerLab</a>
 * <a rel="me" href="https://hachyderm.io/@Freexian">Freexian</a>
 * <a rel="me" href="https://hachyderm.io/@flydotio">Fly.io</a>
 * <a rel="me" href="https://hachyderm.io/@github">GitHub</a>
@@ -63,6 +64,7 @@ users.
 **This can include, but is not limited to: newsletters, blogs /
 other API hooks, podcasts, and so forth.**
 
+* <a rel="me" href="https://hachyderm.io/@eulogy">Eulogy</a>
 * <a rel="me" href="https://hachyderm.io/@fanfic_clips">FanFic Clips (AO3)</a>
 * <a rel="me" href="https://hachyderm.io/@gnutoolsweekly">GNU Tools Weekly</a>
 * <a rel="me" href="https://hachyderm.io/@humaneguild">Humane Guild</a>
