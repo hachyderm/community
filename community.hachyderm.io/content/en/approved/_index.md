@@ -37,7 +37,6 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@hacktoberfest">Hacktoberfest (DigitalOcean)</a>
 * <a rel="me" href="https://hachyderm.io/@TheNewStack">The New Stack </a>
 * <a rel="me" href="https://hachyderm.io/@oxidecomputer">Oxide Computer Company</a>
-* <a rel="me" href="https://hachyderm.io/@OrnithopterHosting">OrnithopterHosting</a>
 * <a rel="me" href="https://hachyderm.io/@roost">ROOST</a>
 * <a rel="me" href="https://hachyderm.io/@tailscale">Tailscale</a>
 * <a rel="me" href="https://hachyderm.io/@tremolo">Tremolo</a>
@@ -93,6 +92,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@heliosphere">Heliosphere</a>
 * <a rel="me" href="https://hachyderm.io/@highland">The Highland App</a>
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
+* <a rel="me" href="https://hachyderm.io/@libdrone">libdrone</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
 * <a rel="me" href="https://hachyderm.io/@netobserv">NetObserv</a>
 * <a rel="me" href="https://hachyderm.io/@neuron">neuron</a>
@@ -109,7 +109,6 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@barcampbangalore">Barcamp Bangalore</a>
 * <a rel="me" href="https://hachyderm.io/@CodeAndSupply">Code & Supply</a>
 * <a rel="me" href="https://hachyderm.io/@comocamp">ComoCamp</a>
-* <a rel="me" href="https://hachyderm.io/@devopsdaysbham">DevOps Days Birmingham</a>
 * <a rel="me" href="https://hachyderm.io/@devopsdaysdc">DevOps Days Washington DC</a>
 * <a rel="me" href="https://hachyderm.io/@dotmeow">dotmeow</a>
 * <a rel="me" href="https://hachyderm.io/@gtan">gtan</a>
