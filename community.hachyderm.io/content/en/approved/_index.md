@@ -95,6 +95,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
 * <a rel="me" href="https://hachyderm.io/@libdrone">libdrone</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
+* <a rel="me" href="https://hachyderm.io/@meringo">Meringo</a>
 * <a rel="me" href="https://hachyderm.io/@netobserv">NetObserv</a>
 * <a rel="me" href="https://hachyderm.io/@neuron">neuron</a>
 * <a rel="me" href="https://hachyderm.io/@nushell">Nushell</a>
