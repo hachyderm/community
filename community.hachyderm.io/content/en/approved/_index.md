@@ -70,6 +70,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@sdr_pod">Self-Directed Research Podcast</a>
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
 * <a rel="me" href="https://hachyderm.io/@status_updates">Status Updates (Parody Account)</a>
+* <a rel="me" href="https://hachyderm.io/@tbmtbmtbmtbmtbm">tbmtbmtbmtbmtbm</a>
 * <a rel="me" href="https://hachyderm.io/@ThingsDrawnByTextModels">Things Drawn By Text Models</a>
 * <a rel="me" href="https://hachyderm.io/@TwosComplement">Two's Complement</a>
 
@@ -79,6 +80,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@AsuraLinux">AsuraLinux</a>
 * <a rel="me" href="https://hachyderm.io/@Backloggery">Backloggery</a>
 * <a rel="me" href="https://hachyderm.io/@bearcove">bearcove</a>
+* <a rel="me" href="https://hachyderm.io/@cadbase">Cadbase</a>
 * <a rel="me" href="https://hachyderm.io/@commons_protocol">commons_protocol</a>
 * <a rel="me" href="https://hachyderm.io/@compiler_explorer">Compiler Explorer</a>
 * <a rel="me" href="https://hachyderm.io/@ConfBuddy">ConfBuddy</a>
@@ -94,6 +96,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@highland">The Highland App</a>
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
 * <a rel="me" href="https://hachyderm.io/@libdrone">libdrone</a>
+* <a rel="me" href="https://hachyderm.io/@loomcycle">Loomcycle</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
 * <a rel="me" href="https://hachyderm.io/@meringo">Meringo</a>
 * <a rel="me" href="https://hachyderm.io/@netobserv">NetObserv</a>
