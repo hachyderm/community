@@ -67,6 +67,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@fanfic_clips">FanFic Clips (AO3)</a>
 * <a rel="me" href="https://hachyderm.io/@gnutoolsweekly">GNU Tools Weekly</a>
 * <a rel="me" href="https://hachyderm.io/@humaneguild">Humane Guild</a>
+* <a rel="me" href="https://hachyderm.io/@ilspy">ILSpy</a>
 * <a rel="me" href="https://hachyderm.io/@theMidWit">The MidWit</a>
 * <a rel="me" href="https://hachyderm.io/@sdr_pod">Self-Directed Research Podcast</a>
 * <a rel="me" href="https://hachyderm.io/@SIGCPP">Special Interest Group on C++</a>
@@ -104,12 +105,13 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@meringo">Meringo</a>
 * <a rel="me" href="https://hachyderm.io/@netobserv">NetObserv</a>
 * <a rel="me" href="https://hachyderm.io/@neuron">neuron</a>
+* <a rel="me" href="https://hachyderm.io/@notarium">Notarium Health App</a>
 * <a rel="me" href="https://hachyderm.io/@nushell">Nushell</a>
 * <a rel="me" href="https://hachyderm.io/@omnibor">OMNIBOR</a>
 * <a rel="me" href="https://hachyderm.io/@omnios">Omnios</a>
 * <a rel="me" href="https://hachyderm.io/@ProjectJupyter">ProjectJupyter</a>
 * <a rel="me" href="https://hachyderm.io/@rOpenSci">rOpenSci</a>
-* * <a rel="me" href="https://hachyderm.io/@sig0lease">sig0lease</a>
+* <a rel="me" href="https://hachyderm.io/@sig0lease">sig0lease</a>
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
 
