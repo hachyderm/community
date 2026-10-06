@@ -30,6 +30,7 @@ The following accounts that have gone through the approval process with Hachyder
 * <a rel="me" href="https://hachyderm.io/@CrowdSupply">Crowd Supply</a>
 * <a rel="me" href="https://hachyderm.io/@CuriousCatMusicStudio">CuriousCatMusicStudio</a>
 * <a rel="me" href="https://hachyderm.io/@DeterminateSystems">Determinate Systems</a>
+* <a rel="me" href="https://hachyderm.io/@DiverseTechnology">Diverse Technology</a>
 * <a rel="me" href="https://hachyderm.io/@formerlab">FormerLab</a>
 * <a rel="me" href="https://hachyderm.io/@Freexian">Freexian</a>
 * <a rel="me" href="https://hachyderm.io/@flydotio">Fly.io</a>
