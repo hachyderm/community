@@ -136,6 +136,8 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@summitpgh">PGH (Pittsburg) Racial Justice Summit</a>
 * <a rel="me" href="https://hachyderm.io/@techtonica">Techtonica</a>
 * <a rel="me" href="https://hachyderm.io/@WomeninAIethics">Women in AI Ethics</a>
+* <a rel="me" href="https://hachyderm.io/@WomenOfOpenSource">Women of Open Source</a>
+
 
 ### BotsInSpace - By Invite Only
 
