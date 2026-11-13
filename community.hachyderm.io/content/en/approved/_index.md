@@ -94,12 +94,14 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@FediTo">FediTo</a>
 * <a rel="me" href="https://hachyderm.io/@fluiddyn">FluidDyn</a>
 * <a rel="me" href="https://hachyderm.io/@followthecrypto">followthecrypto</a>
+* <a rel="me" href="https://hachyderm.io/@garnetguard">Garnet Guard</a>
 * <a rel="me" href="https://hachyderm.io/@getaurora">getaurora</a>
 * <a rel="me" href="https://hachyderm.io/@golang">The Go Language</a>
 * <a rel="me" href="https://hachyderm.io/@guix">GUIX</a>
 * <a rel="me" href="https://hachyderm.io/@heliosphere">Heliosphere</a>
 * <a rel="me" href="https://hachyderm.io/@highland">The Highland App</a>
 * <a rel="me" href="https://hachyderm.io/@hydrogen">Hydrogen</a>
+* <a rel="me" href="https://hachyderm.io/@kadethub">kadethub</a>
 * <a rel="me" href="https://hachyderm.io/@libdrone">libdrone</a>
 * <a rel="me" href="https://hachyderm.io/@loomcycle">Loomcycle</a>
 * <a rel="me" href="https://hachyderm.io/@macadminsopensource">Mac Admins Open Source</a>
@@ -113,6 +115,7 @@ other API hooks, podcasts, and so forth.**
 * <a rel="me" href="https://hachyderm.io/@ProjectJupyter">ProjectJupyter</a>
 * <a rel="me" href="https://hachyderm.io/@rOpenSci">rOpenSci</a>
 * <a rel="me" href="https://hachyderm.io/@sig0lease">sig0lease</a>
+* <a rel="me" href="https://hachyderm.io/@uptimeproject">uptimeproject</a>
 * <a rel="me" href="https://hachyderm.io/@zellij">Zellij</a>
 
 
